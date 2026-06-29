@@ -27,8 +27,8 @@ itself. No assessment, no opinion, no relationship context.
 
 ## Products and solutions
 
-- **<Product>** — short public description.
-- **<Product>** — short public description.
+- **<Product>** - short public description.
+- **<Product>** - short public description.
 
 ## Frameworks, accreditations and memberships
 
@@ -39,8 +39,8 @@ itself. No assessment, no opinion, no relationship context.
 
 ## Recent news
 
-- **YYYY-MM-DD** — headline summary in one line. [source](url)
-- **YYYY-MM-DD** — headline summary in one line. [source](url)
+- **YYYY-MM-DD** - headline summary in one line. [source](url)
+- **YYYY-MM-DD** - headline summary in one line. [source](url)
 
 _News older than ~12 months should be pruned or moved below a divider._
 

@@ -30,8 +30,8 @@ tags:
 
 ## Products and solutions
 
-- **SmartFacility** — a five-level immersive training environment, from the reconfigurable SimWall panel system up to the ACIES synthetic wrap.
-- **UAS Simulation** — synthetic drone training inside SmartFacility environments.
+- **SmartFacility** - a five-level immersive training environment, from the reconfigurable SimWall panel system up to the ACIES synthetic wrap.
+- **UAS Simulation** - synthetic drone training inside SmartFacility environments.
 
 ## Frameworks, accreditations and memberships
 
@@ -39,7 +39,7 @@ tags:
 
 ## Recent news
 
-- **2025-09** — Announced digitisation of the British Army urban training village at Copehill Down (DSEI 2025).
+- **2025-09** - Announced digitisation of the British Army urban training village at Copehill Down (DSEI 2025).
 
 ## Links
 

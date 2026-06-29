@@ -1,0 +1,39 @@
+Tally licensing
+===============
+
+Tally contains two kinds of material, licensed separately.
+
+1. The company directory
+------------------------
+Everything under `Companies/` is public reference information about companies,
+drawn from public sources.
+
+Licensed under Creative Commons Attribution 4.0 International (CC BY 4.0).
+You may copy, redistribute, adapt and build on it, including commercially,
+provided you give appropriate credit to MilUX (https://milux.co.uk).
+
+Full text: https://creativecommons.org/licenses/by/4.0/legalcode
+
+
+2. MilUX-authored materials
+---------------------------
+The company page template (`Company Page Template.md`), the tag taxonomy
+(`Tagging.md`), the guide (`Tally Guide.md`), and the Tally search viewer
+(when added) are original works by MilUX.
+
+Licensed under Creative Commons Attribution-NonCommercial 4.0 International
+(CC BY-NC 4.0). You may use, share and adapt them for non-commercial purposes
+with attribution to MilUX. Commercial use requires prior written permission
+from MilUX (contact@milux.co.uk).
+
+Full text: https://creativecommons.org/licenses/by-nc/4.0/legalcode
+
+
+Trade marks and brand assets
+----------------------------
+The Tally and MilUX names, logos and brand assets (including the files in
+`assets/`) are not covered by the licences above. They remain the property of
+MilUX and may not be used in a way that implies endorsement or affiliation
+without permission.
+
+© MilUX Ltd. Questions: contact@milux.co.uk
