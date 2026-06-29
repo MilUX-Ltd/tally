@@ -16,7 +16,7 @@ tags:
   - data
   - size-large
   - type-vendor
-  - ownership-listed
+  - listed
   - owned-foreign
 ---
 

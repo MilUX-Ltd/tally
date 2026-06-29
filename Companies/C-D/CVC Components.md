@@ -12,7 +12,6 @@ sources-verified: 2026-06-29
 tags:
   - defence
   - hardware
-  - electronics
   - manufacturing
   - logistics
   - air

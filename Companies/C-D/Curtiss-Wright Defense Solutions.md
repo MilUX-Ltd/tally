@@ -11,7 +11,6 @@ tags:
   - defence
   - hardware
   - software
-  - electronics
   - sensors
   - isr
   - c2

@@ -10,7 +10,6 @@ size: micro
 tags:
   - defence
   - cyber
-  - consultancy
   - size-micro
   - type-consultancy
   - owned-uk

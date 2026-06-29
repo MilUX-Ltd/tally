@@ -18,7 +18,7 @@ tags:
   - isr
   - size-large
   - type-systems-integrator
-  - ownership-listed
+  - listed
   - owned-foreign
 ---
 

@@ -20,7 +20,7 @@ tags:
   - maritime
   - size-medium
   - type-manufacturer
-  - ownership-backed
+  - owned-uk
   - owned-foreign
 ---
 

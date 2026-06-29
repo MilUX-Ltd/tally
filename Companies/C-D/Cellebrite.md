@@ -15,7 +15,7 @@ tags:
   - isr
   - size-large
   - type-vendor
-  - ownership-listed
+  - listed
   - owned-foreign
 ---
 
