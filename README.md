@@ -29,13 +29,13 @@ Tally is about companies, not people. It carries no personal data, no named cont
 
 ## How to use it
 
-You do not need any particular software. Three ways in:
+You do not need to download anything. Three ways in:
 
-- **Read it here on GitHub.** The files are plain markdown, so every company page reads directly in the browser.
-- **Read it offline with the Vault Viewer.** Download the [Vault Viewer](https://github.com/MilUX-Ltd/foothold/tree/main/tools/vault-viewer), a single HTML file, then point it at a downloaded copy of this repo to browse and search the whole directory in your browser. No install, no account. A Tally-specific viewer with faceted filtering (by capability, size, location, framework and accreditation) is on the way.
+- **The Tally viewer.** Open [milux-ltd.github.io/tally](https://milux-ltd.github.io/tally/) and filter the whole directory live in your browser by capability, size, location, framework and accreditation. It reads straight from this repo, so it is always current. Exact matches first, near-misses below.
+- **Read it here on GitHub.** Every company page is plain markdown and reads directly in the browser under `Companies/`.
 - **Point your AI at it.** The pages are small, plain markdown with structured tags, so an assistant like Claude can read the whole directory and answer questions such as "which additive-manufacturing SMEs near Hampshire hold Cyber Essentials Plus?"
 
-If you use Obsidian, you can also clone or download the repo and open the folder as a vault.
+If you use Obsidian, you can also clone the repo and open the folder as a vault.
 
 ## Tags
 
