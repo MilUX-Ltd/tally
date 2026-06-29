@@ -40,6 +40,9 @@ details.facet>summary .chev{color:var(--ink3);font-weight:400}
 .badge.cap{background:#eef0e0;color:var(--gold-deep);border-color:#d9d8b9}
 .section-label{font-size:12px;text-transform:uppercase;letter-spacing:.08em;color:var(--ink3);margin:18px 0 10px;border-top:1px dashed var(--rule2);padding-top:12px}
 .empty{color:var(--ink3);padding:30px 0;text-align:center}
+.cta{margin-top:18px;padding-top:14px;border-top:1px solid var(--rule);font-size:12px;color:var(--ink3);line-height:1.55}
+.cta strong{color:var(--ink2);display:block;margin-bottom:3px}
+.cta a{color:var(--clay)}
 .overlay{position:fixed;inset:0;background:rgba(17,51,8,.35);display:none;align-items:flex-start;justify-content:center;padding:40px 16px;overflow:auto;z-index:20}
 .overlay.open{display:flex}
 .panel{background:#fff;max-width:760px;width:100%;border-radius:12px;padding:24px 28px;box-shadow:0 18px 50px rgba(0,0,0,.25)}
@@ -68,7 +71,9 @@ details.facet>summary .chev{color:var(--ink3);font-weight:400}
  <button id="reloadBtn">Reload</button>
 </header>
 <div class="wrap">
- <aside id="facets"></aside>
+ <aside><div id="facets"></div>
+  <div class="cta"><strong>Not listed?</strong>To add your company, email <a href="mailto:contact@milux.co.uk?subject=Add%20my%20company%20to%20Tally">contact@milux.co.uk</a> with the public details you would like shown. A correction or removal goes to the same address.</div>
+ </aside>
  <main>
   <div class="search">
    <input id="q" type="search" placeholder="Search name or text...">
