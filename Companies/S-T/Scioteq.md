@@ -16,7 +16,7 @@ tags:
   - simulation
   - size-medium
   - type-manufacturer
-  - ownership-backed-foreign
+  - owned-uk
 ---
 
 # ScioTeq

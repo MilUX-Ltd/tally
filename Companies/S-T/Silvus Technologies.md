@@ -15,7 +15,7 @@ tags:
   - isr
   - size-medium
   - type-manufacturer
-  - ownership-owned-foreign
+  - owned-foreign
 ---
 
 # Silvus Technologies

@@ -16,7 +16,7 @@ tags:
   - c2
   - size-large
   - type-manufacturer
-  - ownership-owned-foreign
+  - owned-foreign
 ---
 
 # Savox Communications

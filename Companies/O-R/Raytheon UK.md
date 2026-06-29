@@ -22,7 +22,7 @@ tags:
   - land
   - size-large
   - type-prime
-  - ownership-owned-foreign
+  - owned-foreign
   - mbr-ads
 ---
 

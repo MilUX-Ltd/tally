@@ -16,7 +16,7 @@ tags:
   - hardware
   - size-medium
   - type-manufacturer
-  - ownership-owned-foreign
+  - owned-foreign
 ---
 
 # smartmicro

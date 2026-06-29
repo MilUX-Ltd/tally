@@ -19,7 +19,7 @@ tags:
   - robotics
   - size-large
   - type-manufacturer
-  - ownership-listed
+  - listed
 ---
 
 # Renishaw plc

@@ -17,7 +17,7 @@ tags:
   - sensors
   - size-large
   - type-manufacturer
-  - ownership-owned-foreign
+  - owned-foreign
 ---
 
 # SIG SAUER, Inc.

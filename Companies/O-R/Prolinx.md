@@ -16,7 +16,7 @@ tags:
   - data
   - size-small
   - type-sme
-  - ownership-owned-uk
+  - owned-uk
   - accr-iso27001
   - accr-iso9001
   - mbr-techuk

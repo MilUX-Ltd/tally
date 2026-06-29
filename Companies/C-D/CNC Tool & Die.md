@@ -16,7 +16,6 @@ tags:
   - size-small
   - type-sme
   - type-manufacturer
-  - accr-as9100
   - mbr-ads
 ---
 

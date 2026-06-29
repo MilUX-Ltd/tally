@@ -18,8 +18,7 @@ tags:
   - sensors
   - size-medium
   - type-sme
-  - ownership-owned-uk
-  - prog-iqt
+  - owned-uk
 ---
 
 # pureLiFi

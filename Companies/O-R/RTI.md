@@ -16,7 +16,7 @@ tags:
   - simulation
   - size-medium
   - type-vendor
-  - ownership-owned-foreign
+  - owned-foreign
 ---
 
 # Real-Time Innovations (RTI)

@@ -16,7 +16,7 @@ tags:
   - maritime
   - size-large
   - type-services
-  - ownership-listed
+  - listed
   - mbr-ads
 ---
 

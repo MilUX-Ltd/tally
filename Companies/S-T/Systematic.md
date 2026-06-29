@@ -15,7 +15,6 @@ tags:
   - data
   - size-large
   - type-supplier
-  - prog-nato
 ---
 
 # Systematic

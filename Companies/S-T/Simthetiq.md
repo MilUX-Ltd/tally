@@ -14,7 +14,7 @@ tags:
   - software
   - size-small
   - type-supplier
-  - ownership-owned-foreign
+  - owned-foreign
 ---
 
 # Simthetiq
