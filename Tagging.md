@@ -13,7 +13,7 @@ How tags work in Tally. Tags carry the facets the search viewer filters on, so c
 
 `defence` always, plus what applies:
 
-`ai`, `cyber`, `drones`, `uas`, `counter-uas`, `comms`, `isr`, `c2`, `ew`, `autonomy`, `robotics`, `simulation`, `training`, `sensors`, `optronics`, `rf`, `space`, `maritime`, `land`, `air`, `logistics`, `munitions`, `data`, `software`, `hardware`, `manufacturing`, `gis`, `quantum`.
+`ai`, `cyber`, `drones`, `uas`, `counter-uas`, `comms`, `isr`, `c2`, `ew`, `autonomy`, `robotics`, `simulation`, `training`, `sensors`, `optronics`, `rf`, `space`, `maritime`, `land`, `air`, `logistics`, `munitions`, `data`, `software`, `hardware`, `manufacturing`, `gis`, `quantum`, `test-evaluation`.
 
 ## Company size (`size-`)
 

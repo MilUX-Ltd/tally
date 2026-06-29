@@ -19,7 +19,7 @@ tags:
   - size-small
   - type-consultancy
   - fw-joscar
-  - accr-cyber-essentials
+  - accr-ce
   - mbr-ads
   - mbr-techuk
 ---
