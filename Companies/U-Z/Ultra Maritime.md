@@ -18,7 +18,6 @@ tags:
   - size-large
   - type-manufacturer
   - backed-pe
-  - prog-asw
 ---
 
 # Ultra Maritime
