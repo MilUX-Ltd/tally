@@ -1,0 +1,5 @@
+# Local and operational, not for the public repo
+CLAUDE.md
+.obsidian/
+.DS_Store
+.trash/
