@@ -1,0 +1,44 @@
+---
+type: organisation
+name: Kongsberg Norcontrol Ltd
+website: https://www.kongsberg.com
+hq: Kongsberg, Norway
+uk-region: South West
+size: large
+sources-verified: 2026-06-29
+tags:
+  - defence
+  - size-large
+  - mbr-ads
+  - maritime
+  - isr
+  - sensors
+  - c2
+  - type-prime
+  - owned-foreign
+---
+
+# Kongsberg Norcontrol Ltd
+
+> Maritime Domain Awareness specialist providing coastal surveillance, ISR, and critical infrastructure protection systems.
+
+## What they do
+
+Kongsberg Norcontrol designs and integrates Maritime Domain Awareness systems, combining coastal radar, AIS, electro-optical sensors, and satellite-based ISR to give authorities a real-time picture of maritime activity. Their systems are used to monitor large and remote maritime areas, detect threats, and support effective response.
+
+## Products and solutions
+
+- **Maritime Domain Awareness systems** - integrated coastal surveillance combining radar, AIS, EO sensors and satellite ISR.
+- **Critical infrastructure protection** - monitoring and response systems for ports, offshore installations, and coastal borders.
+
+## Frameworks, accreditations and memberships
+
+- **Memberships:** ADS Group
+
+## Links
+
+- Website: https://www.kongsberg.com
+
+## Sources
+
+Public information verified 2026-06-29. DEVONthink MilUX CRM record (ADS directory snapshot, 2026-05-15).
