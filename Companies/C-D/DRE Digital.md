@@ -1,10 +1,11 @@
 ---
 type: organisation
-name: DRE Digital Limited
+name: DRE Digital Ltd
 website: https://dredigital.co.uk
-companies-house: "08326698"
+linkedin: https://www.linkedin.com/company/dre-digital-limited
+companies-house: 08326698
 hq: Winchester, United Kingdom
-uk-region: South East England
+uk-region: South East
 founded: 2012
 size: micro
 sources-verified: 2026-06-29
@@ -14,33 +15,37 @@ tags:
   - software
   - ai
   - size-micro
-  - type-consultancy
+  - type-sme
   - owned-uk
   - mbr-ads
 ---
 
-# DRE Digital
+# DRE Digital Ltd
 
-> Data platform and IoT consultancy providing trusted data infrastructure and AI services, with defence sector contracts.
+> UK data platform and AI company with an active British Army engagement, delivering equipment readiness and lethality measurement capability through its DDx platform.
 
 ## What they do
 
-DRE Digital develops and delivers its DDx data platform, which provides a trusted single source of truth for data at scale and at speed, addressing data curation, cataloguing, exchange, and decentralisation. The company also offers focused data consultancy covering data strategy, data maturity, AI maturity, and data and AI ethics. DRE Digital has IoT and Industrial IoT expertise and a nationwide field force for sensor deployment and systems integration, and has been awarded defence contracts for data capability delivery.
+DRE Digital is a Winchester-based technology company incorporated in 2012. Its core product is the DDx platform, a data curation, cataloguing and exchange system designed to create a trusted single source of truth for data at scale. The company also offers data strategy, AI maturity, data ethics and IoT systems integration consultancy. In defence, it is working with the British Army on Project Eligius, an AI-powered Equipment Support Lethality Index (ESLI) that measures equipment readiness; the solution has been deployed in 6 Battalion REME with rollout under way across 3 UK Armoured Division.
 
 ## Products and solutions
 
-- **DDx Platform** - data platform enabling a trusted single source of truth for data, designed for environments requiring automated curation, cataloguing, and exchange at scale.
-- **IoT consultancy and systems integration** - IoT infrastructure advisory, sensor deployment, and systems integration services.
-- **Data strategy and maturity consultancy** - data strategy, data green index, data maturity, AI maturity, and data and AI ethics advisory.
+- **DDx platform** - proprietary data curation, cataloguing and exchange platform for enterprise-scale data management, designed to provide a trusted single source of truth.
+- **Equipment Support Lethality Index (ESLI)** - AI-powered capability measure for Army equipment readiness, developed under Project Eligius with REME.
 
 ## Frameworks, accreditations and memberships
 
-- **Memberships:** ADS Group
+- **Memberships:** ADS Group.
+
+## Recent news
+
+- **2025-12** - Co-presented at Team Defence Information SME event on AI-driven mission capability measurement, detailing Project Eligius deployment in 6 Bn REME and rollout to 3 UK Armoured Division. [source](https://www.teamdefence.info/wp-content/uploads/2025/12/Support-and-Defence-SME-Gateway-Process-John-Sharp-AMTT-and-Del-Alibocus-DRE-Digital.pdf)
 
 ## Links
 
 - Website: https://dredigital.co.uk
+- LinkedIn: https://www.linkedin.com/company/dre-digital-limited
 
 ## Sources
 
-Public information verified 2026-06-29. Company website (dredigital.co.uk); Companies House (08326698); LinkedIn article referencing a major defence contract award (login-gated, not reproduced). ADS membership confirmed per the Tally research brief. LinkedIn company URL not confirmed from public sources and so omitted.
+Public information verified 2026-06-29. Company website (dredigital.co.uk), Companies House (08326698), Team Defence Information SME event presentation PDF (December 2025, teamdefence.info), ADS members directory.

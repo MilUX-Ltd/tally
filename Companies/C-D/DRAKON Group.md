@@ -1,46 +1,45 @@
 ---
 type: organisation
-name: DRAKON Group Limited
+name: DRAKON Group Ltd
 website: https://www.drakongroup.com
 linkedin: https://www.linkedin.com/company/drakon-group-ltd
-companies-house: "10044783"
+companies-house: 10044783
 hq: Bicester, United Kingdom
-uk-region: South East England
+uk-region: South East
 founded: 2016
 size: micro
 sources-verified: 2026-06-29
 tags:
   - defence
   - training
+  - hardware
   - size-micro
-  - type-consultancy
+  - type-sme
   - owned-uk
   - mbr-ads
 ---
 
-# DRAKON Group
+# DRAKON Group Ltd
 
-> UK EOD and IEDD consultancy providing explosive threat mitigation, training, and specialist equipment to defence and security organisations worldwide.
+> UK specialist in Explosive Ordnance Disposal, providing operational EOD/IEDD deployment, IMAS-accredited training, and specialist equipment development.
 
 ## What they do
 
-DRAKON Group specialises in EOD and IEDD services, including operational capability, battle area clearance, security consultancy, and training delivered to a range of experience and threat levels. The company provides tailored threat solutions through staff selected to operate in difficult environments, and supplies specialist equipment including medical kits and EOD/IEDD tools to security groups and personnel.
+DRAKON Group Ltd is a Bicester-based specialist founded in 2016. It delivers operational EOD and IEDD services including battle area clearance and explosive threat intelligence, and runs IMAS-accredited EOD training courses (Levels 1/2, 3, and 3+) at a purpose-built facility near Belgrade in partnership with the Serbian Mine Action Centre and in Cornwall, UK. The company also develops and manufactures specialist equipment including Hook and Line kits and tactical medical kit, both in operational use.
 
 ## Products and solutions
 
-- **IEDD/EOD operational capability** - provision of expert personnel and equipment for improvised explosive device disposal and explosive ordnance disposal operations.
-- **Battle area clearance** - clearance services in post-conflict and live-threat environments.
-- **EOD and IEDD training** - IMAS-compliant training courses including EOD Level 3 and bulk demolitions, delivered in the UK and internationally.
-- **Explosive threat intelligence and consultancy** - security consultancy and decision-support for organisations facing explosive threats.
+- **Hook and Line equipment** - specialist EOD operator equipment developed and manufactured by DRAKON, in operational use in Eastern Europe.
+- **Tactical medical kit** - developed and supplied by DRAKON, in use in West Africa and Eastern Europe.
+- **IMAS EOD training courses** - Levels 1/2, 3, and 3+ (advanced bulk demolitions), conducted in compliance with IMAS Test and Evaluation Protocols, delivered in the UK and at SMAC's facility near Belgrade.
 
 ## Frameworks, accreditations and memberships
 
-- **Memberships:** ADS Group; Counter EO UK
+- **Memberships:** ADS Group; Counter EO UK (ADS Special Interest Group).
 
 ## Recent news
 
-- **2026-01** - Delivered IMAS EOD 3+ and bulk demolitions course in Cornwall, with further 2026 courses including EOD Level 1/2 for English-speaking and Sri Lankan NGO cohorts. [source](https://czrs.gov.rs/en/delivery-of-eod-level-3-training-course-in-cooperationbetween-smac-and-drakon-group/)
-- **2024-04** - Delivered IMAS EOD Level 3 course in cooperation with the Serbian Mine Action Centre, running April to May 2024. [source](https://czrs.gov.rs/en/delivery-of-eod-level-3-training-course-in-cooperationbetween-smac-and-drakon-group/)
+- **2025-09** - SMAC and DRAKON Group students attended the PARTNER 2025 International Defence Exhibition in Belgrade. [source](https://czrs.gov.rs/en/participants-of-international-training-visited-partner-2025-arms-fair/)
 
 ## Links
 
@@ -49,4 +48,4 @@ DRAKON Group specialises in EOD and IEDD services, including operational capabil
 
 ## Sources
 
-Public information verified 2026-06-29. Company website (drakongroup.com); ADS Group member profile (adsgroup.org.uk/members/drakon-group-ltd-2/); Companies House (10044783); Counter EO UK member directory; Mine Action Centre of the Republic of Serbia news release.
+Public information verified 2026-06-29. Company website (drakongroup.com), Companies House (10044783), ADS members directory (adsgroup.org.uk/members/drakon-group-ltd-2), Counter EO UK members directory (counter-eo-uk.com/members/drakon-group-ltd), Serbian Mine Action Centre news releases (czrs.gov.rs).

@@ -1,13 +1,13 @@
 ---
 type: organisation
-name: Drone Evolution Limited
+name: Drone Evolution Ltd
 website: https://www.dronevolution.co.uk
 linkedin: https://www.linkedin.com/company/dronevolutionuk
-companies-house: "11163019"
+companies-house: 11163019
 hq: Caerphilly, United Kingdom
 uk-region: Wales
 founded: 2018
-size: small
+size: micro
 sources-verified: 2026-06-29
 tags:
   - defence
@@ -16,37 +16,35 @@ tags:
   - isr
   - ew
   - comms
+  - hardware
   - manufacturing
-  - size-small
+  - size-micro
   - type-manufacturer
   - owned-uk
-  - backed-vc
   - mbr-ads
 ---
 
-# Drone Evolution
+# Drone Evolution Ltd
 
-> Welsh drone manufacturer and services provider delivering tethered ISR systems, FPV drones, and drone survey services to military and commercial customers.
+> Welsh UAS manufacturer developing the Scimitar FPV strike and ISR range and the Sentinel tethered surveillance UAV, with an active MoD training contract and Ukraine theatre testing.
 
 ## What they do
 
-Drone Evolution designs and builds UAV systems and delivers professional drone services across military, security, utilities, construction, and facilities management sectors. The company manufactures its own drone platforms in the UK and has operated in Ukraine. Backed by the Angels Invest Wales Fund and the Development Bank of Wales, it began operations in November 2018. Drone Evolution holds the Defence Employer Recognition Scheme Bronze Award.
+Drone Evolution Ltd is a Caerphilly-based UAS developer incorporated in 2018 and backed by Investment Fund for Wales funding. Starting as a commercial drone services and tethered-power systems provider, it has pivoted to defence manufacture. Its Scimitar FPV range covers 7", 10", 13" and 15" quadcopters for one-way strike and ISR missions, built to approximately 95% UK-sourced components with the company's own flight controller, batteries, radios and frames; the stated goal is to eliminate all Chinese components as a sovereign supply chain measure. It holds an MoD contract for intensive FPV pilot training delivered on Salisbury Plain and has had Scimitar systems tested by Ukrainian FPV pilots in theatre.
 
 ## Products and solutions
 
-- **Sentinel** - a tethered quadcopter UAV capable of lifting up to 5kg ISR, communications, or electronic warfare payloads to 50m altitude for extended endurance. Launched at DSEI 2023 and deployed in Ukraine.
-- **Runner** - a resupply UAV designed for logistics delivery missions; also deployed in Ukraine.
-- **Scimitar FPV** - a first-person-view drone developed to meet battlefield FPV requirements, announced at DSEI 2025. Designed to be free of Chinese data-gathering components and produced with sovereign UK supply chains.
-- **Drone survey and inspection services** - topographical surveys, thermal surveys, roof inspections, digital twin, and ISR services for military and commercial customers.
+- **Scimitar FPV range** - 7", 10", 13" and 15" quadcopters for one-way strike and ISR; the 10" variant carries up to 7 kg payload to 5 km or 3 kg to 25 km on dual battery; approximately 95% UK-sourced components.
+- **Sentinel** - tethered quadcopter UAV carrying up to 5 kg ISR, communications or electronic warfare payloads to 50 m altitude for extended endurance; launched at DSEI 2023.
 
 ## Frameworks, accreditations and memberships
 
-- **Memberships:** ADS Group; Armed Forces Covenant signatory (Defence Employer Recognition Scheme Bronze Award)
+- **Memberships:** ADS Group; Armed Forces Covenant signatory (Defence Employer Recognition Scheme Bronze Award).
 
 ## Recent news
 
-- **2025-09** - Exhibited at DSEI 2025 and announced the Scimitar FPV drone, targeting UK and export markets with a design free of Chinese components. [source](https://www.edrmagazine.eu/dsei-2025-drone-evolution-develops-drones-free-of-chinese-components)
-- **2025-07** - European Security and Defence reported Drone Evolution's move into the FPV market to address UK Strategic Defence Review priorities for consumable effectors. [source](https://euro-sd.com/2025/07/major-news/45355/drone-evolution-fpv-solutions/)
+- **2025-09** - Unveiled the Scimitar FPV range at DSEI 2025, confirming MoD Salisbury Plain training contract and plans for swarming capability and export markets. [source](https://www.shephardmedia.com/news/air-warfare/dsei-2025-droneevolution-eyes-uk-and-export-markets-with-scimitar-fpv-drone/)
+- **2025-07** - Euro-SD interview covering the Scimitar FPV range, sovereign supply chain approach, Ukraine testing and MoD engagement. [source](https://euro-sd.com/2025/07/major-news/45355/drone-evolution-fpv-solutions/)
 
 ## Links
 
@@ -55,4 +53,4 @@ Drone Evolution designs and builds UAV systems and delivers professional drone s
 
 ## Sources
 
-Public information verified 2026-06-29. Company website (dronevolution.co.uk) including military sector page and product pages; ADS Group member profile (adsgroup.org.uk/members/drone-evolution-ltd/); Companies House (11163019); European Security and Defence (euro-sd.com); EDR Magazine DSEI 2025 coverage; Shephard Media DSEI 2025 report; Joint Forces News Sentinel launch. LinkedIn slug confirmed from company website.
+Public information verified 2026-06-29. Company website (dronevolution.co.uk), Companies House (11163019), ADS members directory (adsgroup.org.uk/members/drone-evolution-ltd), Shephard Media DSEI 2025, Janes DSEI 2025, DEFCROS DSEI 2025 (news.defcros.com), Euro-SD July 2025, GOV.UK Armed Forces Covenant (gov.uk/armed-forces-covenant-businesses/drone-evolution-limited).

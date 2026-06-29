@@ -16,8 +16,8 @@ tags:
   - size-large
   - type-integrator
   - owned-foreign
-  - iso9001
-  - iso14001
+  - accr-iso9001
+  - accr-iso14001
   - accr-ce
   - mbr-ads
 ---

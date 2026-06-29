@@ -1,41 +1,38 @@
 ---
 type: organisation
-name: DT Publications Limited
+name: DT Publications Ltd
 website: http://dt-publications.com
 companies-house: 05803170
 hq: Derby, United Kingdom
 uk-region: East Midlands
-founded: 2006
 size: micro
 sources-verified: 2026-06-29
 tags:
   - defence
   - software
   - data
+  - size-micro
   - type-sme
   - owned-uk
-  - accr-def-stan
   - mbr-ads
 ---
 
-# DT Publications Limited
+# DT Publications Ltd
 
-> Technical publications specialist serving the defence, aerospace, and rail sectors, with over 40 years of combined experience producing documentation to MOD and industry standards.
+> Technical documentation specialists producing defence and aerospace publications to MOD and ASD S1000D specifications.
 
 ## What they do
 
-DT Publications is a privately owned UK company providing technical publications products and services, incorporated in Derby in 2006 as a successor to a technical centre with roots in Rolls Royce civil aviation work. It produces military and defence documentation to a range of UK Defence Standards and structured specifications, and has developed its own document hosting and sharing platform, Druid.NET, for use in defence and other regulated industries.
+DT Publications has been providing technical publications products and services for over 40 years, working with the MOD and companies that support the MOD on defence-related projects. The company was originally part of the Rolls Royce technical centre of excellence before becoming an independent technical publications business. It operates across defence, aerospace, and rail and mass transit, producing operational and maintenance documentation to legacy and structured defence specifications.
 
 ## Products and solutions
 
-- **Technical Authoring (Defence)** - Production of technical publications compliant with AESP 0100, NES 40, AvP70, JSP, and various Mil Specs; structured specifications including Defence Standard 00-600, Defence Standard 02-40, and ASD S1000D.
-- **Druid.NET** - A web browser-based document management system providing secure hosting, access control, and real-time updates for defence and other regulated customers.
-- **Druid.NET Lite** - A lighter variant for cloud file sharing and synchronisation across multiple devices.
-- **Data Conversion** - Tools to convert content from Word and desktop formats to HTML, SGML, and XML for structured publication workflows.
+- **Technical Authoring and Illustration** - Production of operational and maintenance documentation including interactive electronic technical publications (IETPs), compliant with defence specifications such as Defence Standard 00-600, Defence Standard 02-40, ASD S1000D, AESP 0100 Series, NES 40, and AvP70.
+- **Druid.NET** - A web browser-based document hosting and management system developed for the defence industry, providing secure access to technical data. A Lite version supports cloud file sharing and synchronisation across devices.
+- **Data Conversion** - Tooling to convert documentation from Word and desktop formats to HTML, SGML, and XML for structured publication workflows.
 
 ## Frameworks, accreditations and memberships
 
-- **Accreditations:** Compliant with Defence Standard 00-600, Defence Standard 02-40, ASD S1000D
 - **Memberships:** ADS Group
 
 ## Links
@@ -44,4 +41,9 @@ DT Publications is a privately owned UK company providing technical publications
 
 ## Sources
 
-Public information verified 2026-06-29. Sources: dt-publications.com, dt-publications.com/defence, ADS Group member profile (adsgroup.org.uk/members/dt-publications-ltd-1), Companies House (company number 05803170).
+Public information verified 2026-06-29. LinkedIn URL not confirmed as a company page; omitted. No company LinkedIn slug confirmed.
+- http://dt-publications.com/
+- http://dt-publications.com/defence/
+- http://dt-publications.com/technical-authoring/
+- https://www.adsgroup.org.uk/members/dt-publications-ltd-1/
+- https://find-and-update.company-information.service.gov.uk/company/05803170

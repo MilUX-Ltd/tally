@@ -34,12 +34,12 @@ Draken Europe is the trading name of FR Aviation Ltd, a UK entity with roots in 
 
 ## Products and solutions
 
-- **Red Force** - an integrated multi-domain adversary training ecosystem combining Adversary Air, Electronic Warfare, Surface Threats, Uncrewed Systems and Situational Awareness services.
+- **Red Force** - an integrated multi-domain adversary training service combining Adversary Air, Electronic Warfare, Surface Threats, Uncrewed Systems and Situational Awareness elements.
 - **Sword (Adversary Air)** - contracted aggressor air services using ex-military aircraft including the L-159E Honey Badger and Dassault Falcon 20, replicating enemy tactics for Gen 4 and Gen 5 operators.
 - **Shield (Electronic Warfare)** - live electronic attack, threat simulation, communications jamming and silent target capabilities.
 - **Sting (Surface Threats)** - surface threat replication including multiple emitters and platforms with representative signatures.
 - **Shadow (Uncrewed Systems)** - uncrewed threat replication services addressing the growing demand for drone threat training.
-- **Phantom Sky (Situational Awareness)** - digital backbone of the Red Force ecosystem, providing situational awareness data across the training environment.
+- **Phantom Sky (Situational Awareness)** - digital backbone of the Red Force suite, providing situational awareness data across the training environment.
 - **Aircraft MRO and engineering** - maintenance, repair and overhaul services for the company's own fleet and external customers.
 - **Search and rescue and surveillance** - specialist aviation services for government customers.
 
