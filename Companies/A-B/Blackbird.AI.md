@@ -3,10 +3,12 @@ type: organisation
 name: Blackbird.AI
 website: https://blackbird.ai
 linkedin: https://www.linkedin.com/company/blackbird-ai
-hq: New York, United States
+companies-house: 
+hq: New York, NY, USA
+uk-region: 
 founded: 2017
 size: small
-headcount: 80
+headcount: 51-200
 sources-verified: 2026-06-29
 tags:
   - defence
@@ -14,33 +16,37 @@ tags:
   - data
   - software
   - isr
-  - type-startup
-  - type-scaleup
+  - cyber
   - size-small
+  - type-scaleup
   - owned-foreign
   - backed-vc
 ---
 
 # Blackbird.AI
 
-> US-based AI narrative intelligence platform protecting governments and organisations from disinformation, influence operations, and narrative-based attacks.
+> AI-driven narrative and disinformation intelligence platform serving national security organisations, governments and enterprises.
 
 ## What they do
 
-Blackbird.AI provides an AI-based Narrative Intelligence Platform that identifies and prioritises risks from disinformation, misinformation, bot campaigns, and coordinated influence operations. The company serves national security organisations and major brands. In February 2026 Blackbird.AI was selected alongside Brandwatch by the NATO Communications and Information Agency to deliver the Information Environment Assessment Capability (IEAC). Total funding stands at $58 million.
+Blackbird.AI develops the Constellation Platform, an AI-enabled narrative intelligence system that detects, analyses and prioritises harmful narratives, disinformation campaigns and coordinated influence operations across social media, news, and the dark web. The platform identifies threat actors, maps the networks through which narratives spread, and scores risk across more than 25 languages. Customers include national security organisations, NATO, and major enterprises globally.
 
 ## Products and solutions
 
-- **Constellation Narrative Intelligence Platform** - analyses narratives, influencers, networks, anomalous behaviour, and coordinated inauthentic activity across the information environment.
+- **Constellation Platform** - Core narrative intelligence platform combining media monitoring, sentiment analysis, trend detection and bot-behaviour analysis to surface harmful narratives in real time.
+- **Compass Context** - Harmful narrative detection across text and media content.
+- **Compass Vision** - Detection of deepfake and AI-generated images.
+- **RAV3N Watch** - Curated narrative research and analyst expertise service.
+- **RAV3N Recon** - Influencer and threat actor investigation tool.
+- **RAV3N Agent** - Embedded AI analyst for Constellation workflows.
+- **Constellation API** - Programmatic integration layer for narrative intelligence data.
 
 ## Frameworks, accreditations and memberships
 
-- **Programmes:** NATO NCIA partner (IEAC programme, February 2026)
-
 ## Recent news
 
-- **2026-02-10** - Selected by NATO NCIA alongside Brandwatch to deliver the Information Environment Assessment Capability (IEAC). [NATO NCIA](https://www.ncia.nato.int)
-- **2026-01-07** - Announced $28 million strategic funding round (total $58 million), with investors including Ten Eleven Ventures and Dorilton Ventures. [Blackbird.AI](https://blackbird.ai)
+- **2026-02** - Brandwatch and Blackbird.AI selected by NATO to deliver an Information Environment Assessment Capability (IEAC), providing AI-enabled tools to monitor, analyse and counter disinformation across the Alliance. [Blackbird.AI](https://blackbird.ai/blog/nato-brandwatch-blackbird-ai/)
+- **2026-01-09** - Raised $28m in new funding, bringing total raised to $58m, with participation from Ten Eleven Ventures, Dorilton Ventures and cybersecurity leaders Dave DeWalt and Chris Young. [Fintech Global](https://fintech.global/2026/01/09/blackbird-ai-secures-28m-to-counter-ai-disinformation/)
 
 ## Links
 
@@ -49,4 +55,4 @@ Blackbird.AI provides an AI-based Narrative Intelligence Platform that identifie
 
 ## Sources
 
-Public information verified 2026-06-29. Sources: blackbird.ai; LinkedIn company page; NATO NCIA press release (February 2026); company funding announcement (January 2026).
+Public information verified 2026-06-29.
