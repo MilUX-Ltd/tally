@@ -16,7 +16,7 @@ tags:
   - cyber
   - size-small
   - type-vendor
-  - ownership-private
+  - owned-uk
   - accr-ce-plus
 ---
 

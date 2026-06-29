@@ -1,0 +1,44 @@
+---
+type: organisation
+name: CBRNergetics Limited
+website: https://www.cbrnergeticsltd.com
+companies-house: 09767640
+hq: Dorset, United Kingdom
+size: small
+sources-verified: 2026-06-29
+tags:
+  - defence
+  - munitions
+  - sensors
+  - type-manufacturer
+  - type-sme
+  - size-small
+  - owned-uk
+  - mbr-ads
+---
+
+# CBRNergetics Ltd
+
+> A manufacturer and supplier of demolition stores, EOD and C-IED equipment, and CBRN detection equipment for military, government and police users.
+
+## What they do
+
+CBRNergetics Ltd manufactures and supplies defence equipment to military, government and police forces. Its range covers demolition stores, explosive and shaped charges, initiation and detonation systems, pyrotechnics, battle simulation, demining equipment, EOD and counter-IED solutions, and CBRN detection products. The company operates a service centre in Dorset and counts the British Ministry of Defence, the US Department of Defense, the US Department of Homeland Security, NATO forces, and United Nations bodies among its public customer base.
+
+## Products and solutions
+
+- **Demolition stores** - explosive charges, shaped charges, Bangalore Torpedo, sheet, tape and paste explosives, and initiation devices.
+- **CBRN detection** - UK distributor for PROENGIN chemical and biological detection equipment (including AP4C) and for SERSTECH chemical, explosive, narcotic and pharmaceutical detection equipment, with calibration and servicing at its Dorset service centre.
+- **EOD and C-IED** - equipment and stores for explosive ordnance disposal and counter-IED tasks.
+
+## Frameworks, accreditations and memberships
+
+- **Memberships:** ADS Group, CBRN-UK Interest Group
+
+## Links
+
+- Website: https://www.cbrnergeticsltd.com
+
+## Sources
+
+Public information verified 2026-06-29. Sources used: cbrnergeticsltd.com, ADS Group member directory, CBRN-UK members directory, Army Technology, Companies House (09767640).

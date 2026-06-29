@@ -19,7 +19,7 @@ tags:
   - maritime
   - size-large
   - type-vendor
-  - ownership-listed
+  - listed
   - owned-foreign
 ---
 

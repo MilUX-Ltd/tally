@@ -18,7 +18,7 @@ tags:
   - counter-uas
   - size-medium
   - type-manufacturer
-  - ownership-private
+  - owned-uk
   - mbr-ads
 ---
 

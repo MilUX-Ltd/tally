@@ -17,7 +17,7 @@ tags:
   - ai
   - size-small
   - type-vendor
-  - ownership-private
+  - owned-uk
 ---
 
 # METCLOUD

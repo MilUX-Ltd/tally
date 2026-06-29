@@ -15,7 +15,7 @@ tags:
   - data
   - size-small
   - type-vendor
-  - ownership-private
+  - owned-uk
 ---
 
 # Nexor Limited
