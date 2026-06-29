@@ -22,7 +22,7 @@ tags:
   - type-manufacturer
   - accr-iso9001
   - accr-as9100
-  - accr-cyber-essentials
+  - accr-ce
   - mbr-ads
 ---
 

@@ -21,7 +21,7 @@ tags:
   - hardware
   - size-small
   - type-software
-  - ownership-employee-owned
+  - owned-uk
   - accr-iso9001
   - mbr-ads
 ---

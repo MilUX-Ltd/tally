@@ -21,7 +21,7 @@ tags:
   - type-software
   - owned-uk
   - accr-iso27001
-  - accr-cyber-essentials-plus
+  - accr-ce-plus
   - accr-joscar
   - mbr-ads
 ---

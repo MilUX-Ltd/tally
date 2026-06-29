@@ -21,7 +21,7 @@ tags:
   - type-manufacturer
   - accr-iso9001
   - accr-as9100
-  - accr-cyber-essentials-plus
+  - accr-ce-plus
   - mbr-ads
   - prog-diana
 ---

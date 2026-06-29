@@ -43,7 +43,7 @@ Boyce Precision Engineering is a family-founded business established in 2006 in 
 
 ## Recent news
 
-- **2024-05-23** - Boyce Precision Engineering transferred to employee ownership through an Employee Ownership Trust covering its 27 staff. [source](https://boyceprecisionengineering.com/2024/05/23/employees-take-ownership-of-boyce-precision-engineering-in-innovative-new-trust-model/)
+- **2024-05-23** - Boyce Precision Engineering transferred to employee ownership through an Employee Ownership Trust covering its 27 staff. [source](https://boyceprecisionengineering.com/2024/05/23/employees-take-owned-uk/)
 
 ## Links
 

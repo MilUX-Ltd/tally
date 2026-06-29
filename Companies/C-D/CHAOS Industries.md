@@ -17,7 +17,7 @@ tags:
   - manufacturing
   - size-medium
   - type-manufacturer
-  - ownership-backed-vc
+  - owned-uk-vc
   - owned-foreign
 ---
 
