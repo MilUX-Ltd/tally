@@ -50,6 +50,7 @@ Arista Networks builds data-driven networking for data centre, cloud and campus 
 ## Links
 
 - Website: https://www.arista.com/
+- LinkedIn: https://www.linkedin.com/company/arista-networks-uk-ltd
 
 ## Sources
 
