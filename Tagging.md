@@ -1,0 +1,52 @@
+# Tally Tagging
+
+How tags work in Tally. Tags carry the facets the search viewer filters on, so consistency matters more here than anywhere.
+
+## Principles
+
+1. **Public fact only.** Every tag describes something publicly verifiable about the company. No relationship tags. The MilUX relationship tags (`client`, `partner`, `prospect`, and the rest) describe MilUX's private position and never appear in Tally.
+2. **Lowercase kebab-case.** Multi-word tags are hyphenated.
+3. **Capability tags are bare; other facets carry a short prefix** so they group cleanly in the tag pane and in search.
+4. **Additive.** New tags can be introduced, but document them here first and reuse consistently.
+
+## Capability and domain (bare)
+
+`defence` always, plus what applies:
+
+`ai`, `cyber`, `drones`, `uas`, `counter-uas`, `comms`, `isr`, `c2`, `ew`, `autonomy`, `robotics`, `simulation`, `training`, `sensors`, `optronics`, `rf`, `space`, `maritime`, `land`, `air`, `logistics`, `munitions`, `data`, `software`, `hardware`, `manufacturing`, `gis`, `quantum`.
+
+## Company size (`size-`)
+
+`size-micro`, `size-small`, `size-medium`, `size-large`.
+
+A priority facet. A specific aim of Tally is to surface micro and small businesses, so size must be filterable. Record the actual `headcount` in frontmatter where it can be found publicly; the tag is the band for filtering.
+
+## Organisation type (`type-`)
+
+`type-prime`, `type-sme`, `type-startup`, `type-scaleup`, `type-consultancy`, `type-manufacturer`, `type-integrator`, `type-academia`, `type-non-profit`, `type-investor`.
+
+## Ownership and funding (`owned-` / `backed-`)
+
+`owned-veteran`, `owned-uk`, `owned-foreign`, `owned-founder`, `backed-vc`, `backed-pe`, `listed`.
+
+## Frameworks (`fw-`)
+
+The procurement vehicles a company sits on. The facet that makes the directory worth searching.
+
+`fw-joscar` (Hellios JOSCAR register), `fw-gcloud` (CCS G-Cloud), `fw-dos` (Digital Outcomes and Specialists), `fw-ccs` (other Crown Commercial Service framework), plus named MOD frameworks as they appear.
+
+## Accreditations and standards (`accr-`)
+
+`accr-ce` (Cyber Essentials), `accr-ce-plus` (Cyber Essentials Plus), `accr-iso9001`, `accr-iso27001`, `accr-iso14001`, `accr-listx` (List X facility), `accr-def-stan`, `accr-itar`.
+
+## Programmes and accelerators (`prog-`)
+
+`prog-dasa` (DASA-funded), `prog-diana` (NATO DIANA), `prog-nssif` (NSSIF-backed), `prog-spark`.
+
+## Memberships and clusters (`mbr-`)
+
+`mbr-ads` (ADS Group), `mbr-techuk`, `mbr-makeuk-defence`, `mbr-ndi`, `mbr-scrdsc`, `mbr-swrdsc`, and other regional clusters as encountered.
+
+## Location for filtering
+
+Location is held in frontmatter (`hq`, `uk-region`), not as a tag, so the viewer can filter by region (for example, an additive-manufacturing SME in Hampshire). Keep `uk-region` values consistent.
