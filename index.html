@@ -53,11 +53,13 @@ details.facet>summary .chev{color:var(--ink3);font-weight:400}
 .cta{margin-top:18px;padding-top:14px;border-top:1px solid var(--rule);font-size:12px;color:var(--ink3);line-height:1.55}
 .cta strong{color:var(--ink2);display:block;margin-bottom:3px}
 .cta a{color:var(--clay)}
-.overlay{position:fixed;inset:0;background:rgba(17,51,8,.35);display:none;align-items:flex-start;justify-content:center;padding:40px 16px;overflow:auto;z-index:20}
+.overlay{position:fixed;inset:0;background:rgba(17,51,8,.35);display:none;align-items:flex-start;justify-content:center;padding:24px 12px;overflow:hidden;z-index:20}
 .overlay.open{display:flex}
-.panel{background:#fff;max-width:760px;width:100%;border-radius:12px;padding:24px 28px;box-shadow:0 18px 50px rgba(0,0,0,.25)}
+.panel{background:#fff;max-width:760px;width:100%;border-radius:12px;padding:24px 28px;max-height:calc(100vh - 48px);overflow:auto;-webkit-overflow-scrolling:touch;box-shadow:0 18px 50px rgba(0,0,0,.25)}
+.panel a{touch-action:manipulation}
 .panel h2{color:var(--forest);margin:0 0 2px;font-size:24px}
-.panel .links{margin:10px 0 16px;display:flex;gap:14px;flex-wrap:wrap;font-size:14px}
+.panel .links{margin:10px 0 16px;display:flex;gap:10px;flex-wrap:wrap;font-size:14px}
+.panel .links a{display:inline-block;padding:8px 14px;border:1px solid var(--rule2);border-radius:8px;text-decoration:none;color:var(--clay);background:#fbfaf2;min-height:40px;line-height:24px}
 .panel .alltags{display:flex;flex-wrap:wrap;gap:6px;margin:8px 0 16px}
 .md h2{font-size:13px;letter-spacing:.05em;text-transform:uppercase;color:var(--ink3);margin:18px 0 6px}
 .md h1{display:none}
@@ -107,7 +109,7 @@ details.facet>summary .chev{color:var(--ink3);font-weight:400}
  <main>
   <section class="intro">
    <p class="intro-lead">An open directory of defence companies. Search who is out there, what they do, and how to reach them. Public information only, maintained by MilUX.</p>
-   <details class="intro-more"><summary>About Tally</summary><p>Each entry covers a company's capabilities, its public website and LinkedIn page, frameworks and accreditations, company size and location, and a dated news summary. Everything is drawn from public sources, and Tally lists companies, not people. The directory is plain markdown on GitHub, so you can browse the raw entries, clone the repo, or point an AI assistant at it. Filter on the left by capability, size, location, framework and accreditation; exact matches show first, near misses below. Not listed, or need a correction or removal? Email <a href="mailto:contact@milux.co.uk?subject=Tally%20directory">contact@milux.co.uk</a>.</p></details>
+   <details class="intro-more"><summary>About Tally</summary><p><strong>Why "Tally"?</strong> In aviation, "tally" is the radio call a pilot makes when they have something in sight. That is the idea here: getting eyes on who is out there in defence. A tally is also a running count, which is what this directory keeps.</p><p>Each entry covers a company's capabilities, its public website and LinkedIn page, frameworks and accreditations, company size and location, and a dated news summary. Everything is drawn from public sources, and Tally lists companies, not people. The directory is plain markdown on GitHub, so you can browse the raw entries, clone the repo, or point an AI assistant at it. Filter on the left by capability, size, location, framework and accreditation; exact matches show first, near misses below. Not listed, or need a correction or removal? Email <a href="mailto:contact@milux.co.uk?subject=Tally%20directory">contact@milux.co.uk</a>.</p></details>
    <div class="intro-links"><a href="https://github.com/MilUX-Ltd/tally" target="_blank" rel="noopener">View on GitHub</a> &middot; <a href="https://milux.co.uk" target="_blank" rel="noopener">MilUX</a></div>
   </section>
   <div class="search">
