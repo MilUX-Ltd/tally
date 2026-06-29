@@ -1,0 +1,51 @@
+---
+type: organisation
+name: Aviation Works Ltd
+website: https://caelinova.com
+linkedin: https://www.linkedin.com/company/caelinova
+companies-house: 11304154
+hq: London, UK
+uk-region: London
+founded: 2018
+size: micro
+sources-verified: 2026-06-29
+tags:
+  - defence
+  - air
+  - hardware
+  - test-evaluation
+  - size-micro
+  - type-sme
+  - type-startup
+  - owned-founder
+  - mbr-ads
+---
+
+# Caeli Nova
+
+> Developer of emergency oxygen systems for commercial and defence aircraft using patented breathing technology.
+
+## What they do
+
+Caeli Nova (the trading name of Aviation Works Ltd) was established in 2018 by founders with backgrounds in medicine and aviation, following research into the optimisation of human body oxygenation at altitude. The company develops patented breathing technology to improve passenger and crew safety and survivability in challenging environments. It works with both commercial and defence aerospace operators.
+
+## Products and solutions
+
+- **Cordillera** - an emergency oxygen system for commercial and military passenger aircraft, designed to protect passengers in the event of a loss of cabin pressure and to allow an aircraft to divert safely at a higher altitude following a decompression event.
+
+## Frameworks, accreditations and memberships
+
+- **Memberships:** ADS Group.
+
+## Recent news
+
+- **2024-09** - Patent assets relating to the breathing technology were assigned to Aviation Works Ltd. [source](https://patents.google.com/patent/US11648360B2/de)
+
+## Links
+
+- Website: https://caelinova.com
+- LinkedIn: https://www.linkedin.com/company/caelinova
+
+## Sources
+
+Public information verified 2026-06-29. Company website (caelinova.com), Companies House (company 11304154, Aviation Works Limited), Runway Girl Network coverage, Google Patents.
