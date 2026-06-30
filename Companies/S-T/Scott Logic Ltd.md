@@ -1,0 +1,47 @@
+---
+type: organisation
+name: Scott Logic Ltd
+website: https://www.scottlogic.com
+hq: Newcastle upon Tyne, United Kingdom
+uk-region: North East
+size: medium
+sources-verified: 2026-06-30
+tags:
+  - defence
+  - size-medium
+  - mbr-ads
+  - software
+  - cyber
+  - data
+  - type-integrator
+  - type-consultancy
+  - owned-uk
+  - accr-iso27001
+---
+
+# Scott Logic Ltd
+
+> Custom software and systems integration consultancy serving demanding public and private sector clients across the UK.
+
+## What they do
+
+Scott Logic builds bespoke software solutions and provides technology advisory services, with particular capability in systems integration, cyber security, data analysis, and software modelling. The firm operates from six UK offices with over 400 permanent staff, serving clients in sectors including defence and government.
+
+## Products and solutions
+
+- **Custom software development** - Bespoke solutions built for complex, high-assurance environments.
+- **Systems integration** - Integration services across enterprise and government IT estates.
+- **Cyber security and software integrity** - Security-focused software design and assurance.
+
+## Frameworks, accreditations and memberships
+
+- **Accreditations:** ISO 27001:2022
+- **Memberships:** ADS Group
+
+## Links
+
+- Website: https://www.scottlogic.com
+
+## Sources
+
+Public information verified 2026-06-30. DEVONthink MilUX CRM record (ADS directory snapshot, 2026-05-15).
