@@ -1,0 +1,46 @@
+---
+type: organisation
+name: PUBLIC
+website: https://www.public.io
+linkedin: https://www.linkedin.com/company/public.io
+hq: London, UK
+size: small
+sources-verified: 2026-06-30
+tags:
+  - defence
+  - size-small
+  - mbr-ads
+  - software
+  - data
+  - training
+  - type-consultancy
+  - owned-uk
+---
+
+# PUBLIC
+
+> GovTech firm delivering digital services, innovation programmes and start-up accelerators for central government and defence.
+
+## What they do
+
+PUBLIC works with government departments and the Ministry of Defence to design digital services and accelerate adoption of emerging technologies. It runs procurement-focused advisory, innovation training and accelerator programmes connecting defence stakeholders with start-ups.
+
+## Products and solutions
+
+- **Percy Hobart Fellowship** - Twelve-week defence innovation training programme delivered for Royal Navy, Royal Air Force and US Navy personnel, teaching integration of new technologies and start-up methodologies.
+- **Innovation in Defence** - DIU-funded pan-Defence training programme delivered January to June each year.
+- **Defence Accelerator** - Scouting, mentoring and connecting start-ups with UK MOD, delivered in partnership with AWS.
+
+## Frameworks, accreditations and memberships
+
+- **Memberships:** ADS Group
+- Partner of Defence Innovation Unit (DIU)
+
+## Links
+
+- Website: https://www.public.io
+- LinkedIn: https://www.linkedin.com/company/public.io
+
+## Sources
+
+Public information verified 2026-06-30. MilUX vault CRM record.

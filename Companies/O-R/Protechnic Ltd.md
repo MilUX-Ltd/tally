@@ -1,0 +1,45 @@
+---
+type: organisation
+name: Protechnic Ltd
+website: https://www.protechnic.com
+hq: Nailsea, UK
+uk-region: South West
+size: small
+sources-verified: 2026-06-30
+tags:
+  - defence
+  - size-small
+  - mbr-ads
+  - manufacturing
+  - hardware
+  - type-manufacturer
+  - owned-uk
+  - accr-iso9001
+---
+
+# Protechnic Ltd
+
+> Manufacturer of protective cases, containers, and foam inserts for military and defence equipment.
+
+## What they do
+
+Protechnic has designed and manufactured custom protective packaging solutions for defence, aerospace, and high-reliability applications for over 25 years, based in Nailsea near Bristol. The company offers a turnkey service from design through to CNC-routed foam inserts and finished cases, working to ISO 9001 quality management.
+
+## Products and solutions
+
+- **Protective Cases and Containers** - Custom-designed cases for military equipment, instruments, and sensitive systems.
+- **Protective Foam Inserts** - CNC-machined foam inserts providing bespoke protection for equipment profiles.
+- **Storage and Weapons Storage Solutions** - Secure storage and racking products for defence environments.
+
+## Frameworks, accreditations and memberships
+
+- **Accreditations:** ISO 9001
+- **Memberships:** ADS Group
+
+## Links
+
+- Website: https://www.protechnic.com
+
+## Sources
+
+Public information verified 2026-06-30. DEVONthink CRM record (ADS directory snapshot, 2026-05-15).
