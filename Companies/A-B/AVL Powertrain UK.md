@@ -8,7 +8,7 @@ hq: Graz, Austria
 uk-region: East of England
 founded: 2005
 size: medium
-sources-verified: 2026-06-29
+sources-verified: 2026-07-03
 tags:
   - defence
   - land

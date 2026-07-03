@@ -8,11 +8,12 @@ hq: Christchurch, United Kingdom
 uk-region: South West England
 founded: 2022
 size: micro
-sources-verified: 2026-06-29
+sources-verified: 2026-07-03
 tags:
   - defence
   - cyber
   - comms
+  - comms/networking
   - software
   - data
   - type-sme

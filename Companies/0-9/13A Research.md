@@ -7,7 +7,7 @@ hq: London, United Kingdom
 uk-region: London
 founded: 2023
 size: micro
-sources-verified: 2026-06-29
+sources-verified: 2026-07-03
 tags:
   - defence
   - software

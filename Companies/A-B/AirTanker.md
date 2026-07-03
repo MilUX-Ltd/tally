@@ -9,7 +9,7 @@ uk-region: South East
 founded: 2007
 size: large
 headcount: ~702
-sources-verified: 2026-06-29
+sources-verified: 2026-07-03
 tags:
   - defence
   - air
@@ -48,4 +48,4 @@ AirTanker delivers and supports the Royal Air Force's fleet of 14 Airbus A330-20
 
 ## Sources
 
-Public information verified 2026-06-29. Company website (airtanker.co.uk), LinkedIn company page, RAF (raf.mod.uk), Companies House (06279646).
+Public information verified 2026-07-03. Company website (airtanker.co.uk), LinkedIn company page, RAF (raf.mod.uk), Companies House (06279646).

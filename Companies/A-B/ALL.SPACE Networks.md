@@ -8,11 +8,12 @@ hq: Reading, United Kingdom
 uk-region: South East England
 founded: 2013
 size: medium
-sources-verified: 2026-06-29
+sources-verified: 2026-07-03
 tags:
   - defence
   - space
   - comms
+  - comms/satcom
   - rf
   - hardware
   - software

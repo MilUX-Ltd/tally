@@ -8,7 +8,7 @@ uk-region: South East
 founded: 1950
 size: large
 headcount: 250+
-sources-verified: 2026-06-29
+sources-verified: 2026-07-03
 tags:
   - defence
   - munitions

@@ -9,11 +9,13 @@ uk-region: West Midlands
 founded: 2002
 size: small
 headcount:
-sources-verified: 2026-06-29
+sources-verified: 2026-07-03
 tags:
   - defence
   - cyber
+  - cyber/grc
   - training
+  - training/instruction
   - size-small
   - type-sme
   - type-consultancy

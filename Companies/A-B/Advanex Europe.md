@@ -9,7 +9,7 @@ uk-region: East Midlands
 founded: 1988
 size: medium
 headcount:
-sources-verified: 2026-06-29
+sources-verified: 2026-07-03
 tags:
   - defence
   - air

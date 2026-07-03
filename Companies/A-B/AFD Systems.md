@@ -9,7 +9,7 @@ uk-region: North West
 founded: 2009
 size: small
 headcount: 30+
-sources-verified: 2026-06-29
+sources-verified: 2026-07-03
 tags:
   - defence
   - air

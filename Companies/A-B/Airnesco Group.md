@@ -8,7 +8,7 @@ hq: Maidstone, United Kingdom
 uk-region: South East
 founded: 1996
 size: micro
-sources-verified: 2026-06-29
+sources-verified: 2026-07-03
 tags:
   - defence
   - land
@@ -48,4 +48,4 @@ The Airnesco BCS entered UK MoD trials in the late 1990s and was accepted into s
 
 ## Sources
 
-Public information verified 2026-06-29. Company website (airnesco.com), ADS members directory (adsgroup.org.uk), Companies House (company 03183992).
+Public information verified 2026-07-03. Company website (airnesco.com), ADS members directory (adsgroup.org.uk), Companies House (company 03183992).

@@ -8,11 +8,12 @@ hq: London, England
 uk-region: London
 founded: 2019
 size: small
-sources-verified: 2026-06-29
+sources-verified: 2026-07-03
 tags:
   - defence
   - size-small
   - cyber
+  - cyber/grc
   - software
   - data
   - type-sme
@@ -50,4 +51,4 @@ Acuity Risk Management provides cyber governance, risk and compliance (GRC) soft
 
 ## Sources
 
-Public information verified 2026-06-29. Company website, LinkedIn company page, ADS members directory, Companies House (12369714), Acuity RM Group plc announcements.
+Public information verified 2026-07-03. Company website, LinkedIn company page, ADS members directory, Companies House (12369714), Acuity RM Group plc announcements.

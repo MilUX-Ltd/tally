@@ -9,13 +9,15 @@ uk-region: South East
 founded: 2012
 size: micro
 headcount: 2-10
-sources-verified: 2026-06-29
+sources-verified: 2026-07-03
 tags:
   - defence
   - isr
   - sensors
+  - sensors/eo-ir
   - comms
   - training
+  - training/instruction
   - size-micro
   - type-sme
   - accr-iso9001

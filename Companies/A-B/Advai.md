@@ -8,7 +8,7 @@ hq: London, United Kingdom
 uk-region: London
 founded: 2020
 size: small
-sources-verified: 2026-06-29
+sources-verified: 2026-07-03
 tags:
   - defence
   - ai
@@ -46,4 +46,4 @@ Advai is a UK deep-tech company focused on AI safety and security. It tests and 
 
 ## Sources
 
-Public information verified 2026-06-29. Advai website, LinkedIn company page, Companies House, GOV.UK (DASA case study and AI assurance techniques).
+Public information verified 2026-07-03. Advai website, LinkedIn company page, Companies House, GOV.UK (DASA case study and AI assurance techniques).

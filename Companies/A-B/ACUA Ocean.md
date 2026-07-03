@@ -8,13 +8,15 @@ hq: Plymouth, United Kingdom
 uk-region: South West
 founded: 2020
 size: micro
-sources-verified: 2026-06-29
+sources-verified: 2026-07-03
 tags:
   - defence
   - maritime
   - autonomy
+  - autonomy/uxv-control
   - isr
   - sensors
+  - sensors/acoustic-sonar
   - type-startup
   - size-micro
   - owned-uk

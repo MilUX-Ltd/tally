@@ -6,11 +6,13 @@ linkedin: https://www.linkedin.com/company/avrt-training
 hq: Basildon, United Kingdom
 uk-region: East of England
 size: small
-sources-verified: 2026-06-29
+sources-verified: 2026-07-03
 tags:
   - defence
   - simulation
+  - simulation/synthetic-environment
   - training
+  - training/instruction
   - hardware
   - software
   - type-sme

@@ -8,11 +8,13 @@ uk-region: London
 founded: 2016
 size: small
 headcount: ~50
-sources-verified: 2026-06-29
+sources-verified: 2026-07-03
 tags:
   - defence
   - simulation
+  - simulation/synthetic-environment
   - training
+  - training/instruction
   - uas
   - size-small
   - type-sme

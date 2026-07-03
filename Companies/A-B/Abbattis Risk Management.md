@@ -5,7 +5,7 @@ website: https://www.abbattis.com/
 companies-house: 16477900
 hq: Zurich, Switzerland
 size: micro
-sources-verified: 2026-06-29
+sources-verified: 2026-07-03
 tags:
   - defence
   - size-micro

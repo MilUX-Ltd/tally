@@ -7,11 +7,12 @@ hq: Hove, United Kingdom
 uk-region: South East
 founded: 2007
 size: small
-sources-verified: 2026-06-29
+sources-verified: 2026-07-03
 tags:
   - defence
   - sensors
   - counter-uas
+  - counter-uas/detection
   - maritime
   - land
   - manufacturing

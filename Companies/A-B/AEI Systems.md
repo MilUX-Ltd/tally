@@ -9,7 +9,7 @@ uk-region: South East England
 founded: 1961
 size: small
 headcount:
-sources-verified: 2026-06-29
+sources-verified: 2026-07-03
 tags:
   - defence
   - munitions

@@ -8,7 +8,7 @@ hq: Oldbury, England
 uk-region: West Midlands
 founded: 1896
 size: small
-sources-verified: 2026-06-29
+sources-verified: 2026-07-03
 tags:
   - defence
   - size-small

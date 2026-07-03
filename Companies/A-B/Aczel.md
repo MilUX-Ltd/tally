@@ -6,7 +6,7 @@ companies-house: 14762965
 hq: London, United Kingdom
 uk-region: London
 size: small
-sources-verified: 2026-06-29
+sources-verified: 2026-07-03
 tags:
   - defence
   - type-consultancy
@@ -42,4 +42,4 @@ Aczel is a management consultancy whose teams are drawn from experienced aerospa
 
 ## Sources
 
-Public information verified 2026-06-29. Company website (aczel.org), ADS members directory (adsgroup.org.uk), Companies House (14762965).
+Public information verified 2026-07-03. Company website (aczel.org), ADS members directory (adsgroup.org.uk), Companies House (14762965).

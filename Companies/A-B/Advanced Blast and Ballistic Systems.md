@@ -8,7 +8,7 @@ uk-region: East Midlands
 founded: 2009
 size: micro
 headcount: ~5
-sources-verified: 2026-06-29
+sources-verified: 2026-07-03
 tags:
   - defence
   - land

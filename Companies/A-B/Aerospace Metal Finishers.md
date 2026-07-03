@@ -8,7 +8,7 @@ uk-region: Northern Ireland
 founded: 2002
 size: small
 headcount: 11
-sources-verified: 2026-06-29
+sources-verified: 2026-07-03
 tags:
   - defence
   - manufacturing

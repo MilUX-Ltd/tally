@@ -8,10 +8,11 @@ hq: London, United Kingdom
 uk-region: London
 founded: 2013
 size: micro
-sources-verified: 2026-06-29
+sources-verified: 2026-07-03
 tags:
   - defence
   - cyber
+  - cyber/vuln-management
   - software
   - test-evaluation
   - size-micro
@@ -45,4 +46,4 @@ Airis Security Technologies is a cyber security consultancy offering engineering
 
 ## Sources
 
-Public information verified 2026-06-29. Company website (airis-security.com), ADS members directory (adsgroup.org.uk), Companies House (company 08408868).
+Public information verified 2026-07-03. Company website (airis-security.com), ADS members directory (adsgroup.org.uk), Companies House (company 08408868).

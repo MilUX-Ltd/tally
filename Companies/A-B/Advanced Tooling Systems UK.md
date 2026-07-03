@@ -7,7 +7,7 @@ uk-region: South East England
 founded: 2002
 size: medium
 headcount: 75+
-sources-verified: 2026-06-29
+sources-verified: 2026-07-03
 tags:
   - defence
   - manufacturing

@@ -9,11 +9,13 @@ uk-region: South East England
 founded: 2005
 size: medium
 headcount: 173
-sources-verified: 2026-06-29
+sources-verified: 2026-07-03
 tags:
   - defence
   - ai
+  - ai/ml-analytics
   - data
+  - data/analytics
   - software
   - size-medium
   - type-consultancy
@@ -48,4 +50,4 @@ Aiimi provides data engineering, data science, AI implementation, and digital co
 
 ## Sources
 
-Public information verified 2026-06-29. Companies House record 05648705. Headcount figure from company profile data as of 2025.
+Public information verified 2026-07-03. Companies House record 05648705. Headcount figure from company profile data as of 2025.

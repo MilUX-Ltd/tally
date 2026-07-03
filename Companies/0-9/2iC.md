@@ -8,13 +8,18 @@ hq: Southampton, UK
 uk-region: South East
 founded: 2010
 size: small
-sources-verified: 2026-06-29
+sources-verified: 2026-07-03
 tags:
   - defence
   - software
   - c2
+  - c2/integration
+  - c2/situational-awareness
   - comms
+  - comms/networking
+  - comms/satcom
   - autonomy
+  - autonomy/uxv-control
   - uas
   - data
   - size-small

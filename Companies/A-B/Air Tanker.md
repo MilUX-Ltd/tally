@@ -7,7 +7,7 @@ hq: RAF Brize Norton, Oxfordshire
 uk-region: South East England
 founded: 2007
 size: large
-sources-verified: 2026-06-29
+sources-verified: 2026-07-03
 tags:
   - defence
   - air
@@ -30,4 +30,4 @@ AirTanker delivers the RAF's Future Strategic Tanker Aircraft (FSTA) capability 
 - LinkedIn: https://www.linkedin.com/company/air-tanker/
 
 ## Sources
-Public information verified 2026-06-29.
+Public information verified 2026-07-03.

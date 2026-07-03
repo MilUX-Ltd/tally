@@ -6,7 +6,7 @@ linkedin: https://www.linkedin.com/company/af-fasteners
 hq: Glossop, United Kingdom
 uk-region: North West
 size: small
-sources-verified: 2026-06-29
+sources-verified: 2026-07-03
 tags:
   - defence
   - air

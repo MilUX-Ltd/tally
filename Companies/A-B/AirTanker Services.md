@@ -8,12 +8,13 @@ hq: Carterton, United Kingdom
 uk-region: South East
 founded: 2007
 size: large
-sources-verified: 2026-06-29
+sources-verified: 2026-07-03
 tags:
   - defence
   - air
   - logistics
   - training
+  - training/instruction
   - size-large
   - type-prime
   - mbr-ads
@@ -49,4 +50,4 @@ Nine aircraft form a core fleet for the RAF; the five non-core aircraft are avai
 
 ## Sources
 
-Public information verified 2026-06-29. Company website (airtanker.co.uk), RAF (raf.mod.uk), Defence Equipment & Support (des.mod.uk), ADS members directory (adsgroup.org.uk), Companies House (company 06279646).
+Public information verified 2026-07-03. Company website (airtanker.co.uk), RAF (raf.mod.uk), Defence Equipment & Support (des.mod.uk), ADS members directory (adsgroup.org.uk), Companies House (company 06279646).

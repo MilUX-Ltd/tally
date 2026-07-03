@@ -6,12 +6,14 @@ linkedin: https://www.linkedin.com/company/4c-strategies
 hq: Stockholm, Sweden
 founded: 2000
 size: medium
-sources-verified: 2026-06-29
+sources-verified: 2026-07-03
 tags:
   - defence
   - software
   - simulation
+  - simulation/lvc
   - training
+  - training/courseware
   - c2
   - size-medium
   - type-sme

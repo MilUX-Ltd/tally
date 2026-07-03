@@ -9,7 +9,7 @@ uk-region: South East
 founded: 1999
 size: medium
 headcount: 50+
-sources-verified: 2026-06-29
+sources-verified: 2026-07-03
 tags:
   - defence
   - hardware
@@ -50,4 +50,4 @@ AirBorn International is the UK arm of AirBorn, a manufacturer founded in 1958 t
 
 ## Sources
 
-Public information verified 2026-06-29. Company website (airborninternational.com), Companies House (03734105), ADS Group members directory and member spotlight, ADS Advance, company LinkedIn page.
+Public information verified 2026-07-03. Company website (airborninternational.com), Companies House (03734105), ADS Group members directory and member spotlight, ADS Advance, company LinkedIn page.

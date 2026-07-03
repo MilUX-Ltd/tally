@@ -8,7 +8,7 @@ hq: Canonsburg, United States
 uk-region: Yorkshire and the Humber
 founded: 1970
 size: large
-sources-verified: 2026-06-29
+sources-verified: 2026-07-03
 tags:
   - defence
   - air

@@ -8,7 +8,7 @@ hq: New York, United States
 uk-region: South West
 founded: 2018
 size: medium
-sources-verified: 2026-06-29
+sources-verified: 2026-07-03
 tags:
   - defence
   - software
@@ -44,4 +44,4 @@ AdaCore develops tools and provides support for the production of safety-critica
 
 ## Sources
 
-Public information verified 2026-06-29. Company website (adacore.com), ADS members directory (adsgroup.org.uk), Companies House (11581444), AdaCore UK expansion press release.
+Public information verified 2026-07-03. Company website (adacore.com), ADS members directory (adsgroup.org.uk), Companies House (11581444), AdaCore UK expansion press release.

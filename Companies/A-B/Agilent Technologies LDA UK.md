@@ -7,7 +7,7 @@ hq: Santa Clara, United States
 uk-region: North West
 founded: 2013
 size: large
-sources-verified: 2026-06-29
+sources-verified: 2026-07-03
 tags:
   - defence
   - sensors

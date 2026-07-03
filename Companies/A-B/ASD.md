@@ -9,7 +9,7 @@ uk-region: Yorkshire and the Humber
 founded: 1978
 size: large
 headcount: 250+
-sources-verified: 2026-06-29
+sources-verified: 2026-07-03
 tags:
   - defence
   - manufacturing

@@ -6,7 +6,7 @@ linkedin: https://www.linkedin.com/company/akp-ltd
 hq: Great Yarmouth, United Kingdom
 uk-region: East of England
 size: small
-sources-verified: 2026-06-29
+sources-verified: 2026-07-03
 tags:
   - defence
   - air

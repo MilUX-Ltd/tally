@@ -8,7 +8,7 @@ uk-region: Scotland
 founded: 1954
 size: large
 headcount: 900+
-sources-verified: 2026-06-29
+sources-verified: 2026-07-03
 tags:
   - defence
   - logistics

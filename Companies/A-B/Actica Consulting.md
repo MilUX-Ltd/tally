@@ -9,12 +9,15 @@ uk-region: South East
 founded: 1997
 size: medium
 headcount: ~224
-sources-verified: 2026-06-29
+sources-verified: 2026-07-03
 tags:
   - defence
   - cyber
+  - cyber/grc
   - software
   - data
+  - data/analytics
+  - data/engineering
   - size-medium
   - type-consultancy
   - owned-uk
@@ -33,7 +36,7 @@ Actica Consulting is an independent, UK-owned technology and management consulta
 
 - **Architecture and engineering consultancy** - enterprise and solution architecture support across defence and government programmes from inception to closedown.
 - **Cyber security consultancy** - NCSC-assured services in risk management and security architecture.
-- **Data and transformation services** - advisory support for data and digital transformation programmes.
+- **Data and transformation services** - data strategy, data engineering and advanced analytics advisory, including business intelligence and machine learning model development, in support of public sector and defence data and digital transformation programmes.
 
 ## Frameworks, accreditations and memberships
 

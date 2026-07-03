@@ -6,7 +6,7 @@ hq: London
 uk-region: Greater London
 founded: 2025
 size: micro
-sources-verified: 2026-06-29
+sources-verified: 2026-07-03
 tags:
   - defence
   - space
@@ -14,12 +14,25 @@ tags:
   - size-micro
 ---
 # Aetherion Ltd
-> UK defence and space management consultancy founded by a space industry professional with three decades of ESA and NASA mission experience.
+
+> UK defence and space management consultancy, incorporated in London in September 2025.
 
 ## What they do
-Aetherion Ltd is a UK management consultancy incorporated in September 2025, focused on defence and space. The founder brings 30 years of experience directing missions for ESA and NASA and leading multi-national programmes across defence, civil and commercial space. The consultancy operates from London.
+
+Aetherion Ltd is a UK management consultancy registered in London, incorporated in September 2025 and classified under management consultancy activities. Public reporting describes the consultancy as focused on defence and space, associated with a founder with a long background in ESA and NASA mission direction and multi-national defence, civil and commercial space programmes. Beyond the Companies House record, no company website or further public detail (products, named clients or frameworks) has been found.
+
+## Products and solutions
+
+Not publicly documented at the time of writing.
+
+## Frameworks, accreditations and memberships
+
+Not publicly documented at the time of writing.
 
 ## Links
 
+- Companies House: https://find-and-update.company-information.service.gov.uk/company/16731035
+
 ## Sources
-Public information verified 2026-06-29.
+
+Public information verified 2026-07-03. Companies House (company 16731035).

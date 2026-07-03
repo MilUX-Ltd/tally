@@ -7,10 +7,11 @@ companies-house: FC035638
 hq: Dubai, United Arab Emirates
 uk-region: London
 size: medium
-sources-verified: 2026-06-29
+sources-verified: 2026-07-03
 tags:
   - defence
   - training
+  - training/instruction
   - isr
   - size-medium
   - type-consultancy

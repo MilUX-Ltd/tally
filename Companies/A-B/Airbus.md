@@ -9,13 +9,16 @@ uk-region: East of England
 founded: 2014
 size: large
 headcount: 2,600+ across Stevenage and Portsmouth
-sources-verified: 2026-06-29
+sources-verified: 2026-07-03
 tags:
   - defence
   - space
   - isr
+  - isr/geoint
   - comms
+  - comms/satcom
   - sensors
+  - sensors/radar
   - manufacturing
   - air
   - size-large
@@ -54,4 +57,4 @@ Airbus Defence and Space is the military and space systems division of Airbus, f
 
 ## Sources
 
-Public information verified 2026-06-29. Company website (airbus.com), LinkedIn company page, Companies House, Wikipedia.
+Public information verified 2026-07-03. Company website (airbus.com), LinkedIn company page, Companies House, Wikipedia.

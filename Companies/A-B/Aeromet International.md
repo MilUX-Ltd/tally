@@ -8,7 +8,7 @@ hq: Worcester, England
 uk-region: West Midlands
 founded: 1982
 size: medium
-sources-verified: 2026-06-29
+sources-verified: 2026-07-03
 tags:
   - defence
   - manufacturing

@@ -8,7 +8,7 @@ hq: Beijing, China
 uk-region: South West
 founded: 2018
 size: large
-sources-verified: 2026-06-29
+sources-verified: 2026-07-03
 tags:
   - defence
   - air

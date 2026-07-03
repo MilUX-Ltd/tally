@@ -6,7 +6,7 @@ linkedin: https://www.linkedin.com/company/aerowind-ireland-limited
 hq: Scariff, Ireland
 founded: 1999
 size: small
-sources-verified: 2026-06-29
+sources-verified: 2026-07-03
 tags:
   - defence
   - air

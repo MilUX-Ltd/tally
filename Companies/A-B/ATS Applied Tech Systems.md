@@ -9,13 +9,14 @@ uk-region: West Midlands
 founded: 1991
 size: medium
 headcount: 51-200
-sources-verified: 2026-06-29
+sources-verified: 2026-07-03
 tags:
   - defence
   - air
   - software
   - manufacturing
   - data
+  - data/analytics
   - ai
   - size-medium
   - type-sme

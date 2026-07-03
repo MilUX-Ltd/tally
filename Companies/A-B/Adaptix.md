@@ -7,7 +7,7 @@ companies-house: 06857417
 hq: Eynsham, United Kingdom
 uk-region: South East
 size: medium
-sources-verified: 2026-06-29
+sources-verified: 2026-07-03
 tags:
   - defence
   - sensors
@@ -44,4 +44,4 @@ Adaptix develops flat-panel 3D X-ray imaging technology that produces 3D images 
 
 ## Sources
 
-Public information verified 2026-06-29. Company website (adaptix.com), ADS members directory (adsgroup.org.uk), Companies House (06857417), Composites UK directory.
+Public information verified 2026-07-03. Company website (adaptix.com), ADS members directory (adsgroup.org.uk), Companies House (06857417), Composites UK directory.

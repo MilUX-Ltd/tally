@@ -8,10 +8,13 @@ hq: Glasgow, United Kingdom
 uk-region: Scotland
 founded: 2023
 size: small
-sources-verified: 2026-06-29
+sources-verified: 2026-07-03
 tags:
   - defence
   - cyber
+  - cyber/soc-monitoring
+  - cyber/incident-response
+  - cyber/red-team
   - size-small
   - type-sme
   - owned-founder
@@ -51,4 +54,4 @@ Acumen Cyber is a UK-based managed security services provider delivering enterpr
 
 ## Sources
 
-Public information verified 2026-06-29. Company website (acumencyber.com), ADS members directory (adsgroup.org.uk), Companies House (SC786217), BusinessWire press release, IT Security Guru.
+Public information verified 2026-07-03. Company website (acumencyber.com), ADS members directory (adsgroup.org.uk), Companies House (SC786217), BusinessWire press release, IT Security Guru.

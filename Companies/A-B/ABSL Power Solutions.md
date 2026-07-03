@@ -8,7 +8,7 @@ hq: Reading, Pennsylvania, USA
 uk-region: South East England
 founded: 1993
 size: medium
-sources-verified: 2026-06-29
+sources-verified: 2026-07-03
 tags:
   - defence
   - size-medium

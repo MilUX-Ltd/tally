@@ -9,7 +9,7 @@ uk-region: East of England
 founded: 1978
 size: medium
 headcount: 112
-sources-verified: 2026-06-29
+sources-verified: 2026-07-03
 tags:
   - defence
   - air

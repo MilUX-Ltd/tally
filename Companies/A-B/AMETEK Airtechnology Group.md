@@ -6,7 +6,7 @@ linkedin: https://www.linkedin.com/company/ametek-airtechnology-group
 hq: Basingstoke, UK
 uk-region: South East
 size: large
-sources-verified: 2026-06-29
+sources-verified: 2026-07-03
 tags:
   - defence
   - air

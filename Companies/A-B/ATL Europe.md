@@ -7,7 +7,7 @@ companies-house: 11888254
 hq: Christchurch, England
 uk-region: South West
 size: small
-sources-verified: 2026-06-29
+sources-verified: 2026-07-03
 tags:
   - defence
   - air

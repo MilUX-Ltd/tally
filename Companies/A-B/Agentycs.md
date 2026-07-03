@@ -8,13 +8,18 @@ hq: Hythe, United Kingdom
 uk-region: South East
 founded: 2024
 size: micro
-sources-verified: 2026-06-29
+sources-verified: 2026-07-03
 tags:
   - defence
   - ai
+  - ai/nlp
+  - ai/decision-support
   - data
+  - data/engineering
+  - data/analytics
   - software
   - isr
+  - isr/fusion
   - autonomy
   - size-micro
   - type-startup

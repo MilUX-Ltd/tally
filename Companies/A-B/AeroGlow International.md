@@ -8,7 +8,7 @@ hq: Salisbury, Wiltshire, England
 uk-region: South West
 founded: 2014
 size: micro
-sources-verified: 2026-06-29
+sources-verified: 2026-07-03
 tags:
   - defence
   - land

@@ -7,12 +7,13 @@ hq: London, United Kingdom
 uk-region: London
 founded: 2001
 size: small
-sources-verified: 2026-06-29
+sources-verified: 2026-07-03
 tags:
   - defence
   - logistics
   - isr
   - uas
+  - uas/platform
   - drones
   - autonomy
   - size-small

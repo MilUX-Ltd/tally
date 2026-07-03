@@ -8,7 +8,7 @@ hq: Poole, United Kingdom
 uk-region: South West England
 founded: 1966
 size: small
-sources-verified: 2026-06-29
+sources-verified: 2026-07-03
 tags:
   - defence
   - land

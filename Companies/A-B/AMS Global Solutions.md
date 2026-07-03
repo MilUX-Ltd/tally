@@ -7,11 +7,12 @@ hq: Exeter, United Kingdom
 uk-region: South West
 founded: 2001
 size: medium
-sources-verified: 2026-06-29
+sources-verified: 2026-07-03
 tags:
   - defence
   - logistics
   - training
+  - training/instruction
   - land
   - size-medium
   - type-sme

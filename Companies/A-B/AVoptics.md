@@ -8,7 +8,7 @@ hq: Yeovil, England
 uk-region: South West England
 founded: 2005
 size: small
-sources-verified: 2026-06-29
+sources-verified: 2026-07-03
 tags:
   - defence
   - optronics

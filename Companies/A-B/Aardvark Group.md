@@ -7,7 +7,7 @@ hq: Dumfries, Scotland
 uk-region: Scotland
 founded: 1982
 size: small
-sources-verified: 2026-06-29
+sources-verified: 2026-07-03
 tags:
   - defence
   - size-small

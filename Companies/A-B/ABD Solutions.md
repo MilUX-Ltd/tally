@@ -6,10 +6,12 @@ linkedin: https://uk.linkedin.com/company/abdsolutions
 hq: United Kingdom
 uk-region: South West
 size: small
-sources-verified: 2026-06-29
+sources-verified: 2026-07-03
 tags:
   - defence
   - autonomy
+  - autonomy/uxv-control
+  - autonomy/navigation
   - robotics
   - land
   - software

@@ -9,7 +9,7 @@ uk-region: South West England
 founded: 2016
 size: small
 headcount: 11-50
-sources-verified: 2026-06-29
+sources-verified: 2026-07-03
 tags:
   - defence
   - hardware

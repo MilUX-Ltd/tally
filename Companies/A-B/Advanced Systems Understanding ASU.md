@@ -7,7 +7,7 @@ companies-house: 08077295
 hq: United Kingdom
 founded: 2012
 size: small
-sources-verified: 2026-06-29
+sources-verified: 2026-07-03
 tags:
   - defence
   - simulation

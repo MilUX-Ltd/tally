@@ -9,7 +9,7 @@ uk-region: South East England
 founded: 2006
 size: large
 headcount: 700+ (group)
-sources-verified: 2026-06-29
+sources-verified: 2026-07-03
 tags:
   - defence
   - air
@@ -60,4 +60,4 @@ The group serves commercial aviation, business aviation, MRO, space, air defence
 
 ## Sources
 
-Public information verified 2026-06-29. ADS members directory (adsgroup.org.uk); Companies House (company 03288952); ADDEV Materials Aerospace and Defense website (eu.addevmaterials-aero.com); ADDEV Materials group website (addevmaterials.com).
+Public information verified 2026-07-03. ADS members directory (adsgroup.org.uk); Companies House (company 03288952); ADDEV Materials Aerospace and Defense website (eu.addevmaterials-aero.com); ADDEV Materials group website (addevmaterials.com).

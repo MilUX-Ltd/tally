@@ -7,7 +7,7 @@ hq: East Grinstead, United Kingdom
 uk-region: South East
 founded: 1965
 size: micro
-sources-verified: 2026-06-29
+sources-verified: 2026-07-03
 tags:
   - defence
   - sensors
@@ -41,4 +41,4 @@ Adams Electronics was established in 1965 and designs and manufactures hand-held
 
 ## Sources
 
-Public information verified 2026-06-29. ADS members directory (adsgroup.org.uk), Companies House (03546816).
+Public information verified 2026-07-03. ADS members directory (adsgroup.org.uk), Companies House (03546816).

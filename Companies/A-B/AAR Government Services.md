@@ -5,7 +5,7 @@ website: https://www.aarcorp.com/
 linkedin: https://www.linkedin.com/company/aar-corp
 hq: Wood Dale, Illinois, USA
 size: large
-sources-verified: 2026-06-29
+sources-verified: 2026-07-03
 tags:
   - defence
   - size-large

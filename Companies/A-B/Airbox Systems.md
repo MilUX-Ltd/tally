@@ -8,11 +8,12 @@ hq: Wantage, United Kingdom
 uk-region: South East
 founded: 2008
 size: small
-sources-verified: 2026-06-29
+sources-verified: 2026-07-03
 tags:
   - defence
   - software
   - c2
+  - c2/situational-awareness
   - isr
   - gis
   - air
@@ -51,4 +52,4 @@ Airbox Systems is an independent UK company founded in 2008 that develops softwa
 
 ## Sources
 
-Public information verified 2026-06-29. Company website (airboxsystems.com), Companies House (06534784), ADS Group members directory, Crown Commercial Service Digital Marketplace (G-Cloud), company LinkedIn page.
+Public information verified 2026-07-03. Company website (airboxsystems.com), Companies House (06534784), ADS Group members directory, Crown Commercial Service Digital Marketplace (G-Cloud), company LinkedIn page.

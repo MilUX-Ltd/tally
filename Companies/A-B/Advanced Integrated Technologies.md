@@ -8,12 +8,17 @@ hq: St Ives, United Kingdom
 uk-region: East of England
 founded: 2024
 size: micro
-sources-verified: 2026-06-29
+sources-verified: 2026-07-03
 tags:
   - defence
   - uas
+  - uas/platform
+  - uas/payload
   - counter-uas
+  - counter-uas/detection
+  - counter-uas/effector
   - sensors
+  - sensors/radar
   - rf
   - hardware
   - manufacturing

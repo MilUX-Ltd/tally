@@ -8,7 +8,7 @@ hq: Manchester, England
 uk-region: North West
 founded: 1981
 size: small
-sources-verified: 2026-06-29
+sources-verified: 2026-07-03
 tags:
   - defence
   - hardware

@@ -8,12 +8,17 @@ hq: London, United Kingdom
 uk-region: London
 founded: 2016
 size: medium
-sources-verified: 2026-06-29
+sources-verified: 2026-07-03
 tags:
   - defence
   - ai
+  - ai/nlp
+  - ai/decision-support
   - isr
+  - isr/osint
+  - isr/fusion
   - data
+  - data/analytics
   - software
   - size-medium
   - type-sme
@@ -51,4 +56,4 @@ Adarga develops artificial intelligence software that helps defence, national se
 
 ## Sources
 
-Public information verified 2026-06-29. Sources used: adarga.ai, LinkedIn company page, Companies House (09742902), ADS Group member directory, The Defense Post, Business Wire.
+Public information verified 2026-07-03. Sources used: adarga.ai, LinkedIn company page, Companies House (09742902), ADS Group member directory, The Defense Post, Business Wire.

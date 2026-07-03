@@ -6,7 +6,7 @@ linkedin: https://in.linkedin.com/company/accord-global-technology-solutions-pri
 hq: Bangalore, India
 founded: 1991
 size: large
-sources-verified: 2026-06-29
+sources-verified: 2026-07-03
 tags:
   - defence
   - size-large
