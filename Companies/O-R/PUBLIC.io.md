@@ -5,10 +5,11 @@ website: https://www.public.io/
 linkedin: https://www.linkedin.com/company/public.io/
 hq: London
 uk-region: Greater London
-sources-verified: 2026-06-29
+sources-verified: 2026-07-03
 tags:
   - defence
   - training
+  - training/courseware
   - software
   - type-sme
   - type-consultancy

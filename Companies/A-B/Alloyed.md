@@ -8,7 +8,7 @@ hq: Yarnton, United Kingdom
 uk-region: South East England
 founded: 2017
 size: medium
-sources-verified: 2026-06-29
+sources-verified: 2026-07-03
 tags:
   - defence
   - air

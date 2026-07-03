@@ -9,7 +9,7 @@ uk-region: South East
 founded: 2017
 size: large
 headcount: 250+
-sources-verified: 2026-06-29
+sources-verified: 2026-07-03
 tags:
   - defence
   - space
@@ -53,4 +53,4 @@ Astroscale develops in-orbit servicing solutions, including active debris remova
 
 ## Sources
 
-Public information verified 2026-06-29. Company website, Astroscale LinkedIn company page, ADS members directory (adsgroup.org.uk), Companies House (company 10689249), UK Space Agency contract reporting and Electronics Weekly.
+Public information verified 2026-07-03. Company website, Astroscale LinkedIn company page, ADS members directory (adsgroup.org.uk), Companies House (company 10689249), UK Space Agency contract reporting and Electronics Weekly.

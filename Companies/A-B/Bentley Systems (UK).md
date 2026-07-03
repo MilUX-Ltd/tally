@@ -7,13 +7,16 @@ companies-house: 02957722
 hq: Exton, Pennsylvania, United States
 uk-region: London
 size: large
-sources-verified: 2026-06-29
+sources-verified: 2026-07-03
 tags:
   - defence
   - software
   - data
+  - data/engineering
+  - data/visualisation
   - gis
   - simulation
+  - simulation/synthetic-environment
   - size-large
   - type-prime
   - owned-foreign

@@ -5,19 +5,23 @@ website: https://www.sonardyne.com
 hq: Yateley, UK
 uk-region: South East
 size: medium
-sources-verified: 2026-06-30
+sources-verified: 2026-07-03
 tags:
   - defence
   - mbr-ads
   - maritime
   - sensors
+  - sensors/acoustic-sonar
+  - sensors/pnt
   - comms
   - isr
   - autonomy
+  - autonomy/navigation
   - counter-uas
   - type-manufacturer
   - owned-uk
   - size-medium
+  - accr-iso9001
 ---
 
 # Sonardyne International Ltd
@@ -36,6 +40,7 @@ Sonardyne designs and manufactures instruments and systems for the maritime and 
 
 ## Frameworks, accreditations and memberships
 
+- **Accreditations:** ISO 9001:2015
 - **Memberships:** ADS Group
 
 ## Links
@@ -44,4 +49,4 @@ Sonardyne designs and manufactures instruments and systems for the maritime and 
 
 ## Sources
 
-Public information verified 2026-06-30. ADS members directory.
+Public information verified 2026-07-03. Company website (sonardyne.com), ADS members directory.

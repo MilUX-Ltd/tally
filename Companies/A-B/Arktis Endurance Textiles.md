@@ -9,7 +9,7 @@ uk-region: South West
 founded: 1985
 size: medium
 headcount: 11-50
-sources-verified: 2026-06-29
+sources-verified: 2026-07-03
 tags:
   - defence
   - land
@@ -46,4 +46,4 @@ Arktis Endurance Textiles manufactures and supplies clothing and equipment for m
 
 ## Sources
 
-Public information verified 2026-06-29. Arktis Endurance Textiles website, LinkedIn company page, ADS members directory, Companies House (NI649310), Joint Forces News.
+Public information verified 2026-07-03. Arktis Endurance Textiles website, LinkedIn company page, ADS members directory, Companies House (NI649310), Joint Forces News.

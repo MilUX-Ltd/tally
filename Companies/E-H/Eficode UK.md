@@ -9,7 +9,7 @@ uk-region: South East England
 founded: 2005
 size: medium
 headcount: 550
-sources-verified: 2026-06-29
+sources-verified: 2026-07-03
 tags:
   - defence
   - software

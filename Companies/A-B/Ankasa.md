@@ -8,11 +8,15 @@ hq: Cheltenham, United Kingdom
 uk-region: South West England
 founded: 2015
 size: micro
-sources-verified: 2026-06-29
+sources-verified: 2026-07-03
 tags:
   - defence
   - comms
+  - comms/tactical-radio
+  - comms/networking
   - c2
+  - c2/battle-management
+  - c2/integration
   - software
   - data
   - type-sme

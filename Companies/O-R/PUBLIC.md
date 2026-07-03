@@ -5,7 +5,7 @@ website: https://www.public.io
 linkedin: https://www.linkedin.com/company/public.io
 hq: London, UK
 size: small
-sources-verified: 2026-06-30
+sources-verified: 2026-07-03
 tags:
   - defence
   - size-small
@@ -13,6 +13,7 @@ tags:
   - software
   - data
   - training
+  - training/courseware
   - type-consultancy
   - owned-uk
 ---

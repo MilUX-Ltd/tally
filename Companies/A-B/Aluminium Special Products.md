@@ -8,7 +8,7 @@ hq: Kingswinford, United Kingdom
 uk-region: West Midlands
 founded: 2003
 size: small
-sources-verified: 2026-06-29
+sources-verified: 2026-07-03
 tags:
   - defence
   - air
@@ -47,4 +47,4 @@ Aluminium Special Products (ASP) supplies raw materials and customer-designed co
 
 ## Sources
 
-Public information verified 2026-06-29. ASP website (aspgroup.co.uk), ADS Group members directory, Midlands Aerospace Alliance, Companies House (company 04822805).
+Public information verified 2026-07-03. ASP website (aspgroup.co.uk), ADS Group members directory, Midlands Aerospace Alliance, Companies House (company 04822805).

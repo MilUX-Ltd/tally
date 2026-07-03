@@ -7,11 +7,13 @@ hq: Coventry, UK
 uk-region: West Midlands
 founded: 2007
 size: small
-sources-verified: 2026-06-29
+sources-verified: 2026-07-03
 tags:
   - defence
   - isr
+  - isr/imint
   - sensors
+  - sensors/eo-ir
   - optronics
   - surveillance
   - hardware

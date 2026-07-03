@@ -7,7 +7,7 @@ hq: Macomb, United States
 founded: 2012
 size: large
 headcount: 800+
-sources-verified: 2026-06-29
+sources-verified: 2026-07-03
 tags:
   - defence
   - air
@@ -48,4 +48,4 @@ Ascent Aerospace supplies production tooling and automated assembly systems for 
 
 ## Sources
 
-Public information verified 2026-06-29. ADS members directory (adsgroup.org.uk/members/ascent-aerospace-2), company website (ascentaerospace.com), company LinkedIn page, American Industrial Partners portfolio page. Ascent Aerospace is headquartered in Macomb, Michigan in the United States and is an ADS member with a UK presence.
+Public information verified 2026-07-03. ADS members directory (adsgroup.org.uk/members/ascent-aerospace-2), company website (ascentaerospace.com), company LinkedIn page, American Industrial Partners portfolio page. Ascent Aerospace is headquartered in Macomb, Michigan in the United States and is an ADS member with a UK presence.

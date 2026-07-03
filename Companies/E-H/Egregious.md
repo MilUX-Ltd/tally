@@ -9,11 +9,14 @@ uk-region: London
 founded: 2023
 size: micro
 headcount: 7
-sources-verified: 2026-06-29
+sources-verified: 2026-07-03
 tags:
   - defence
   - ai
+  - ai/ml-analytics
+  - ai/nlp
   - isr
+  - isr/osint
   - cyber
   - data
   - software

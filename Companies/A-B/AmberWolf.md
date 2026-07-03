@@ -8,10 +8,12 @@ hq: Harrogate, United Kingdom
 uk-region: Yorkshire and the Humber
 founded: 2021
 size: small
-sources-verified: 2026-06-29
+sources-verified: 2026-07-03
 tags:
   - defence
   - cyber
+  - cyber/red-team
+  - cyber/pen-testing
   - size-small
   - type-sme
   - owned-uk

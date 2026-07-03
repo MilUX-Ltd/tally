@@ -7,7 +7,7 @@ hq: Alton, United Kingdom
 uk-region: South East England
 founded: 2008
 size: micro
-sources-verified: 2026-06-29
+sources-verified: 2026-07-03
 tags:
   - defence
   - land

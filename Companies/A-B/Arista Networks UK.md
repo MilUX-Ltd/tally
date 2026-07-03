@@ -8,10 +8,11 @@ hq: Santa Clara, United States
 uk-region: London
 founded: 2009
 size: large
-sources-verified: 2026-06-29
+sources-verified: 2026-07-03
 tags:
   - defence
   - comms
+  - comms/networking
   - data
   - cyber
   - software

@@ -9,7 +9,7 @@ uk-region: South East
 founded: 1961
 size: large
 headcount: 250+
-sources-verified: 2026-06-29
+sources-verified: 2026-07-03
 tags:
   - defence
   - maritime
@@ -53,4 +53,4 @@ AtkinsRéalis is a professional services and project-management company. Its UK 
 
 ## Sources
 
-Public information verified 2026-06-29. Company website (atkinsrealis.com), AtkinsRéalis LinkedIn company page, ADS members directory (adsgroup.org.uk), Companies House (company 00688424), Rolls-Royce and trade press reporting.
+Public information verified 2026-07-03. Company website (atkinsrealis.com), AtkinsRéalis LinkedIn company page, ADS members directory (adsgroup.org.uk), Companies House (company 00688424), Rolls-Royce and trade press reporting.

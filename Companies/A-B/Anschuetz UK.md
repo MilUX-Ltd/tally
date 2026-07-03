@@ -8,12 +8,14 @@ hq: Kiel, Germany
 uk-region: South East England
 founded: 2022
 size: small
-sources-verified: 2026-06-29
+sources-verified: 2026-07-03
 tags:
   - defence
   - maritime
   - sensors
+  - sensors/pnt
   - c2
+  - c2/situational-awareness
   - size-small
   - type-integrator
   - owned-foreign

@@ -8,12 +8,15 @@ hq: Guildford, United Kingdom
 uk-region: South East
 founded: 1987
 size: small
-sources-verified: 2026-06-29
+sources-verified: 2026-07-03
 tags:
   - defence
   - optronics
   - sensors
+  - sensors/eo-ir
   - drones
+  - uas
+  - uas/platform
   - robotics
   - land
   - size-small

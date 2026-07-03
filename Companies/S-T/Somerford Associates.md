@@ -4,11 +4,20 @@ name: Somerford Associates
 website: http://www.somerfordassociates.com
 hq: Cirencester, UK
 uk-region: South West
-sources-verified: 2026-06-30
+sources-verified: 2026-07-03
 tags:
   - defence
   - cyber
+  - cyber/soc-monitoring
+  - cyber/incident-response
+  - cyber/threat-intel
+  - cyber/vuln-management
+  - cyber/idam
+  - cyber/grc
+  - cyber/ot-security
   - data
+  - data/analytics
+  - data/visualisation
   - software
   - type-consultancy
   - type-sme
@@ -39,4 +48,4 @@ Somerford Associates delivers security-cleared consultancy and platform integrat
 
 ## Sources
 
-Public information verified 2026-06-30. Company website, ADS members directory, JOSCAR register.
+Public information verified 2026-07-03. Company website, ADS members directory, JOSCAR register.

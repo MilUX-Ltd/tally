@@ -7,7 +7,7 @@ hq: Cirencester, United Kingdom
 uk-region: South West
 founded: 2023
 size: small
-sources-verified: 2026-06-29
+sources-verified: 2026-07-03
 tags:
   - defence
   - data
@@ -42,4 +42,4 @@ Avantis Performance is a consultancy supporting digital transformation, capabili
 
 ## Sources
 
-Public information verified 2026-06-29. Company website (avantisperformance.com), ADS members directory, Companies House (14688080, incorporated 24 February 2023).
+Public information verified 2026-07-03. Company website (avantisperformance.com), ADS members directory, Companies House (14688080, incorporated 24 February 2023).

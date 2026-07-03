@@ -8,7 +8,7 @@ hq: Montmirail, France
 uk-region: Scotland
 size: medium
 headcount: 50+
-sources-verified: 2026-06-29
+sources-verified: 2026-07-03
 tags:
   - defence
   - air

@@ -7,13 +7,16 @@ hq: Troy, Michigan, United States
 uk-region: West Midlands
 founded: 1985
 size: large
-sources-verified: 2026-06-29
+sources-verified: 2026-07-03
 tags:
   - defence
   - simulation
+  - simulation/synthetic-environment
   - software
   - ai
+  - ai/ml-analytics
   - data
+  - data/analytics
   - test-evaluation
   - size-large
   - type-manufacturer
@@ -49,4 +52,4 @@ Altair provides software and cloud solutions in simulation, high performance com
 
 ## Sources
 
-Public information verified 2026-06-29. Company website; Companies House (company 03051069); ADS Group members directory.
+Public information verified 2026-07-03. Company website; Companies House (company 03051069); ADS Group members directory.

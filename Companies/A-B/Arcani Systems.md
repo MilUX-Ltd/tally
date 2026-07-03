@@ -8,12 +8,15 @@ hq: London, United Kingdom
 uk-region: London
 founded: 2024
 size: micro
-sources-verified: 2026-06-29
+sources-verified: 2026-07-03
 tags:
   - defence
   - counter-uas
+  - counter-uas/detection
   - sensors
+  - sensors/acoustic-sonar
   - c2
+  - c2/situational-awareness
   - autonomy
   - hardware
   - software

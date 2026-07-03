@@ -7,7 +7,7 @@ companies-house: SC794912
 hq: Livingston, Scotland
 uk-region: Scotland
 size: small
-sources-verified: 2026-06-29
+sources-verified: 2026-07-03
 tags:
   - defence
   - manufacturing

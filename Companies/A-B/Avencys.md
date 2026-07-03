@@ -4,7 +4,7 @@ name: Avencys
 hq: Berkshire, United Kingdom
 uk-region: South East
 size: small
-sources-verified: 2026-06-29
+sources-verified: 2026-07-03
 tags:
   - defence
   - test-evaluation
@@ -32,4 +32,4 @@ Avencys is a professional services provider that primarily supports defence cust
 
 ## Sources
 
-Public information verified 2026-06-29. ADS Group member directory (member listing for Avencys, Berkshire, South East).
+Public information verified 2026-07-03. ADS Group member directory (member listing for Avencys, Berkshire, South East). No company website, distinct company LinkedIn page or confirmed Companies House registration could be identified publicly for this entity; the ADS listing remains the only verifiable public source.

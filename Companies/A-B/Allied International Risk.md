@@ -8,10 +8,11 @@ hq: High Wycombe, United Kingdom
 uk-region: South East England
 founded: 2015
 size: small
-sources-verified: 2026-06-29
+sources-verified: 2026-07-03
 tags:
   - defence
   - training
+  - training/instruction
   - size-small
   - type-sme
   - type-consultancy

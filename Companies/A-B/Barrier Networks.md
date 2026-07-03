@@ -9,10 +9,16 @@ uk-region: Scotland
 founded: 2006
 size: small
 headcount: 10-49
-sources-verified: 2026-06-29
+sources-verified: 2026-07-03
 tags:
   - defence
   - cyber
+  - cyber/soc-monitoring
+  - cyber/incident-response
+  - cyber/pen-testing
+  - cyber/vuln-management
+  - cyber/grc
+  - cyber/ot-security
   - software
   - size-small
   - type-sme

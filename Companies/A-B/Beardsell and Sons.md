@@ -7,7 +7,7 @@ hq: Maryport, United Kingdom
 uk-region: North West
 founded: 2018
 size: micro
-sources-verified: 2026-06-29
+sources-verified: 2026-07-03
 tags:
   - defence
   - land

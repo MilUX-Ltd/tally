@@ -8,10 +8,11 @@ hq: Ballynahinch, United Kingdom
 uk-region: Northern Ireland
 founded: 2017
 size: micro
-sources-verified: 2026-06-29
+sources-verified: 2026-07-03
 tags:
   - defence
   - cyber
+  - cyber/ot-security
   - sensors
   - hardware
   - size-micro
@@ -50,4 +51,4 @@ Ark Integrated Solutions provides engineered solutions to the security and defen
 
 ## Sources
 
-Public information verified 2026-06-29. ADS Group members directory, Companies House (NI645706), Security & Policing 2025 exhibitor listing, Ark Integrated Solutions website (arkcrs.com).
+Public information verified 2026-07-03. ADS Group members directory, Companies House (NI645706), Security & Policing 2025 exhibitor listing, Ark Integrated Solutions website (arkcrs.com).

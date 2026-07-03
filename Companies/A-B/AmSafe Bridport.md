@@ -7,7 +7,7 @@ companies-house: 00140449
 hq: Bridport, United Kingdom
 uk-region: South West
 size: medium
-sources-verified: 2026-06-29
+sources-verified: 2026-07-03
 tags:
   - defence
   - manufacturing
@@ -54,4 +54,4 @@ AmSafe Bridport designs and manufactures engineered textile solutions for aerosp
 
 ## Sources
 
-Public information verified 2026-06-29. Company website (amsafebridport.com), ADS Group member listing, Companies House (00140449), TransDigm Group website. AmSafe Bridport Limited is a UK subsidiary of the US-listed TransDigm Group.
+Public information verified 2026-07-03. Company website (amsafebridport.com), ADS Group member listing, Companies House (00140449), TransDigm Group website. AmSafe Bridport Limited is a UK subsidiary of the US-listed TransDigm Group.

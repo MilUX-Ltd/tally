@@ -8,7 +8,7 @@ hq: Warrington, United Kingdom
 uk-region: North West
 size: large
 headcount: 6,000+ in the UK
-sources-verified: 2026-06-29
+sources-verified: 2026-07-03
 tags:
   - defence
   - logistics

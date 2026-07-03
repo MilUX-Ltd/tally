@@ -8,11 +8,12 @@ uk-region: London
 founded: 1985
 size: large
 headcount: 1,350+
-sources-verified: 2026-06-29
+sources-verified: 2026-07-03
 tags:
   - defence
   - maritime
   - simulation
+  - simulation/synthetic-environment
   - software
   - type-consultancy
   - size-large
@@ -32,6 +33,8 @@ BMT Group is a multidisciplinary engineering, science and technology consultancy
 
 - **Maritime design and naval architecture** - concept-to-detailed design services for advanced and specialised vessels.
 - **Defence design support** - contributions to programmes including the Queen Elizabeth class aircraft carriers, Tide class tankers, Type 31 frigates and the Fleet Solid Support programme.
+- **REMBRANDT** - a DNV-certified ship simulation and synthetic-environment platform used for training, port feasibility studies, autonomy validation and forensic replay.
+- **Synthetic Environment Assurance Service (SEAS)** - a synthetic-environment testbed for assuring maritime systems and autonomy.
 - **Risk and contract management** - engineering, design support and risk management consultancy.
 
 ## Frameworks, accreditations and memberships
@@ -49,4 +52,4 @@ BMT Group is a multidisciplinary engineering, science and technology consultancy
 
 ## Sources
 
-Public information verified 2026-06-29. Sources used: bmt.org, LinkedIn company page, Wikipedia, ADS Group member directory, Society of Maritime Industries directory, Naval Technology.
+Public information verified 2026-07-03. Sources used: bmt.org (including the REMBRANDT and Synthetic Environment Assurance Service pages), LinkedIn company page, Wikipedia, ADS Group member directory, Society of Maritime Industries directory, Naval Technology.

@@ -7,7 +7,7 @@ hq: Whitstable, United Kingdom
 uk-region: South East
 founded: 1963
 size: large
-sources-verified: 2026-06-29
+sources-verified: 2026-07-03
 tags:
   - defence
   - hardware

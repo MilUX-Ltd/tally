@@ -8,7 +8,7 @@ hq: Batley, United Kingdom
 uk-region: Yorkshire and the Humber
 founded: 1965
 size: medium
-sources-verified: 2026-06-29
+sources-verified: 2026-07-03
 tags:
   - defence
   - land

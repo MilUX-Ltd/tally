@@ -8,11 +8,13 @@ hq: Tewkesbury, United Kingdom
 uk-region: South West England
 founded: 1975
 size: medium
-sources-verified: 2026-06-29
+sources-verified: 2026-07-03
 tags:
   - defence
   - counter-uas
+  - counter-uas/effector
   - ew
+  - ew/ecm
   - comms
   - rf
   - hardware

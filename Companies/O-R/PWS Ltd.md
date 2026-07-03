@@ -4,7 +4,7 @@ name: PWS Ltd
 website: http://www.pwsltd.co.uk
 hq: Wimborne, UK
 uk-region: South West
-sources-verified: 2026-06-30
+sources-verified: 2026-07-03
 tags:
   - defence
   - mbr-ads
@@ -27,6 +27,7 @@ PWS manufactures sheet metal assemblies, structural fabrications and precision c
 
 - **Sheet Metal Assemblies** - Fine-limit assemblies in a range of aerospace and defence-grade alloys.
 - **Structural Fabrications** - Large structural fabrications for aerospace and defence platforms.
+- **Prismatic Machining** - Precision machined components and sub-assemblies to customer specification.
 
 ## Frameworks, accreditations and memberships
 
@@ -38,4 +39,4 @@ PWS manufactures sheet metal assemblies, structural fabrications and precision c
 
 ## Sources
 
-Public information verified 2026-06-30. DEVONthink CRM record (ADS directory snapshot, 2026-05-15).
+Public information verified 2026-07-03. ADS Group member directory profile (https://www.adsgroup.org.uk/members/pws-ltd-2/). No further independent public detail (website content, accreditations, recent news) could be located beyond the ADS listing at time of verification.

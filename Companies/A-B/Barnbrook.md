@@ -9,7 +9,7 @@ uk-region: South East England
 founded: 1978
 size: small
 headcount: ~50
-sources-verified: 2026-06-29
+sources-verified: 2026-07-03
 tags:
   - defence
   - maritime
@@ -17,6 +17,7 @@ tags:
   - hardware
   - manufacturing
   - sensors
+  - sensors/pnt
   - data
   - size-small
   - type-manufacturer

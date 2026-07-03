@@ -9,11 +9,14 @@ uk-region: East Midlands
 founded: 2009
 size: medium
 headcount: 80+
-sources-verified: 2026-06-29
+sources-verified: 2026-07-03
 tags:
   - defence
   - cyber
+  - cyber/soc-monitoring
+  - cyber/incident-response
   - comms
+  - comms/networking
   - software
   - sensors
   - size-medium
@@ -57,4 +60,4 @@ Alton Valley designs, builds and manages security, network and application syste
 
 ## Sources
 
-Public information verified 2026-06-29. Alton Valley website (altonvalley.com), ADS Group members directory.
+Public information verified 2026-07-03. Alton Valley website (altonvalley.com), ADS Group members directory.

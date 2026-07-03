@@ -6,7 +6,7 @@ hq: Wool, England
 uk-region: South West England
 founded: 2018
 size: micro
-sources-verified: 2026-06-29
+sources-verified: 2026-07-03
 tags:
   - defence
   - software
@@ -32,4 +32,4 @@ None publicly evidenced.
 
 ## Sources
 
-Public information verified 2026-06-29. Companies House (company number 11680797, status Active, incorporated 16 November 2018, registered office Wool, Wareham, Dorset). No company website, LinkedIn company page, services list, accreditations or recent news could be confirmed from public sources, so those fields are omitted rather than guessed. Note: several unrelated "Assaye" companies exist (Assaye Risk Limited 08290331, Assaye Elite Security Ltd SC791909, Assaye Technologies Limited SC673183); this entry covers only Assaye Defence Consultancy Ltd.
+Public information verified 2026-07-03. Companies House (company number 11680797, status Active, incorporated 16 November 2018, registered office Wool, Wareham, Dorset). No company website, LinkedIn company page, services list, accreditations or recent news could be confirmed from public sources, so those fields are omitted rather than guessed. Note: several unrelated "Assaye" companies exist (Assaye Risk Limited 08290331, Assaye Elite Security Ltd SC791909, Assaye Technologies Limited SC673183); this entry covers only Assaye Defence Consultancy Ltd.

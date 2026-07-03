@@ -7,10 +7,11 @@ companies-house: 06133927
 hq: London, United Kingdom
 uk-region: London
 size: medium
-sources-verified: 2026-06-29
+sources-verified: 2026-07-03
 tags:
   - defence
   - comms
+  - comms/satcom
   - space
   - sensors
   - size-medium
@@ -51,4 +52,4 @@ Avanti Communications is a satellite operator selling wholesale satellite broadb
 
 ## Sources
 
-Public information verified 2026-06-29. Company website (avanti.space), ADS members directory, Companies House (06133927), Wikipedia, ASD News, Avanti news releases.
+Public information verified 2026-07-03. Company website (avanti.space), ADS members directory, Companies House (06133927), Wikipedia, ASD News, Avanti news releases.

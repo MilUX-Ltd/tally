@@ -8,7 +8,7 @@ hq: Stevenage, England
 uk-region: East of England
 founded: 1988
 size: medium
-sources-verified: 2026-06-29
+sources-verified: 2026-07-03
 tags:
   - defence
   - hardware
@@ -52,4 +52,4 @@ Astute Electronics, trading as Astute Group, distributes franchised electronic c
 
 ## Sources
 
-Public information verified 2026-06-29. Company website (astutegroup.com), Astute LinkedIn company page, ADS members directory (adsgroup.org.uk), Companies House (company 02326213).
+Public information verified 2026-07-03. Company website (astutegroup.com), Astute LinkedIn company page, ADS members directory (adsgroup.org.uk), Companies House (company 02326213).

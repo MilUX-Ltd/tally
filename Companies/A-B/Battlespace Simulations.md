@@ -6,13 +6,16 @@ linkedin: https://www.linkedin.com/company/battlespace-simulations-inc-
 hq: United States
 founded: 2005
 size: small
-sources-verified: 2026-06-29
+sources-verified: 2026-07-03
 tags:
   - defence
   - simulation
+  - simulation/synthetic-environment
   - training
+  - training/instruction
   - software
   - c2
+  - c2/mission-planning
   - size-small
   - type-sme
   - owned-foreign

@@ -9,7 +9,7 @@ uk-region: Greater London
 founded: 2010
 size: small
 headcount: ~116
-sources-verified: 2026-06-29
+sources-verified: 2026-07-03
 tags:
   - defence
   - air

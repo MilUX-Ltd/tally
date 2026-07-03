@@ -7,11 +7,13 @@ hq: New York, United States
 uk-region: London
 founded: 2021
 size: medium
-sources-verified: 2026-06-29
+sources-verified: 2026-07-03
 tags:
   - defence
   - ai
+  - ai/decision-support
   - data
+  - data/analytics
   - software
   - logistics
   - size-medium
@@ -48,4 +50,4 @@ Altana applies artificial intelligence to supply chain data to map supplier and 
 
 ## Sources
 
-Public information verified 2026-06-29. Company website; Companies House (company 13668201); ADS Group members directory; GOV.UK Armed Forces Covenant signatories.
+Public information verified 2026-07-03. Company website; Companies House (company 13668201); ADS Group members directory; GOV.UK Armed Forces Covenant signatories.

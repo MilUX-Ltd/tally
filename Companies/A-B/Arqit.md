@@ -7,10 +7,11 @@ hq: London, United Kingdom
 uk-region: London
 founded: 2017
 size: small
-sources-verified: 2026-06-29
+sources-verified: 2026-07-03
 tags:
   - defence
   - cyber
+  - cyber/encryption
   - quantum
   - comms
   - software
@@ -50,4 +51,4 @@ Arqit develops symmetric key agreement (SKA) technology for quantum-safe encrypt
 
 ## Sources
 
-Public information verified 2026-06-29. Arqit website, investor relations site, LinkedIn company page, ADS members directory.
+Public information verified 2026-07-03. Arqit website, investor relations site, LinkedIn company page, ADS members directory.

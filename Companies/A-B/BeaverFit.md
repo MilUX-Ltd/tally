@@ -8,7 +8,7 @@ hq: Church Stretton, United Kingdom
 uk-region: West Midlands
 founded: 2010
 size: small
-sources-verified: 2026-06-29
+sources-verified: 2026-07-03
 tags:
   - defence
   - training

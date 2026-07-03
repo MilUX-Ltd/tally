@@ -9,13 +9,14 @@ uk-region: London
 founded: 1989
 size: large
 headcount: 10,000+
-sources-verified: 2026-06-29
+sources-verified: 2026-07-03
 tags:
   - defence
   - maritime
   - land
   - air
   - training
+  - training/instruction
   - logistics
   - manufacturing
   - size-large

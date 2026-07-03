@@ -9,7 +9,7 @@ uk-region: London
 founded: 1970
 size: large
 headcount: 1000
-sources-verified: 2026-06-29
+sources-verified: 2026-07-03
 tags:
   - defence
   - manufacturing

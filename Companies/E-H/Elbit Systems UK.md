@@ -9,20 +9,25 @@ uk-region: South East
 founded: 2004
 size: large
 headcount: 680
-sources-verified: 2026-06-29
+sources-verified: 2026-07-03
 tags:
   - defence
   - uas
+  - uas/platform
   - drones
   - optronics
   - simulation
+  - simulation/synthetic-environment
   - training
+  - training/instruction
   - ew
   - c2
+  - c2/battle-management
   - air
   - land
   - maritime
   - sensors
+  - sensors/eo-ir
   - size-large
   - type-prime
   - type-manufacturer

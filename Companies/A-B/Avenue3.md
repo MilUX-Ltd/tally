@@ -8,10 +8,11 @@ hq: Leeds, England
 uk-region: Yorkshire and the Humber
 founded: 2020
 size: micro
-sources-verified: 2026-06-29
+sources-verified: 2026-07-03
 tags:
   - defence
   - data
+  - data/engineering
   - software
   - size-micro
   - type-consultancy

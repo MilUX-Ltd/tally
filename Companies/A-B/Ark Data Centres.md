@@ -9,7 +9,7 @@ uk-region: South West
 founded: 2005
 size: medium
 headcount: 51-200
-sources-verified: 2026-06-29
+sources-verified: 2026-07-03
 tags:
   - defence
   - data

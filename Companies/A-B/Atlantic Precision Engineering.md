@@ -9,7 +9,7 @@ uk-region: South East England
 founded: 1989
 size: small
 headcount: 11-50
-sources-verified: 2026-06-29
+sources-verified: 2026-07-03
 tags:
   - defence
   - air
@@ -51,4 +51,4 @@ Atlantic Precision Engineering manufactures high-precision, close-toleranced mac
 
 ## Sources
 
-Public information verified 2026-06-29. Company website (atlantic-precision.co.uk), ADS Group member profile (adsgroup.org.uk/members/atlantic-precision-engineering-ltd), Companies House (company 02448830), Airframer directory.
+Public information verified 2026-07-03. Company website (atlantic-precision.co.uk), ADS Group member profile (adsgroup.org.uk/members/atlantic-precision-engineering-ltd), Companies House (company 02448830), Airframer directory.

@@ -9,11 +9,12 @@ uk-region: West Midlands
 founded: 1957
 size: large
 headcount: ~1300
-sources-verified: 2026-06-29
+sources-verified: 2026-07-03
 tags:
   - defence
   - simulation
   - data
+  - data/visualisation
   - manufacturing
   - size-large
   - type-consultancy

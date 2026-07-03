@@ -7,11 +7,12 @@ hq: Exeter, United Kingdom
 uk-region: South West England
 founded: 2022
 size: micro
-sources-verified: 2026-06-29
+sources-verified: 2026-07-03
 tags:
   - defence
   - drones
   - uas
+  - uas/platform
   - logistics
   - training
   - counter-uas

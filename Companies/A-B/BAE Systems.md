@@ -8,14 +8,21 @@ hq: London, United Kingdom
 uk-region: London
 size: large
 headcount: ~93,500 worldwide
-sources-verified: 2026-06-29
+sources-verified: 2026-07-03
 tags:
   - defence
   - air
   - land
   - maritime
   - cyber
+  - cyber/pen-testing
+  - cyber/threat-intel
+  - cyber/incident-response
+  - cyber/soc-monitoring
   - isr
+  - isr/geoint
+  - isr/sigint
+  - isr/fusion
   - c2
   - munitions
   - manufacturing

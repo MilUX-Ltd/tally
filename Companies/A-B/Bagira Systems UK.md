@@ -8,11 +8,13 @@ hq: Rishon LeZion, Israel
 uk-region: London
 founded: 2023
 size: small
-sources-verified: 2026-06-29
+sources-verified: 2026-07-03
 tags:
   - defence
   - simulation
+  - simulation/lvc
   - training
+  - training/courseware
   - land
   - uas
   - size-small

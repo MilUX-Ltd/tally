@@ -7,7 +7,7 @@ hq: Cheltenham, England
 uk-region: South West England
 founded: 2019
 size: small
-sources-verified: 2026-06-29
+sources-verified: 2026-07-03
 tags:
   - defence
   - cyber
@@ -41,4 +41,4 @@ Atlantic+ was founded in 2019 and provides specialist knowledge, skills and expe
 
 ## Sources
 
-Public information verified 2026-06-29. Company website (atlantic-plus.co.uk), ADS Group member profile (adsgroup.org.uk/members/atlantic-ltd-1), Companies House (company 12435769), Armed Forces Covenant business listing (gov.uk).
+Public information verified 2026-07-03. Company website (atlantic-plus.co.uk), ADS Group member profile (adsgroup.org.uk/members/atlantic-ltd-1), Companies House (company 12435769), Armed Forces Covenant business listing (gov.uk).

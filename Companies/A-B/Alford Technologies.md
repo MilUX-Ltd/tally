@@ -8,13 +8,15 @@ hq: Trowbridge, United Kingdom
 uk-region: South West England
 founded: 1985
 size: small
-sources-verified: 2026-06-29
+sources-verified: 2026-07-03
 tags:
   - defence
   - munitions
   - land
   - maritime
   - training
+  - training/instruction
+  - training/courseware
   - hardware
   - manufacturing
   - size-small

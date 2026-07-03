@@ -8,10 +8,13 @@ hq: London, United Kingdom
 uk-region: London
 founded: 2015
 size: small
-sources-verified: 2026-06-29
+sources-verified: 2026-07-03
 tags:
   - defence
   - cyber
+  - cyber/pen-testing
+  - cyber/grc
+  - cyber/incident-response
   - size-small
   - type-sme
   - type-consultancy

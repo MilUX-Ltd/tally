@@ -8,7 +8,7 @@ hq: Preston, United Kingdom
 uk-region: North West
 founded: 1986
 size: small
-sources-verified: 2026-06-29
+sources-verified: 2026-07-03
 tags:
   - defence
   - manufacturing

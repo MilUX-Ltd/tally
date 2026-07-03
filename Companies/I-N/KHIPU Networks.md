@@ -8,11 +8,15 @@ hq: Fleet, United Kingdom
 uk-region: South East England
 founded: 2005
 size: medium
-sources-verified: 2026-06-29
+sources-verified: 2026-07-03
 tags:
   - defence
   - cyber
+  - cyber/soc-monitoring
+  - cyber/incident-response
+  - cyber/grc
   - comms
+  - comms/networking
   - software
   - data
   - size-medium

@@ -9,14 +9,21 @@ uk-region: London
 founded: 2009
 size: large
 headcount: ~1,000 (UK)
-sources-verified: 2026-06-29
+sources-verified: 2026-07-03
 tags:
   - defence
   - software
   - ai
+  - ai/generative
+  - ai/decision-support
   - data
+  - data/analytics
+  - data/engineering
   - c2
+  - c2/battle-management
+  - c2/targeting
   - isr
+  - isr/fusion
   - size-large
   - type-prime
   - owned-foreign

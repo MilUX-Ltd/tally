@@ -8,12 +8,14 @@ hq: Cambridge, United Kingdom
 uk-region: East of England
 founded: 2011
 size: small
-sources-verified: 2026-06-29
+sources-verified: 2026-07-03
 tags:
   - defence
   - radar
   - sensors
+  - sensors/radar
   - counter-uas
+  - counter-uas/detection
   - isr
   - air
   - size-small

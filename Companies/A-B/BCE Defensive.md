@@ -7,7 +7,7 @@ hq: Plymouth, United Kingdom
 uk-region: South West
 founded: 2022
 size: micro
-sources-verified: 2026-06-29
+sources-verified: 2026-07-03
 tags:
   - defence
   - manufacturing
@@ -28,7 +28,7 @@ BCE Defensive (Ballistic Combat Equipment) is a UK company specialising in the d
 
 ## Products and solutions
 
-- **NG-Serpa** - a military neck protection system designed to guard against fragmentation and shrapnel in combat. The ballistic neck-gaiter has been tested for thermal loading, breathing allowance and general ergonomics.
+- **NG-Serpa** - a military neck protection system designed to guard against fragmentation and shrapnel in combat. The ballistic neck-gaiter has been tested for thermal loading, breathing allowance and general ergonomics within a combat-simulated environment.
 
 ## Recent news
 
@@ -40,4 +40,4 @@ BCE Defensive (Ballistic Combat Equipment) is a UK company specialising in the d
 
 ## Sources
 
-Public information verified 2026-06-29. Company website (bcedefensive.com), Companies House record for BCE Defensive Ltd (14399445), and public product references to the NG-Serpa neck protection.
+Public information verified 2026-07-03. Company website (bcedefensive.com), Companies House record for BCE Defensive Ltd (14399445), and public product references to the NG-Serpa neck protection. No verified LinkedIn company page identified.

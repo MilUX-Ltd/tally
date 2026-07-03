@@ -7,12 +7,13 @@ companies-house: 12316056
 hq: London, United Kingdom
 uk-region: London
 size: medium
-sources-verified: 2026-06-29
+sources-verified: 2026-07-03
 tags:
   - defence
   - autonomy
   - drones
   - uas
+  - uas/platform
   - ai
   - robotics
   - sensors

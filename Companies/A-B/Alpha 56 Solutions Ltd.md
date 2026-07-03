@@ -9,12 +9,16 @@ uk-region: West Midlands
 founded: 2020
 size: micro
 headcount: 4
-sources-verified: 2026-06-29
+sources-verified: 2026-07-03
 tags:
   - defence
   - comms
+  - comms/tactical-radio
+  - comms/satcom
   - c2
+  - c2/integration
   - training
+  - training/instruction
   - isr
   - type-sme
   - type-integrator
@@ -47,4 +51,4 @@ Alpha 56 Solutions delivers tactical communications systems, end-to-end system i
 
 ## Sources
 
-Public information verified 2026-06-29. Sources: alpha56.co.uk; Companies House (12392408); gov.uk Armed Forces Covenant register; securityandpolicing.co.uk exhibitor listing; LinkedIn company page.
+Public information verified 2026-07-03. Sources: alpha56.co.uk; Companies House (12392408); gov.uk Armed Forces Covenant register; securityandpolicing.co.uk exhibitor listing; LinkedIn company page.

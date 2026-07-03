@@ -2,15 +2,18 @@
 type: organisation
 name: BattleBottle
 website: https://battlebottle.tech/
-sources-verified: 2026-06-29
+sources-verified: 2026-07-03
 tags:
   - defence
   - ai
+  - ai/decision-support
   - simulation
+  - simulation/synthetic-environment
   - drones
   - uas
   - training
   - data
+  - data/labelling
   - type-startup
 ---
 # BattleBottle

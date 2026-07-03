@@ -8,7 +8,7 @@ hq: Westbury, United Kingdom
 uk-region: South West
 founded: 2006
 size: small
-sources-verified: 2026-06-29
+sources-verified: 2026-07-03
 tags:
   - defence
   - simulation
@@ -52,4 +52,4 @@ Arke is an independent SME consultancy based in Westbury, Wiltshire, working wit
 
 ## Sources
 
-Public information verified 2026-06-29. Arke Ltd website, LinkedIn company page, ADS members directory, Companies House (05715322).
+Public information verified 2026-07-03. Arke Ltd website, LinkedIn company page, ADS members directory, Companies House (05715322).

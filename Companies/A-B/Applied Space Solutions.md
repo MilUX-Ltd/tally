@@ -7,7 +7,7 @@ hq: Camberley, United Kingdom
 uk-region: South East
 founded: 2017
 size: small
-sources-verified: 2026-06-29
+sources-verified: 2026-07-03
 tags:
   - defence
   - space
@@ -15,6 +15,7 @@ tags:
   - sensors
   - data
   - ai
+  - ai/computer-vision
   - size-small
   - type-sme
   - owned-uk

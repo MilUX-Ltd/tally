@@ -9,11 +9,12 @@ uk-region: London
 founded: 2022
 size: micro
 headcount: <10
-sources-verified: 2026-06-29
+sources-verified: 2026-07-03
 tags:
   - defence
   - space
   - data
+  - data/analytics
   - size-micro
   - type-sme
   - type-consultancy

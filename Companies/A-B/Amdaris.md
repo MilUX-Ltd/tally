@@ -4,12 +4,13 @@ name: Amdaris
 website: https://www.amdaris.com
 hq: Bristol
 uk-region: South West England
-sources-verified: 2026-06-29
+sources-verified: 2026-07-03
 tags:
   - defence
   - software
   - ai
   - data
+  - data/engineering
   - type-consultancy
   - mbr-ads
 ---

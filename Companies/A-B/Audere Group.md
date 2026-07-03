@@ -9,10 +9,11 @@ uk-region: London
 founded: 2015
 size: small
 headcount: 30-50
-sources-verified: 2026-06-29
+sources-verified: 2026-07-03
 tags:
   - defence
   - isr
+  - isr/osint
   - data
   - size-small
   - type-consultancy
@@ -44,4 +45,4 @@ Audere provides intelligence-led security, commercial intelligence, investigatio
 
 ## Sources
 
-Public information verified 2026-06-29. Company websites (auderegroup.com, audereinternational.com), ADS members directory, Companies House (15034255; trading entity Audere International Limited 08869591), GOV.UK Armed Forces Covenant business list.
+Public information verified 2026-07-03. Company websites (auderegroup.com, audereinternational.com), ADS members directory, Companies House (15034255; trading entity Audere International Limited 08869591), GOV.UK Armed Forces Covenant business list.

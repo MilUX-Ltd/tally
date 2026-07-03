@@ -7,10 +7,11 @@ hq: Mountain View, California, USA
 founded: 2012
 size: large
 headcount: 3000
-sources-verified: 2026-06-29
+sources-verified: 2026-07-03
 tags:
   - defence
   - cyber
+  - cyber/soc-monitoring
   - data
   - software
   - size-large

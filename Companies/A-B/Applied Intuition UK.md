@@ -5,11 +5,14 @@ website: https://www.appliedintuition.com
 hq: Mountain View, United States
 founded: 2025
 size: small
-sources-verified: 2026-06-29
+sources-verified: 2026-07-03
 tags:
   - defence
   - autonomy
+  - autonomy/swarming
+  - autonomy/uxv-control
   - simulation
+  - simulation/synthetic-environment
   - software
   - ai
   - maritime

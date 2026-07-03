@@ -8,12 +8,14 @@ hq: Edinburgh, United Kingdom
 uk-region: Scotland
 founded: 1993
 size: small
-sources-verified: 2026-06-29
+sources-verified: 2026-07-03
 tags:
   - defence
   - hardware
   - space
   - sensors
+  - sensors/radar
+  - sensors/acoustic-sonar
   - manufacturing
   - size-small
   - type-manufacturer
@@ -34,6 +36,7 @@ Alpha Data was founded in 1993 in Edinburgh and supplies commercial-off-the-shel
 
 - **FPGA computing boards** - reconfigurable hardware for embedded and high performance computing applications.
 - **FPGA Full System Stacks** - integrated hardware and software platforms, developed in partnership with Missing Link Electronics, for defence and aerospace customers.
+- **Radar and sonar signal processing boards** - FPGA-accelerated boards for real-time radar and sonar data capture, beamforming and signal analysis.
 
 ## Frameworks, accreditations and memberships
 
@@ -47,4 +50,4 @@ Alpha Data was founded in 1993 in Edinburgh and supplies commercial-off-the-shel
 
 ## Sources
 
-Public information verified 2026-06-29. Company website; Companies House (company SC147524); ADS Group members directory; company LinkedIn page.
+Public information verified 2026-07-03. Company website (alpha-data.com, including radar and sonar market page); Companies House (company SC147524); ADS Group members directory; company LinkedIn page.

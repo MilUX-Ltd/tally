@@ -4,7 +4,7 @@ name: Palentec Ltd
 website: https://www.palentec.com
 hq: Newbury, United Kingdom
 uk-region: South East
-sources-verified: 2026-06-30
+sources-verified: 2026-07-03
 tags:
   - defence
   - mbr-ads
@@ -12,7 +12,9 @@ tags:
   - software
   - simulation
   - training
+  - training/instruction
   - data
+  - data/analytics
   - type-sme
 ---
 
@@ -34,4 +36,4 @@ Palentec creates AI technologies and supplies them as fully traceable, auditable
 
 ## Sources
 
-Public information verified 2026-06-30. DEVONthink CRM record sourced from ADS members directory snapshot, 2026-05-15.
+Public information verified 2026-07-03. ADS Group member directory profile (https://www.adsgroup.org.uk/members/palentec-ltd-1/). The company's own website (palentec.com) presents an interactive entry screen with no further crawlable public content; no additional named products, accreditations or recent news could be verified beyond the ADS listing at time of verification.

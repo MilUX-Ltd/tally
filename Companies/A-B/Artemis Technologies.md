@@ -8,12 +8,14 @@ hq: Belfast, United Kingdom
 uk-region: Northern Ireland
 founded: 2017
 size: medium
-sources-verified: 2026-06-29
+sources-verified: 2026-07-03
 tags:
   - defence
   - maritime
   - autonomy
+  - autonomy/navigation
   - simulation
+  - simulation/synthetic-environment
   - manufacturing
   - type-scaleup
   - size-medium
@@ -51,4 +53,4 @@ Artemis Technologies is a high-performance maritime design and applied-technolog
 
 ## Sources
 
-Public information verified 2026-06-29. Artemis Technologies website, LinkedIn company page, ADS members directory, Companies House (09412785), Belfast Maritime Consortium, Workboat365.
+Public information verified 2026-07-03. Artemis Technologies website, LinkedIn company page, ADS members directory, Companies House (09412785), Belfast Maritime Consortium, Workboat365.

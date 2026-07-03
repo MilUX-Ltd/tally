@@ -7,7 +7,7 @@ hq: Sydney, NSW, Australia
 founded: 2018
 size: small
 headcount: 44
-sources-verified: 2026-06-29
+sources-verified: 2026-07-03
 tags:
   - defence
   - logistics

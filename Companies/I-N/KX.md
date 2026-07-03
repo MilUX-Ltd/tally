@@ -4,13 +4,15 @@ name: KX
 website: https://kx.com/
 hq: Newry, United Kingdom
 uk-region: Northern Ireland
-sources-verified: 2026-06-29
+sources-verified: 2026-07-03
 tags:
   - defence
   - mbr-ads
   - data
+  - data/analytics
   - software
   - isr
+  - isr/fusion
   - type-manufacturer
   - owned-uk
   - accr-ce-plus

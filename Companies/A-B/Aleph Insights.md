@@ -8,11 +8,19 @@ hq: Hoddesdon, United Kingdom
 uk-region: East of England
 founded: 2014
 size: micro
-sources-verified: 2026-06-29
+sources-verified: 2026-07-03
 tags:
   - defence
   - ai
+  - ai/ml-analytics
+  - ai/nlp
+  - ai/decision-support
+  - ai/generative
   - data
+  - data/analytics
+  - data/engineering
+  - data/visualisation
+  - data/labelling
   - cyber
   - isr
   - size-micro

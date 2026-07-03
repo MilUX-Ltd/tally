@@ -8,7 +8,7 @@ hq: Boulogne-Billancourt, France
 uk-region: London
 founded: 2013
 size: large
-sources-verified: 2026-06-29
+sources-verified: 2026-07-03
 tags:
   - defence
   - air
@@ -49,4 +49,4 @@ ALTEN provides engineering and technology consulting services across aerospace, 
 
 ## Sources
 
-Public information verified 2026-06-29. ALTEN UK website (alten.co.uk), ADS Group members directory, Companies House (company 08452862).
+Public information verified 2026-07-03. ALTEN UK website (alten.co.uk), ADS Group members directory, Companies House (company 08452862).

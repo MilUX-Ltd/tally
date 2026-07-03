@@ -8,7 +8,7 @@ hq: Wellingborough, United Kingdom
 uk-region: East Midlands
 founded: 1975
 size: small
-sources-verified: 2026-06-29
+sources-verified: 2026-07-03
 tags:
   - defence
   - manufacturing

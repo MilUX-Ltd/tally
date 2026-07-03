@@ -9,7 +9,7 @@ uk-region: South East England
 founded: 2016
 size: micro
 headcount: ~6
-sources-verified: 2026-06-29
+sources-verified: 2026-07-03
 tags:
   - defence
   - cyber
@@ -48,4 +48,4 @@ Atlantic Technology specialises in the development of operational security produ
 
 ## Sources
 
-Public information verified 2026-06-29. Company website (atlantictechnology.co.uk), ADS Group member profile (adsgroup.org.uk/members/atlantic-technology-ltd-2), Companies House (company 09998409).
+Public information verified 2026-07-03. Company website (atlantictechnology.co.uk), ADS Group member profile (adsgroup.org.uk/members/atlantic-technology-ltd-2), Companies House (company 09998409).

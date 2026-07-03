@@ -7,13 +7,14 @@ companies-house: 02676395
 hq: Melksham, UK
 uk-region: South West
 size: large
-sources-verified: 2026-06-29
+sources-verified: 2026-07-03
 tags:
   - defence
   - cbrn
   - hardware
   - manufacturing
   - sensors
+  - sensors/eo-ir
   - size-large
   - type-manufacturer
   - listed

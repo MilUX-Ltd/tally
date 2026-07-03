@@ -9,12 +9,14 @@ uk-region: London
 founded: 2021
 size: small
 headcount: 30
-sources-verified: 2026-06-29
+sources-verified: 2026-07-03
 tags:
   - defence
   - ai
+  - ai/ml-analytics
   - sensors
   - isr
+  - isr/fusion
   - software
   - data
   - type-startup
@@ -47,4 +49,4 @@ Augur connects to cameras and sensors already installed at transport hubs, energ
 
 ## Sources
 
-Public information verified 2026-06-29. Sources: augur.ml; Companies House (13636887); LinkedIn company page; UKTN (March 2026); Plural investment announcement.
+Public information verified 2026-07-03. Sources: augur.ml; Companies House (13636887); LinkedIn company page; UKTN (March 2026); Plural investment announcement.

@@ -9,7 +9,7 @@ uk-region: London
 founded: 2013
 size: micro
 headcount: 2-10
-sources-verified: 2026-06-29
+sources-verified: 2026-07-03
 tags:
   - defence
   - space
@@ -50,4 +50,4 @@ Astra Terra works with industry, governments and non-governmental organisations 
 
 ## Sources
 
-Public information verified 2026-06-29. ADS members directory (adsgroup.org.uk/members/astra-terra-ltd-1), company website (astra-terra.com), Companies House (company 08801839), UKspace SME members directory. Astra Terra Ltd is headquartered in London.
+Public information verified 2026-07-03. ADS members directory (adsgroup.org.uk/members/astra-terra-ltd-1), company website (astra-terra.com), Companies House (company 08801839), UKspace SME members directory. Astra Terra Ltd is headquartered in London.

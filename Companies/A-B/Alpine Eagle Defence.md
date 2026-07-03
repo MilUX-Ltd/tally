@@ -7,14 +7,19 @@ companies-house: 16351257
 hq: Munich, Germany
 founded: 2023
 size: small
-sources-verified: 2026-06-29
+sources-verified: 2026-07-03
 tags:
   - defence
   - counter-uas
+  - counter-uas/detection
+  - counter-uas/effector
   - drones
   - uas
+  - uas/platform
   - isr
   - sensors
+  - sensors/eo-ir
+  - sensors/radar
   - autonomy
   - size-small
   - type-startup
@@ -52,4 +57,4 @@ Alpine Eagle builds airborne counter-drone systems for defence and security appl
 
 ## Sources
 
-Public information verified 2026-06-29. Company website; Companies House (company 16351257); ADS Group members directory; UK Defence Journal; The Defense Post.
+Public information verified 2026-07-03. Company website; Companies House (company 16351257); ADS Group members directory; UK Defence Journal; The Defense Post.

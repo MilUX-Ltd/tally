@@ -8,10 +8,11 @@ hq: Farnham, UK
 uk-region: South East England
 founded: 2008
 size: micro
-sources-verified: 2026-06-29
+sources-verified: 2026-07-03
 tags:
   - defence
   - sensors
+  - sensors/acoustic-sonar
   - hardware
   - manufacturing
   - test-evaluation

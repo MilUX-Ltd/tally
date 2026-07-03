@@ -7,12 +7,15 @@ companies-house: 16200514
 hq: Arlington, Virginia, United States
 founded: 2017
 size: medium
-sources-verified: 2026-06-29
+sources-verified: 2026-07-03
 tags:
   - defence
   - drones
   - uas
+  - uas/payload
   - autonomy
+  - autonomy/uxv-control
+  - autonomy/swarming
   - software
   - ai
   - robotics
@@ -52,4 +55,4 @@ Auterion develops a common operating system and software applications for autono
 
 ## Sources
 
-Public information verified 2026-06-29. Company website (auterion.com), ADS members directory, Companies House (16200514, incorporated 22 January 2025), Wikipedia, DroneLife, Bessemer Venture Partners.
+Public information verified 2026-07-03. Company website (auterion.com), ADS members directory, Companies House (16200514, incorporated 22 January 2025), Wikipedia, DroneLife, Bessemer Venture Partners.
