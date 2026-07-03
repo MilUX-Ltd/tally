@@ -3,3 +3,6 @@ CLAUDE.md
 .obsidian/
 .DS_Store
 .trash/
+
+# FUSE orphan files (stale duplicates left by open handles during rename)
+.fuse_hidden*
