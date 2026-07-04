@@ -8,7 +8,7 @@ hq: London, UK
 uk-region: London
 founded: 2011
 size: micro
-sources-verified: 2026-06-29
+sources-verified: 2026-07-04
 tags:
   - defence
   - manufacturing
@@ -49,4 +49,4 @@ FAC Technology (trading name of Fergusson's Advanced Composite Technology Limite
 
 ## Sources
 
-Public information verified 2026-06-29. Company website (factechnology.co.uk), ADS Group members directory (adsgroup.org.uk/members/fac-technology-ltd-2/), Companies House (no. 07591421), Composites UK hub, Advanced Propulsion Centre funded projects, Strategic Allies tech spotlight, LinkedIn company page.
+Public information verified 2026-07-04. Company website (factechnology.co.uk), ADS Group members directory (adsgroup.org.uk/members/fac-technology-ltd-2/), Companies House (no. 07591421), Composites UK hub, Advanced Propulsion Centre funded projects, Strategic Allies tech spotlight, LinkedIn company page.

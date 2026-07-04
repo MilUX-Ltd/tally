@@ -9,7 +9,7 @@ uk-region: North West
 founded: 1941
 size: small
 headcount: 33
-sources-verified: 2026-06-29
+sources-verified: 2026-07-04
 tags:
   - defence
   - manufacturing

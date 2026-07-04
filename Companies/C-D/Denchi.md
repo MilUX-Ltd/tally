@@ -8,12 +8,13 @@ hq: Thurso, United Kingdom
 uk-region: Scotland
 size: small
 headcount: 68
-sources-verified: 2026-06-29
+sources-verified: 2026-07-04
 tags:
   - defence
   - hardware
   - manufacturing
   - uas
+  - uas/payload
   - maritime
   - land
   - size-small
@@ -61,4 +62,4 @@ Denchi Group is a UK-owned battery specialist based in Thurso, Caithness, Scotla
 
 ## Sources
 
-Public information verified 2026-06-29. Company website (denchigroup.com), ADS Group member directory (adsgroup.org.uk/members/denchi-2/), Companies House (08676692), Defense Advancement (defenseadvancement.com/company/denchi/), Soldier Modernisation (soldiermod.com), Unmanned Systems Technology (unmannedsystemstechnology.com/company/denchi/), Astute Group press release, Military Embedded Systems.
+Public information verified 2026-07-04. Company website (denchigroup.com), including product page denchigroup.com/our-markets/defence/products/sparrowhawk-battery; ADS Group member directory (adsgroup.org.uk/members/denchi-2/); Companies House (08676692); Defense Advancement (defenseadvancement.com/company/denchi/); Soldier Modernisation (soldiermod.com); Unmanned Systems Technology (unmannedsystemstechnology.com/company/denchi/); Astute Group press release; Military Embedded Systems.

@@ -9,7 +9,7 @@ uk-region: South West
 founded: 1987
 size: small
 headcount: ~100
-sources-verified: 2026-06-29
+sources-verified: 2026-07-04
 tags:
   - defence
   - software

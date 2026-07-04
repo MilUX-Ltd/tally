@@ -8,7 +8,7 @@ hq: Barnstaple, UK
 uk-region: South West England
 founded: 2009
 size: micro
-sources-verified: 2026-06-29
+sources-verified: 2026-07-04
 tags:
   - defence
   - hardware
@@ -47,4 +47,4 @@ Extreme Cases designs and manufactures custom protective cases and carrying solu
 
 ## Sources
 
-Public information verified 2026-06-29. Company website (extreme-cases.com); ADS Group members directory; Companies House (06957356).
+Public information verified 2026-07-04. Company website (extreme-cases.com); ADS Group members directory; Companies House (06957356).

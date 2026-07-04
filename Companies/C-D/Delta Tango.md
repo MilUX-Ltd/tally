@@ -5,15 +5,18 @@ website: https://deltatango.io
 hq: Weymouth, United Kingdom
 uk-region: South West England
 size: micro
-sources-verified: 2026-06-29
+sources-verified: 2026-07-04
 tags:
   - defence
   - drones
   - uas
+  - uas/platform
+  - uas/payload
   - counter-uas
   - hardware
   - manufacturing
   - sensors
+  - sensors/eo-ir
   - optronics
   - type-sme
   - type-manufacturer
@@ -43,4 +46,4 @@ Delta Tango designs and manufactures FPV UAS and associated payloads for defence
 
 ## Sources
 
-Public information verified 2026-06-29. deltatango.io; DroneX exhibitor records (ExCeL London, 2024 and 2025). No Companies House registration confirmed from public sources. No LinkedIn company page confirmed; LinkedIn field omitted.
+Public information verified 2026-07-04. deltatango.io; DroneX exhibitor records (ExCeL London, 2024 and 2025). No Companies House registration confirmed from public sources. No LinkedIn company page confirmed; LinkedIn field omitted.

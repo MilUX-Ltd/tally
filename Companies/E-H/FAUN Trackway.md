@@ -8,7 +8,7 @@ hq: Llangefni, UK
 uk-region: Wales
 founded: 1940
 size: small
-sources-verified: 2026-06-29
+sources-verified: 2026-07-04
 tags:
   - defence
   - land
@@ -56,4 +56,4 @@ FAUN Trackway is a Welsh manufacturer of portable, recoverable Trackway panel sy
 
 ## Sources
 
-Public information verified 2026-06-29. Company website (fauntrackway.co.uk), ADS Group members directory (adsgroup.org.uk/members/faun-trackway-limited-2/), Companies House (no. 09283749), GOV.UK Armed Forces Covenant register, FAUN Trackway news pages.
+Public information verified 2026-07-04. Company website (fauntrackway.co.uk), ADS Group members directory (adsgroup.org.uk/members/faun-trackway-limited-2/), Companies House (no. 09283749), GOV.UK Armed Forces Covenant register, FAUN Trackway news pages.

@@ -9,10 +9,12 @@ uk-region: South East
 founded: 2011
 size: medium
 headcount: 400-450
-sources-verified: 2026-06-29
+sources-verified: 2026-07-04
 tags:
   - defence
   - cyber
+  - cyber/grc
+  - cyber/pen-testing
   - software
   - data
   - size-medium

@@ -9,12 +9,14 @@ uk-region: South East
 founded: 1998
 size: small
 headcount: 13
-sources-verified: 2026-06-29
+sources-verified: 2026-07-04
 tags:
   - defence
   - cyber
+  - cyber/pen-testing
   - isr
   - training
+  - training/instruction
   - size-small
   - type-sme
   - owned-uk

@@ -9,14 +9,19 @@ uk-region: South East England
 founded: 1976
 size: large
 headcount: 400
-sources-verified: 2026-06-29
+sources-verified: 2026-07-04
 tags:
   - defence
   - gis
   - data
+  - data/analytics
+  - data/visualisation
   - software
   - isr
+  - isr/geoint
   - c2
+  - c2/battle-management
+  - c2/situational-awareness
   - size-large
   - type-integrator
   - owned-foreign

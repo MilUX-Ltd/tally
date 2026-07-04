@@ -8,7 +8,7 @@ hq: Ballymena, UK
 uk-region: Northern Ireland
 founded: 1976
 size: large
-sources-verified: 2026-06-29
+sources-verified: 2026-07-04
 tags:
   - defence
   - manufacturing

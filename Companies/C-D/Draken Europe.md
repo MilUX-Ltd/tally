@@ -8,15 +8,18 @@ hq: Lakeland, FL, USA
 uk-region: South West England
 founded: 1985
 size: large
-sources-verified: 2026-06-29
+sources-verified: 2026-07-04
 tags:
   - defence
   - air
   - training
+  - training/instruction
   - ew
+  - ew/ecm
   - isr
   - uas
   - simulation
+  - simulation/synthetic-environment
   - size-large
   - type-prime
   - owned-foreign

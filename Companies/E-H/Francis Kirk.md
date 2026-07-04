@@ -8,7 +8,7 @@ hq: Denton, United Kingdom
 uk-region: North West
 founded: 1868
 size: small
-sources-verified: 2026-06-29
+sources-verified: 2026-07-04
 tags:
   - defence
   - manufacturing

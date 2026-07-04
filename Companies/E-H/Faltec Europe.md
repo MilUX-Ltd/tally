@@ -9,7 +9,7 @@ uk-region: North East England
 founded: 1989
 size: medium
 headcount: 450
-sources-verified: 2026-06-29
+sources-verified: 2026-07-04
 tags:
   - defence
   - manufacturing

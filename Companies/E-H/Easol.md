@@ -9,7 +9,7 @@ uk-region: South East
 founded: 2020
 size: micro
 headcount: 8
-sources-verified: 2026-06-29
+sources-verified: 2026-07-04
 tags:
   - defence
   - software

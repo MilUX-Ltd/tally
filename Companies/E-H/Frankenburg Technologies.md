@@ -8,11 +8,12 @@ hq: Tallinn, Estonia
 uk-region: London
 founded: 2024
 size: small
-sources-verified: 2026-06-29
+sources-verified: 2026-07-04
 tags:
   - defence
   - munitions
   - counter-uas
+  - counter-uas/effector
   - air
   - manufacturing
   - size-small

@@ -4,11 +4,12 @@ name: Fenrir Solutions Ltd
 hq: London, United Kingdom
 uk-region: London
 size: micro
-sources-verified: 2026-06-29
+sources-verified: 2026-07-04
 tags:
   - defence
   - ew
   - simulation
+  - simulation/synthetic-environment
   - training
   - type-consultancy
   - size-micro

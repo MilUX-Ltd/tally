@@ -9,7 +9,7 @@ uk-region: Northern Ireland
 founded: 1986
 size: medium
 headcount: 300
-sources-verified: 2026-06-29
+sources-verified: 2026-07-04
 tags:
   - defence
   - hardware

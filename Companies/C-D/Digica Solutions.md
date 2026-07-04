@@ -8,13 +8,17 @@ hq: Sale, UK
 uk-region: Greater Manchester
 founded: 2009
 size: small
-sources-verified: 2026-06-29
+sources-verified: 2026-07-04
 tags:
   - defence
   - ai
+  - ai/computer-vision
   - software
   - isr
+  - isr/fusion
   - sensors
+  - sensors/eo-ir
+  - sensors/radar
   - autonomy
   - data
   - size-small

@@ -9,10 +9,12 @@ uk-region: Wales
 founded: 2001
 size: small
 headcount: 39
-sources-verified: 2026-06-29
+sources-verified: 2026-07-04
 tags:
   - defence
   - comms
+  - comms/satcom
+  - comms/networking
   - isr
   - software
   - hardware

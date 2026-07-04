@@ -9,14 +9,18 @@ uk-region: South West
 founded: 2014
 size: small
 headcount: 48
-sources-verified: 2026-06-29
+sources-verified: 2026-07-04
 tags:
   - defence
   - drones
   - uas
+  - uas/platform
+  - uas/payload
   - munitions
   - autonomy
+  - autonomy/swarming
   - sensors
+  - sensors/eo-ir
   - hardware
   - manufacturing
   - land

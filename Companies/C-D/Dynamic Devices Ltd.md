@@ -9,11 +9,14 @@ uk-region: North West England
 founded: 2004
 size: micro
 headcount: 1
-sources-verified: 2026-06-29
+sources-verified: 2026-07-04
 tags:
   - defence
   - comms
+  - comms/networking
+  - comms/satcom
   - sensors
+  - sensors/pnt
   - software
   - hardware
   - space

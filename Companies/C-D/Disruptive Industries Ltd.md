@@ -8,14 +8,20 @@ hq: London, United Kingdom
 uk-region: Greater London
 founded: 2023
 size: micro
-sources-verified: 2026-06-29
+sources-verified: 2026-07-04
 tags:
   - defence
   - ai
+  - ai/ml-analytics
+  - ai/decision-support
   - isr
+  - isr/fusion
+  - isr/osint
   - cyber
   - c2
+  - c2/situational-awareness
   - data
+  - data/analytics
   - software
   - gis
   - type-sme

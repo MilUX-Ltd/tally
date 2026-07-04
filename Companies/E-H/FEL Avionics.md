@@ -9,13 +9,15 @@ uk-region: East of England
 founded: 2019
 size: micro
 headcount: 2-10
-sources-verified: 2026-06-29
+sources-verified: 2026-07-04
 tags:
   - defence
   - sensors
+  - sensors/radar
   - hardware
   - manufacturing
   - training
+  - training/instruction
   - type-sme
   - size-micro
   - owned-uk

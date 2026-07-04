@@ -9,13 +9,15 @@ uk-region: East Midlands
 founded: 2013
 size: small
 headcount: 60
-sources-verified: 2026-06-29
+sources-verified: 2026-07-04
 tags:
   - defence
   - drones
   - uas
   - training
+  - training/instruction
   - isr
+  - isr/imint
   - size-small
   - type-sme
   - owned-veteran

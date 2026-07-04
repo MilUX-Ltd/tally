@@ -9,12 +9,13 @@ uk-region: South East England
 founded: 1968
 size: large
 headcount: 2400
-sources-verified: 2026-06-29
+sources-verified: 2026-07-04
 tags:
   - defence
   - hardware
   - isr
   - c2
+  - c2/integration
   - maritime
   - sensors
   - optronics

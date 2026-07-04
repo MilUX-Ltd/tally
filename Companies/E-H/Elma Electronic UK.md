@@ -8,14 +8,16 @@ hq: Zurich, Switzerland
 uk-region: East of England
 founded: 1995
 size: medium
-sources-verified: 2026-06-29
+sources-verified: 2026-07-04
 tags:
   - defence
   - hardware
   - manufacturing
   - sensors
+  - sensors/radar
   - c2
   - isr
+  - isr/sigint
   - ew
   - land
   - maritime

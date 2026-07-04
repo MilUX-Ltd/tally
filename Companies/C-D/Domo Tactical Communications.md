@@ -9,15 +9,20 @@ uk-region: South East
 founded: 1974
 size: small
 headcount: 140
-sources-verified: 2026-06-29
+sources-verified: 2026-07-04
 tags:
   - defence
   - comms
+  - comms/tactical-radio
+  - comms/networking
+  - comms/waveforms
   - rf
   - isr
   - c2
+  - c2/integration
   - sensors
   - uas
+  - uas/payload
   - software
   - hardware
   - size-small

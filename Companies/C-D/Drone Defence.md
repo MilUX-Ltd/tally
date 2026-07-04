@@ -8,10 +8,12 @@ hq: Retford, United Kingdom
 uk-region: East Midlands
 founded: 2017
 size: small
-sources-verified: 2026-06-29
+sources-verified: 2026-07-04
 tags:
   - defence
   - counter-uas
+  - counter-uas/detection
+  - counter-uas/effector
   - drones
   - sensors
   - rf

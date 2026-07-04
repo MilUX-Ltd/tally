@@ -8,10 +8,11 @@ uk-region: Scotland
 founded: 2013
 size: large
 headcount: 833
-sources-verified: 2026-06-29
+sources-verified: 2026-07-04
 tags:
   - defence
   - training
+  - training/instruction
   - manufacturing
   - size-large
   - type-academia

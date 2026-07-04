@@ -8,7 +8,7 @@ uk-region: South West
 founded: 1956
 size: medium
 headcount: ~65
-sources-verified: 2026-06-29
+sources-verified: 2026-07-04
 tags:
   - defence
   - rf
@@ -54,4 +54,4 @@ Flann Microwave is a UK manufacturer of precision passive RF, microwave and mill
 
 ## Sources
 
-Public information verified 2026-06-29. Company website (flann.com), ISO 9001 certificate, ADS members directory.
+Public information verified 2026-07-04. Company website (flann.com), ISO 9001 certificate, ADS members directory.

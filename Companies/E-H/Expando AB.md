@@ -6,12 +6,14 @@ linkedin: https://www.linkedin.com/company/expando-ab
 hq: Sollentuna, Sweden
 founded: 2000
 size: small
-sources-verified: 2026-06-29
+sources-verified: 2026-07-04
 tags:
   - defence
   - hardware
   - sensors
+  - sensors/eo-ir
   - isr
+  - isr/sigint
   - ew
   - c2
   - manufacturing
@@ -57,4 +59,4 @@ Expando AB designs, integrates, and supplies rugged computing hardware and speci
 
 ## Sources
 
-Public information verified 2026-06-29. Expando website (expando.se); LinkedIn company page; SOFF member directory (soff.se); Defense Guide listing (defense-guide.com); Tisenhult Group website.
+Public information verified 2026-07-04. Expando website (expando.se); LinkedIn company page; SOFF member directory (soff.se); Defense Guide listing (defense-guide.com); Tisenhult Group website.

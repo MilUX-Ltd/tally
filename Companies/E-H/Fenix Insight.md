@@ -9,12 +9,15 @@ uk-region: South East England
 founded: 2011
 size: small
 headcount: 11-50
-sources-verified: 2026-06-29
+sources-verified: 2026-07-04
 tags:
   - defence
   - isr
+  - isr/osint
   - ai
+  - ai/computer-vision
   - data
+  - data/analytics
   - sensors
   - drones
   - uas

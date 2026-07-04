@@ -8,7 +8,7 @@ hq: Polruan, United Kingdom
 uk-region: South West England
 founded: 2019
 size: micro
-sources-verified: 2026-06-29
+sources-verified: 2026-07-04
 tags:
   - defence
   - maritime
@@ -48,4 +48,4 @@ Fleetwind Ltd is a maritime systems engineering company formed in 2019 and regis
 
 ## Sources
 
-Public information verified 2026-06-29. Company website (fleetwind.co.uk), ADS Group member directory (adsgroup.org.uk, including Cornwall South West listing), Companies House (FLEETWIND LTD, company number 11942466, incorporated 12 April 2019, registered office Polruan, Cornwall), Endole company profile.
+Public information verified 2026-07-04. Company website (fleetwind.co.uk), ADS Group member directory (adsgroup.org.uk, including Cornwall South West listing), Companies House (FLEETWIND LTD, company number 11942466, incorporated 12 April 2019, registered office Polruan, Cornwall), Endole company profile.

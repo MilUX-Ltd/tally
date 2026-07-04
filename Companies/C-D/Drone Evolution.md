@@ -8,11 +8,13 @@ hq: Caerphilly, United Kingdom
 uk-region: Wales
 founded: 2018
 size: micro
-sources-verified: 2026-06-29
+sources-verified: 2026-07-04
 tags:
   - defence
   - drones
   - uas
+  - uas/platform
+  - uas/payload
   - isr
   - ew
   - comms

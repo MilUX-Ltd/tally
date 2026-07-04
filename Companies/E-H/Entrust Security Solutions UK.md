@@ -8,10 +8,11 @@ hq: Shakopee, United States
 uk-region: Greater London
 founded: 1995
 size: large
-sources-verified: 2026-06-29
+sources-verified: 2026-07-04
 tags:
   - defence
   - cyber
+  - cyber/encryption
   - hardware
   - data
   - software

@@ -9,7 +9,7 @@ uk-region: Northern Ireland
 founded: 1972
 size: small
 headcount: 95
-sources-verified: 2026-06-29
+sources-verified: 2026-07-04
 tags:
   - defence
   - manufacturing
@@ -49,4 +49,4 @@ Denroy Plastics Limited is a privately owned injection moulding manufacturer bas
 
 ## Sources
 
-Public information verified 2026-06-29. Company website (denroy.com), ADS Group member directory (adsgroup.org.uk/members/denroy-plastics-limited/), Companies House (NI012112), Armed Forces Covenant business directory (gov.uk/armed-forces-covenant-businesses/denroy-plastics-ltd), Manufacturing NI (manufacturingni.org/member/denroy-plastics/), Invest NI, Plastics News, Aero Magazine (aero-mag.com/company/denroy-plastics).
+Public information verified 2026-07-04. Company website (denroy.com), ADS Group member directory (adsgroup.org.uk/members/denroy-plastics-limited/), Companies House (NI012112), Armed Forces Covenant business directory (gov.uk/armed-forces-covenant-businesses/denroy-plastics-ltd), Manufacturing NI (manufacturingni.org/member/denroy-plastics/), Invest NI, Plastics News, Aero Magazine (aero-mag.com/company/denroy-plastics).

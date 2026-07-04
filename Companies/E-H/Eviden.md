@@ -6,14 +6,21 @@ linkedin: https://www.linkedin.com/company/eviden
 hq: Bezons, France
 founded: 2023
 size: large
-sources-verified: 2026-06-29
+sources-verified: 2026-07-04
 tags:
   - defence
   - cyber
+  - cyber/pen-testing
+  - cyber/red-team
+  - cyber/encryption
+  - cyber/idam
   - ai
+  - ai/computer-vision
   - data
+  - data/engineering
   - software
   - sensors
+  - sensors/radar
   - size-large
   - type-prime
   - owned-foreign

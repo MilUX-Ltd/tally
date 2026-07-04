@@ -9,13 +9,16 @@ uk-region: South East
 founded: 2005
 size: large
 headcount: 4200
-sources-verified: 2026-06-29
+sources-verified: 2026-07-04
 tags:
   - defence
   - software
   - data
+  - data/analytics
   - cyber
+  - cyber/vuln-management
   - ai
+  - ai/ml-analytics
   - size-large
   - type-integrator
   - owned-foreign

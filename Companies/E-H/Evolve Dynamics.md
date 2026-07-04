@@ -7,11 +7,12 @@ companies-house: 10489160
 hq: Guildford, UK
 uk-region: South East
 size: medium
-sources-verified: 2026-06-29
+sources-verified: 2026-07-04
 tags:
   - defence
   - drones
   - uas
+  - uas/platform
   - isr
   - sensors
   - manufacturing

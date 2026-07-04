@@ -9,11 +9,12 @@ uk-region: London
 founded: 2023
 size: large
 headcount: 1700+
-sources-verified: 2026-06-29
+sources-verified: 2026-07-04
 tags:
   - defence
   - space
   - comms
+  - comms/satcom
   - isr
   - size-large
   - type-prime

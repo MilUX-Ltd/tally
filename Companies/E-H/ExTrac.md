@@ -8,12 +8,15 @@ hq: London, United Kingdom
 uk-region: London
 founded: 2022
 size: small
-sources-verified: 2026-06-29
+sources-verified: 2026-07-04
 tags:
   - defence
   - ai
+  - ai/decision-support
   - isr
+  - isr/osint
   - data
+  - data/engineering
   - software
   - size-small
   - type-startup

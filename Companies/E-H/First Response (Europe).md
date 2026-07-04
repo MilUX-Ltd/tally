@@ -8,13 +8,16 @@ hq: London, UK
 uk-region: London
 founded: 2012
 size: small
-sources-verified: 2026-06-29
+sources-verified: 2026-07-04
 tags:
   - defence
   - cyber
+  - cyber/digital-forensics
+  - cyber/incident-response
   - data
   - software
   - training
+  - training/instruction
   - size-small
   - type-consultancy
   - owned-uk
@@ -47,4 +50,4 @@ First Response (Europe) provides digital forensics, cyber incident response, and
 
 ## Sources
 
-Public information verified 2026-06-29. Company website (first-response.co.uk), ADS members directory (adsgroup.org.uk/members/first-response-europe-limited-1), Companies House (07917007).
+Public information verified 2026-07-04. Company website (first-response.co.uk), ADS members directory (adsgroup.org.uk/members/first-response-europe-limited-1), Companies House (07917007).

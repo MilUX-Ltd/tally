@@ -8,10 +8,11 @@ hq: Hereford, UK
 uk-region: West Midlands
 founded: 2008
 size: micro
-sources-verified: 2026-06-29
+sources-verified: 2026-07-04
 tags:
   - defence
   - training
+  - training/instruction
   - size-micro
   - type-sme
   - owned-uk

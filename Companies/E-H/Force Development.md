@@ -4,7 +4,7 @@ name: Force Development
 website: https://forcedevelopment.co.uk
 hq: Fareham, Hampshire
 uk-region: South East England
-sources-verified: 2026-06-29
+sources-verified: 2026-07-04
 tags:
   - defence
   - land

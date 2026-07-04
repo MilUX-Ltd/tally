@@ -8,10 +8,13 @@ hq: Leicester, United Kingdom
 uk-region: East Midlands
 founded: 2021
 size: small
-sources-verified: 2026-06-29
+sources-verified: 2026-07-04
 tags:
   - defence
   - cyber
+  - cyber/vuln-management
+  - cyber/grc
+  - cyber/cross-domain
   - software
   - cloud
   - size-small

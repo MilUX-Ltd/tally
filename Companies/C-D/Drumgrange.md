@@ -9,14 +9,18 @@ uk-region: South East
 founded: 1979
 size: medium
 headcount: 100-149
-sources-verified: 2026-06-29
+sources-verified: 2026-07-04
 tags:
   - defence
   - maritime
   - comms
+  - comms/tactical-radio
+  - comms/waveforms
   - c2
+  - c2/integration
   - isr
   - sensors
+  - sensors/acoustic-sonar
   - simulation
   - training
   - hardware

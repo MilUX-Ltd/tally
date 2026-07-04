@@ -8,10 +8,16 @@ hq: Oxford, UK
 uk-region: South East
 founded: 2000
 size: small
-sources-verified: 2026-06-29
+sources-verified: 2026-07-04
 tags:
   - defence
   - cyber
+  - cyber/pen-testing
+  - cyber/red-team
+  - cyber/incident-response
+  - cyber/vuln-management
+  - cyber/ot-security
+  - cyber/grc
   - software
   - size-small
   - type-consultancy

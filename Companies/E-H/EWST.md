@@ -9,11 +9,13 @@ uk-region: South East
 founded: 2023
 size: small
 headcount: 55
-sources-verified: 2026-06-29
+sources-verified: 2026-07-04
 tags:
   - defence
   - ew
+  - ew/ecm
   - simulation
+  - simulation/synthetic-environment
   - test-evaluation
   - training
   - hardware

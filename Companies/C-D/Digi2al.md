@@ -8,7 +8,7 @@ hq: Hove, UK
 uk-region: South East
 founded: 2013
 size: small
-sources-verified: 2026-06-29
+sources-verified: 2026-07-04
 tags:
   - defence
   - software
@@ -16,6 +16,7 @@ tags:
   - ai
   - cyber
   - isr
+  - isr/osint
   - size-small
   - type-consultancy
   - fw-joscar

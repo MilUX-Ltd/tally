@@ -8,11 +8,13 @@ hq: Hinckley, UK
 uk-region: East Midlands
 founded: 2002
 size: micro
-sources-verified: 2026-06-29
+sources-verified: 2026-07-04
 tags:
   - defence
   - robotics
   - autonomy
+  - autonomy/uxv-control
+  - autonomy/eod-robotics
   - uas
   - land
   - maritime

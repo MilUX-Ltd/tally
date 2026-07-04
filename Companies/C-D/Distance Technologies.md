@@ -6,13 +6,14 @@ linkedin: https://www.linkedin.com/company/distance-technologies
 hq: Helsinki, Finland
 founded: 2024
 size: small
-sources-verified: 2026-06-29
+sources-verified: 2026-07-04
 tags:
   - defence
   - optronics
   - sensors
   - ai
   - c2
+  - c2/situational-awareness
   - land
   - size-small
   - type-startup

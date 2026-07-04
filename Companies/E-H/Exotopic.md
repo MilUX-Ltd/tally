@@ -8,7 +8,7 @@ hq: London, United Kingdom
 uk-region: London
 founded: 2014
 size: micro
-sources-verified: 2026-06-29
+sources-verified: 2026-07-04
 tags:
   - defence
   - space
@@ -54,4 +54,4 @@ Exotopic Ltd is a London SME operating at the intersection of space mission deli
 
 ## Sources
 
-Public information verified 2026-06-29. Company website (exotopic.com), Companies House (09238982), ADS Group members directory, UKspace SME member listing, TechUK, UK Space Agency/UKspace IOD mission announcement.
+Public information verified 2026-07-04. Company website (exotopic.com), Companies House (09238982), ADS Group members directory, UKspace SME member listing, TechUK, UK Space Agency/UKspace IOD mission announcement.

@@ -7,7 +7,7 @@ hq: Tillicoultry, United Kingdom
 uk-region: Scotland
 founded: 1973
 size: small
-sources-verified: 2026-06-29
+sources-verified: 2026-07-04
 tags:
   - defence
   - logistics

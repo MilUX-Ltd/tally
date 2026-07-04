@@ -8,12 +8,13 @@ hq: London, UK
 uk-region: London
 founded: 1947
 size: medium
-sources-verified: 2026-06-29
+sources-verified: 2026-07-04
 tags:
   - defence
   - hardware
   - software
   - simulation
+  - simulation/synthetic-environment
   - training
   - sensors
   - cyber
@@ -56,4 +57,4 @@ The Exsel Group is an independent defence technology solutions company deliverin
 
 ## Sources
 
-Public information verified 2026-06-29. ADS members directory (adsgroup.org.uk/members/exsel-group-ltd/), company website (exsel-group.com), Companies House (no. 11148970), Made in the Midlands (madeinthemidlands.com), Exsel Electronics website (exsel-electronics.com).
+Public information verified 2026-07-04. ADS members directory (adsgroup.org.uk/members/exsel-group-ltd/), company website (exsel-group.com), Companies House (no. 11148970), Made in the Midlands (madeinthemidlands.com), Exsel Electronics website (exsel-electronics.com).

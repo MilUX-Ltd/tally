@@ -8,13 +8,16 @@ hq: Wilsonville, Oregon, United States
 uk-region: South East England
 founded: 1977
 size: large
-sources-verified: 2026-06-29
+sources-verified: 2026-07-04
 tags:
   - defence
   - sensors
+  - sensors/eo-ir
   - optronics
   - isr
+  - isr/imint
   - uas
+  - uas/platform
   - drones
   - maritime
   - land

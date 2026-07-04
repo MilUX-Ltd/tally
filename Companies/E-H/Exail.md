@@ -9,14 +9,17 @@ uk-region: South East England
 founded: 2004
 size: large
 headcount: 2000
-sources-verified: 2026-06-29
+sources-verified: 2026-07-04
 tags:
   - defence
   - maritime
   - autonomy
+  - autonomy/navigation
+  - autonomy/uxv-control
   - robotics
   - uas
   - sensors
+  - sensors/pnt
   - isr
   - comms
   - size-large

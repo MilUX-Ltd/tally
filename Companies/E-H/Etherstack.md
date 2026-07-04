@@ -8,10 +8,14 @@ hq: Reading, UK
 uk-region: South East
 founded: 2012
 size: small
-sources-verified: 2026-06-29
+sources-verified: 2026-07-04
 tags:
   - defence
   - comms
+  - comms/tactical-radio
+  - comms/waveforms
+  - comms/secure-voice
+  - comms/networking
   - rf
   - software
   - size-small

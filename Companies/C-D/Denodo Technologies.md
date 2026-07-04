@@ -9,10 +9,12 @@ uk-region: London
 founded: 1999
 size: large
 headcount: 764
-sources-verified: 2026-06-29
+sources-verified: 2026-07-04
 tags:
   - defence
   - data
+  - data/engineering
+  - data/analytics
   - software
   - size-large
   - type-consultancy
@@ -31,7 +33,7 @@ Denodo Technologies develops and licenses a data virtualisation and integration 
 
 ## Products and solutions
 
-- **Denodo Platform** - data virtualisation and integration platform enabling unified data access across relational databases, cloud stores, APIs and legacy systems without data movement.
+- **Denodo Platform** - data virtualisation and integration platform for data engineers and analytics teams, enabling unified data access across relational databases, cloud stores, APIs and legacy systems without data movement.
 - **Denodo Enterprise Plus** - enterprise-tier licensing available through the UK G-Cloud Digital Marketplace.
 - **Data Fabric** - logical data delivery layer with embedded data governance, quality and policy management.
 
@@ -47,4 +49,4 @@ Denodo Technologies develops and licenses a data virtualisation and integration 
 
 ## Sources
 
-Public information verified 2026-06-29. Company website (denodo.com), ADS Group member directory (adsgroup.org.uk/members/denodo-technologies-ltd-1/), Companies House (06938324), UK Digital Marketplace (applytosupply.digitalmarketplace.service.gov.uk), Find a Tender (find-tender.service.gov.uk), UKCloud partnership announcement (ukcloud.com), Denodo company profile (denodo.com/en/about-us/our-company).
+Public information verified 2026-07-04. Company website (denodo.com), including denodo.com/en/data-management/data-virtualization; ADS Group member directory (adsgroup.org.uk/members/denodo-technologies-ltd-1/); Companies House (06938324); UK Digital Marketplace (applytosupply.digitalmarketplace.service.gov.uk); Find a Tender (find-tender.service.gov.uk); UKCloud partnership announcement (ukcloud.com); Denodo company profile (denodo.com/en/about-us/our-company).

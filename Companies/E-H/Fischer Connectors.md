@@ -9,7 +9,7 @@ uk-region: South East
 founded: 1954
 size: medium
 headcount: 600-700
-sources-verified: 2026-06-29
+sources-verified: 2026-07-04
 tags:
   - defence
   - hardware
@@ -60,4 +60,4 @@ Fischer Connectors designs, manufactures, and distributes electrical connectors,
 
 ## Sources
 
-Public information verified 2026-06-29. Company website (fischerconnectors.com), ADS members directory (adsgroup.org.uk/members/fischer-connectors-ltd-2), Companies House (02259968), ADS DSEI 2025 Pavilion brochure, Military Aerospace and Soldier Modernisation publications.
+Public information verified 2026-07-04. Company website (fischerconnectors.com), ADS members directory (adsgroup.org.uk/members/fischer-connectors-ltd-2), Companies House (02259968), ADS DSEI 2025 Pavilion brochure, Military Aerospace and Soldier Modernisation publications.

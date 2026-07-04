@@ -8,10 +8,12 @@ hq: Edinburgh, United Kingdom
 uk-region: Scotland
 founded: 2023
 size: micro
-sources-verified: 2026-06-29
+sources-verified: 2026-07-04
 tags:
   - defence
   - autonomy
+  - autonomy/uxv-control
+  - autonomy/swarming
   - robotics
   - maritime
   - ai

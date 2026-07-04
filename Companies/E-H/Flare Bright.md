@@ -9,15 +9,18 @@ uk-region: South East England
 founded: 2015
 size: small
 headcount: 10-30
-sources-verified: 2026-06-29
+sources-verified: 2026-07-04
 tags:
   - defence
   - uas
   - drones
   - autonomy
+  - autonomy/navigation
   - ai
+  - ai/ml-analytics
   - software
   - simulation
+  - simulation/synthetic-environment
   - test-evaluation
   - size-small
   - type-startup
@@ -57,4 +60,4 @@ Flare Bright develops machine learning software and digital twin technology for 
 
 ## Sources
 
-Public information verified 2026-06-29. ADS Group member directory (adsgroup.org.uk), Companies House (FLARE BRIGHT LTD, company number 09881164, incorporated 19 November 2015), GOV.UK case study (Flare Bright DASA support), ADS Advance (Extera at DSEI 2025), EDR Magazine (DASA contracts), Oxford Innovation Finance (seed round), Westcott Space Cluster and Westcott Venture Park news, GovConExec (US DoD trials 2023).
+Public information verified 2026-07-04. ADS Group member directory (adsgroup.org.uk), Companies House (FLARE BRIGHT LTD, company number 09881164, incorporated 19 November 2015), GOV.UK case study (Flare Bright DASA support), ADS Advance (Extera at DSEI 2025), EDR Magazine (DASA contracts), Oxford Innovation Finance (seed round), Westcott Space Cluster and Westcott Venture Park news, GovConExec (US DoD trials 2023).

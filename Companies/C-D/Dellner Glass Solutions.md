@@ -9,7 +9,7 @@ uk-region: North East England
 founded: 2021
 size: medium
 headcount: 51-200
-sources-verified: 2026-06-29
+sources-verified: 2026-07-04
 tags:
   - defence
   - land
@@ -52,4 +52,4 @@ Dellner Glass Solutions is a specialist glass processor and manufacturer supplyi
 
 ## Sources
 
-Public information verified 2026-06-29. ADS Group members directory (adsgroup.org.uk/members/dellner-glass-solutions-2/); Companies House (find-and-update.company-information.service.gov.uk/company/04252701); Dellner Glass Solutions website (dellnerglass.co.uk); Dellner Group website (dellnergroup.com); Dellner Wikipedia article (en.wikipedia.org/wiki/Dellner).
+Public information verified 2026-07-04. ADS Group members directory (adsgroup.org.uk/members/dellner-glass-solutions-2/); Companies House (find-and-update.company-information.service.gov.uk/company/04252701); Dellner Glass Solutions website (dellnerglass.co.uk); Dellner Group website (dellnergroup.com); Dellner Wikipedia article (en.wikipedia.org/wiki/Dellner).

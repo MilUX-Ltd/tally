@@ -8,10 +8,11 @@ hq: Malvern, United Kingdom
 uk-region: West Midlands
 founded: 2013
 size: micro
-sources-verified: 2026-06-29
+sources-verified: 2026-07-04
 tags:
   - defence
   - training
+  - training/instruction
   - isr
   - cyber
   - size-micro

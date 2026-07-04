@@ -9,7 +9,7 @@ uk-region: Yorkshire and the Humber
 founded: 2007
 size: medium
 headcount: 129
-sources-verified: 2026-06-29
+sources-verified: 2026-07-04
 tags:
   - defence
   - test-evaluation

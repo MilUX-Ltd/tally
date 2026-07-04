@@ -9,7 +9,7 @@ uk-region: South East England
 founded: 1972
 size: large
 headcount: 6200
-sources-verified: 2026-06-29
+sources-verified: 2026-07-04
 tags:
   - defence
   - software

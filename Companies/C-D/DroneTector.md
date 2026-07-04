@@ -9,10 +9,11 @@ uk-region: Scotland
 founded: 2023
 size: micro
 headcount: "3"
-sources-verified: 2026-06-29
+sources-verified: 2026-07-04
 tags:
   - defence
   - counter-uas
+  - counter-uas/detection
   - sensors
   - rf
   - hardware

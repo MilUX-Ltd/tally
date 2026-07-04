@@ -8,12 +8,14 @@ hq: Newtown, UK
 uk-region: Wales
 founded: 2020
 size: small
-sources-verified: 2026-06-29
+sources-verified: 2026-07-04
 tags:
   - defence
   - cyber
   - autonomy
+  - autonomy/uxv-control
   - c2
+  - c2/integration
   - drones
   - software
   - isr

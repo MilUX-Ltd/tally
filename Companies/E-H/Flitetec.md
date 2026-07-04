@@ -8,7 +8,7 @@ uk-region: South East England
 founded: 1985
 size: small
 headcount: 25-35
-sources-verified: 2026-06-29
+sources-verified: 2026-07-04
 tags:
   - defence
   - air
@@ -50,4 +50,4 @@ Flitetec Limited was established in 1985 and is headquartered in Amersham, Bucki
 
 ## Sources
 
-Public information verified 2026-06-29. Company website (flitetec.com), ADS Group member directory (adsgroup.org.uk), Companies House (FLITETEC LIMITED, company number 02868467, incorporated 2 November 1993, Amersham), ADS Advance (Paris Air Show distribution agreements), Runway Girl Network (Aeropair acquisition September 2022), Interplas Insights (Aeropair acquisition), Design Solutions magazine (Paris Air Show deals), Defence Engage exhibitor profile.
+Public information verified 2026-07-04. Company website (flitetec.com), ADS Group member directory (adsgroup.org.uk), Companies House (FLITETEC LIMITED, company number 02868467, incorporated 2 November 1993, Amersham), ADS Advance (Paris Air Show distribution agreements), Runway Girl Network (Aeropair acquisition September 2022), Interplas Insights (Aeropair acquisition), Design Solutions magazine (Paris Air Show deals), Defence Engage exhibitor profile.

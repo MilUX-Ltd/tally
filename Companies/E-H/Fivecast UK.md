@@ -9,13 +9,16 @@ uk-region: London
 founded: 2017
 size: medium
 headcount: 130-150
-sources-verified: 2026-06-29
+sources-verified: 2026-07-04
 tags:
   - defence
   - ai
+  - ai/ml-analytics
   - data
+  - data/analytics
   - software
   - isr
+  - isr/osint
   - size-medium
   - type-scaleup
   - owned-foreign
@@ -55,4 +58,4 @@ Fivecast is an Australian-founded digital intelligence company that develops AI-
 
 ## Sources
 
-Public information verified 2026-06-29. Company website (fivecast.com), ADS Group member directory (adsgroup.org.uk), Companies House (FIVECAST UK LIMITED, company number 13861067), Crunchbase (founding 2017, Adelaide), Premier of South Australia press release (founding context), UK Tech News (Discovery launch October 2024), Fivecast news page (Security and Policing 2026).
+Public information verified 2026-07-04. Company website (fivecast.com), ADS Group member directory (adsgroup.org.uk), Companies House (FIVECAST UK LIMITED, company number 13861067), Crunchbase (founding 2017, Adelaide), Premier of South Australia press release (founding context), UK Tech News (Discovery launch October 2024), Fivecast news page (Security and Policing 2026).

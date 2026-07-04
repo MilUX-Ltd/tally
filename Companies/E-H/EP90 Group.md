@@ -8,12 +8,16 @@ hq: Dorchester, UK
 uk-region: South West England
 founded: 2015
 size: micro
-sources-verified: 2026-06-29
+sources-verified: 2026-07-04
 tags:
   - defence
   - cyber
+  - cyber/pen-testing
+  - cyber/threat-intel
   - comms
+  - comms/networking
   - isr
+  - isr/sigint
   - data
   - size-micro
   - type-consultancy

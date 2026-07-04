@@ -9,7 +9,7 @@ uk-region: London
 founded: 2010
 size: large
 headcount: 7000-9000
-sources-verified: 2026-06-29
+sources-verified: 2026-07-04
 tags:
   - defence
   - test-evaluation

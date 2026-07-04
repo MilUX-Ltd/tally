@@ -8,10 +8,11 @@ hq: Loanhead, Midlothian, UK
 uk-region: Scotland
 founded: 2019
 size: micro
-sources-verified: 2026-06-29
+sources-verified: 2026-07-04
 tags:
   - drones
   - uas
+  - uas/platform
   - logistics
   - autonomy
   - manufacturing
@@ -45,4 +46,4 @@ Flowcopter designs and manufactures heavy-lift uncrewed air systems built around
 
 ## Sources
 
-Public information verified 2026-06-29. Company website (flowcopter.com), Companies House (no. SC637173), Scottish Enterprise, DroneLife, sUAS News.
+Public information verified 2026-07-04. Company website (flowcopter.com), Companies House (no. SC637173), Scottish Enterprise, DroneLife, sUAS News.

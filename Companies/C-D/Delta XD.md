@@ -8,7 +8,7 @@ hq: Basingstoke, United Kingdom
 uk-region: South East
 founded: 2023
 size: micro
-sources-verified: 2026-06-29
+sources-verified: 2026-07-04
 tags:
   - defence
   - test-evaluation
@@ -48,4 +48,4 @@ Delta XD provides precision metrology and engineering measurement services acros
 
 ## Sources
 
-Public information verified 2026-06-29. Company website (delta-xd.com), ADS Group member directory (adsgroup.org.uk/members/delta-xd-ltd-1/), Companies House (15112049), British Society for Strain Measurement (bssm.org), Engineering Integrity Society (e-i-s.org.uk).
+Public information verified 2026-07-04. Company website (delta-xd.com), ADS Group member directory (adsgroup.org.uk/members/delta-xd-ltd-1/), Companies House (15112049), British Society for Strain Measurement (bssm.org), Engineering Integrity Society (e-i-s.org.uk).

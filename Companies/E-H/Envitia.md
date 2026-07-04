@@ -8,15 +8,18 @@ hq: Horsham, United Kingdom
 uk-region: South East England
 founded: 1989
 size: medium
-sources-verified: 2026-06-29
+sources-verified: 2026-07-04
 tags:
   - defence
   - gis
   - data
+  - data/analytics
+  - data/engineering
   - software
   - ai
   - isr
   - c2
+  - c2/situational-awareness
   - size-medium
   - type-sme
   - type-consultancy

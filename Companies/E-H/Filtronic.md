@@ -9,11 +9,12 @@ uk-region: North East England
 founded: 1977
 size: small
 headcount: 175
-sources-verified: 2026-06-29
+sources-verified: 2026-07-04
 tags:
   - defence
   - rf
   - sensors
+  - sensors/radar
   - hardware
   - manufacturing
   - space

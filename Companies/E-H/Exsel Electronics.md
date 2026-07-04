@@ -8,7 +8,7 @@ hq: Welshpool, UK
 uk-region: Wales
 founded: 2017
 size: small
-sources-verified: 2026-06-29
+sources-verified: 2026-07-04
 tags:
   - defence
   - cyber
@@ -48,6 +48,6 @@ Exsel Electronics is a division of the Exsel Group, operating as a standalone le
 
 ## Sources
 
-Public information verified 2026-06-29. Company website (exsel-electronics.com), Companies House (no. 11085251), Exsel Group website (exsel-group.com), ADS members directory (adsgroup.org.uk/members/exsel-group-ltd/).
+Public information verified 2026-07-04. Company website (exsel-electronics.com), Companies House (no. 11085251), Exsel Group website (exsel-group.com), ADS members directory (adsgroup.org.uk/members/exsel-group-ltd/).
 
 **Note:** Exsel Electronics Limited is a subsidiary within the Exsel Group. The ADS member entity is Exsel Group Ltd (Companies House no. 11148970). Exsel Electronics is a distinct legal entity with its own website, product line, and registered address in Welshpool; it is not a duplicate of Exsel Group.

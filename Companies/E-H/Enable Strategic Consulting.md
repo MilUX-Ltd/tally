@@ -6,7 +6,7 @@ linkedin: https://www.linkedin.com/company/enable-strategic-consulting
 hq: London, United Kingdom
 uk-region: London
 size: micro
-sources-verified: 2026-06-29
+sources-verified: 2026-07-04
 tags:
   - defence
   - size-micro

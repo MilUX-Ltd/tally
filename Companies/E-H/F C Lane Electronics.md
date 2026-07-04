@@ -9,7 +9,7 @@ uk-region: South East
 founded: 1966
 size: small
 headcount: 70
-sources-verified: 2026-06-29
+sources-verified: 2026-07-04
 tags:
   - defence
   - hardware
@@ -60,4 +60,4 @@ F C Lane Electronics is a franchised value-added distributor of military and aer
 
 ## Sources
 
-Public information verified 2026-06-29. Company website (fclane.com), ADS Group members directory (adsgroup.org.uk/members/f-c-lane-electronics-ltd-2/), Companies House (no. 00876597), Electronics Weekly, LinkedIn company page.
+Public information verified 2026-07-04. Company website (fclane.com), ADS Group members directory (adsgroup.org.uk/members/f-c-lane-electronics-ltd-2/), Companies House (no. 00876597), Electronics Weekly, LinkedIn company page.

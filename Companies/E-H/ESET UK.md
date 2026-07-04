@@ -8,10 +8,12 @@ hq: Bratislava, Slovakia
 uk-region: South
 founded: 1992
 size: medium
-sources-verified: 2026-06-29
+sources-verified: 2026-07-04
 tags:
   - defence
   - cyber
+  - cyber/threat-intel
+  - cyber/soc-monitoring
   - software
   - size-medium
   - type-sme

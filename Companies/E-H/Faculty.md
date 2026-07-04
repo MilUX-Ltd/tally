@@ -9,15 +9,18 @@ uk-region: London
 founded: 2014
 size: medium
 headcount: 201-500
-sources-verified: 2026-06-29
+sources-verified: 2026-07-04
 tags:
   - defence
   - ai
+  - ai/ml-analytics
   - data
   - software
   - isr
+  - isr/ped
   - ew
   - c2
+  - c2/integration
   - size-medium
   - type-scaleup
   - owned-foreign

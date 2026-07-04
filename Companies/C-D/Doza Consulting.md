@@ -8,11 +8,13 @@ hq: Leeds, UK
 uk-region: Yorkshire
 founded: 2023
 size: micro
-sources-verified: 2026-06-29
+sources-verified: 2026-07-04
 tags:
   - defence
   - software
   - data
+  - data/engineering
+  - data/analytics
   - ai
   - size-micro
   - type-consultancy

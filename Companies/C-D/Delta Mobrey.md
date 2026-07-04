@@ -9,7 +9,7 @@ uk-region: South East England
 founded: 2005
 size: small
 headcount: 51-200
-sources-verified: 2026-06-29
+sources-verified: 2026-07-04
 tags:
   - defence
   - sensors
@@ -55,4 +55,4 @@ Delta Mobrey designs and manufactures process instrumentation for the measuremen
 
 ## Sources
 
-Public information verified 2026-06-29. ADS Group members directory (adsgroup.org.uk/members/delta-mobrey-ltd-2/); Companies House (find-and-update.company-information.service.gov.uk/company/05369683); Delta Mobrey website (delta-mobrey.com/industries/defence/); Delta Mobrey JOSCAR announcement (delta-mobrey.com/were-joscar-certified/); Digital Refining (digitalrefining.com).
+Public information verified 2026-07-04. ADS Group members directory (adsgroup.org.uk/members/delta-mobrey-ltd-2/); Companies House (find-and-update.company-information.service.gov.uk/company/05369683); Delta Mobrey website (delta-mobrey.com/industries/defence/); Delta Mobrey JOSCAR announcement (delta-mobrey.com/were-joscar-certified/); Digital Refining (digitalrefining.com).

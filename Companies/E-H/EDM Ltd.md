@@ -8,11 +8,12 @@ hq: Manchester, United Kingdom
 uk-region: North West England
 founded: 1971
 size: large
-sources-verified: 2026-06-29
+sources-verified: 2026-07-04
 tags:
   - defence
   - simulation
   - training
+  - training/instruction
   - manufacturing
   - air
   - size-large

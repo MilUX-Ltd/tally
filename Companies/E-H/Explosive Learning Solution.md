@@ -8,10 +8,12 @@ hq: Didcot, UK
 uk-region: South East
 founded: 2005
 size: small
-sources-verified: 2026-06-29
+sources-verified: 2026-07-04
 tags:
   - defence
   - training
+  - training/courseware
+  - training/instruction
   - simulation
   - logistics
   - size-small
@@ -54,4 +56,4 @@ Explosive Learning Solutions (ELS) is an independent learning and development (L
 
 ## Sources
 
-Public information verified 2026-06-29. ADS members directory (adsgroup.org.uk/members/explosive-learning-solution-ltd-1/), Companies House (no. 05576577), company website (elsbusinesstraining.co.uk), Counter EO UK member directory (counter-eo-uk.com), Armed Forces Covenant register (gov.uk).
+Public information verified 2026-07-04. ADS members directory (adsgroup.org.uk/members/explosive-learning-solution-ltd-1/), Companies House (no. 05576577), company website (elsbusinesstraining.co.uk), Counter EO UK member directory (counter-eo-uk.com), Armed Forces Covenant register (gov.uk).

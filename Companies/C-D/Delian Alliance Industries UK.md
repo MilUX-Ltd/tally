@@ -9,17 +9,26 @@ uk-region: East of England
 founded: 2021
 size: small
 headcount: 21-50
-sources-verified: 2026-06-29
+sources-verified: 2026-07-04
 tags:
   - defence
   - ai
+  - ai/computer-vision
   - autonomy
+  - autonomy/navigation
   - uas
   - counter-uas
+  - counter-uas/detection
+  - counter-uas/effector
   - ew
+  - ew/ecm
+  - ew/direction-finding
   - isr
+  - isr/fusion
   - sensors
+  - sensors/pnt
   - comms
+  - comms/networking
   - size-small
   - type-startup
   - owned-foreign
@@ -37,10 +46,10 @@ Delian Alliance Industries develops autonomous systems for defence mission-criti
 
 ## Products and solutions
 
-- **LAST (Autonomous Surveillance Tower)** - Portable and static surveillance tower in civilian, marine and multi-domain configurations, fusing and geolocating data from multiple sensors.
-- **Jericho** - Portable intelligence, communications and autonomy suite, interoperable with commercial drones and legacy sensor platforms.
-- **OSIRIS** - GPS-denied navigation module for operations in contested environments.
-- **M4K15** - Electronic warfare system for counter-UAS protection.
+- **LAST (Autonomous Surveillance Tower)** - Portable and static surveillance tower in civilian, marine and multi-domain configurations, using AI-based video and thermal analysis to detect, track and geolocate targets, fusing camera and radar feeds into a single real-time picture.
+- **Jericho** - Portable intelligence, communications and autonomy suite providing a networking backbone across drones, cameras and legacy sensor platforms.
+- **OSIRIS** - GPS-denied navigation and positioning module for operations in contested environments.
+- **M4K15** - Electronic warfare system combining RF and GNSS jamming with signal detection and direction-finding for counter-UAS protection.
 
 ## Frameworks, accreditations and memberships
 
@@ -57,4 +66,4 @@ Delian Alliance Industries develops autonomous systems for defence mission-criti
 
 ## Sources
 
-Public information verified 2026-06-29. ADS Group members directory (adsgroup.org.uk/members/delian-alliance-industries-uk-ltd-2/); Companies House (find-and-update.company-information.service.gov.uk/company/15897040); Air Street Capital press release (press.airstreet.com); Silicon Canals (siliconcanals.com); Greek City Times (greekcitytimes.com); EIF case study (eif.org/case-study/all/delian-alliance-industries).
+Public information verified 2026-07-04. Company website and product pages (delian.ai); ADS Group members directory (adsgroup.org.uk/members/delian-alliance-industries-uk-ltd-2/); Companies House (find-and-update.company-information.service.gov.uk/company/15897040); Air Street Capital press release (press.airstreet.com); Silicon Canals (siliconcanals.com); Greek City Times (greekcitytimes.com); EIF case study (eif.org/case-study/all/delian-alliance-industries).

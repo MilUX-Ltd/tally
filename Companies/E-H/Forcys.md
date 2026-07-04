@@ -8,16 +8,21 @@ hq: Yateley, United Kingdom
 uk-region: South East
 founded: 2022
 size: small
-sources-verified: 2026-06-29
+sources-verified: 2026-07-04
 tags:
   - defence
   - maritime
   - sensors
+  - sensors/acoustic-sonar
   - isr
   - autonomy
+  - autonomy/navigation
+  - autonomy/uxv-control
   - uas
   - c2
+  - c2/integration
   - comms
+  - comms/secure-voice
   - optronics
   - size-small
   - type-sme

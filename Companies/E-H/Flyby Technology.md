@@ -9,12 +9,14 @@ uk-region: Yorkshire
 founded: 2020
 size: small
 headcount: 15
-sources-verified: 2026-06-29
+sources-verified: 2026-07-04
 tags:
   - defence
   - drones
   - uas
+  - uas/platform
   - training
+  - training/instruction
   - munitions
   - manufacturing
   - air
@@ -56,4 +58,4 @@ Flyby Technology designs and manufactures vertical take-off and landing (VTOL) u
 
 ## Sources
 
-Public information verified 2026-06-29. Company website (flybytechnology.com), ADS Group member page (adsgroup.org.uk/members/flyby-technology-1), Companies House (no. 12797144), Flight Global, Royal Aeronautical Society (aerosociety.com), UK Defence Journal.
+Public information verified 2026-07-04. Company website (flybytechnology.com), ADS Group member page (adsgroup.org.uk/members/flyby-technology-1), Companies House (no. 12797144), Flight Global, Royal Aeronautical Society (aerosociety.com), UK Defence Journal.

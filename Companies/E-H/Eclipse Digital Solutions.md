@@ -9,11 +9,13 @@ uk-region: East Midlands
 founded: 2001
 size: small
 headcount: 11-50
-sources-verified: 2026-06-29
+sources-verified: 2026-07-04
 tags:
   - defence
   - sensors
+  - sensors/eo-ir
   - counter-uas
+  - counter-uas/detection
   - isr
   - hardware
   - software

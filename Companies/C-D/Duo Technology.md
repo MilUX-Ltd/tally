@@ -8,7 +8,7 @@ hq: Canterbury, United Kingdom
 uk-region: South East England
 founded: 2014
 size: micro
-sources-verified: 2026-06-29
+sources-verified: 2026-07-04
 tags:
   - defence
   - cyber
