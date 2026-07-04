@@ -7,10 +7,11 @@ companies-house: "07338597"
 hq: London, UK
 founded: 2010
 size: small
-sources-verified: 2026-06-29
+sources-verified: 2026-07-04
 tags:
   - defence
   - cyber
+  - cyber/encryption
   - comms
   - data
   - software

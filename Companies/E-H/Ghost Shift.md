@@ -6,11 +6,12 @@ companies-house: "16427618"
 hq: UK
 founded: 2025
 size: small
-sources-verified: 2026-06-29
+sources-verified: 2026-07-04
 tags:
   - defence
   - cyber
   - isr
+  - isr/osint
   - data
   - size-small
   - type-consultancy

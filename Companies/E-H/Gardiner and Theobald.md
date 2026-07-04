@@ -7,7 +7,7 @@ hq: London, United Kingdom
 uk-region: London
 size: large
 headcount: 1800-2000
-sources-verified: 2026-06-29
+sources-verified: 2026-07-04
 tags:
   - defence
   - space

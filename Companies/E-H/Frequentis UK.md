@@ -8,11 +8,14 @@ hq: Vienna, Austria
 uk-region: South East England
 size: large
 headcount: 2600
-sources-verified: 2026-06-29
+sources-verified: 2026-07-04
 tags:
   - defence
   - comms
+  - comms/secure-voice
+  - comms/networking
   - c2
+  - c2/situational-awareness
   - air
   - isr
   - software

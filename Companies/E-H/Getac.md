@@ -6,7 +6,7 @@ linkedin: https://www.linkedin.com/company/getactechnology
 hq: Taipei, Taiwan
 founded: 1989
 size: large
-sources-verified: 2026-06-29
+sources-verified: 2026-07-04
 tags:
   - defence
   - hardware

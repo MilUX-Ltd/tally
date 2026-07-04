@@ -7,7 +7,7 @@ companies-house: "05151023"
 hq: St Albans, United Kingdom
 uk-region: East of England
 size: small
-sources-verified: 2026-06-29
+sources-verified: 2026-07-04
 tags:
   - defence
   - hardware

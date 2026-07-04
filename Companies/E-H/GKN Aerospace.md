@@ -7,7 +7,7 @@ companies-house: 00355922
 hq: Birmingham, United Kingdom
 uk-region: West Midlands
 size: large
-sources-verified: 2026-06-29
+sources-verified: 2026-07-04
 tags:
   - defence
   - air

@@ -9,7 +9,7 @@ uk-region: East of England
 founded: 1999
 size: large
 headcount: 800
-sources-verified: 2026-06-29
+sources-verified: 2026-07-04
 tags:
   - defence
   - maritime

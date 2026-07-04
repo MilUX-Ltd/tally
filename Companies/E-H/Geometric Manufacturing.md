@@ -9,13 +9,15 @@ uk-region: South West
 founded: 2002
 size: small
 headcount: 32
-sources-verified: 2026-06-29
+sources-verified: 2026-07-04
 tags:
   - defence
   - manufacturing
   - hardware
   - ew
+  - ew/ecm
   - cyber
+  - cyber/encryption
   - land
   - air
   - maritime

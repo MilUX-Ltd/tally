@@ -8,15 +8,18 @@ hq: Leidschendam, Netherlands
 uk-region: South East
 founded: 1973
 size: large
-sources-verified: 2026-06-29
+sources-verified: 2026-07-04
 tags:
   - defence
   - maritime
   - isr
+  - isr/fusion
   - sensors
   - data
+  - data/analytics
   - gis
   - autonomy
+  - autonomy/uxv-control
   - size-large
   - type-integrator
   - owned-foreign

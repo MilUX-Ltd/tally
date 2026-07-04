@@ -7,7 +7,7 @@ hq: Glendale, United States
 uk-region: East Midlands
 founded: 1975
 size: medium
-sources-verified: 2026-06-29
+sources-verified: 2026-07-04
 tags:
   - defence
   - hardware

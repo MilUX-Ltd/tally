@@ -8,7 +8,7 @@ hq: Derby, United Kingdom
 uk-region: East Midlands
 size: large
 headcount: 2000
-sources-verified: 2026-06-29
+sources-verified: 2026-07-04
 tags:
   - defence
   - air

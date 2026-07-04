@@ -8,7 +8,7 @@ uk-region: South East
 founded: 1964
 size: small
 headcount: 60
-sources-verified: 2026-06-29
+sources-verified: 2026-07-04
 tags:
   - defence
   - manufacturing

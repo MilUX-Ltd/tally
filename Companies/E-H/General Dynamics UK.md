@@ -9,17 +9,20 @@ uk-region: Wales
 founded: 1985
 size: large
 headcount: 1000+
-sources-verified: 2026-06-29
+sources-verified: 2026-07-04
 tags:
   - defence
   - land
   - air
   - maritime
   - comms
+  - comms/tactical-radio
   - c2
+  - c2/situational-awareness
   - isr
   - sensors
   - autonomy
+  - autonomy/uxv-control
   - robotics
   - manufacturing
   - hardware

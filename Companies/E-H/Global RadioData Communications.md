@@ -8,15 +8,18 @@ hq: Hereford, United Kingdom
 uk-region: West Midlands
 founded: 2007
 size: small
-sources-verified: 2026-06-29
+sources-verified: 2026-07-04
 tags:
   - defence
   - comms
+  - comms/satcom
+  - comms/networking
   - isr
   - rf
   - space
   - c2
   - cyber
+  - cyber/encryption
   - software
   - hardware
   - size-small

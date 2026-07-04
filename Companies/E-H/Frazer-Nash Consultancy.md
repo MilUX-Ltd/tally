@@ -8,7 +8,7 @@ hq: Leatherhead, UK
 uk-region: South East
 size: large
 headcount: 1400+
-sources-verified: 2026-06-29
+sources-verified: 2026-07-04
 tags:
   - defence
   - maritime

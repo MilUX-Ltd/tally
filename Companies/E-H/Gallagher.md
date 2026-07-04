@@ -9,10 +9,11 @@ uk-region: West Midlands
 founded: 1938
 size: large
 headcount: 1300
-sources-verified: 2026-06-29
+sources-verified: 2026-07-04
 tags:
   - defence
   - cyber
+  - cyber/idam
   - sensors
   - hardware
   - software

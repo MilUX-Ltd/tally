@@ -9,14 +9,18 @@ uk-region: Scotland
 founded: 2020
 size: micro
 headcount: 2-10
-sources-verified: 2026-06-29
+sources-verified: 2026-07-04
 tags:
   - defence
   - uas
+  - uas/platform
   - counter-uas
+  - counter-uas/detection
+  - counter-uas/effector
   - drones
   - autonomy
   - sensors
+  - sensors/eo-ir
   - size-micro
   - type-startup
   - owned-uk

@@ -8,7 +8,7 @@ hq: Cincinnati, United States
 uk-region: South West England
 size: large
 headcount: 2000+
-sources-verified: 2026-06-29
+sources-verified: 2026-07-04
 tags:
   - defence
   - air

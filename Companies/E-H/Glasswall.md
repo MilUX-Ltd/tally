@@ -9,10 +9,12 @@ uk-region: London
 founded: 2005
 size: small
 headcount: 100-200
-sources-verified: 2026-06-29
+sources-verified: 2026-07-04
 tags:
   - defence
   - cyber
+  - cyber/cross-domain
+  - cyber/threat-intel
   - software
   - data
   - size-small

@@ -5,7 +5,7 @@ website: https://gxo.com/
 hq: Greenwich, CT, United States
 uk-region: West Midlands
 size: large
-sources-verified: 2026-06-29
+sources-verified: 2026-07-04
 tags:
   - defence
   - logistics

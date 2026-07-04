@@ -7,7 +7,7 @@ companies-house: "02929032"
 hq: Kirkby-in-Ashfield, United Kingdom
 uk-region: East Midlands
 size: small
-sources-verified: 2026-06-29
+sources-verified: 2026-07-04
 tags:
   - defence
   - manufacturing

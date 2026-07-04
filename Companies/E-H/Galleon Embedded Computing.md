@@ -8,13 +8,14 @@ uk-region: London
 founded: 2009
 size: small
 headcount: 40-50
-sources-verified: 2026-06-29
+sources-verified: 2026-07-04
 tags:
   - defence
   - hardware
   - isr
   - sensors
   - data
+  - data/engineering
   - air
   - land
   - maritime

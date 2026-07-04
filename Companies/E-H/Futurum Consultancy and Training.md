@@ -7,11 +7,13 @@ companies-house: "09190183"
 hq: London, UK
 founded: 2014
 size: micro
-sources-verified: 2026-06-29
+sources-verified: 2026-07-04
 tags:
   - defence
   - training
+  - training/instruction
   - isr
+  - isr/osint
   - cyber
   - size-micro
   - type-sme

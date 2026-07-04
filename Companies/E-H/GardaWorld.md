@@ -6,11 +6,13 @@ hq: Montreal, Canada
 uk-region: London
 size: large
 headcount: 120000
-sources-verified: 2026-06-29
+sources-verified: 2026-07-04
 tags:
   - defence
   - training
+  - training/instruction
   - isr
+  - isr/osint
   - size-large
   - type-consultancy
   - owned-foreign

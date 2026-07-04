@@ -6,12 +6,13 @@ linkedin: https://au.linkedin.com/company/gaardtech
 hq: Brisbane, Australia
 founded: 2017
 size: micro
-sources-verified: 2026-06-29
+sources-verified: 2026-07-04
 tags:
   - defence
   - training
   - robotics
   - autonomy
+  - autonomy/uxv-control
   - land
   - hardware
   - manufacturing

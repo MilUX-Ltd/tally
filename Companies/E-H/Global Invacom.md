@@ -8,11 +8,12 @@ hq: Whitstable, United Kingdom
 uk-region: South East
 founded: 1993
 size: medium
-sources-verified: 2026-06-29
+sources-verified: 2026-07-04
 tags:
   - defence
   - space
   - comms
+  - comms/satcom
   - isr
   - sensors
   - rf

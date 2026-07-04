@@ -5,14 +5,17 @@ website: https://www.gmv.com/en/sectors/defence-security
 hq: Madrid, Spain
 uk-region: East Midlands
 size: large
-sources-verified: 2026-06-29
+sources-verified: 2026-07-04
 tags:
   - defence
   - space
   - sensors
+  - sensors/pnt
   - autonomy
+  - autonomy/navigation
   - software
   - isr
+  - isr/fusion
   - size-large
   - type-integrator
   - owned-foreign

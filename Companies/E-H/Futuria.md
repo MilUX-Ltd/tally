@@ -6,10 +6,11 @@ companies-house: "15097040"
 hq: Bristol, UK
 founded: 2023
 size: micro
-sources-verified: 2026-06-29
+sources-verified: 2026-07-04
 tags:
   - defence
   - ai
+  - ai/decision-support
   - software
   - data
   - size-micro

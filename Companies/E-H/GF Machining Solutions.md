@@ -6,7 +6,7 @@ companies-house: "03240378"
 hq: Biel/Bienne, Switzerland
 uk-region: Midlands
 size: large
-sources-verified: 2026-06-29
+sources-verified: 2026-07-04
 tags:
   - defence
   - manufacturing

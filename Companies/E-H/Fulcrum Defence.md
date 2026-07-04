@@ -7,7 +7,7 @@ hq: Monmouth, UK
 uk-region: Wales
 founded: 2020
 size: micro
-sources-verified: 2026-06-29
+sources-verified: 2026-07-04
 tags:
   - defence
   - hardware

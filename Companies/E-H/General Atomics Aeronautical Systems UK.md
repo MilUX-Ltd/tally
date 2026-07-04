@@ -7,10 +7,11 @@ hq: San Diego, United States
 uk-region: London
 founded: 2010
 size: small
-sources-verified: 2026-06-29
+sources-verified: 2026-07-04
 tags:
   - defence
   - uas
+  - uas/platform
   - drones
   - isr
   - air

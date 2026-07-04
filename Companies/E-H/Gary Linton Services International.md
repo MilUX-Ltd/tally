@@ -7,7 +7,7 @@ hq: Southampton, United Kingdom
 uk-region: South East
 founded: 2011
 size: micro
-sources-verified: 2026-06-29
+sources-verified: 2026-07-04
 tags:
   - defence
   - sensors
