@@ -8,7 +8,7 @@ hq: Denham, United Kingdom
 uk-region: South East
 founded: 2020
 size: micro
-sources-verified: 2026-06-29
+sources-verified: 2026-07-04
 tags:
   - defence
   - logistics

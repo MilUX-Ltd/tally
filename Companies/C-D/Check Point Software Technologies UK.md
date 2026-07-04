@@ -8,9 +8,10 @@ hq: Tel Aviv, Israel
 uk-region: London
 founded: 1996
 size: large
-sources-verified: 2026-06-29
+sources-verified: 2026-07-04
 tags:
   - cyber
+  - cyber/threat-intel
   - software
   - size-large
   - type-prime
@@ -44,4 +45,4 @@ The parent company, Check Point Software Technologies Ltd, was founded in 1993 a
 
 ## Sources
 
-Public information verified 2026-06-29. Company website; ADS Group members directory; Companies House (03201839); CYBERUK 2026; Wikipedia.
+Public information verified 2026-07-04. Company website; ADS Group members directory; Companies House (03201839); CYBERUK 2026; Wikipedia.

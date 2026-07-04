@@ -8,10 +8,11 @@ hq: Ivybridge, United Kingdom
 uk-region: South West
 founded: 2010
 size: micro
-sources-verified: 2026-06-29
+sources-verified: 2026-07-04
 tags:
   - defence
   - simulation
+  - simulation/synthetic-environment
   - training
   - maritime
   - software

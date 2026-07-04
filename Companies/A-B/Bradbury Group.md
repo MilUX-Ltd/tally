@@ -8,7 +8,7 @@ hq: Scunthorpe, England
 uk-region: Yorkshire and the Humber
 founded: 1991
 size: medium
-sources-verified: 2026-06-29
+sources-verified: 2026-07-04
 tags:
   - defence
   - size-medium

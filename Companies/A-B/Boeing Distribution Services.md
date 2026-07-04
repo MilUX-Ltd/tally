@@ -6,7 +6,7 @@ companies-house: 00446288
 hq: Chicago, United States
 uk-region: South East England
 size: large
-sources-verified: 2026-06-29
+sources-verified: 2026-07-04
 tags:
   - defence
   - air

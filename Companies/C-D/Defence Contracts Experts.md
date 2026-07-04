@@ -7,7 +7,7 @@ hq: Mitcheldean, United Kingdom
 uk-region: South West
 founded: 2015
 size: micro
-sources-verified: 2026-06-29
+sources-verified: 2026-07-04
 tags:
   - defence
   - logistics

@@ -9,12 +9,15 @@ uk-region: South West England
 founded: 2013
 size: small
 headcount: 15
-sources-verified: 2026-06-29
+sources-verified: 2026-07-04
 tags:
   - defence
   - data
+  - data/analytics
   - ai
   - simulation
+  - simulation/lvc
+  - simulation/synthetic-environment
   - training
   - software
   - size-small
@@ -55,4 +58,4 @@ Cervus is based at Porton Science Park, Porton Down, Wiltshire, and employs arou
 
 ## Sources
 
-Public information verified 2026-06-29. Company website; ADS Group members directory; Companies House (08375349); company LinkedIn page; Skyral; GOV.UK Armed Forces Covenant.
+Public information verified 2026-07-04. Company website; ADS Group members directory; Companies House (08375349); company LinkedIn page; Skyral; GOV.UK Armed Forces Covenant.

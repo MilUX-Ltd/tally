@@ -7,7 +7,7 @@ hq: Cardiff, United Kingdom
 uk-region: Wales
 founded: 2022
 size: small
-sources-verified: 2026-06-29
+sources-verified: 2026-07-04
 tags:
   - defence
   - software
@@ -51,4 +51,4 @@ Consortium X is a digital transformation and systems engineering consultancy spe
 
 ## Sources
 
-Public information verified 2026-06-29. Sources: ADS Group member profile (adsgroup.org.uk/members/consortium-x-ltd-1/); Companies House (company 14347267).
+Public information verified 2026-07-04. Sources: ADS Group member profile (adsgroup.org.uk/members/consortium-x-ltd-1/); Companies House (company 14347267).

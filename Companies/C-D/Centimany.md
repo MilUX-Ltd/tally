@@ -8,7 +8,7 @@ hq: Swindon, United Kingdom
 uk-region: South West England
 founded: 2008
 size: micro
-sources-verified: 2026-06-29
+sources-verified: 2026-07-04
 tags:
   - defence
   - space
@@ -31,9 +31,18 @@ Centimany was founded in 2008 to address economic, business and strategic challe
 
 The company is based at Broad Town Lodge, near Swindon. Related entities, Centimany Corp and Centimany Group LLC, are registered in Boca Raton, Florida.
 
+## Products and solutions
+
+- **Programme assurance methods and tools** - business, finance and commercial methods and tools for teams assuring government, defence and space programmes.
+- **Space sector engagement** - completed the UK Space Agency's GEO-Accelerator programme, a six-month accelerator supporting UK businesses in the space sector.
+
 ## Frameworks, accreditations and memberships
 
 - **Memberships:** ADS Group
+
+## Recent news
+
+- Centimany completed the UK Space Agency's GEO-Accelerator programme, a six-month accelerator to grow its presence in the space sector. [source](https://centimany.com/f/centimanys-success-in-the-uk-space-agency-accelerator-programme)
 
 ## Links
 
@@ -42,4 +51,4 @@ The company is based at Broad Town Lodge, near Swindon. Related entities, Centim
 
 ## Sources
 
-Public information verified 2026-06-29. Company website; ADS Group members directory; Companies House (06469755); company LinkedIn page.
+Public information verified 2026-07-04. Company website (centimany.com); ADS Group members directory; Companies House (06469755); company LinkedIn page.

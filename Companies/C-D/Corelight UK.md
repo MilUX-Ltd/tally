@@ -8,11 +8,14 @@ hq: San Francisco, United States
 uk-region: London
 founded: 2018
 size: small
-sources-verified: 2026-06-29
+sources-verified: 2026-07-04
 tags:
   - defence
   - cyber
+  - cyber/incident-response
+  - cyber/threat-intel
   - ai
+  - ai/ml-analytics
   - data
   - software
   - size-small

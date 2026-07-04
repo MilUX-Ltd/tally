@@ -8,7 +8,7 @@ hq: London, United Kingdom
 uk-region: London
 founded: 1952
 size: small
-sources-verified: 2026-06-29
+sources-verified: 2026-07-04
 tags:
   - defence
   - size-small

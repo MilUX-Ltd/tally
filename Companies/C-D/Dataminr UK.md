@@ -7,12 +7,16 @@ hq: New York, United States
 uk-region: London
 founded: 2009
 size: large
-sources-verified: 2026-06-29
+sources-verified: 2026-07-04
 tags:
   - defence
   - ai
+  - ai/decision-support
   - isr
+  - isr/osint
+  - isr/fusion
   - cyber
+  - cyber/threat-intel
   - data
   - size-large
   - type-scaleup

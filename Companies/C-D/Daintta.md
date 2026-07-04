@@ -8,13 +8,17 @@ hq: London, UK
 uk-region: London
 founded: 2019
 size: small
-sources-verified: 2026-06-29
+sources-verified: 2026-07-04
 tags:
   - defence
   - data
+  - data/analytics
   - cyber
+  - cyber/soc-monitoring
+  - cyber/grc
   - comms
   - ai
+  - ai/decision-support
   - software
   - size-small
   - type-consultancy

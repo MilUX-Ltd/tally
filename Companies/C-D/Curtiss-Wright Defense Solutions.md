@@ -6,7 +6,7 @@ linkedin: https://www.linkedin.com/showcase/curtiss-wright-defense-solutions/
 hq: Davidson, NC, USA
 uk-region: South East England
 size: large
-sources-verified: 2026-06-29
+sources-verified: 2026-07-04
 tags:
   - defence
   - hardware

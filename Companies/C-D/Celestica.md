@@ -9,7 +9,7 @@ uk-region: West Midlands
 founded: 1994
 size: large
 headcount: 29000+ (global group)
-sources-verified: 2026-06-29
+sources-verified: 2026-07-04
 tags:
   - defence
   - air

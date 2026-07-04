@@ -7,11 +7,12 @@ hq: Cheltenham, United Kingdom
 uk-region: South West
 founded: 2025
 size: micro
-sources-verified: 2026-06-29
+sources-verified: 2026-07-04
 tags:
   - defence
   - software
   - data
+  - data/analytics
   - hardware
   - size-micro
   - type-startup
@@ -45,4 +46,4 @@ DHELTA was incorporated in July 2025 and is registered in Cheltenham. Its Compan
 
 ## Sources
 
-Public information verified 2026-06-29. Sources: ADS Group member profile (https://www.adsgroup.org.uk/members/dhelta-ltd-1/); Companies House record 16557377 (https://find-and-update.company-information.service.gov.uk/company/16557377); DHELTA website (https://dhelta.net).
+Public information verified 2026-07-04. Sources: ADS Group member profile (https://www.adsgroup.org.uk/members/dhelta-ltd-1/); Companies House record 16557377 (https://find-and-update.company-information.service.gov.uk/company/16557377); DHELTA website (https://dhelta.net).

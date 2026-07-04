@@ -8,10 +8,11 @@ hq: London, United Kingdom
 uk-region: Greater London
 founded: 2025
 size: micro
-sources-verified: 2026-06-29
+sources-verified: 2026-07-04
 tags:
   - defence
   - training
+  - training/instruction
   - isr
   - type-sme
   - type-startup
@@ -48,4 +49,4 @@ Cambrai Risk Solutions provides threat and risk analysis, travel risk management
 
 ## Sources
 
-Public information verified 2026-06-29. Companies House (16165420); cambrairisk.com; LinkedIn company page.
+Public information verified 2026-07-04. Companies House (16165420); cambrairisk.com; LinkedIn company page.

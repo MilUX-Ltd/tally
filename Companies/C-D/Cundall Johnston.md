@@ -9,7 +9,7 @@ uk-region: North East
 founded: 2001
 size: large
 headcount: 1059
-sources-verified: 2026-06-29
+sources-verified: 2026-07-04
 tags:
   - defence
   - size-large
@@ -47,4 +47,4 @@ Cundall is an independent multi-disciplinary engineering and design consultancy 
 
 ## Sources
 
-Public information verified 2026-06-29. ADS members directory (adsgroup.org.uk/members/cundall-johnston-llp-1), company website (cundall.com/sectors/defence), Companies House (company OC300389), Wikipedia, ZoomInfo headcount data.
+Public information verified 2026-07-04. ADS members directory (adsgroup.org.uk/members/cundall-johnston-llp-1), company website (cundall.com/sectors/defence), Companies House (company OC300389), Wikipedia, ZoomInfo headcount data.

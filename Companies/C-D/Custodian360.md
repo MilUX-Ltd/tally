@@ -8,10 +8,13 @@ uk-region: South East England
 founded: 2016
 size: small
 headcount: 11-50
-sources-verified: 2026-06-29
+sources-verified: 2026-07-04
 tags:
   - defence
   - cyber
+  - cyber/soc-monitoring
+  - cyber/incident-response
+  - cyber/grc
   - software
   - type-sme
   - size-small

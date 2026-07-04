@@ -9,7 +9,7 @@ uk-region: Yorkshire and the Humber
 founded: 2008
 size: large
 headcount: 850-1000
-sources-verified: 2026-06-29
+sources-verified: 2026-07-04
 tags:
   - defence
   - land

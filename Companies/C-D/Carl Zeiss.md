@@ -6,7 +6,7 @@ companies-house: 00542141
 hq: Oberkochen, Germany
 uk-region: West Midlands
 size: large
-sources-verified: 2026-06-29
+sources-verified: 2026-07-04
 tags:
   - defence
   - optronics

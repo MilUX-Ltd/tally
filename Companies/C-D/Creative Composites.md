@@ -9,7 +9,7 @@ uk-region: Northern Ireland
 founded: 2000
 size: medium
 headcount: 201-500
-sources-verified: 2026-06-29
+sources-verified: 2026-07-04
 tags:
   - defence
   - manufacturing
@@ -49,4 +49,4 @@ Creative Composites designs and manufactures composite components using compress
 
 ## Sources
 
-Public information verified 2026-06-29. Company website https://www.creativecomposites.co.uk/about/; ADS Group member profile https://www.adsgroup.org.uk/members/creative-composites-ltd-2/ (last updated December 2025); Companies House record NI038590 https://find-and-update.company-information.service.gov.uk/company/NI038590; LinkedIn company page https://www.linkedin.com/company/creative-composites.
+Public information verified 2026-07-04. Company website https://www.creativecomposites.co.uk/about/; ADS Group member profile https://www.adsgroup.org.uk/members/creative-composites-ltd-2/ (last updated December 2025); Companies House record NI038590 https://find-and-update.company-information.service.gov.uk/company/NI038590; LinkedIn company page https://www.linkedin.com/company/creative-composites.

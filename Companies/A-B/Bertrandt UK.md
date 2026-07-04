@@ -8,7 +8,7 @@ hq: Ehningen, Germany
 uk-region: West Midlands
 founded: 1995
 size: medium
-sources-verified: 2026-06-29
+sources-verified: 2026-07-04
 tags:
   - defence
   - air

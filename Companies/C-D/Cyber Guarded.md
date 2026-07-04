@@ -8,10 +8,13 @@ hq: Surrey, UK
 uk-region: South East
 founded: 2007
 size: small
-sources-verified: 2026-06-29
+sources-verified: 2026-07-04
 tags:
   - defence
   - cyber
+  - cyber/pen-testing
+  - cyber/red-team
+  - cyber/grc
   - size-small
   - type-sme
   - type-consultancy

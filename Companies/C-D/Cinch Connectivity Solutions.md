@@ -7,7 +7,7 @@ companies-house: 02086232
 hq: Lombard, United States
 uk-region: East of England
 size: medium
-sources-verified: 2026-06-29
+sources-verified: 2026-07-04
 tags:
   - defence
   - air

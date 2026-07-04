@@ -9,12 +9,15 @@ uk-region: London
 founded: 2011
 size: micro
 headcount: 3
-sources-verified: 2026-06-29
+sources-verified: 2026-07-04
 tags:
   - defence
   - isr
+  - isr/osint
   - data
   - training
+  - training/courseware
+  - training/instruction
   - software
   - size-micro
   - type-sme

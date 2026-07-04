@@ -9,13 +9,17 @@ uk-region: London
 founded: 2013
 size: large
 headcount: ~500
-sources-verified: 2026-06-29
+sources-verified: 2026-07-04
 tags:
   - defence
   - data
+  - data/engineering
+  - data/analytics
   - ai
+  - ai/ml-analytics
   - software
   - cyber
+  - cyber/soc-monitoring
   - size-large
   - type-scaleup
   - owned-foreign

@@ -7,7 +7,7 @@ hq: Montreal, Canada
 founded: 1976
 size: large
 headcount: ~90,000 (global)
-sources-verified: 2026-06-29
+sources-verified: 2026-07-04
 tags:
   - defence
   - software
@@ -15,6 +15,7 @@ tags:
   - cyber
   - space
   - c2
+  - c2/situational-awareness
   - isr
   - size-large
   - type-systems-integrator

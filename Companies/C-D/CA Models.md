@@ -6,7 +6,7 @@ hq: Stirling, United Kingdom
 uk-region: Scotland
 founded: 1983
 size: small
-sources-verified: 2026-06-29
+sources-verified: 2026-07-04
 tags:
   - defence
   - manufacturing
@@ -52,4 +52,4 @@ CA Models is a rapid prototyping and model making business based in Stirling, Sc
 
 ## Sources
 
-Public information verified 2026-06-29. Sources: company website (camodels.co.uk), ADS Group member directory (adsgroup.org.uk/members/ca-models-2/), TCT Magazine, Metal AM, Prototal group website.
+Public information verified 2026-07-04. Sources: company website (camodels.co.uk), ADS Group member directory (adsgroup.org.uk/members/ca-models-2/), TCT Magazine, Metal AM, Prototal group website.

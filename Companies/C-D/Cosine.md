@@ -9,10 +9,11 @@ uk-region: Greater London
 founded: 2022
 size: small
 headcount: 32
-sources-verified: 2026-06-29
+sources-verified: 2026-07-04
 tags:
   - defence
   - ai
+  - ai/generative
   - software
   - cyber
   - data

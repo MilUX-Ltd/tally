@@ -9,7 +9,7 @@ uk-region: Scotland
 founded: 2008
 size: large
 headcount: 3500
-sources-verified: 2026-06-29
+sources-verified: 2026-07-04
 tags:
   - defence
   - logistics
@@ -60,4 +60,4 @@ Crane Worldwide UK Ltd is the UK entity of Crane Worldwide Logistics, a privatel
 
 ## Sources
 
-Public information verified 2026-06-29. Crane Worldwide website (https://www.craneww.com); Government and Defense page (https://www.craneww.com/industries/government/); Aerospace page (https://www.craneww.com/industries/aerospace-logistics/); ADS Group member profile (https://www.adsgroup.org.uk/members/crane-worldwide-uk-ltd-1/); Companies House (https://find-and-update.company-information.service.gov.uk/company/SC346327); press centre announcements.
+Public information verified 2026-07-04. Crane Worldwide website (https://www.craneww.com); Government and Defense page (https://www.craneww.com/industries/government/); Aerospace page (https://www.craneww.com/industries/aerospace-logistics/); ADS Group member profile (https://www.adsgroup.org.uk/members/crane-worldwide-uk-ltd-1/); Companies House (https://find-and-update.company-information.service.gov.uk/company/SC346327); press centre announcements.

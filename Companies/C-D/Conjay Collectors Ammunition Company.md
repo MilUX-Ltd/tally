@@ -8,7 +8,7 @@ hq: Monmouth, United Kingdom
 uk-region: Wales
 founded: 1954
 size: micro
-sources-verified: 2026-06-29
+sources-verified: 2026-07-04
 tags:
   - defence
   - munitions
@@ -50,4 +50,4 @@ Conjay has traded within the defence sector since 1954, initially supplying ammu
 
 ## Sources
 
-Public information verified 2026-06-29. Sources: company website (conjay.com); ADS Group member profile (adsgroup.org.uk/members/conjay-collectors-ammunition-company-ltd-2/); Companies House (company 01751156).
+Public information verified 2026-07-04. Sources: company website (conjay.com); ADS Group member profile (adsgroup.org.uk/members/conjay-collectors-ammunition-company-ltd-2/); Companies House (company 01751156).

@@ -9,12 +9,13 @@ uk-region: London
 founded: 2024
 size: medium
 headcount: ~125
-sources-verified: 2026-06-29
+sources-verified: 2026-07-04
 tags:
   - defence
   - air
   - munitions
   - counter-uas
+  - counter-uas/effector
   - manufacturing
   - hardware
   - size-medium
@@ -48,4 +49,4 @@ Cambridge Aerospace is a UK defence-technology scale-up founded in 2024, focused
 
 ## Sources
 
-Public information verified 2026-06-29. Company website, Companies House (no. 15935962, active, incorporated 4 September 2024), Bloomberg, The Register, The Aviationist. Note: this is the defence-technology firm trading as "Cambridge Aerospace", not the long-established Marshall of Cambridge Aerospace Limited (Companies House no. 00245740), a separate company with a similar name. Headcount (~125) and operational siting (registered office London, planned solid-rocket-motor facility in Norfolk) are drawn from press reporting rather than filed records.
+Public information verified 2026-07-04. Company website, Companies House (no. 15935962, active, incorporated 4 September 2024), Bloomberg, The Register, The Aviationist. Note: this is the defence-technology firm trading as "Cambridge Aerospace", not the long-established Marshall of Cambridge Aerospace Limited (Companies House no. 00245740), a separate company with a similar name. Headcount (~125) and operational siting (registered office London, planned solid-rocket-motor facility in Norfolk) are drawn from press reporting rather than filed records.

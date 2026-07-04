@@ -5,7 +5,7 @@ website: https://www.cbrnergeticsltd.com
 companies-house: 09767640
 hq: Dorset, United Kingdom
 size: small
-sources-verified: 2026-06-29
+sources-verified: 2026-07-04
 tags:
   - defence
   - munitions
@@ -41,4 +41,4 @@ CBRNergetics Ltd manufactures and supplies defence equipment to military, govern
 
 ## Sources
 
-Public information verified 2026-06-29. Sources used: cbrnergeticsltd.com, ADS Group member directory, CBRN-UK members directory, Army Technology, Companies House (09767640).
+Public information verified 2026-07-04. Sources used: cbrnergeticsltd.com, ADS Group member directory, CBRN-UK members directory, Army Technology, Companies House (09767640).

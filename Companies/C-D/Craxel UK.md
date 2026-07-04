@@ -9,12 +9,15 @@ uk-region: Northern Ireland
 founded: 2007
 size: small
 headcount: 27
-sources-verified: 2026-06-29
+sources-verified: 2026-07-04
 tags:
   - defence
   - cyber
+  - cyber/threat-intel
   - ai
+  - ai/decision-support
   - data
+  - data/analytics
   - software
   - isr
   - size-small
@@ -54,4 +57,4 @@ Craxel UK Ltd is the UK subsidiary of Craxel Inc. (Fairfax, Virginia, USA), inco
 
 ## Sources
 
-Public information verified 2026-06-29. Craxel website (https://www.craxel.com); ADS Group member profile (https://www.adsgroup.org.uk/members/craxel-uk-1/); Companies House (https://find-and-update.company-information.service.gov.uk/company/NI736501); Invest Northern Ireland (https://www.investni.com/media-centre/news/craxel-establishes-it-and-operations-hub-belfast); Reserves and Cadets NI; Silicon Republic.
+Public information verified 2026-07-04. Craxel website (https://www.craxel.com); ADS Group member profile (https://www.adsgroup.org.uk/members/craxel-uk-1/); Companies House (https://find-and-update.company-information.service.gov.uk/company/NI736501); Invest Northern Ireland (https://www.investni.com/media-centre/news/craxel-establishes-it-and-operations-hub-belfast); Reserves and Cadets NI; Silicon Republic.

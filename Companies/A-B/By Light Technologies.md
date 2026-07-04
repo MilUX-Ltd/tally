@@ -7,11 +7,12 @@ hq: McLean, Virginia, United States
 uk-region: North West
 founded: 2024
 size: small
-sources-verified: 2026-06-29
+sources-verified: 2026-07-04
 tags:
   - defence
   - cyber
   - training
+  - training/instruction
   - simulation
   - size-small
   - type-sme

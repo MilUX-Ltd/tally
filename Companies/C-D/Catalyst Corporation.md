@@ -7,11 +7,13 @@ companies-house: 11821331
 hq: Brighton, England
 uk-region: South East England
 size: micro
-sources-verified: 2026-06-29
+sources-verified: 2026-07-04
 tags:
   - defence
   - simulation
+  - simulation/synthetic-environment
   - autonomy
+  - autonomy/uxv-control
   - uas
   - robotics
   - ai

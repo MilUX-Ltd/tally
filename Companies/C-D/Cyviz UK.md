@@ -9,14 +9,17 @@ uk-region: Scotland
 founded: 1998
 size: medium
 headcount: 158
-sources-verified: 2026-06-29
+sources-verified: 2026-07-04
 tags:
   - defence
   - c2
+  - c2/situational-awareness
+  - c2/integration
   - isr
   - software
   - hardware
   - data
+  - data/visualisation
   - comms
   - size-medium
   - type-integrator

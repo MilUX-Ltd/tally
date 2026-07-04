@@ -8,7 +8,7 @@ uk-region: South West England
 founded: 2017
 size: small
 headcount: 38
-sources-verified: 2026-06-29
+sources-verified: 2026-07-04
 tags:
   - defence
   - manufacturing
@@ -53,4 +53,4 @@ Carbon ThreeSixty is an innovator in advanced composite structures, providing tu
 
 ## Sources
 
-Public information verified 2026-06-29. Company website (carbonthreesixty.com), LinkedIn company page, ADS Group member listing, CompositesWorld (ASPIRE programme).
+Public information verified 2026-07-04. Company website (carbonthreesixty.com), LinkedIn company page, ADS Group member listing, CompositesWorld (ASPIRE programme).

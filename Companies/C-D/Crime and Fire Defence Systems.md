@@ -8,7 +8,7 @@ uk-region: East Midlands
 founded: 1994
 size: small
 headcount: 47
-sources-verified: 2026-06-29
+sources-verified: 2026-07-04
 tags:
   - defence
   - sensors
@@ -44,4 +44,4 @@ Crime and Fire Defence Systems designs, constructs, installs, and maintains inte
 
 ## Sources
 
-Public information verified 2026-06-29. Sources: Crime and Fire website (crimeandfire.com/about, crimeandfire.com/high-security), Companies House (03745288), GOV.UK Armed Forces Covenant register, SourceSecurity.com company profile, PSSA Security news (Campost product), ZoomInfo company profile.
+Public information verified 2026-07-04. Sources: Crime and Fire website (crimeandfire.com/about, crimeandfire.com/high-security), Companies House (03745288), GOV.UK Armed Forces Covenant register, SourceSecurity.com company profile, PSSA Security news (Campost product), ZoomInfo company profile.

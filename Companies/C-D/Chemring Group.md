@@ -9,12 +9,13 @@ uk-region: South East England
 founded: 1905
 size: large
 headcount: 2500+
-sources-verified: 2026-06-29
+sources-verified: 2026-07-04
 tags:
   - defence
   - munitions
   - sensors
   - ew
+  - ew/ecm
   - manufacturing
   - air
   - maritime

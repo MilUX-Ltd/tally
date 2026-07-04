@@ -9,14 +9,19 @@ uk-region: South East
 founded: 2018
 size: small
 headcount: 44
-sources-verified: 2026-06-29
+sources-verified: 2026-07-04
 tags:
   - defence
   - cyber
+  - cyber/soc-monitoring
+  - cyber/incident-response
+  - cyber/pen-testing
+  - cyber/vuln-management
   - isr
   - data
   - software
   - training
+  - training/instruction
   - size-small
   - type-sme
   - type-consultancy

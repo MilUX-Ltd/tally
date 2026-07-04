@@ -8,12 +8,14 @@ hq: Winchester, United Kingdom
 uk-region: South East
 founded: 2012
 size: micro
-sources-verified: 2026-06-29
+sources-verified: 2026-07-04
 tags:
   - defence
   - data
+  - data/engineering
   - software
   - ai
+  - ai/decision-support
   - size-micro
   - type-sme
   - owned-uk

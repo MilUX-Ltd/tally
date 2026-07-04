@@ -8,10 +8,11 @@ hq: Worcester, United Kingdom
 uk-region: West Midlands
 founded: 2012
 size: small
-sources-verified: 2026-06-29
+sources-verified: 2026-07-04
 tags:
   - defence
   - comms
+  - comms/tactical-radio
   - c2
   - ai
   - data

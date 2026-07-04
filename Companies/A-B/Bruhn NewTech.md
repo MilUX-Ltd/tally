@@ -8,12 +8,13 @@ hq: Søborg, Denmark
 uk-region: South West England
 founded: 1997
 size: small
-sources-verified: 2026-06-29
+sources-verified: 2026-07-04
 tags:
   - defence
   - size-small
   - software
   - c2
+  - c2/integration
   - sensors
   - data
   - type-sme

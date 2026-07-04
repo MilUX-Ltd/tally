@@ -9,7 +9,7 @@ uk-region: North West England
 founded: 1995
 size: medium
 headcount: 180-210
-sources-verified: 2026-06-29
+sources-verified: 2026-07-04
 tags:
   - defence
   - manufacturing
@@ -50,4 +50,4 @@ DBD (trading as DBD International) is an independent engineering and advisory co
 
 ## Sources
 
-Public information verified 2026-06-29. Company website (dbdinternational.com), ADS members directory (adsgroup.org.uk/members/dbd-ltd-1/), Companies House (no. 03118924), BakerHicks news release (bakerhicks.com), Women in Nuclear UK (winuk.org.uk), IChemE employer partners directory, Defence Online supplier directory.
+Public information verified 2026-07-04. Company website (dbdinternational.com), ADS members directory (adsgroup.org.uk/members/dbd-ltd-1/), Companies House (no. 03118924), BakerHicks news release (bakerhicks.com), Women in Nuclear UK (winuk.org.uk), IChemE employer partners directory, Defence Online supplier directory.

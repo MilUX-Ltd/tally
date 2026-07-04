@@ -9,10 +9,13 @@ uk-region: North West
 founded: 2012
 size: small
 headcount: 29
-sources-verified: 2026-06-29
+sources-verified: 2026-07-04
 tags:
   - defence
   - cyber
+  - cyber/pen-testing
+  - cyber/vuln-management
+  - cyber/grc
   - software
   - size-small
   - type-sme

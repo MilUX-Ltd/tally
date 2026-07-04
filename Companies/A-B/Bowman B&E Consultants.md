@@ -1,23 +1,46 @@
 ---
 type: organisation
-name: Bowman B&E Consultants
+name: Bowman B&E Ltd
+website: https://bowmanbeltd.com/
+linkedin: https://www.linkedin.com/company/107239999/
 hq: Wareham, Dorset
 uk-region: South West England
 founded: 2024
 size: micro
-sources-verified: 2026-06-29
+sources-verified: 2026-07-04
 tags:
   - defence
   - type-consultancy
   - size-micro
+  - owned-veteran
+  - accr-iso9001
 ---
 # Bowman B&E Consultants
-> Dorset-based defence and innovation consultancy delivering business and engineering support to SMEs, with specialist depth in MOD contract management, quality assurance and defence innovation-process design.
+
+> Dorset-based husband-and-wife business consultancy providing strategy, quality assurance and brand management support to UK SMEs, with a defence and public-sector contract management specialism.
 
 ## What they do
-Bowman B&E Consultants is the practice of a former Lieutenant Colonel REME who served as a founder member and Head of Operations of the Defence BattleLab. Operating from Wareham, Dorset, the practice delivers innovation support, MOD contract management, ISO 9001 quality assurance and engineering qualifications to micro and small organisations, with a particular focus on the Defence and NHS domains. The name covers the founder's twin specialisms: Business (operating model, lean management, change) and Engineering (REME pedigree, accreditation, contract quality assurance).
+
+Bowman B&E Ltd (trading as Bowman B&E Consultants) is a business consultancy run by a husband-and-wife team, Trevor and Isobel, operating from Wareham, Dorset. The company provides business consultancy, quality assurance and, more recently, brand management services to UK businesses, describing its approach as customer-led: understanding a client's needs before working collaboratively to build a value proposition, unique selling point and business model. The company is a signatory to the Armed Forces Covenant.
+
+## Products and solutions
+
+- **Business consultancy** - support developing and testing business ideas, including educational business development work with a regional education provider on business model and product range.
+- **Quality assurance** - support placing and managing contracts for government departments, including guiding companies through ISO 9001:2015 certification to meet supply-chain requirements for UK government and prime contractor work.
+- **Brand management** - a newly launched service line covering brand strategy alongside the existing business consultancy offer.
+- **Defence-related contract support** - previous work by team members has included management of contractor-delivered Defence vehicle and equipment maintenance, and management of the planning and installation of a contractor-built private 5G network for UK Defence experimentation.
+
+## Frameworks, accreditations and memberships
+
+- **Accreditations:** supports client ISO 9001:2015 certification (quality management systems).
+- **Programmes:** mentoring on the Common Mission Project's Hacking for Transport and Hacking for MOD programmes, working with university teams on transport and healthcare-cost innovation projects.
+- **Other:** Armed Forces Covenant signatory.
 
 ## Links
 
+- Website: https://bowmanbeltd.com/
+- LinkedIn: https://www.linkedin.com/company/107239999/
+
 ## Sources
-Public information verified 2026-06-29.
+
+Public information verified 2026-07-04. Company website (bowmanbeltd.com: About Us, Business Consultancy, Quality Assurance, Armed Forces Covenant pages), Common Mission Project UK (commonmission.uk/hacking-for-transport).

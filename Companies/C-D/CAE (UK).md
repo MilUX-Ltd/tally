@@ -7,11 +7,13 @@ hq: Montreal, Canada
 uk-region: South East England
 founded: 1967
 size: large
-sources-verified: 2026-06-29
+sources-verified: 2026-07-04
 tags:
   - defence
   - simulation
+  - simulation/synthetic-environment
   - training
+  - training/instruction
   - air
   - land
   - size-large
@@ -53,4 +55,4 @@ CAE (UK) plc is the UK subsidiary of CAE Inc, headquartered in Montreal, Canada.
 
 ## Sources
 
-Public information verified 2026-06-29. Companies House (00921122); ADS Group members directory; CAE United Kingdom regional page; UK Defence Journal. No clean LinkedIn company-page slug for the UK entity was confirmed, so it is omitted.
+Public information verified 2026-07-04. Companies House (00921122); ADS Group members directory; CAE United Kingdom regional page; UK Defence Journal. No clean LinkedIn company-page slug for the UK entity was confirmed, so it is omitted.

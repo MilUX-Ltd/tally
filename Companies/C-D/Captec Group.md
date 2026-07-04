@@ -8,7 +8,7 @@ hq: Fareham, United Kingdom
 uk-region: South East England
 founded: 1985
 size: medium
-sources-verified: 2026-06-29
+sources-verified: 2026-07-04
 tags:
   - defence
   - hardware
@@ -57,4 +57,4 @@ Captec designs and engineers specialised computers, integrated systems and subsy
 
 ## Sources
 
-Public information verified 2026-06-29. Company website (captec-group.com), Companies House (Captec Group PLC 11281644; Captec Limited 01870050), ADS Group member directory. Headcount not publicly stated; size band inferred from two UK manufacturing sites and a Canadian subsidiary.
+Public information verified 2026-07-04. Company website (captec-group.com), Companies House (Captec Group PLC 11281644; Captec Limited 01870050), ADS Group member directory. Headcount not publicly stated; size band inferred from two UK manufacturing sites and a Canadian subsidiary.

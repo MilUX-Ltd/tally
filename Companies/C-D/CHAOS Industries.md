@@ -7,12 +7,13 @@ hq: Los Angeles, United States
 founded: 2022
 size: medium
 headcount: 51-200
-sources-verified: 2026-06-29
+sources-verified: 2026-07-04
 tags:
   - defence
   - sensors
-  - radar
+  - sensors/radar
   - counter-uas
+  - counter-uas/detection
   - isr
   - manufacturing
   - size-medium

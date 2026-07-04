@@ -8,17 +8,24 @@ uk-region: East of England
 founded: 1960
 size: large
 headcount: 900+
-sources-verified: 2026-06-29
+sources-verified: 2026-07-04
 tags:
   - defence
   - ai
+  - ai/ml-analytics
   - cyber
   - autonomy
+  - autonomy/swarming
+  - autonomy/uxv-control
   - sensors
+  - sensors/radar
+  - sensors/eo-ir
+  - sensors/pnt
   - rf
   - comms
   - quantum
   - uas
+  - uas/platform
   - type-consultancy
   - size-large
   - owned-foreign
@@ -54,4 +61,4 @@ Cambridge Consultants is a technology and product development consultancy that w
 
 ## Sources
 
-Public information verified 2026-06-29. Sources used: cambridgeconsultants.com, LinkedIn company page, Wikipedia, ADS Group member directory, Consultancy.eu, Capgemini press releases.
+Public information verified 2026-07-04. Sources used: cambridgeconsultants.com, LinkedIn company page, Wikipedia, ADS Group member directory, Consultancy.eu, Capgemini press releases.

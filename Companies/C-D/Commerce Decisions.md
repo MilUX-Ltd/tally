@@ -8,7 +8,7 @@ hq: Chippenham, United Kingdom
 uk-region: South West
 founded: 2001
 size: small
-sources-verified: 2026-06-29
+sources-verified: 2026-07-04
 tags:
   - defence
   - software
@@ -50,4 +50,4 @@ Commerce Decisions was formerly part of QinetiQ Group. It was acquired in Novemb
 
 ## Sources
 
-Public information verified 2026-06-29. Company website (commercedecisions.com); ADS members directory (adsgroup.org.uk); Companies House (company 04157081); MarketScreener report of the Harris/QinetiQ acquisition; UK Digital Marketplace G-Cloud listing.
+Public information verified 2026-07-04. Company website (commercedecisions.com); ADS members directory (adsgroup.org.uk); Companies House (company 04157081); MarketScreener report of the Harris/QinetiQ acquisition; UK Digital Marketplace G-Cloud listing.

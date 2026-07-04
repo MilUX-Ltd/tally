@@ -8,13 +8,17 @@ hq: Duxford, United Kingdom
 uk-region: East of England
 founded: 2015
 size: micro
-sources-verified: 2026-06-29
+sources-verified: 2026-07-04
 tags:
   - defence
   - isr
+  - isr/osint
   - data
   - cyber
+  - cyber/digital-forensics
   - training
+  - training/courseware
+  - training/instruction
   - software
   - size-micro
   - type-sme

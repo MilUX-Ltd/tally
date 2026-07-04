@@ -8,7 +8,7 @@ hq: Glasgow, United Kingdom
 uk-region: Scotland
 founded: 1984
 size: medium
-sources-verified: 2026-06-29
+sources-verified: 2026-07-04
 tags:
   - defence
   - data

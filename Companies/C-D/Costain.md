@@ -7,7 +7,7 @@ companies-house: 1393773
 hq: Maidenhead, United Kingdom
 uk-region: South East
 size: large
-sources-verified: 2026-06-29
+sources-verified: 2026-07-04
 tags:
   - defence
   - logistics

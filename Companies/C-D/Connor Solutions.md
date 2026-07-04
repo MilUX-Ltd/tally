@@ -8,7 +8,7 @@ hq: Houghton le Spring, United Kingdom
 uk-region: North East England
 size: medium
 headcount: 54
-sources-verified: 2026-06-29
+sources-verified: 2026-07-04
 tags:
   - defence
   - air
@@ -55,4 +55,4 @@ Connor Solutions is an electronic manufacturing services (EMS) provider taking c
 
 ## Sources
 
-Public information verified 2026-06-29. Sources: company website (connorsolutions.co.uk); ADS Group member listing; Companies House (company 03775671).
+Public information verified 2026-07-04. Sources: company website (connorsolutions.co.uk); ADS Group member listing; Companies House (company 03775671).

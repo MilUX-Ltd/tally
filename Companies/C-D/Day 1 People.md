@@ -8,7 +8,7 @@ hq: Chippenham, UK
 uk-region: South West England
 founded: 2017
 size: micro
-sources-verified: 2026-06-29
+sources-verified: 2026-07-04
 tags:
   - defence
   - training

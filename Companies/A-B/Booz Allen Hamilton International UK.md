@@ -8,11 +8,12 @@ hq: McLean, United States
 uk-region: East of England
 founded: 2000
 size: large
-sources-verified: 2026-06-29
+sources-verified: 2026-07-04
 tags:
   - defence
   - cyber
   - data
+  - data/analytics
   - ai
   - size-large
   - type-consultancy

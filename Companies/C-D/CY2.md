@@ -9,12 +9,16 @@ uk-region: South West
 founded: 2019
 size: small
 headcount: 11-50
-sources-verified: 2026-06-29
+sources-verified: 2026-07-04
 tags:
   - defence
   - cyber
+  - cyber/pen-testing
+  - cyber/digital-forensics
   - training
+  - training/courseware
   - simulation
+  - simulation/synthetic-environment
   - software
   - size-small
   - type-sme

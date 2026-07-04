@@ -9,7 +9,7 @@ uk-region: Scotland
 founded: 1951
 size: medium
 headcount: 120
-sources-verified: 2026-06-29
+sources-verified: 2026-07-04
 tags:
   - defence
   - manufacturing

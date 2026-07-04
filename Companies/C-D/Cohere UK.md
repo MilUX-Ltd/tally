@@ -9,10 +9,12 @@ uk-region: London
 founded: 2019
 size: large
 headcount: 800+
-sources-verified: 2026-06-29
+sources-verified: 2026-07-04
 tags:
   - defence
   - ai
+  - ai/generative
+  - ai/nlp
   - software
   - data
   - size-large
@@ -54,4 +56,4 @@ Cohere is a security-first enterprise AI company that builds foundation models a
 
 ## Sources
 
-Public information verified 2026-06-29. Sources used: Companies House (13987418), the ADS members directory, the Cohere corporate website and blog, BusinessWire, ASDNews, and HPCwire. The UK entity is a subsidiary of Cohere Inc., headquartered in Toronto, Canada; the headcount figure is group-wide. The LinkedIn slug shown is the global Cohere company page; no separate UK-entity page was found.
+Public information verified 2026-07-04. Sources used: Companies House (13987418), the ADS members directory, the Cohere corporate website and blog, BusinessWire, ASDNews, and HPCwire. The UK entity is a subsidiary of Cohere Inc., headquartered in Toronto, Canada; the headcount figure is group-wide. The LinkedIn slug shown is the global Cohere company page; no separate UK-entity page was found.

@@ -6,12 +6,13 @@ linkedin: https://uk.linkedin.com/company/cirrus-software-solutions
 companies-house: 14137781
 hq: United Kingdom
 size: small
-sources-verified: 2026-06-29
+sources-verified: 2026-07-04
 tags:
   - defence
   - software
   - cyber
   - data
+  - data/engineering
   - type-consultancy
   - type-sme
   - size-small

@@ -7,11 +7,12 @@ companies-house: 00218229
 hq: Salisbury, United Kingdom
 uk-region: South West England
 size: medium
-sources-verified: 2026-06-29
+sources-verified: 2026-07-04
 tags:
   - defence
   - munitions
   - ew
+  - ew/ecm
   - manufacturing
   - air
   - maritime
@@ -48,4 +49,4 @@ Chemring Countermeasures Limited is a UK subsidiary of Chemring Group Plc (LSE: 
 
 ## Sources
 
-Public information verified 2026-06-29. Chemring website (chemring.com), Chemring Countermeasures LinkedIn company page, Companies House (00218229).
+Public information verified 2026-07-04. Chemring website (chemring.com), Chemring Countermeasures LinkedIn company page, Companies House (00218229).

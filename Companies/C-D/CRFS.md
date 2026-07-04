@@ -9,13 +9,16 @@ uk-region: East of England
 founded: 2007
 size: small
 headcount: 50-150
-sources-verified: 2026-06-29
+sources-verified: 2026-07-04
 tags:
   - defence
   - rf
   - sensors
   - ew
+  - ew/spectrum-management
+  - ew/direction-finding
   - isr
+  - isr/sigint
   - counter-uas
   - hardware
   - software

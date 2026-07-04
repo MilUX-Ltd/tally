@@ -9,12 +9,14 @@ uk-region: South East
 founded: 2008
 size: micro
 headcount: 8
-sources-verified: 2026-06-29
+sources-verified: 2026-07-04
 tags:
   - defence
   - optronics
   - sensors
+  - sensors/eo-ir
   - isr
+  - isr/imint
   - manufacturing
   - size-micro
   - type-sme

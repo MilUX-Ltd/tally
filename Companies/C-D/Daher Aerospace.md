@@ -9,7 +9,7 @@ uk-region: East Midlands
 founded: 1863
 size: large
 headcount: ~14500
-sources-verified: 2026-06-29
+sources-verified: 2026-07-04
 tags:
   - defence
   - air
@@ -17,6 +17,7 @@ tags:
   - logistics
   - hardware
   - uas
+  - uas/platform
   - size-large
   - type-manufacturer
   - type-integrator

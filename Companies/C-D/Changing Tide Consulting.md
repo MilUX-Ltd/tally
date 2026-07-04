@@ -5,7 +5,7 @@ website: https://www.changingtideconsulting.co.uk
 hq: Bristol
 uk-region: South West England
 size: micro
-sources-verified: 2026-06-29
+sources-verified: 2026-07-04
 tags:
   - defence
   - training
@@ -20,4 +20,4 @@ Changing Tide Consulting is a Bristol-based transformation consultancy with conf
 ## Links
 - Website: https://www.changingtideconsulting.co.uk
 ## Sources
-Public information verified 2026-06-29.
+Public information verified 2026-07-04.

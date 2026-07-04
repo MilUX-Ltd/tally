@@ -10,6 +10,7 @@ size: large
 tags:
   - defence
   - cyber
+  - cyber/idam
   - software
   - data
   - size-large
@@ -18,7 +19,7 @@ tags:
   - listed
   - fw-gcloud
   - mbr-ads
-sources-verified: 2026-06-29
+sources-verified: 2026-07-04
 ---
 
 # CyberArk Software (UK) Ltd

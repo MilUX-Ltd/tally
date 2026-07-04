@@ -6,7 +6,7 @@ companies-house: 05803170
 hq: Derby, United Kingdom
 uk-region: East Midlands
 size: micro
-sources-verified: 2026-06-29
+sources-verified: 2026-07-04
 tags:
   - defence
   - software

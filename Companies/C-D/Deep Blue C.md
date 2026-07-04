@@ -8,12 +8,13 @@ hq: Fareham, United Kingdom
 uk-region: South East
 founded: 2000
 size: micro
-sources-verified: 2026-06-29
+sources-verified: 2026-07-04
 tags:
   - defence
   - maritime
   - software
   - data
+  - data/analytics
   - training
   - simulation
   - isr

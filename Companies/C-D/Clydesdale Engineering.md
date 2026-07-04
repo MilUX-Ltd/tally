@@ -8,7 +8,7 @@ hq: West Midlands, United Kingdom
 uk-region: West Midlands
 size: medium
 headcount: 240
-sources-verified: 2026-06-29
+sources-verified: 2026-07-04
 tags:
   - defence
   - maritime

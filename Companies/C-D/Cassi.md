@@ -6,10 +6,11 @@ linkedin: https://www.linkedin.com/company/cassi-ai
 companies-house: "16014808"
 hq: United Kingdom
 size: micro
-sources-verified: 2026-06-29
+sources-verified: 2026-07-04
 tags:
   - defence
   - ai
+  - ai/decision-support
   - data
   - software
   - type-startup

@@ -9,7 +9,7 @@ uk-region: South East
 founded: 2017
 size: large
 headcount: 115000
-sources-verified: 2026-06-29
+sources-verified: 2026-07-04
 tags:
   - defence
   - software

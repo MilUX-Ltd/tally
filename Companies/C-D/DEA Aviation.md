@@ -9,7 +9,7 @@ uk-region: East Midlands
 founded: 2006
 size: medium
 headcount: 200-230
-sources-verified: 2026-06-29
+sources-verified: 2026-07-04
 tags:
   - defence
   - isr
@@ -17,6 +17,7 @@ tags:
   - maritime
   - sensors
   - training
+  - training/instruction
   - size-medium
   - type-integrator
   - owned-uk
@@ -37,6 +38,7 @@ DEA Aviation operates a fleet of fixed-wing aircraft from its base at Retford (G
 - **Aerial survey and data acquisition** - multi-sensor imaging including a long-running contract with Ordnance Survey to capture national geographic imagery, extended through 2026.
 - **Flight calibration** - ground navigation aid calibration covering ILS, VOR, NDB, and related systems.
 - **Maritime and border surveillance** - dedicated sensor fits and operational procedures for maritime patrol and border monitoring tasks.
+- **ISTAR training and RPAS/UAV replication** - airborne training support for military ISTAR personnel, including replication of remotely piloted air system and UAV profiles for exercise and training purposes.
 
 ## Frameworks, accreditations and memberships
 
@@ -56,4 +58,4 @@ DEA Aviation operates a fleet of fixed-wing aircraft from its base at Retford (G
 
 ## Sources
 
-Public information verified 2026-06-29. Company website (dea.aero), ADS members directory (adsgroup.org.uk/members/dea-aviation-limited-2/), Companies House (no. 05728943), GOV.UK UKEF announcement, GOV.UK Armed Forces Covenant register, ADS Advance (OS contract extension), ADS industry news (Lincoln office).
+Public information verified 2026-07-04. Company website (dea.aero), ADS members directory (adsgroup.org.uk/members/dea-aviation-limited-2/), Companies House (no. 05728943), GOV.UK UKEF announcement, GOV.UK Armed Forces Covenant register, ADS Advance (OS contract extension), ADS industry news (Lincoln office), Wikipedia (DEA Aviation Limited).

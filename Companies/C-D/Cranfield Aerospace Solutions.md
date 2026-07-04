@@ -6,11 +6,12 @@ linkedin: https://www.linkedin.com/company/cranfieldaerospace
 hq: Cranfield, UK
 uk-region: East of England
 size: medium
-sources-verified: 2026-06-29
+sources-verified: 2026-07-04
 tags:
   - defence
   - air
   - uas
+  - uas/platform
   - autonomy
   - manufacturing
   - size-medium
@@ -54,4 +55,4 @@ Cranfield Aerospace Solutions (CAeS) is a UK aerospace company specialising in a
 
 ## Sources
 
-Public information verified 2026-06-29. Company website (cranfieldaerospace.com), ADS members directory.
+Public information verified 2026-07-04. Company website (cranfieldaerospace.com), ADS members directory.

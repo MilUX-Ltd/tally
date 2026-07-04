@@ -8,7 +8,7 @@ hq: London, United Kingdom
 uk-region: London
 founded: 2012
 size: small
-sources-verified: 2026-06-29
+sources-verified: 2026-07-04
 tags:
   - defence
   - logistics
@@ -44,4 +44,4 @@ Camcode Global is a defence technology company specialising in item-level tracea
 
 ## Sources
 
-Public information verified 2026-06-29. Company website (camcodeglobal.com), ADS members directory (adsgroup.org.uk), Companies House (company 07947287), company LinkedIn page.
+Public information verified 2026-07-04. Company website (camcodeglobal.com), ADS members directory (adsgroup.org.uk), Companies House (company 07947287), company LinkedIn page.

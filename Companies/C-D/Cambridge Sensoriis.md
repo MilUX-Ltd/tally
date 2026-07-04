@@ -8,10 +8,11 @@ hq: Bishop's Stortford, United Kingdom
 uk-region: East of England
 founded: 2020
 size: micro
-sources-verified: 2026-06-29
+sources-verified: 2026-07-04
 tags:
   - defence
   - sensors
+  - sensors/radar
   - rf
   - uas
   - drones
@@ -51,4 +52,4 @@ Cambridge Sensoriis develops micro-radar and sensing systems for uncrewed aerial
 
 ## Sources
 
-Public information verified 2026-06-29. Company website (cambsensoriis.com), ADS members directory (adsgroup.org.uk), Companies House (company 12586186), Janes and New Electronics coverage, company LinkedIn page.
+Public information verified 2026-07-04. Company website (cambsensoriis.com), ADS members directory (adsgroup.org.uk), Companies House (company 12586186), Janes and New Electronics coverage, company LinkedIn page.

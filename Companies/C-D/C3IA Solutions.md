@@ -9,12 +9,16 @@ uk-region: South West England
 founded: 2006
 size: medium
 headcount: 80+ permanent staff
-sources-verified: 2026-06-29
+sources-verified: 2026-07-04
 tags:
   - defence
   - cyber
+  - cyber/pen-testing
+  - cyber/grc
   - software
   - comms
+  - comms/tactical-radio
+  - comms/networking
   - size-medium
   - type-consultancy
   - accr-ncsc-assured
@@ -59,4 +63,4 @@ C3IA designs, delivers and assures critical information and communication system
 
 ## Sources
 
-Public information verified 2026-06-29. Company website (c3ia.co.uk), Companies House (05746584), techUK, ADS Group industry news. ADS membership not confirmed and so not tagged. LinkedIn URL is the company-published slug.
+Public information verified 2026-07-04. Company website (c3ia.co.uk), Companies House (05746584), techUK, ADS Group industry news, Silvus Technologies product pages. ADS membership not confirmed and so not tagged. LinkedIn URL is the company-published slug.

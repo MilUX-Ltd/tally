@@ -9,7 +9,7 @@ uk-region: East of England
 founded: 1984
 size: small
 headcount: 105
-sources-verified: 2026-06-29
+sources-verified: 2026-07-04
 tags:
   - defence
   - manufacturing
@@ -49,4 +49,4 @@ Cogent Technology is a contract electronics manufacturer (CEM) with four decades
 
 ## Sources
 
-Public information verified 2026-06-29. Companies House (01855453); cogent-technology.co.uk; camdenboss.com; East Anglian Daily Times (November 2025).
+Public information verified 2026-07-04. Companies House (01855453); cogent-technology.co.uk; camdenboss.com; East Anglian Daily Times (November 2025).

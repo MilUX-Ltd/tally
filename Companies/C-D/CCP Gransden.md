@@ -8,7 +8,7 @@ hq: Newtownards, United Kingdom
 uk-region: Northern Ireland
 founded: 1975
 size: medium
-sources-verified: 2026-06-29
+sources-verified: 2026-07-04
 tags:
   - defence
   - air
@@ -52,4 +52,4 @@ CCP Gransden designs, develops and manufactures advanced composite components, w
 
 ## Sources
 
-Public information verified 2026-06-29. Sources used: ccp-gransden.com, LinkedIn company page, ADS Group member directory, Companies House (NI010592), Army Technology, Composites UK.
+Public information verified 2026-07-04. Sources used: ccp-gransden.com, LinkedIn company page, ADS Group member directory, Companies House (NI010592), Army Technology, Composites UK.

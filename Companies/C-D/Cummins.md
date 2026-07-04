@@ -7,7 +7,7 @@ hq: Columbus, Indiana, USA
 uk-region: Multiple (Darlington, Daventry)
 founded: 1956
 size: large
-sources-verified: 2026-06-29
+sources-verified: 2026-07-04
 tags:
   - defence
   - land
@@ -49,4 +49,4 @@ Cummins Ltd is the UK registered entity of Cummins Inc., an American power techn
 
 ## Sources
 
-Public information verified 2026-06-29. ADS members directory (adsgroup.org.uk/members/cummins-ltd-2), Companies House (company 00573951), Cummins Inc. defence pages (cummins.com/engines/defense), Cummins UK Wikipedia entry, Cummins newsroom.
+Public information verified 2026-07-04. ADS members directory (adsgroup.org.uk/members/cummins-ltd-2), Companies House (company 00573951), Cummins Inc. defence pages (cummins.com/engines/defense), Cummins UK Wikipedia entry, Cummins newsroom.

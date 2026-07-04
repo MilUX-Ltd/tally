@@ -8,7 +8,7 @@ hq: New Tredegar, Wales (group); manufacturing at Consett, England
 uk-region: North East England
 founded: 1942
 size: small
-sources-verified: 2026-06-29
+sources-verified: 2026-07-04
 tags:
   - defence
   - air
@@ -53,4 +53,4 @@ CAV's technologies have been applied on defence and aerospace platforms includin
 
 ## Sources
 
-Public information verified 2026-06-29. Company website (cav-systems.com), CAV Systems LinkedIn company page, ADS members directory (adsgroup.org.uk), Companies House (company 10715185), Loar Group acquisition announcement. CAV Systems is part of the CAV Systems Group, which is owned by Loar Group Inc., a US-headquartered (New York) listed group; UK design and manufacturing continues from Consett, County Durham.
+Public information verified 2026-07-04. Company website (cav-systems.com), CAV Systems LinkedIn company page, ADS members directory (adsgroup.org.uk), Companies House (company 10715185), Loar Group acquisition announcement. CAV Systems is part of the CAV Systems Group, which is owned by Loar Group Inc., a US-headquartered (New York) listed group; UK design and manufacturing continues from Consett, County Durham.

@@ -8,7 +8,7 @@ hq: Cressage, United Kingdom
 uk-region: West Midlands
 founded: 2001
 size: micro
-sources-verified: 2026-06-29
+sources-verified: 2026-07-04
 tags:
   - defence
   - maritime

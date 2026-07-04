@@ -9,7 +9,7 @@ uk-region: South East England
 founded: 1986
 size: medium
 headcount: 100+
-sources-verified: 2026-06-29
+sources-verified: 2026-07-04
 tags:
   - defence
   - manufacturing
@@ -54,4 +54,4 @@ Cam Lock designs and manufactures personal protection life-support systems: brea
 
 ## Sources
 
-Public information verified 2026-06-29. Companies House (02037550); ADS Group members directory; Cam Lock company website; Cam Lock LinkedIn company page; Security & Policing 2026 exhibitor listing.
+Public information verified 2026-07-04. Companies House (02037550); ADS Group members directory; Cam Lock company website; Cam Lock LinkedIn company page; Security & Policing 2026 exhibitor listing.

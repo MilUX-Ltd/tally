@@ -7,11 +7,16 @@ companies-house: 10459658
 hq: Gloucester, United Kingdom
 uk-region: South West England
 size: medium
-sources-verified: 2026-06-29
+sources-verified: 2026-07-04
 tags:
   - defence
   - cyber
+  - cyber/pen-testing
+  - cyber/digital-forensics
+  - cyber/incident-response
+  - cyber/grc
   - training
+  - training/instruction
   - logistics
   - software
   - type-consultancy

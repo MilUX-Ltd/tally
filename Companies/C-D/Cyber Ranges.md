@@ -6,12 +6,14 @@ companies-house: "05831135"
 hq: Limassol, Cyprus
 uk-region: Yorkshire and The Humber
 size: small
-sources-verified: 2026-06-29
+sources-verified: 2026-07-04
 tags:
   - defence
   - cyber
   - training
+  - training/instruction
   - simulation
+  - simulation/synthetic-environment
   - software
   - size-small
   - type-sme

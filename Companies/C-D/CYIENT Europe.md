@@ -9,7 +9,7 @@ uk-region: South East
 founded: 1991
 size: large
 headcount: 1053
-sources-verified: 2026-06-29
+sources-verified: 2026-07-04
 tags:
   - defence
   - air
@@ -17,12 +17,16 @@ tags:
   - hardware
   - simulation
   - sensors
+  - sensors/radar
   - data
   - manufacturing
   - gis
   - isr
+  - isr/imint
   - autonomy
+  - autonomy/uxv-control
   - uas
+  - uas/platform
   - size-large
   - type-integrator
   - type-manufacturer

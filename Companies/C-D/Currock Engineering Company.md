@@ -9,7 +9,7 @@ uk-region: East of England
 founded: 1964
 size: small
 headcount: ~33
-sources-verified: 2026-06-29
+sources-verified: 2026-07-04
 tags:
   - defence
   - manufacturing
@@ -53,4 +53,4 @@ Currock engineers and manufactures precision metal components and assemblies for
 
 ## Sources
 
-Public information verified 2026-06-29. Company website (currock.com), ADS members directory (adsgroup.org.uk), Companies House (company number 00828340).
+Public information verified 2026-07-04. Company website (currock.com), ADS members directory (adsgroup.org.uk), Companies House (company number 00828340).

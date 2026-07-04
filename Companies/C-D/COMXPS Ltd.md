@@ -9,7 +9,7 @@ uk-region: Greater London
 founded: 2012
 size: small
 headcount: 17
-sources-verified: 2026-06-29
+sources-verified: 2026-07-04
 tags:
   - defence
   - software

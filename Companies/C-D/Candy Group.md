@@ -8,7 +8,7 @@ hq: Borehamwood, United Kingdom
 uk-region: East of England
 founded: 2015
 size: small
-sources-verified: 2026-06-29
+sources-verified: 2026-07-04
 tags:
   - defence
   - logistics
@@ -46,4 +46,4 @@ Candy Group provides advisory services, security and defence equipment supply, a
 
 ## Sources
 
-Public information verified 2026-06-29. Company website, ADS Group member directory, Companies House (09433504).
+Public information verified 2026-07-04. Company website, ADS Group member directory, Companies House (09433504).

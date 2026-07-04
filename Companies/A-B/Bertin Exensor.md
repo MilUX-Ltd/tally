@@ -8,13 +8,16 @@ hq: Lund, Sweden
 uk-region: South East England
 founded: 1987
 size: medium
-sources-verified: 2026-06-29
+sources-verified: 2026-07-04
 tags:
   - defence
   - sensors
+  - sensors/eo-ir
   - isr
   - c2
+  - c2/situational-awareness
   - comms
+  - comms/networking
   - land
   - manufacturing
   - hardware

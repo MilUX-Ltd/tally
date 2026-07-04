@@ -8,16 +8,21 @@ uk-region: South East England
 founded: 2005
 size: medium
 headcount: 200+
-sources-verified: 2026-06-29
+sources-verified: 2026-07-04
 tags:
   - defence
   - sensors
+  - sensors/eo-ir
   - optronics
   - isr
+  - isr/imint
   - counter-uas
+  - counter-uas/detection
+  - counter-uas/effector
   - land
   - maritime
   - ai
+  - ai/computer-vision
   - type-sme
   - size-medium
   - owned-uk

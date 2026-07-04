@@ -8,10 +8,13 @@ hq: Athens, Greece
 uk-region: London
 founded: 2008
 size: small
-sources-verified: 2026-06-29
+sources-verified: 2026-07-04
 tags:
   - defence
   - cyber
+  - cyber/pen-testing
+  - cyber/red-team
+  - cyber/vuln-management
   - software
   - test-evaluation
   - size-small
@@ -51,4 +54,4 @@ CENSUS is an independent, privately funded cybersecurity services provider opera
 
 ## Sources
 
-Public information verified 2026-06-29. Sources used: census-labs.com, ADS Group member directory and member spotlight (Census Labs), Companies House (09701924, Census Labs UK Limited), CREST member listing, LinkedIn company page.
+Public information verified 2026-07-04. Sources used: census-labs.com, ADS Group member directory and member spotlight (Census Labs), Companies House (09701924, Census Labs UK Limited), CREST member listing, LinkedIn company page.

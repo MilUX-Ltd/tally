@@ -9,13 +9,17 @@ uk-region: East of England
 founded: 2011
 size: small
 headcount: 40-50
-sources-verified: 2026-06-29
+sources-verified: 2026-07-04
 tags:
   - defence
   - software
   - ai
+  - ai/decision-support
   - data
+  - data/analytics
+  - data/visualisation
   - isr
+  - isr/osint
   - size-small
   - type-sme
   - owned-uk

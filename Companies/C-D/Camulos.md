@@ -8,12 +8,14 @@ hq: Gloucester, United Kingdom
 uk-region: South West England
 founded: 2020
 size: small
-sources-verified: 2026-06-29
+sources-verified: 2026-07-04
 tags:
   - defence
   - cyber
   - ai
+  - ai/ml-analytics
   - data
+  - data/analytics
   - software
   - size-small
   - type-sme
@@ -46,4 +48,4 @@ Camulos applies data science, artificial intelligence and human expertise to nat
 
 ## Sources
 
-Public information verified 2026-06-29. Company website (camulos.io), ADS members directory (adsgroup.org.uk), Companies House (company 12996891).
+Public information verified 2026-07-04. Company website (camulos.io), ADS members directory (adsgroup.org.uk), Companies House (company 12996891).

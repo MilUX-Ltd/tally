@@ -7,14 +7,28 @@ hq: San Diego, United States
 founded: 1949
 size: large
 headcount: ~6,000 worldwide
-sources-verified: 2026-06-29
+sources-verified: 2026-07-04
 tags:
   - defence
   - training
+  - training/instruction
   - simulation
+  - simulation/lvc
+  - simulation/synthetic-environment
   - c2
+  - c2/situational-awareness
+  - c2/integration
   - isr
+  - isr/geoint
+  - isr/imint
+  - isr/ped
+  - isr/fusion
   - comms
+  - comms/satcom
+  - comms/tactical-radio
+  - comms/waveforms
+  - comms/networking
+  - comms/secure-voice
   - software
   - size-large
   - type-prime
@@ -32,7 +46,10 @@ Cubic Corporation is a US multinational defence and public transportation techno
 
 ## Products and solutions
 
-- **Cubic Defense (formerly Cubic Global Defense / Cubic Mission Solutions)** - live, virtual and constructive military training systems, range instrumentation, laser-based training, and networked C4ISR capabilities.
+- **Cubic Defense (formerly Cubic Global Defense / Cubic Mission Solutions)** - live, virtual and constructive (LVC) military training systems, range instrumentation, laser-based training, and networked C4ISR capabilities.
+- **NextTraining and Synthetic Digital Solutions** - classroom instruction, instructional software and synthetic, high-fidelity simulation environments for mission rehearsal and exercise support.
+- **Secure communications** - multi-beam, multi-band, multi-orbit SATCOM terminals, software-defined tactical radios, protected waveforms (Merlin), and edge compute and networking platforms (M3-SE, M3X) supporting radio-over-IP and push-to-talk-over-cellular voice interoperability.
+- **Cubic Digital Intelligence** - GEOINT dissemination, full-motion video management and exploitation, and processing, exploitation and dissemination (PED) tools, including the Strike Suite PED and GEOINT product line, supporting situational awareness and multi-domain data integration.
 - **Cubic Transportation Systems** - automated fare-collection and integrated payment systems for public transport operators.
 
 ## Recent news
@@ -48,4 +65,4 @@ Cubic Corporation is a US multinational defence and public transportation techno
 
 ## Sources
 
-Public information verified 2026-06-29. Company website (cubic.com), Wikipedia, Veritas Capital acquisition announcements, Army Technology, The Defense Post, ASD News.
+Public information verified 2026-07-04. Company website (cubic.com, including the Training, LVC, Secure Communications and Cubic Digital Intelligence pages), Wikipedia, Veritas Capital acquisition announcements, Army Technology, The Defense Post, ASD News.

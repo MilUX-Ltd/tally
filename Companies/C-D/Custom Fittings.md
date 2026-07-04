@@ -8,7 +8,7 @@ hq: Cleckheaton, UK
 uk-region: Yorkshire and the Humber
 founded: 1981
 size: small
-sources-verified: 2026-06-29
+sources-verified: 2026-07-04
 tags:
   - defence
   - manufacturing

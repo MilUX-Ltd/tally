@@ -8,10 +8,15 @@ uk-region: South East England
 founded: 2013
 size: large
 headcount: 300+
-sources-verified: 2026-06-29
+sources-verified: 2026-07-04
 tags:
   - defence
   - cyber
+  - cyber/soc-monitoring
+  - cyber/pen-testing
+  - cyber/threat-intel
+  - cyber/incident-response
+  - cyber/grc
   - software
   - type-consultancy
   - size-large

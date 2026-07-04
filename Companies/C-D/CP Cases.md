@@ -8,7 +8,7 @@ hq: Isleworth, United Kingdom
 uk-region: London
 founded: 1971
 size: medium
-sources-verified: 2026-06-29
+sources-verified: 2026-07-04
 tags:
   - defence
   - hardware

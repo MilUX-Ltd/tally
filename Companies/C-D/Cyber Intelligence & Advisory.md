@@ -8,10 +8,12 @@ hq: London, UK
 uk-region: Yorkshire and The Humber
 founded: 2024
 size: micro
-sources-verified: 2026-06-29
+sources-verified: 2026-07-04
 tags:
   - defence
   - cyber
+  - cyber/grc
+  - cyber/soc-monitoring
   - size-micro
   - type-sme
   - type-consultancy

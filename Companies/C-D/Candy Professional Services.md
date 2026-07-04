@@ -8,7 +8,7 @@ hq: Borehamwood, United Kingdom
 uk-region: East of England
 founded: 2012
 size: micro
-sources-verified: 2026-06-29
+sources-verified: 2026-07-04
 tags:
   - defence
   - logistics
@@ -49,4 +49,4 @@ Candy Professional Services is the registered entity within the Candy Group, a c
 
 ## Sources
 
-Public information verified 2026-06-29. Companies House (08178113); ADS Group member listing; candygroup.com.
+Public information verified 2026-07-04. Companies House (08178113); ADS Group member listing; candygroup.com.

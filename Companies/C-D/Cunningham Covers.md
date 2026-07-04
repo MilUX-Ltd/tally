@@ -8,7 +8,7 @@ hq: Maghera, UK
 uk-region: Northern Ireland
 founded: 1969
 size: small
-sources-verified: 2026-06-29
+sources-verified: 2026-07-04
 tags:
   - defence
   - land
@@ -47,4 +47,4 @@ Cunningham Covers designs and manufactures custom textile protective covers for 
 
 ## Sources
 
-Public information verified 2026-06-29. ADS members directory (adsgroup.org.uk/members/cunningham-covers), company website (cunningham.com/industry/defence, cunningham.com/about-us), Companies House Northern Ireland (company NI020664), Mid Ulster District Council business directory.
+Public information verified 2026-07-04. ADS members directory (adsgroup.org.uk/members/cunningham-covers), company website (cunningham.com/industry/defence, cunningham.com/about-us), Companies House Northern Ireland (company NI020664), Mid Ulster District Council business directory.

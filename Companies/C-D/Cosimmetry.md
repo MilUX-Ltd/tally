@@ -8,10 +8,11 @@ hq: Chichester, United Kingdom
 uk-region: South East
 founded: 2022
 size: micro
-sources-verified: 2026-06-29
+sources-verified: 2026-07-04
 tags:
   - defence
   - ai
+  - ai/decision-support
   - simulation
   - software
   - data

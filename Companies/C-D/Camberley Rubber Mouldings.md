@@ -8,7 +8,7 @@ hq: Aldershot, United Kingdom
 uk-region: South East England
 founded: 1969
 size: small
-sources-verified: 2026-06-29
+sources-verified: 2026-07-04
 tags:
   - defence
   - manufacturing
@@ -42,4 +42,4 @@ Camberley Rubber Mouldings is a specialist technical manufacturer of bespoke rub
 
 ## Sources
 
-Public information verified 2026-06-29. Company website (camberleyrubber.com, including the History page), ADS members directory (adsgroup.org.uk), Companies House (company 01043362), Airframer directory listing, company LinkedIn page.
+Public information verified 2026-07-04. Company website (camberleyrubber.com, including the History page), ADS members directory (adsgroup.org.uk), Companies House (company 01043362), Airframer directory listing, company LinkedIn page.

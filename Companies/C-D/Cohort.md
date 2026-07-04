@@ -9,16 +9,23 @@ uk-region: South East England
 founded: 2006
 size: large
 headcount: 1600
-sources-verified: 2026-06-29
+sources-verified: 2026-07-04
 tags:
   - defence
   - comms
+  - comms/satcom
   - isr
   - ew
+  - ew/ecm
+  - ew/spectrum-management
   - sensors
+  - sensors/eo-ir
+  - sensors/acoustic-sonar
   - maritime
   - training
+  - training/instruction
   - cyber
+  - cyber/digital-forensics
   - size-large
   - type-prime
   - owned-uk
@@ -61,4 +68,4 @@ Cohort is the AIM-listed parent of a group of defence technology businesses prov
 
 ## Sources
 
-Public information verified 2026-06-29. Sources used: Companies House (05684823), the ADS members directory, the Cohort corporate website and press releases, and Investegate. The ADS member entry is out of date; the Cohort website is the current source for the seven-business structure and around 1,600 staff across four countries.
+Public information verified 2026-07-04. Sources used: Companies House (05684823), the ADS members directory, the Cohort corporate website and press releases, and Investegate. The ADS member entry is out of date; the Cohort website is the current source for the seven-business structure and around 1,600 staff across four countries. Subset tagging additionally drew on the Chess Dynamics, MASS and EM Solutions pages of cohortplc.com for surveillance, fire-control, EW/CEMA, training and satcom detail.

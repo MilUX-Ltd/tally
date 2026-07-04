@@ -8,7 +8,7 @@ hq: Zeals, United Kingdom
 uk-region: South West England
 founded: 1980
 size: small
-sources-verified: 2026-06-29
+sources-verified: 2026-07-04
 tags:
   - defence
   - maritime
@@ -16,6 +16,7 @@ tags:
   - manufacturing
   - sensors
   - comms
+  - comms/waveforms
   - size-small
   - type-manufacturer
   - mbr-ads
@@ -57,4 +58,4 @@ Consolite Technology is a long-established UK company specialising in military l
 
 ## Sources
 
-Public information verified 2026-06-29. Company website, Companies House (no. 01530246, active, incorporated 26 November 1980), ADS Group members directory. Operating site at St Martin's Business Park, Zeals, Wiltshire; registered office in Bath. A subsidiary of Consolite Holdings Limited (Companies House no. 06779621), trading as "Consolite Group". Headcount not published from a primary source; size band estimated. No evidence of AS9100 or techUK membership found, so neither is asserted.
+Public information verified 2026-07-04. Company website, Companies House (no. 01530246, active, incorporated 26 November 1980), ADS Group members directory. Operating site at St Martin's Business Park, Zeals, Wiltshire; registered office in Bath. A subsidiary of Consolite Holdings Limited (Companies House no. 06779621), trading as "Consolite Group". Headcount not published from a primary source; size band estimated. No evidence of AS9100 or techUK membership found, so neither is asserted.

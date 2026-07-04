@@ -9,7 +9,7 @@ uk-region: East of England
 founded: 2008
 size: micro
 headcount: 4
-sources-verified: 2026-06-29
+sources-verified: 2026-07-04
 tags:
   - defence
   - sensors

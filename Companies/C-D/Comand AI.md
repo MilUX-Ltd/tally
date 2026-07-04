@@ -6,11 +6,13 @@ linkedin: https://www.linkedin.com/company/comand-ai
 hq: Paris, France
 founded: 2023
 size: small
-sources-verified: 2026-06-29
+sources-verified: 2026-07-04
 tags:
   - defence
   - ai
+  - ai/decision-support
   - c2
+  - c2/mission-planning
   - software
   - autonomy
   - type-startup
@@ -42,4 +44,4 @@ Comand AI is a Paris-based deep-tech defence software company, founded in 2023, 
 
 ## Sources
 
-Public information verified 2026-06-29. Company website (comand.ai), LinkedIn company page, Sifted and Resilience Media (Series A funding, June 2026).
+Public information verified 2026-07-04. Company website (comand.ai), LinkedIn company page, Sifted and Resilience Media (Series A funding, June 2026).

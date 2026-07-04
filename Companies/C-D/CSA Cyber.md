@@ -9,10 +9,13 @@ uk-region: South West
 founded: 2013
 size: small
 headcount: 90
-sources-verified: 2026-06-29
+sources-verified: 2026-07-04
 tags:
   - defence
   - cyber
+  - cyber/soc-monitoring
+  - cyber/pen-testing
+  - cyber/incident-response
   - data
   - software
   - size-small

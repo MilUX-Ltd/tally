@@ -8,7 +8,7 @@ hq: Southampton, UK
 uk-region: South East
 founded: 2019
 size: micro
-sources-verified: 2026-06-29
+sources-verified: 2026-07-04
 tags:
   - defence
   - data

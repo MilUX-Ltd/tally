@@ -9,7 +9,7 @@ uk-region: South East
 founded: 1998
 size: large
 headcount: 1400
-sources-verified: 2026-06-29
+sources-verified: 2026-07-04
 tags:
   - defence
   - software
@@ -57,4 +57,4 @@ Critical Software provides systems and software engineering services for safety,
 
 ## Sources
 
-Public information verified 2026-06-29. Sources: Critical Software website (criticalsoftware.com/en/industries), ADS Group members directory (adsgroup.org.uk/members/critical-software-2), Companies House (05256049), Airbus press release (Critical FlyTech joint venture, November 2025), Wikipedia, Southampton Science Park directory, UK Electronics Skills Foundation profile, Defense Guide profile.
+Public information verified 2026-07-04. Sources: Critical Software website (criticalsoftware.com/en/industries), ADS Group members directory (adsgroup.org.uk/members/critical-software-2), Companies House (05256049), Airbus press release (Critical FlyTech joint venture, November 2025), Wikipedia, Southampton Science Park directory, UK Electronics Skills Foundation profile, Defense Guide profile.

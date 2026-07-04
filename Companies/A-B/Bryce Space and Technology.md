@@ -8,11 +8,12 @@ hq: Alexandria, Virginia, United States
 uk-region: South East
 founded: 2018
 size: small
-sources-verified: 2026-06-29
+sources-verified: 2026-07-04
 tags:
   - defence
   - space
   - data
+  - data/analytics
   - test-evaluation
   - size-small
   - type-consultancy

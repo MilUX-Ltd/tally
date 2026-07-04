@@ -8,7 +8,7 @@ hq: Musselburgh, Scotland
 uk-region: Scotland
 founded: 1895
 size: small
-sources-verified: 2026-06-29
+sources-verified: 2026-07-04
 tags:
   - defence
   - air

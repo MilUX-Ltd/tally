@@ -7,11 +7,13 @@ hq: Sutton Coldfield, UK
 uk-region: West Midlands
 founded: 2018
 size: micro
-sources-verified: 2026-06-29
+sources-verified: 2026-07-04
 tags:
   - defence
   - cyber
+  - cyber/grc
   - training
+  - training/instruction
   - size-micro
   - type-sme
   - type-consultancy

@@ -7,13 +7,14 @@ hq: Elgin, United Kingdom
 uk-region: Scotland
 founded: 2008
 size: small
-sources-verified: 2026-06-29
+sources-verified: 2026-07-04
 tags:
   - defence
   - air
   - isr
   - maritime
   - training
+  - training/courseware
   - test-evaluation
   - size-small
   - type-sme

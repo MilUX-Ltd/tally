@@ -8,10 +8,12 @@ hq: Bath, United Kingdom
 uk-region: South West
 founded: 2012
 size: micro
-sources-verified: 2026-06-29
+sources-verified: 2026-07-04
 tags:
   - defence
   - cyber
+  - cyber/ot-security
+  - cyber/encryption
   - hardware
   - maritime
   - space

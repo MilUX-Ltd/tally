@@ -7,13 +7,16 @@ companies-house: 01456922
 hq: Whiteley, United Kingdom
 uk-region: South East
 size: medium
-sources-verified: 2026-06-29
+sources-verified: 2026-07-04
 tags:
   - defence
   - comms
+  - comms/tactical-radio
+  - comms/networking
   - rf
   - isr
   - uas
+  - uas/payload
   - hardware
   - size-medium
   - type-manufacturer

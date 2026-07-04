@@ -9,14 +9,17 @@ uk-region: East of England
 founded: 2007
 size: small
 headcount: ~16
-sources-verified: 2026-06-29
+sources-verified: 2026-07-04
 tags:
   - defence
   - sensors
+  - sensors/radar
   - software
   - radar
   - c2
+  - c2/integration
   - counter-uas
+  - counter-uas/detection
   - maritime
   - hardware
   - size-small
@@ -61,4 +64,4 @@ Cambridge Pixel develops modular radar, camera and sensor processing software, S
 
 ## Sources
 
-Public information verified 2026-06-29. Company website, Companies House (no. 06174486, incorporated 21 March 2007), ADS Group members directory, Unmanned Systems Technology, ADS Advance. Company switched to an employee-ownership model in 2020. Headcount (~16) is approximate.
+Public information verified 2026-07-04. Company website, Companies House (no. 06174486, incorporated 21 March 2007), ADS Group members directory, Unmanned Systems Technology, ADS Advance. Company switched to an employee-ownership model in 2020. Headcount (~16) is approximate.

@@ -7,7 +7,7 @@ hq: Aylesbury, United Kingdom
 uk-region: South East England
 founded: 1984
 size: large
-sources-verified: 2026-06-29
+sources-verified: 2026-07-04
 tags:
   - defence
   - space
@@ -50,4 +50,4 @@ Com Dev Europe designs and manufactures space-qualified hardware: passive microw
 
 ## Sources
 
-Public information verified 2026-06-29. Sources used: Companies House (01863723, status Active), the ADS members directory, the STFC UK space facilities listing, Honeywell Aerospace product pages, and trade press on the 2016 Honeywell acquisition. The company is a foreign-owned UK entity within Honeywell Aerospace; the registered office is at Honeywell House, Bracknell, with operations at Aylesbury. No verified standalone LinkedIn company page was found.
+Public information verified 2026-07-04. Sources used: Companies House (01863723, status Active), the ADS members directory, the STFC UK space facilities listing, Honeywell Aerospace product pages, and trade press on the 2016 Honeywell acquisition. The company is a foreign-owned UK entity within Honeywell Aerospace; the registered office is at Honeywell House, Bracknell, with operations at Aylesbury. No verified standalone LinkedIn company page was found.

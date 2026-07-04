@@ -7,12 +7,14 @@ hq: Tallinn, Estonia
 founded: 2016
 size: medium
 headcount: ~60
-sources-verified: 2026-06-29
+sources-verified: 2026-07-04
 tags:
   - defence
   - cyber
   - training
+  - training/instruction
   - simulation
+  - simulation/synthetic-environment
   - software
   - size-medium
   - type-vendor

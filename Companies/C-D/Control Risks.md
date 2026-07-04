@@ -7,10 +7,11 @@ companies-house: 01810707
 hq: London, United Kingdom
 uk-region: London
 size: large
-sources-verified: 2026-06-29
+sources-verified: 2026-07-04
 tags:
   - defence
   - cyber
+  - cyber/threat-intel
   - data
   - size-large
   - type-consultancy
@@ -42,4 +43,4 @@ Control Risks is an independent global risk consultancy that helps organisations
 
 ## Sources
 
-Public information verified 2026-06-29. Company website (controlrisks.com), ADS members directory (adsgroup.org.uk), Companies House (company 01810707).
+Public information verified 2026-07-04. Company website (controlrisks.com), ADS members directory (adsgroup.org.uk), Companies House (company 01810707).

@@ -6,10 +6,11 @@ linkedin: https://www.linkedin.com/company/cellebrite
 hq: Petah Tikva, Israel
 founded: 1999
 size: large
-sources-verified: 2026-06-29
+sources-verified: 2026-07-04
 tags:
   - defence
   - data
+  - data/analytics
   - software
   - ai
   - isr
@@ -44,4 +45,4 @@ Cellebrite is a digital intelligence company founded in Israel in 1999 and headq
 
 ## Sources
 
-Public information verified 2026-06-29. Cellebrite website and investor relations, Cellebrite LinkedIn company page, Wikipedia (Cellebrite), SEC filings.
+Public information verified 2026-07-04. Cellebrite website and investor relations, Cellebrite LinkedIn company page, Wikipedia (Cellebrite), SEC filings.

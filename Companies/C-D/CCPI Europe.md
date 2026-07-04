@@ -7,7 +7,7 @@ hq: Sheffield, United Kingdom
 uk-region: Yorkshire and the Humber
 founded: 2006
 size: small
-sources-verified: 2026-06-29
+sources-verified: 2026-07-04
 tags:
   - defence
   - air

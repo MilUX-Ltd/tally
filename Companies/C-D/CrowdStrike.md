@@ -6,13 +6,21 @@ linkedin: https://www.linkedin.com/company/crowdstrike
 hq: Austin, United States
 founded: 2011
 size: large
-sources-verified: 2026-06-29
+sources-verified: 2026-07-04
 tags:
   - defence
   - cyber
+  - cyber/incident-response
+  - cyber/threat-intel
+  - cyber/soc-monitoring
+  - cyber/vuln-management
+  - cyber/idam
   - ai
+  - ai/ml-analytics
+  - ai/generative
   - software
   - data
+  - data/analytics
   - size-large
   - type-vendor
   - listed
@@ -30,6 +38,12 @@ CrowdStrike is a cyber security company founded in 2011 and headquartered in Aus
 ## Products and solutions
 
 - **Falcon platform** - AI-native security platform unifying endpoint, cloud, identity and AI security in one agent and console.
+- **Falcon Insight XDR** - endpoint detection and response, extended across the estate to detect and respond to intrusions.
+- **Falcon Complete and Falcon Adversary OverWatch** - managed detection and response and 24/7 threat hunting delivered by CrowdStrike's own analyst teams.
+- **Falcon Adversary Intelligence** - threat intelligence tracking named adversary groups, indicators of compromise and adversary reporting.
+- **Falcon Exposure Management** - vulnerability and exposure management with AI-driven risk prioritisation.
+- **Falcon Identity Protection** - identity threat detection and response covering Active Directory, Entra ID and Okta environments.
+- **Charlotte AI** - generative AI security analyst that answers natural-language queries across the Falcon platform.
 - **Falcon Data Security** - data security product launched at RSA 2026 to discover, classify and stop unauthorised movement of sensitive data in real time.
 
 ## Recent news
@@ -44,4 +58,4 @@ CrowdStrike is a cyber security company founded in 2011 and headquartered in Aus
 
 ## Sources
 
-Public information verified 2026-06-29. CrowdStrike UK and US websites, CrowdStrike LinkedIn company page, CrowdStrike press releases, Verdict.
+Public information verified 2026-07-04. CrowdStrike UK and US websites, CrowdStrike LinkedIn company page, CrowdStrike press releases, Verdict.

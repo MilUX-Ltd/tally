@@ -8,13 +8,15 @@ hq: Cambridge, United Kingdom
 uk-region: East of England
 founded: 2011
 size: medium
-sources-verified: 2026-06-29
+sources-verified: 2026-07-04
 tags:
   - defence
   - software
   - data
+  - data/visualisation
   - isr
-  - software
+  - isr/fusion
+  - isr/ped
   - size-medium
   - type-software
   - accr-iso27001
@@ -51,4 +53,4 @@ Cambridge Intelligence provides visualisation software development kits (SDKs) t
 
 ## Sources
 
-Public information verified 2026-06-29. Company website, Companies House (no. 07625370, active, incorporated 6 May 2011), the company's security framework page, BigDATAwire. Headcount not published; size band estimated from public evidence and flagged as unconfirmed.
+Public information verified 2026-07-04. Company website, Companies House (no. 07625370, active, incorporated 6 May 2011), the company's security framework page, BigDATAwire. Headcount not published; size band estimated from public evidence and flagged as unconfirmed.

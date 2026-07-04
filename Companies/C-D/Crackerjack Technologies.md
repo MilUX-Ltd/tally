@@ -6,7 +6,7 @@ companies-house: "14333627"
 hq: London, United Kingdom
 founded: 2022
 size: micro
-sources-verified: 2026-06-29
+sources-verified: 2026-07-04
 tags:
   - defence
   - cyber
@@ -47,4 +47,4 @@ Crackerjack Technologies Ltd builds software applications for technical users, w
 
 ## Sources
 
-Public information verified 2026-06-29. ADS Group member profile (https://www.adsgroup.org.uk/members/crackerjack-technologies-ltd-1/); Companies House (https://find-and-update.company-information.service.gov.uk/company/14333627).
+Public information verified 2026-07-04. ADS Group member profile (https://www.adsgroup.org.uk/members/crackerjack-technologies-ltd-1/); Companies House (https://find-and-update.company-information.service.gov.uk/company/14333627).

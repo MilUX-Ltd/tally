@@ -7,12 +7,13 @@ hq: Chicago, United States
 uk-region: South West England
 founded: 1976
 size: large
-sources-verified: 2026-06-29
+sources-verified: 2026-07-04
 tags:
   - defence
   - air
   - logistics
   - training
+  - training/instruction
   - size-large
   - type-prime
   - owned-foreign

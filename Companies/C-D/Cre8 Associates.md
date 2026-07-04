@@ -9,11 +9,12 @@ uk-region: East Midlands
 founded: 2004
 size: micro
 headcount: 1-10
-sources-verified: 2026-06-29
+sources-verified: 2026-07-04
 tags:
   - defence
   - rf
   - ew
+  - ew/ecm
   - hardware
   - manufacturing
   - test-evaluation
@@ -55,4 +56,4 @@ Cre8 Associates is an electrical and electronic engineering consultancy and manu
 
 ## Sources
 
-Public information verified 2026-06-29. Company website https://www.cre8-associates.com; ADS Group member profile https://www.adsgroup.org.uk/members/cre8-associates-ltd-1/; Companies House record 05006424 https://find-and-update.company-information.service.gov.uk/company/05006424; Great.gov.uk Find a Supplier listing.
+Public information verified 2026-07-04. Company website https://www.cre8-associates.com; ADS Group member profile https://www.adsgroup.org.uk/members/cre8-associates-ltd-1/; Companies House record 05006424 https://find-and-update.company-information.service.gov.uk/company/05006424; Great.gov.uk Find a Supplier listing.

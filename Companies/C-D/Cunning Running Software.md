@@ -8,7 +8,7 @@ hq: United Kingdom
 uk-region: United Kingdom
 founded: 1988
 size: small
-sources-verified: 2026-06-29
+sources-verified: 2026-07-04
 tags:
   - defence
   - gis
@@ -45,4 +45,4 @@ Cunning Running provides specialist 2D and 3D mapping, visualisation and plannin
 
 ## Sources
 
-Public information verified 2026-06-29. Company website (cunningrunning.co.uk, including the About Us and Meet the Team pages), Companies House record (02236737), the ADS Group member directory, the Esri partner directory, the Ordnance Survey partner directory, and the company LinkedIn page.
+Public information verified 2026-07-04. Company website (cunningrunning.co.uk, including the About Us and Meet the Team pages), Companies House record (02236737), the ADS Group member directory, the Esri partner directory, the Ordnance Survey partner directory, and the company LinkedIn page.

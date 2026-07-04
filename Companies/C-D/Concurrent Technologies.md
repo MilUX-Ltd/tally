@@ -8,7 +8,7 @@ hq: Colchester, United Kingdom
 uk-region: East of England
 founded: 1985
 size: medium
-sources-verified: 2026-06-29
+sources-verified: 2026-07-04
 tags:
   - defence
   - hardware
@@ -50,4 +50,4 @@ Concurrent Technologies Plc develops and manufactures system-orientated solution
 
 ## Sources
 
-Public information verified 2026-06-29. Sources used: concurrent.tech, LinkedIn company page, Companies House (01919979), London Stock Exchange, AJ Bell.
+Public information verified 2026-07-04. Sources used: concurrent.tech, LinkedIn company page, Companies House (01919979), London Stock Exchange, AJ Bell.

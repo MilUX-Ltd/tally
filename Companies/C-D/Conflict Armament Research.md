@@ -8,11 +8,13 @@ hq: London, United Kingdom
 uk-region: London
 founded: 2011
 size: medium
-sources-verified: 2026-06-29
+sources-verified: 2026-07-04
 tags:
   - defence
   - data
+  - data/analytics
   - isr
+  - isr/osint
   - size-medium
   - type-non-profit
   - mbr-ads
@@ -46,4 +48,4 @@ Conflict Armament Research tracks the supply of conventional weapons, ammunition
 
 ## Sources
 
-Public information verified 2026-06-29. Company website (conflictarm.com, including the iTrace pages); ADS members directory (adsgroup.org.uk); Companies House (company 07762809); Wikipedia entry for Conflict Armament Research; Sudan news compendium reporting CAR's September 2025 documentation.
+Public information verified 2026-07-04. Company website (conflictarm.com, including the iTrace pages); ADS members directory (adsgroup.org.uk); Companies House (company 07762809); Wikipedia entry for Conflict Armament Research; Sudan news compendium reporting CAR's September 2025 documentation.

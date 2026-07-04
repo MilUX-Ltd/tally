@@ -8,7 +8,7 @@ hq: Shipley, United Kingdom
 uk-region: Yorkshire and the Humber
 founded: 2003
 size: medium
-sources-verified: 2026-06-29
+sources-verified: 2026-07-04
 tags:
   - defence
   - software
@@ -44,4 +44,4 @@ Consult Red is an employee-owned technology development partner working on intel
 
 ## Sources
 
-Public information verified 2026-06-29. Company website (consult.red), ADS members directory (adsgroup.org.uk), Companies House (company 06688270). UK headquarters in Shipley, West Yorkshire, with further teams in the USA, Poland and India.
+Public information verified 2026-07-04. Company website (consult.red), ADS members directory (adsgroup.org.uk), Companies House (company 06688270). UK headquarters in Shipley, West Yorkshire, with further teams in the USA, Poland and India.

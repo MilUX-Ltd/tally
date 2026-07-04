@@ -6,10 +6,11 @@ companies-house: 09969949
 hq: Mountain View, United States
 founded: 2016
 size: large
-sources-verified: 2026-06-29
+sources-verified: 2026-07-04
 tags:
   - defence
   - data
+  - data/engineering
   - software
   - size-large
   - type-prime
@@ -41,4 +42,4 @@ Confluent provides data infrastructure focused on data in motion, built around t
 
 ## Sources
 
-Public information verified 2026-06-29. Sources: ADS Group member profile (adsgroup.org.uk/members/confluent-europe-ltd-1/); Companies House (company 09969949). Confluent group is headquartered in the United States and listed publicly; Confluent Europe Ltd is the UK entity and an ADS member.
+Public information verified 2026-07-04. Sources: ADS Group member profile (adsgroup.org.uk/members/confluent-europe-ltd-1/); Companies House (company 09969949). Confluent group is headquartered in the United States and listed publicly; Confluent Europe Ltd is the UK entity and an ADS member.

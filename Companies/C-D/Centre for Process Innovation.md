@@ -9,7 +9,7 @@ uk-region: North East England
 founded: 2004
 size: medium
 headcount: 450
-sources-verified: 2026-06-29
+sources-verified: 2026-07-04
 tags:
   - defence
   - manufacturing
@@ -55,4 +55,4 @@ CPI is a not-for-profit technology innovation centre and founding member of the 
 
 ## Sources
 
-Public information verified 2026-06-29. Companies House (05002194); uk-cpi.com; hvm.catapult.org.uk; nccuk.com; q5d.com.
+Public information verified 2026-07-04. Companies House (05002194); uk-cpi.com; hvm.catapult.org.uk; nccuk.com; q5d.com.

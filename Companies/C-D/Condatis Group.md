@@ -8,10 +8,11 @@ hq: Edinburgh, United Kingdom
 uk-region: Scotland
 founded: 2013
 size: medium
-sources-verified: 2026-06-29
+sources-verified: 2026-07-04
 tags:
   - defence
   - cyber
+  - cyber/idam
   - software
   - data
   - size-medium
@@ -52,4 +53,4 @@ The business demerged from Sitekit Group in 2022 and was acquired by Bridgepoint
 
 ## Sources
 
-Public information verified 2026-06-29. Company website (condatis.com); ADS members directory (adsgroup.org.uk); Companies House (company 08473243, formerly Sitekit Systems Limited); Bridgepoint press release; Microsoft customer story.
+Public information verified 2026-07-04. Company website (condatis.com); ADS members directory (adsgroup.org.uk); Companies House (company 08473243, formerly Sitekit Systems Limited); Bridgepoint press release; Microsoft customer story.

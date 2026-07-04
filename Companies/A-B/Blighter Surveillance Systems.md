@@ -8,16 +8,20 @@ hq: Great Chesterford, United Kingdom
 uk-region: East of England
 size: small
 headcount: 30-40
-sources-verified: 2026-06-29
+sources-verified: 2026-07-04
 tags:
   - defence
   - radar
   - sensors
   - isr
   - c2
+  - c2/integration
+  - c2/situational-awareness
   - counter-uas
+  - counter-uas/detection
   - manufacturing
   - hardware
+  - sensors/radar
   - size-small
   - type-sme
   - type-manufacturer

@@ -9,13 +9,14 @@ uk-region: West Midlands
 founded: 1955
 size: large
 headcount: 80000
-sources-verified: 2026-06-29
+sources-verified: 2026-07-04
 tags:
   - defence
   - air
   - avionics
   - comms
   - sensors
+  - sensors/pnt
   - hardware
   - manufacturing
   - size-large
@@ -57,4 +58,4 @@ Collins Aerospace, an RTX business (RTX was formerly Raytheon Technologies), des
 
 ## Sources
 
-Public information verified 2026-06-29. Sources used: Companies House (00543016), the ADS members directory, the Collins Aerospace and RTX websites, GOV.UK Armed Forces Covenant register, and Invest West Midlands. The company is a foreign-owned firm with UK operations; the headcount figure is for Collins Aerospace globally. Confirmed UK sites include Wolverhampton (over 1,300 staff), Solihull, Plymouth, Winnersh and Prestwick.
+Public information verified 2026-07-04. Sources used: Companies House (00543016), the ADS members directory, the Collins Aerospace and RTX websites, GOV.UK Armed Forces Covenant register, and Invest West Midlands. The company is a foreign-owned firm with UK operations; the headcount figure is for Collins Aerospace globally. Confirmed UK sites include Wolverhampton (over 1,300 staff), Solihull, Plymouth, Winnersh and Prestwick.

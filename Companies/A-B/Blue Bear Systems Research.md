@@ -9,11 +9,13 @@ uk-region: East of England
 founded: 2000
 size: medium
 headcount: 51-100
-sources-verified: 2026-06-29
+sources-verified: 2026-07-04
 tags:
   - defence
   - autonomy
+  - autonomy/swarming
   - uas
+  - uas/platform
   - drones
   - robotics
   - air

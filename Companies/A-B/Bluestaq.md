@@ -9,13 +9,15 @@ uk-region: London
 founded: 2025
 size: micro
 headcount: 2-20
-sources-verified: 2026-06-29
+sources-verified: 2026-07-04
 tags:
   - defence
   - data
+  - data/engineering
   - software
   - space
   - isr
+  - isr/fusion
   - size-micro
   - type-sme
   - owned-foreign

@@ -8,11 +8,13 @@ hq: London, United Kingdom
 uk-region: London
 founded: 2013
 size: micro
-sources-verified: 2026-06-29
+sources-verified: 2026-07-04
 tags:
   - defence
   - training
+  - training/instruction
   - simulation
+  - simulation/synthetic-environment
   - size-micro
   - type-sme
   - owned-uk
@@ -50,4 +52,4 @@ CrisisCast provides scenario-based crisis training using professionally trained 
 
 ## Sources
 
-Public information verified 2026-06-29. Sources: CrisisCast website (crisiscast.com/solutions, crisiscast.com/virtual-reality, crisiscast.com/crisiscast/casualty-simulation), ADS Group members directory (adsgroup.org.uk/members/crisiscast-ltd), Companies House (08533880), Business Scotland Magazine (British Army / Project Tyrion article), DE&S MOD virtual reality training article.
+Public information verified 2026-07-04. Sources: CrisisCast website (crisiscast.com/solutions, crisiscast.com/virtual-reality, crisiscast.com/crisiscast/casualty-simulation), ADS Group members directory (adsgroup.org.uk/members/crisiscast-ltd), Companies House (08533880), Business Scotland Magazine (British Army / Project Tyrion article), DE&S MOD virtual reality training article.

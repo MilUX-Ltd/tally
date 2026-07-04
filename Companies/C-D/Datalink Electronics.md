@@ -9,7 +9,7 @@ uk-region: East Midlands
 founded: 1983
 size: small
 headcount: 38-50
-sources-verified: 2026-06-29
+sources-verified: 2026-07-04
 tags:
   - defence
   - hardware

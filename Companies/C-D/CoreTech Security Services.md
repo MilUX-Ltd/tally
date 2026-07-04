@@ -9,10 +9,11 @@ uk-region: South West
 founded: 2020
 size: medium
 headcount: 70
-sources-verified: 2026-06-29
+sources-verified: 2026-07-04
 tags:
   - defence
   - cyber
+  - cyber/vuln-management
   - software
   - size-medium
   - type-sme

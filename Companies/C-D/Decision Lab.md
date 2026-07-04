@@ -9,14 +9,18 @@ uk-region: East Midlands
 founded: 2011
 size: small
 headcount: 13
-sources-verified: 2026-06-29
+sources-verified: 2026-07-04
 tags:
   - defence
   - ai
+  - ai/decision-support
   - simulation
+  - simulation/synthetic-environment
   - drones
   - autonomy
+  - autonomy/uxv-control
   - data
+  - data/analytics
   - software
   - isr
   - size-small

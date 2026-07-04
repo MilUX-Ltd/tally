@@ -8,12 +8,14 @@ hq: Dunfermline, United Kingdom
 uk-region: Scotland
 size: medium
 headcount: 80+
-sources-verified: 2026-06-29
+sources-verified: 2026-07-04
 tags:
   - defence
   - software
   - comms
+  - comms/tactical-radio
   - sensors
+  - sensors/radar
   - test-evaluation
   - size-medium
   - type-sme

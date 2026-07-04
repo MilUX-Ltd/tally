@@ -9,11 +9,12 @@ uk-region: South East England
 founded: 2006
 size: small
 headcount: 70
-sources-verified: 2026-06-29
+sources-verified: 2026-07-04
 tags:
   - defence
   - data
   - ai
+  - ai/decision-support
   - c2
   - software
   - logistics
@@ -54,4 +55,4 @@ Decision Analysis Services Limited (DAS Ltd) is a Basingstoke-based consultancy 
 
 ## Sources
 
-Public information verified 2026-06-29. Companies House (05980241); das-int.com; ADS Group member directory; Nuclear Industry Association member directory.
+Public information verified 2026-07-04. Companies House (05980241); das-int.com; ADS Group member directory; Nuclear Industry Association member directory.

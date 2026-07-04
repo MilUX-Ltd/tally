@@ -9,7 +9,7 @@ uk-region: North West England
 founded: 1985
 size: medium
 headcount: 160-180
-sources-verified: 2026-06-29
+sources-verified: 2026-07-04
 tags:
   - defence
   - size-medium

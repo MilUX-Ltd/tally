@@ -9,12 +9,14 @@ uk-region: South East England
 founded: 2003
 size: small
 headcount: ~25
-sources-verified: 2026-06-29
+sources-verified: 2026-07-04
 tags:
   - defence
   - rf
   - comms
+  - comms/networking
   - isr
+  - isr/sigint
   - sensors
   - size-small
   - type-sme
@@ -51,4 +53,4 @@ CellXion is a privately owned UK company specialising in cellular intelligence-g
 
 ## Sources
 
-Public information verified 2026-06-29. Sources used: cell-xion.com, ADS Group member directory (CellXion Ltd), Security & Policing 2026 exhibitor listing, Companies House (04780952), LinkedIn company page.
+Public information verified 2026-07-04. Sources used: cell-xion.com, ADS Group member directory (CellXion Ltd), Security & Policing 2026 exhibitor listing, Companies House (04780952), LinkedIn company page.

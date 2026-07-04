@@ -8,7 +8,7 @@ uk-region: West Midlands
 founded: 1862
 size: small
 headcount: 64
-sources-verified: 2026-06-29
+sources-verified: 2026-07-04
 tags:
   - defence
   - manufacturing

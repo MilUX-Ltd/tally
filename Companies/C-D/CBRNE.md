@@ -7,10 +7,11 @@ companies-house: 06510023
 hq: London, United Kingdom
 founded: 2008
 size: small
-sources-verified: 2026-06-29
+sources-verified: 2026-07-04
 tags:
   - defence
   - training
+  - training/instruction
   - munitions
   - type-consultancy
   - type-sme
@@ -38,4 +39,4 @@ CBRNE Ltd provides advice, training and resilience services in the chemical, bio
 
 ## Sources
 
-Public information verified 2026-06-29. Sources used: cbrneltd.com, LinkedIn company page, ADS Group member directory, Companies House (06510023).
+Public information verified 2026-07-04. Sources used: cbrneltd.com, LinkedIn company page, ADS Group member directory, Companies House (06510023).

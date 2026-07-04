@@ -8,14 +8,18 @@ hq: Fareham, United Kingdom
 uk-region: South East England
 founded: 2011
 size: small
-sources-verified: 2026-06-29
+sources-verified: 2026-07-04
 tags:
   - defence
   - data
+  - data/analytics
   - software
   - simulation
+  - simulation/synthetic-environment
   - training
   - ai
+  - ai/decision-support
+  - ai/ml-analytics
   - c2
   - isr
   - type-sme

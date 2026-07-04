@@ -9,7 +9,7 @@ uk-region: South West England
 founded: 2016
 size: micro
 headcount: 8
-sources-verified: 2026-06-29
+sources-verified: 2026-07-04
 tags:
   - defence
   - comms
@@ -47,4 +47,4 @@ Callidus Roe provides engineering, project management, and technical support to 
 
 ## Sources
 
-Public information verified 2026-06-29. Companies House (10074821); callidusroe.com; LinkedIn company page.
+Public information verified 2026-07-04. Companies House (10074821); callidusroe.com; LinkedIn company page.

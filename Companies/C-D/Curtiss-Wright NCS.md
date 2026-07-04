@@ -5,12 +5,13 @@ website: https://www.curtisswrightds.com/
 linkedin: https://www.linkedin.com/showcase/curtiss-wright-defense-solutions/
 hq: Davidson, United States
 size: large
-sources-verified: 2026-06-29
+sources-verified: 2026-07-04
 tags:
   - defence
   - hardware
   - electronics
   - comms
+  - comms/networking
   - c2
   - isr
   - manufacturing

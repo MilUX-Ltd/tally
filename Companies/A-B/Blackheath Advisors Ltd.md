@@ -1,7 +1,7 @@
 ---
 type: organisation
 name: Blackheath Advisors Ltd
-sources-verified: 2026-06-29
+sources-verified: 2026-07-04
 tags:
   - defence
   - type-consultancy

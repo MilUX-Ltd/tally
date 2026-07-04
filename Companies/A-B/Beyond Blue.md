@@ -8,10 +8,12 @@ hq: Edinburgh, United Kingdom
 uk-region: Scotland
 founded: 2019
 size: small
-sources-verified: 2026-06-29
+sources-verified: 2026-07-04
 tags:
   - defence
   - cyber
+  - cyber/incident-response
+  - cyber/grc
   - size-small
   - type-consultancy
   - type-sme

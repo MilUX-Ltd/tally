@@ -9,18 +9,22 @@ uk-region: North West
 founded: 2010
 size: small
 headcount: 60
-sources-verified: 2026-06-29
+sources-verified: 2026-07-04
 tags:
   - defence
   - ai
+  - ai/computer-vision
   - robotics
   - autonomy
+  - autonomy/navigation
   - sensors
   - isr
   - counter-uas
+  - counter-uas/detection
   - drones
   - simulation
   - data
+  - data/visualisation
   - software
   - hardware
   - size-small
@@ -69,4 +73,4 @@ Createc designs and deploys advanced sensing, robotics, and imaging systems, wit
 
 ## Sources
 
-Public information verified 2026-06-29. Company website https://createc.co.uk; ADS Group member profile https://www.adsgroup.org.uk/members/createc-ltd-1/; Companies House record 07293648 https://find-and-update.company-information.service.gov.uk/company/07293648; GOV.UK SAPIENT news https://www.gov.uk/government/news/plug-and-play-autonomous-sensors; GOV.UK DASA telexistence https://www.gov.uk/government/news/cutting-edge-telexistence-technology-given-funding-boost; GOV.UK NDA robotics partnership https://www.gov.uk/government/news/nda-launches-pioneering-robotics-partnership-to-manage-nuclear-waste; GOV.UK Sellafield robot dogs case study https://www.gov.uk/government/case-studies/how-are-robot-dogs-helping-clean-up-sellafield; Curtiss-Wright announcement https://nuclear.curtisswright.com/newsroom/news/news-details/2024/Curtiss-Wright-Signs-Agreement-with-Createc; ANYbotics announcement https://www.anybotics.com/news/anybotics-and-createc-collaborate-to-revolutionize-nuclear-facility-inspections/; Tandfonline peer-reviewed publication on Fukushima deployment https://www.tandfonline.com/doi/full/10.1080/00223131.2024.2431537.
+Public information verified 2026-07-04. Company website https://createc.co.uk; ADS Group member profile https://www.adsgroup.org.uk/members/createc-ltd-1/; Companies House record 07293648 https://find-and-update.company-information.service.gov.uk/company/07293648; GOV.UK SAPIENT news https://www.gov.uk/government/news/plug-and-play-autonomous-sensors; GOV.UK DASA telexistence https://www.gov.uk/government/news/cutting-edge-telexistence-technology-given-funding-boost; GOV.UK NDA robotics partnership https://www.gov.uk/government/news/nda-launches-pioneering-robotics-partnership-to-manage-nuclear-waste; GOV.UK Sellafield robot dogs case study https://www.gov.uk/government/case-studies/how-are-robot-dogs-helping-clean-up-sellafield; Curtiss-Wright announcement https://nuclear.curtisswright.com/newsroom/news/news-details/2024/Curtiss-Wright-Signs-Agreement-with-Createc; ANYbotics announcement https://www.anybotics.com/news/anybotics-and-createc-collaborate-to-revolutionize-nuclear-facility-inspections/; Tandfonline peer-reviewed publication on Fukushima deployment https://www.tandfonline.com/doi/full/10.1080/00223131.2024.2431537.

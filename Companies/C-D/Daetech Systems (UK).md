@@ -8,15 +8,17 @@ hq: Manchester, United Kingdom
 uk-region: North West
 founded: 2000
 size: micro
-sources-verified: 2026-06-29
+sources-verified: 2026-07-04
 tags:
   - defence
   - isr
+  - isr/imint
   - sensors
   - hardware
   - software
   - data
   - training
+  - training/instruction
   - size-micro
   - type-sme
   - type-manufacturer

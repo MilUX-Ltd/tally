@@ -7,7 +7,7 @@ companies-house: 01181752
 hq: Maldon, UK
 uk-region: East of England
 size: micro
-sources-verified: 2026-06-29
+sources-verified: 2026-07-04
 tags:
   - defence
   - hardware

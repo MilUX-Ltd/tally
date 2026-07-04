@@ -8,11 +8,13 @@ hq: Manchester, United Kingdom
 uk-region: North West England
 founded: 2016
 size: micro
-sources-verified: 2026-06-29
+sources-verified: 2026-07-04
 tags:
   - defence
   - cyber
+  - cyber/threat-intel
   - ai
+  - ai/ml-analytics
   - rf
   - sensors
   - software

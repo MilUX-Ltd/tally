@@ -8,7 +8,7 @@ hq: Cambridge, United Kingdom
 uk-region: East of England
 founded: 2005
 size: micro
-sources-verified: 2026-06-29
+sources-verified: 2026-07-04
 tags:
   - defence
   - rf

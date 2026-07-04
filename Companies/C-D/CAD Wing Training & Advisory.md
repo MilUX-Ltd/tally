@@ -8,10 +8,11 @@ hq: London, United Kingdom
 uk-region: Greater London
 founded: 2023
 size: micro
-sources-verified: 2026-06-29
+sources-verified: 2026-07-04
 tags:
   - defence
   - training
+  - training/instruction
   - counter-uas
   - uas
   - drones
@@ -56,4 +57,4 @@ CAD Wing (trading name of Cadwing Ltd) operates across two verticals: specialist
 
 ## Sources
 
-Public information verified 2026-06-29. Companies House (15026703); cadwing.co.uk; Unmanned Network directory; LinkedIn company page.
+Public information verified 2026-07-04. Companies House (15026703); cadwing.co.uk; Unmanned Network directory; LinkedIn company page.

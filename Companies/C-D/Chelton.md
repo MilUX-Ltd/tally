@@ -8,7 +8,7 @@ uk-region: South East England
 founded: 1947
 size: large
 headcount: ~500
-sources-verified: 2026-06-29
+sources-verified: 2026-07-04
 tags:
   - defence
   - comms
@@ -55,4 +55,4 @@ Chelton is part of TransDigm Group, the US-listed aerospace components group, fo
 
 ## Sources
 
-Public information verified 2026-06-29. Company website; ADS Group members directory; company LinkedIn page; PitchBook; Chelton/Cobham rebrand announcement.
+Public information verified 2026-07-04. Company website; ADS Group members directory; company LinkedIn page; PitchBook; Chelton/Cobham rebrand announcement.

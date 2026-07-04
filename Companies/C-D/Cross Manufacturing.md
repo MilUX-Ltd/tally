@@ -9,7 +9,7 @@ uk-region: South West
 founded: 1938
 size: medium
 headcount: 550
-sources-verified: 2026-06-29
+sources-verified: 2026-07-04
 tags:
   - defence
   - manufacturing

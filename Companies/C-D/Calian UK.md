@@ -8,11 +8,14 @@ hq: Ottawa, Canada
 uk-region: South East England
 founded: 2004
 size: large
-sources-verified: 2026-06-29
+sources-verified: 2026-07-04
 tags:
   - defence
   - training
+  - training/courseware
+  - training/instruction
   - simulation
+  - simulation/synthetic-environment
   - software
   - size-large
   - type-prime
@@ -56,4 +59,4 @@ Calian UK is the UK operating company of Calian Group Ltd, a TSX-listed group he
 
 ## Sources
 
-Public information verified 2026-06-29. Companies House (05136214); ADS Group members directory; Calian company website; Shephard Media; ADS Advance; Unmanned Systems Technology. The canonical LinkedIn company page is the Calian Group page; no separate verified standalone Calian UK company page was found.
+Public information verified 2026-07-04. Companies House (05136214); ADS Group members directory; Calian company website; Shephard Media; ADS Advance; Unmanned Systems Technology. The canonical LinkedIn company page is the Calian Group page; no separate verified standalone Calian UK company page was found.

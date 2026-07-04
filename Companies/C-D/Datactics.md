@@ -9,10 +9,11 @@ uk-region: Northern Ireland
 founded: 1999
 size: small
 headcount: 48-74
-sources-verified: 2026-06-29
+sources-verified: 2026-07-04
 tags:
   - defence
   - data
+  - data/engineering
   - software
   - ai
   - size-small

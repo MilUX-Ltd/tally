@@ -8,7 +8,7 @@ hq: Bristol, England
 uk-region: South West England
 founded: 1938
 size: medium
-sources-verified: 2026-06-29
+sources-verified: 2026-07-04
 tags:
   - defence
   - air

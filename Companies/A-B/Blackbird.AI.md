@@ -9,13 +9,17 @@ uk-region:
 founded: 2017
 size: small
 headcount: 51-200
-sources-verified: 2026-06-29
+sources-verified: 2026-07-04
 tags:
   - defence
   - ai
+  - ai/ml-analytics
+  - ai/computer-vision
   - data
+  - data/analytics
   - software
   - isr
+  - isr/osint
   - cyber
   - size-small
   - type-scaleup

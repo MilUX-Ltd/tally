@@ -6,10 +6,11 @@ linkedin: https://www.linkedin.com/company/c2risk
 companies-house: 09885860
 hq: United Kingdom
 size: small
-sources-verified: 2026-06-29
+sources-verified: 2026-07-04
 tags:
   - defence
   - cyber
+  - cyber/grc
   - software
   - data
   - size-small
@@ -49,4 +50,4 @@ C2 Risk provides a risk management platform for organisations to assess, identif
 
 ## Sources
 
-Public information verified 2026-06-29. Sources: company website (c2risk.com), LinkedIn company page (linkedin.com/company/c2risk), techUK (Cyber Resilience member resource), Companies House (company 09885860).
+Public information verified 2026-07-04. Sources: company website (c2risk.com), LinkedIn company page (linkedin.com/company/c2risk), techUK (Cyber Resilience member resource), Companies House (company 09885860).

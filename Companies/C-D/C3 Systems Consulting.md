@@ -7,7 +7,7 @@ hq: Salisbury, United Kingdom
 uk-region: South West
 founded: 2009
 size: micro
-sources-verified: 2026-06-29
+sources-verified: 2026-07-04
 tags:
   - defence
   - cyber
@@ -40,4 +40,4 @@ C3 Systems Consulting is an independent company providing subject matter experti
 
 ## Sources
 
-Public information verified 2026-06-29. Sources: company website (c3sc.co.uk), ADS Group member directory (adsgroup.org.uk/members/c3-systems-consulting-ltd-1/), Digital Marketplace G-Cloud supplier listing, Companies House (company 07084523).
+Public information verified 2026-07-04. Sources: company website (c3sc.co.uk), ADS Group member directory (adsgroup.org.uk/members/c3-systems-consulting-ltd-1/), Digital Marketplace G-Cloud supplier listing, Companies House (company 07084523).

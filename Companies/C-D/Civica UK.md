@@ -9,11 +9,12 @@ uk-region: London
 founded: 1982
 size: large
 headcount: 5000+
-sources-verified: 2026-06-29
+sources-verified: 2026-07-04
 tags:
   - defence
   - software
   - data
+  - data/analytics
   - size-large
   - type-prime
   - backed-pe

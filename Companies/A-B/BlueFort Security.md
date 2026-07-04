@@ -9,10 +9,13 @@ uk-region: South East
 founded: 2007
 size: small
 headcount: ~31
-sources-verified: 2026-06-29
+sources-verified: 2026-07-04
 tags:
   - defence
   - cyber
+  - cyber/vuln-management
+  - cyber/idam
+  - cyber/soc-monitoring
   - software
   - size-small
   - type-sme

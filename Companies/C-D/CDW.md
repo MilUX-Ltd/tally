@@ -7,7 +7,7 @@ companies-house: 02465350
 hq: United Kingdom
 founded: 1984
 size: large
-sources-verified: 2026-06-29
+sources-verified: 2026-07-04
 tags:
   - defence
   - software

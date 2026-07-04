@@ -8,12 +8,15 @@ hq: London, United Kingdom
 uk-region: London
 founded: 2010
 size: small
-sources-verified: 2026-06-29
+sources-verified: 2026-07-04
 tags:
   - defence
   - software
   - simulation
+  - simulation/synthetic-environment
   - training
+  - training/courseware
+  - training/instruction
   - size-small
   - type-vendor
 ---
@@ -44,4 +47,4 @@ Conducttr provides crisis exercising software that creates a high-fidelity, real
 
 ## Sources
 
-Public information verified 2026-06-29. Company website (conducttr.com, including the Our Story, Defence and Security, Live Sim, Services, Kaliningrad Crucible and DSEI 2025 pages), Companies House record for Transmedia Storyteller Ltd (07460263), and the company LinkedIn page.
+Public information verified 2026-07-04. Company website (conducttr.com, including the Our Story, Defence and Security, Live Sim, Services, Kaliningrad Crucible and DSEI 2025 pages), Companies House record for Transmedia Storyteller Ltd (07460263), and the company LinkedIn page.

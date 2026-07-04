@@ -9,7 +9,7 @@ uk-region: South West
 founded: 1970
 size: medium
 headcount: 175
-sources-verified: 2026-06-29
+sources-verified: 2026-07-04
 tags:
   - defence
   - air

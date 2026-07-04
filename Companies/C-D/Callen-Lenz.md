@@ -9,12 +9,15 @@ uk-region: South West England
 founded: 2007
 size: medium
 headcount: 51-200
-sources-verified: 2026-06-29
+sources-verified: 2026-07-04
 tags:
   - defence
   - uas
+  - uas/platform
   - drones
   - autonomy
+  - autonomy/navigation
+  - autonomy/uxv-control
   - isr
   - air
   - munitions
@@ -60,4 +63,4 @@ Callen-Lenz offers products, platforms and services across the uncrewed and auto
 
 ## Sources
 
-Public information verified 2026-06-29. Companies House (06361441); ADS Group members directory; Callen-Lenz company website; Callen-Lenz LinkedIn company page; The Defense Post; Shephard Media; Aviation Week.
+Public information verified 2026-07-04. Companies House (06361441); ADS Group members directory; Callen-Lenz company website; Callen-Lenz LinkedIn company page; The Defense Post; Shephard Media; Aviation Week.

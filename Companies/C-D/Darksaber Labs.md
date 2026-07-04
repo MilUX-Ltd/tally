@@ -7,13 +7,17 @@ hq: Arlington, United States
 founded: 2025
 size: micro
 headcount: ~9
-sources-verified: 2026-06-29
+sources-verified: 2026-07-04
 tags:
   - defence
   - ew
+  - ew/direction-finding
   - ai
+  - ai/decision-support
   - autonomy
   - isr
+  - isr/sigint
+  - isr/fusion
   - sensors
   - hardware
   - size-micro

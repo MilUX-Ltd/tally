@@ -6,7 +6,7 @@ hq: Washington DC, United States
 uk-region: London
 size: large
 headcount: 1250
-sources-verified: 2026-06-29
+sources-verified: 2026-07-04
 tags:
   - defence
   - air
@@ -40,4 +40,4 @@ Crowell & Moring UK LLP is the London presence of a Washington DC-headquartered 
 
 ## Sources
 
-Public information verified 2026-06-29. ADS Group member profile (adsgroup.org.uk); Crowell & Moring London office page (crowell.com); Companies House record OE033081; Chambers UK and Legal 500 profiles.
+Public information verified 2026-07-04. ADS Group member profile (adsgroup.org.uk); Crowell & Moring London office page (crowell.com); Companies House record OE033081; Chambers UK and Legal 500 profiles.

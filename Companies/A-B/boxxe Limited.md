@@ -9,10 +9,11 @@ uk-region: Yorkshire and the Humber
 founded: 1987
 size: medium
 headcount: 350
-sources-verified: 2026-06-29
+sources-verified: 2026-07-04
 tags:
   - defence
   - cyber
+  - cyber/encryption
   - software
   - hardware
   - data

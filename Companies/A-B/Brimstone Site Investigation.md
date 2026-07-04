@@ -8,7 +8,7 @@ hq: Chatham, England
 uk-region: South East England
 founded: 2016
 size: small
-sources-verified: 2026-06-29
+sources-verified: 2026-07-04
 tags:
   - defence
   - size-small
