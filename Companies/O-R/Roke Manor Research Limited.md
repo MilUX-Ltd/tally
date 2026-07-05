@@ -49,7 +49,7 @@ tags:
 
 ## What they do
 
-Roke has over 60 years of heritage in defence and applies that depth across computer vision, AI, autonomous systems, command and control, ISR, maritime, space consultancy, and software and digital services. The company states it has more than 600 engineers combining deep knowledge of sensors, communications, cyber and AI, and describes its ISR work as building solutions "from sensor to decision" across a Sense-Decide-Effect continuum. It operates in defence, national security and geospatial intelligence for public and private clients, and is part of Chemring Group. Note: this entry and the vault's separate "Roke" page describe the same legal entity, Roke Manor Research Limited.
+Roke has over 60 years of heritage in defence and applies that depth across computer vision, AI, autonomous systems, command and control, ISR, maritime, space consultancy, and software and digital services. The company states it has more than 600 engineers combining deep knowledge of sensors, communications, cyber and AI, and describes its ISR work as building solutions "from sensor to decision" across a Sense-Decide-Effect continuum. It operates in defence, national security and geospatial intelligence for public and private clients, and is part of Chemring Group. Note: this entry and the separate "Roke" page describe the same legal entity, Roke Manor Research Limited.
 
 ## Products and solutions
 

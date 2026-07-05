@@ -60,4 +60,4 @@ Mollis Group is a multi-cloud security consultancy that helps organisations oper
 
 ## Sources
 
-Public information verified 2026-07-05. Sources: company website (mollis-group.co.uk, Security Services, TSCM Sweeps, Security Architecture Services pages), UK Government Digital Marketplace G-Cloud 14 listing, Companies House (company 11853522), LinkedIn. Note: a prior CRM record referenced D3IP/Defence BattleLab/Dorset Innovation Park membership; this could not be corroborated from any public source in this pass and has been left out of the entry pending direct confirmation.
+Public information verified 2026-07-05. Sources: company website (mollis-group.co.uk, Security Services, TSCM Sweeps, Security Architecture Services pages), UK Government Digital Marketplace G-Cloud 14 listing, Companies House (company 11853522), LinkedIn. Note: D3IP/Defence BattleLab/Dorset Innovation Park membership could not be corroborated from any public source and has been left out of the entry pending direct confirmation.

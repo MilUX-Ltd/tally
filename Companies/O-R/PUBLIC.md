@@ -45,4 +45,4 @@ PUBLIC works with government departments and the Ministry of Defence to design d
 
 ## Sources
 
-Public information verified 2026-06-30. MilUX vault CRM record.
+Public information verified 2026-06-30.

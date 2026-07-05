@@ -53,4 +53,4 @@ Founded in 2008, RiverSafe is a professional services provider specialising in c
 
 ## Sources
 
-Public information verified 2026-07-05. Company website (riversafe.co.uk), Companies House (06715188), ADS Group member directory. Companies House and RiverSafe's own contact pages record the registered office and stated HQ as London; the vault's prior Canterbury entry is not supported by any public source found and has been corrected accordingly.
+Public information verified 2026-07-05. Company website (riversafe.co.uk), Companies House (06715188), ADS Group member directory. Companies House and RiverSafe's own contact pages record the registered office and stated HQ as London; the previously listed Canterbury location is not supported by any public source found and has been corrected accordingly.
