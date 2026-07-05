@@ -3,7 +3,7 @@ type: organisation
 name: TICQ
 website: https://www.ticq.co.uk
 hq: Bath, UK
-uk-region: South West England
+uk-region: South West
 founded: 2025
 sources-verified: 2026-06-30
 tags:

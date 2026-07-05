@@ -20,7 +20,7 @@ tags:
   - size-micro
   - type-sme
   - owned-uk
-  - fw-joscar
+  - accr-joscar
   - accr-ce
   - accr-iso9001
   - mbr-ads

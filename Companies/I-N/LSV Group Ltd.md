@@ -4,7 +4,7 @@ name: LSV Group Ltd
 website: https://www.lsvgroup.co.uk
 hq: Glasgow, United Kingdom
 uk-region: Scotland
-sources-verified: 2026-06-29
+sources-verified: 2026-07-04
 tags:
   - defence
   - mbr-ads
@@ -22,7 +22,12 @@ tags:
 
 ## What they do
 
-LSV Group provides engineering consultancy across structural, civil, mechanical, electrical, and systems disciplines, with capabilities spanning safety case development, BIM, architecture, and project management. They serve defence, construction, and infrastructure sectors from their Glasgow base.
+LSV Group is a Glasgow-based engineering consultancy, established in 2022, serving the defence, nuclear, infrastructure and renewables sectors. It provides engineering consultancy across structural, civil, mechanical and electrical disciplines, alongside safety case development, BIM, architecture and project management. The company also supplies specialist multi-discipline design engineers and project management professionals to fill skills gaps within client organisations; it states its personnel are UK nationals holding full security clearance.
+
+## Products and solutions
+
+- **Engineering consultancy** - bespoke design and project management packages across structural, civil, mechanical and electrical disciplines.
+- **Specialist resourcing** - security-cleared design engineers and project management professionals supplied to client organisations in defence, nuclear, infrastructure and renewables.
 
 ## Frameworks, accreditations and memberships
 
@@ -35,4 +40,4 @@ LSV Group provides engineering consultancy across structural, civil, mechanical,
 
 ## Sources
 
-Public information verified 2026-06-29. DEVONthink record sourced from ADS members directory snapshot, 2026-05-15.
+Public information verified 2026-07-04. Company website (lsvgroup.co.uk), ADS Group members directory (snapshot, 2026-05-15).

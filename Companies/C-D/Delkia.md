@@ -5,7 +5,7 @@ website: https://www.delkia.co.uk
 linkedin: https://www.linkedin.com/company/delkialtd
 companies-house: "07339803"
 hq: Haydock, United Kingdom
-uk-region: North West England
+uk-region: North West
 founded: 2010
 size: small
 headcount: 47

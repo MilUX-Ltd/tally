@@ -4,6 +4,7 @@ name: 4C Strategies
 website: https://www.4cstrategies.com/
 linkedin: https://www.linkedin.com/company/4c-strategies
 hq: Stockholm, Sweden
+uk-region: Overseas
 founded: 2000
 size: medium
 sources-verified: 2026-07-03

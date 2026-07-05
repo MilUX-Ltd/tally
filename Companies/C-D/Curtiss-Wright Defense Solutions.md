@@ -4,7 +4,7 @@ name: Curtiss-Wright Defense Solutions
 website: https://defense-solutions.curtisswright.com
 linkedin: https://www.linkedin.com/showcase/curtiss-wright-defense-solutions/
 hq: Davidson, NC, USA
-uk-region: South East England
+uk-region: South East
 size: large
 sources-verified: 2026-07-04
 tags:

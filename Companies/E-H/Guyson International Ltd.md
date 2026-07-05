@@ -4,9 +4,9 @@ name: Guyson International Ltd
 website: https://www.guyson.co.uk
 companies-house: "1549447"
 hq: Skipton, United Kingdom
-uk-region: Yorkshire
+uk-region: Yorkshire and The Humber
 size: medium
-sources-verified: 2026-06-29
+sources-verified: 2026-07-04
 tags:
   - defence
   - manufacturing
@@ -47,4 +47,4 @@ Guyson International manufactures surface preparation and precision cleaning sol
 
 ## Sources
 
-Public information verified 2026-06-29. DEVONthink CRM record (ADS directory snapshot, 2026-05-15); www.guyson.co.uk (visited 2026-06-29).
+Public information verified 2026-06-29. ADS Group members directory (snapshot, 2026-05-15); www.guyson.co.uk (visited 2026-06-29).

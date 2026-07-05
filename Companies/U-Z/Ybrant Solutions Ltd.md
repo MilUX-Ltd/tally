@@ -33,4 +33,4 @@ Ybrant Solutions provides advisory, implementation, and adoption services across
 
 ## Sources
 
-Public information verified 2026-07-01. DEVONthink MilUX CRM record (ADS directory snapshot, 2026-05-15).
+Public information verified 2026-07-01. ADS Group members directory (snapshot, 2026-05-15).

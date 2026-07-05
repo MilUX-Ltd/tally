@@ -4,13 +4,15 @@ name: Orqa
 website: https://orqafpv.com/
 linkedin: https://www.linkedin.com/company/orqafpv
 hq: Osijek, Croatia
+uk-region: Overseas
 founded: 2018
 size: medium
-sources-verified: 2026-06-29
+sources-verified: 2026-07-05
 tags:
   - defence
   - drones
   - uas
+  - uas/platform
   - fpv
   - hardware
   - manufacturing

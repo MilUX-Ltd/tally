@@ -3,7 +3,7 @@ type: organisation
 name: Vital Seating & Systems Limited
 website: https://www.vitalseatingsystems.com
 hq: Chelmsford, United Kingdom
-uk-region: East
+uk-region: East of England
 sources-verified: 2026-07-01
 tags:
   - defence
@@ -38,4 +38,4 @@ VSS designs and manufactures safety-critical seating for defence and security ve
 
 ## Sources
 
-Public information verified 2026-07-01. DEVONthink CRM record (ADS directory snapshot, 2026-05-15).
+Public information verified 2026-07-01. ADS Group members directory (snapshot, 2026-05-15).

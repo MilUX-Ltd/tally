@@ -3,7 +3,7 @@ type: organisation
 name: VestGuard
 website: https://www.vestguard.co.uk
 hq: Colchester, United Kingdom
-uk-region: East
+uk-region: East of England
 sources-verified: 2026-07-01
 tags:
   - defence
@@ -40,4 +40,4 @@ VestGuard designs and manufactures ballistic solutions from a UK factory using a
 
 ## Sources
 
-Public information verified 2026-07-01. DEVONthink CRM record sourced from ADS members directory snapshot (2026-05-15).
+Public information verified 2026-07-01. ADS Group members directory (snapshot, 2026-05-15).

@@ -3,7 +3,7 @@ type: organisation
 name: SystemWare Europe Ltd
 website: http://www.sysware-europe.com
 hq: St Neots, United Kingdom
-uk-region: East
+uk-region: East of England
 sources-verified: 2026-06-30
 tags:
   - defence
@@ -42,4 +42,4 @@ SystemWare Europe supplies, installs and supports solutions for technical survei
 
 ## Sources
 
-Public information verified 2026-06-30. DEVONthink MilUX CRM record (ADS directory snapshot, captured 2026-05-15).
+Public information verified 2026-06-30. ADS Group members directory (captured 2026-05-15).

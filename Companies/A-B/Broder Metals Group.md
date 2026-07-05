@@ -5,7 +5,7 @@ website: https://broder-metals-group.com/
 linkedin: https://uk.linkedin.com/company/broder-metals-group
 companies-house: 05690539
 hq: Sheffield, United Kingdom
-uk-region: Yorkshire and the Humber
+uk-region: Yorkshire and The Humber
 founded: 2003
 size: small
 sources-verified: 2026-07-04

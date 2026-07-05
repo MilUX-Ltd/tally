@@ -18,7 +18,7 @@ tags:
   - type-sme
   - size-medium
   - owned-uk
-  - fw-joscar
+  - accr-joscar
   - mbr-ads
 ---
 

@@ -4,7 +4,7 @@ name: Bikar Aerospace Metals Ltd
 website: https://www.bikar.com/uk
 companies-house: 12437111
 hq: Bad Berleburg, Germany
-uk-region: South West England
+uk-region: South West
 founded: 2020
 size: small
 sources-verified: 2026-07-04

@@ -4,7 +4,7 @@ name: Permali Gloucester Ltd
 website: https://www.permali.co.uk
 hq: Gloucester, United Kingdom
 uk-region: South West
-sources-verified: 2026-06-30
+sources-verified: 2026-07-05
 tags:
   - defence
   - mbr-ads
@@ -43,4 +43,4 @@ Permali designs and manufactures lightweight ballistic and mine protection solut
 
 ## Sources
 
-Public information verified 2026-06-30. DEVONthink MilUX CRM record (ADS directory snapshot, 2026-05-15).
+Public information verified 2026-07-05. ADS Group members directory (snapshot, 2026-05-15).

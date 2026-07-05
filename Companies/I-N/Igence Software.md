@@ -8,18 +8,23 @@ hq: East Grinstead, UK
 uk-region: South East
 founded: 1999
 size: small
-sources-verified: 2026-06-29
+sources-verified: 2026-07-04
 tags:
   - defence
   - software
   - autonomy
+  - autonomy/uxv-control
   - robotics
   - sensors
+  - sensors/radar
   - rf
   - isr
   - c2
+  - c2/integration
   - simulation
+  - simulation/synthetic-environment
   - training
+  - training/instruction
   - gis
   - cyber
   - maritime
@@ -61,4 +66,4 @@ Igence Software is a UK supplier of bespoke software and systems engineering, pr
 
 ## Sources
 
-Public information verified 2026-06-29. Company website (igence.com), Companies House (no. 03829804), ADS members directory, company news. List X is noted as previously held, not current.
+Public information verified 2026-07-04. Company website (igence.com), Companies House (no. 03829804), ADS members directory, company news. List X is noted as previously held, not current.

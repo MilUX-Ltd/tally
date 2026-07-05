@@ -18,7 +18,7 @@ tags:
   - size-small
   - type-manufacturer
   - owned-uk
-  - fw-joscar
+  - accr-joscar
   - accr-ce-plus
   - accr-iso9001
   - mbr-ads

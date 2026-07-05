@@ -5,12 +5,14 @@ website: https://www.halochrome.co.uk
 linkedin: https://www.linkedin.com/company/halochrome
 companies-house: "12622146"
 hq: Bath
-uk-region: South West England
+uk-region: South West
 founded: 2020
-sources-verified: 2026-06-29
+sources-verified: 2026-07-04
 tags:
   - defence
   - cyber
+  - cyber/encryption
+  - cyber/grc
   - software
   - type-sme
   - type-consultancy
@@ -28,4 +30,4 @@ Halochrome works with defence and security organisations on IT consultancy and b
 - LinkedIn: https://www.linkedin.com/company/halochrome
 - Companies House: https://find-and-update.company-information.service.gov.uk/company/12622146
 ## Sources
-Public information verified 2026-06-29.
+Public information verified 2026-07-04.

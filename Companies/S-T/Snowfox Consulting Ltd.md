@@ -28,4 +28,4 @@ Snowfox Consulting specialises in surveillance and communications, with experien
 
 ## Sources
 
-Public information verified 2026-06-30. DEVONthink record sourced from ADS members directory snapshot (2026-05-15). No website listed in directory at capture.
+Public information verified 2026-06-30. ADS Group members directory (snapshot, 2026-05-15). No website listed in directory at capture.

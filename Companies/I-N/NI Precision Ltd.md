@@ -4,7 +4,7 @@ name: NI Precision Ltd
 website: https://www.niprecision.com
 hq: Portadown, UK
 uk-region: Northern Ireland
-sources-verified: 2026-06-30
+sources-verified: 2026-07-05
 tags:
   - defence
   - mbr-ads
@@ -14,7 +14,7 @@ tags:
   - accr-ce-plus
   - accr-iso9001
   - accr-iso14001
-  - fw-joscar
+  - accr-joscar
 ---
 
 # NI Precision Ltd
@@ -41,4 +41,4 @@ NI Precision operates automated 5-axis and 6-axis CNC machining cells on a 24/7 
 
 ## Sources
 
-Public information verified 2026-06-30. DEVONthink CRM record (ADS directory snapshot, 2026-05-15).
+Public information verified 2026-06-30. ADS Group members directory (snapshot, 2026-05-15).

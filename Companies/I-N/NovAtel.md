@@ -4,11 +4,12 @@ name: NovAtel
 website: https://hexagonpositioning.com
 hq: Calgary, Canada
 uk-region: Scotland
-sources-verified: 2026-06-30
+sources-verified: 2026-07-05
 tags:
   - defence
   - mbr-ads
   - sensors
+  - sensors/pnt
   - hardware
   - manufacturing
   - type-manufacturer
@@ -40,4 +41,4 @@ NovAtel, part of Hexagon's positioning division, develops and manufactures GNSS 
 
 ## Sources
 
-Public information verified 2026-06-30. DEVONthink MilUX CRM record (ADS directory snapshot, 2026-05-15).
+Public information verified 2026-07-05. ADS Group members directory (snapshot, 2026-05-15).

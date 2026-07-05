@@ -5,7 +5,7 @@ website: https://consult.red/
 linkedin: https://www.linkedin.com/company/consultred
 companies-house: 06688270
 hq: Shipley, United Kingdom
-uk-region: Yorkshire and the Humber
+uk-region: Yorkshire and The Humber
 founded: 2003
 size: medium
 sources-verified: 2026-07-04

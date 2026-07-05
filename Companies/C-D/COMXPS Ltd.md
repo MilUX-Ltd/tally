@@ -5,7 +5,7 @@ website: https://comxps.com
 linkedin: https://www.linkedin.com/company/comxps-ltd
 companies-house: "08189147"
 hq: Chislehurst, United Kingdom
-uk-region: Greater London
+uk-region: London
 founded: 2012
 size: small
 headcount: 17

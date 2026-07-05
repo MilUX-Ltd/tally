@@ -4,13 +4,17 @@ name: Nominal
 website: https://nominal.io/
 linkedin: https://www.linkedin.com/company/nominal-inc
 hq: Los Angeles, United States
+uk-region: Overseas
 founded: 2022
 size: medium
-sources-verified: 2026-06-29
+sources-verified: 2026-07-05
 tags:
   - defence
   - software
   - data
+  - data/analytics
+  - data/engineering
+  - data/visualisation
   - test-evaluation
   - ai
   - aerospace

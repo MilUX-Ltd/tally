@@ -5,7 +5,7 @@ website: https://htsl.co.uk
 hq: Didcot, United Kingdom
 uk-region: South East
 size: small
-sources-verified: 2026-06-29
+sources-verified: 2026-07-04
 tags:
   - defence
   - sensors

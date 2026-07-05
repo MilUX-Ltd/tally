@@ -4,7 +4,7 @@ name: X-Net (Services) Ltd
 website: https://www.x-net.co.uk
 linkedin: https://www.linkedin.com/company/x-net-services-ltd/
 hq: Winfrith Newburgh, Dorset
-uk-region: South West England
+uk-region: South West
 size: small
 headcount: 37
 sources-verified: 2026-06-30

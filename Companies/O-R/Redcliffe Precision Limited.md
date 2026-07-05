@@ -4,7 +4,8 @@ name: Redcliffe Precision Limited
 website: https://www.redcliffeprecision.co.uk
 hq: Bristol, United Kingdom
 uk-region: South West
-sources-verified: 2026-06-30
+founded: 1968
+sources-verified: 2026-07-05
 tags:
   - defence
   - mbr-ads
@@ -13,6 +14,7 @@ tags:
   - air
   - type-manufacturer
   - owned-uk
+  - accr-iso9001
 ---
 
 # Redcliffe Precision Limited
@@ -21,11 +23,18 @@ tags:
 
 ## What they do
 
-Redcliffe Precision provides CNC multi-axis machining, grinding, thread rolling, microstructure testing, and sub-assembly services to the aerospace and defence supply chain. The company holds approvals from Airbus, Bombardier, Leonardo (Vital Parts), GE Aviation, and Rolls Royce Marine.
+Redcliffe Precision provides CNC multi-axis machining (3 and 5-axis milling, 2 and 4-axis turning and mill-turn), precision thread rolling and thread testing, cylindrical and centreless grinding, minor mechanical assembly, and microstructure testing to the aerospace and defence supply chain. The company holds approvals from Airbus, Bombardier, Leonardo (Vital Parts), GE Aviation, and Rolls Royce Marine, and has supplied parts for the Airbus A350, A220 and A320 programmes.
+
+## Products and solutions
+
+- **CNC precision machining** - 3 and 5-axis milling and 2 and 4-axis turning and mill-turn for aerospace and defence components.
+- **Thread rolling and grinding** - precision thread rolling and testing, plus cylindrical, centreless and surface grinding.
+- **Sub-assembly and finishing** - minor mechanical assembly, microstructure testing and epoxy primer spray finishing.
 
 ## Frameworks, accreditations and memberships
 
 - **Memberships:** ADS Group
+- **Accreditations:** AS9100, ISO 9001
 
 ## Links
 
@@ -33,4 +42,4 @@ Redcliffe Precision provides CNC multi-axis machining, grinding, thread rolling,
 
 ## Sources
 
-Public information verified 2026-06-30. DEVONthink CRM record (ADS directory snapshot, 2026-05-15).
+Public information verified 2026-07-05. Redcliffe Precision website; ADS Group members directory.

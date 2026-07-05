@@ -4,7 +4,7 @@ name: Prism Defence Ltd
 website: https://www.prismdefence.com
 hq: Emsworth, UK
 uk-region: South East
-sources-verified: 2026-06-30
+sources-verified: 2026-07-05
 tags:
   - defence
   - mbr-ads
@@ -42,4 +42,4 @@ Prism Defence develops software solutions and flight and ship test instrumentati
 
 ## Sources
 
-Public information verified 2026-06-30. DEVONthink CRM record sourced from ADS members directory snapshot, 2026-05-15.
+Public information verified 2026-07-05. Company website (prismdefence.com), ADS Group members directory.

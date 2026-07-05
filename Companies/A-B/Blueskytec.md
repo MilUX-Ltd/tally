@@ -20,7 +20,6 @@ tags:
   - size-micro
   - type-startup
   - mbr-ads
-  - prog-dasa
 ---
 
 # Blueskytec

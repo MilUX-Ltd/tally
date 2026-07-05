@@ -4,6 +4,7 @@ name: Battlespace Simulations, Inc.
 website: https://www.bssim.com/
 linkedin: https://www.linkedin.com/company/battlespace-simulations-inc-
 hq: United States
+uk-region: Overseas
 founded: 2005
 size: small
 sources-verified: 2026-07-03

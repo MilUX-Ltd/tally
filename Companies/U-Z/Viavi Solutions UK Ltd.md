@@ -3,7 +3,7 @@ type: organisation
 name: Viavi Solutions UK Ltd
 website: https://www.viavisolutions.com
 hq: San Jose, United States
-uk-region: East
+uk-region: East of England
 sources-verified: 2026-07-01
 tags:
   - defence
@@ -41,4 +41,4 @@ VIAVI Solutions' AvComm division manufactures electronic instruments and test pr
 
 ## Sources
 
-Public information verified 2026-07-01. DEVONthink CRM record sourced from ADS members directory snapshot (2026-05-15). UK office: Longacres House, Stevenage, Hertfordshire.
+Public information verified 2026-07-01. ADS Group members directory (snapshot, 2026-05-15). UK office: Longacres House, Stevenage, Hertfordshire.

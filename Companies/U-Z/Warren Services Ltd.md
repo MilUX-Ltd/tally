@@ -3,7 +3,7 @@ type: organisation
 name: Warren Services Ltd
 website: https://www.warrenservices.co.uk
 hq: Thetford, UK
-uk-region: East
+uk-region: East of England
 sources-verified: 2026-07-01
 tags:
   - defence
@@ -15,7 +15,7 @@ tags:
   - accr-ce
   - accr-iso9001
   - accr-iso14001
-  - fw-joscar
+  - accr-joscar
 ---
 
 # Warren Services Ltd
@@ -43,4 +43,4 @@ Warren Services provides subcontract engineering across fabrication and welding,
 
 ## Sources
 
-Public information verified 2026-07-01. DEVONthink CRM record (ADS directory snapshot, 2026-05-15).
+Public information verified 2026-07-01. ADS Group members directory (snapshot, 2026-05-15).

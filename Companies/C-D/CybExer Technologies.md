@@ -4,6 +4,7 @@ name: CybExer Technologies
 website: https://cybexer.com
 linkedin: https://ee.linkedin.com/company/cybexer-technologies
 hq: Tallinn, Estonia
+uk-region: Overseas
 founded: 2016
 size: medium
 headcount: ~60

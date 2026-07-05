@@ -3,7 +3,7 @@ type: organisation
 name: Vitavox
 website: https://www.secomak.com
 hq: Elstree, United Kingdom
-uk-region: East
+uk-region: East of England
 sources-verified: 2026-07-01
 tags:
   - defence
@@ -15,7 +15,7 @@ tags:
   - manufacturing
   - type-manufacturer
   - owned-uk
-  - fw-joscar
+  - accr-joscar
   - accr-ce-plus
   - accr-iso9001
 ---
@@ -45,4 +45,4 @@ Vitavox supplies tactical audio communications equipment to international army a
 
 ## Sources
 
-Public information verified 2026-07-01. DEVONthink CRM record (ADS directory snapshot, 2026-05-15).
+Public information verified 2026-07-01. ADS Group members directory (snapshot, 2026-05-15).

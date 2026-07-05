@@ -5,12 +5,13 @@ website: http://defence.nova-blue.com
 hq: Staverton, UK
 uk-region: South West
 size: micro
-sources-verified: 2026-06-30
+sources-verified: 2026-07-05
 tags:
   - defence
   - size-micro
   - mbr-ads
   - cyber
+  - cyber/grc
   - type-consultancy
   - type-sme
   - owned-uk
@@ -43,4 +44,4 @@ Nova Blue provides cyber security advisory and technical services to defence sup
 
 ## Sources
 
-Public information verified 2026-06-30. DEVONthink MilUX CRM record (ADS directory snapshot, 2026-05-15).
+Public information verified 2026-07-05. ADS Group members directory (snapshot, 2026-05-15).

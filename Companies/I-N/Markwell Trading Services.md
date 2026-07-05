@@ -4,7 +4,7 @@ name: Markwell Trading Services Ltd
 website: https://www.mtsgb.com
 hq: Penkridge, United Kingdom
 uk-region: West Midlands
-sources-verified: 2026-06-29
+sources-verified: 2026-07-05
 tags:
   - defence
   - mbr-ads
@@ -20,11 +20,20 @@ tags:
 
 ## What they do
 
-Markwell Trading Services acts as an independent sales representative for manufacturers of custom-engineered products across the UK and Europe, covering areas including electrical power systems, hydraulic and air systems, castings, extrusions, and composite structures. On the services side the company provides ultrasonic and needle shot peening for weld fatigue life improvement, needle straightening, and robotic material removal including micro drilling, trimming, cutting, sanding, and polishing — processes used in aerospace and defence production programmes.
+Markwell Trading Services provides engineering sales and business development representation across the UK and Europe for manufacturers of custom-engineered products and specialist engineering services. The company works on behalf of principal manufacturers, giving them a single point of contract and a network of in-country engineers across the UK, France, Spain, Portugal, Belgium, Germany, Switzerland, Austria, Poland, the Czech Republic, Italy, the Netherlands and Scandinavia. Within aerospace its customer base includes major industry players; the company also represents principals into rail, gears and transmissions, wind power and composites.
+
+## Products and solutions
+
+- **Aircraft and helicopter exterior lighting** - represented lighting products for aerospace platforms.
+- **Digital compass and AHRS modules** - attitude and heading reference system modules represented for aerospace applications.
+- **High-performance solid carbide cutting tools** - drilling solutions for aerospace and composite structures, including a patented drill design for CFRP and CFRP stack drilling aimed at improved hole quality and reduced delamination.
+- **Ultrasonic shot peening and needle peening** - surface treatment services for weld fatigue life improvement.
+- **Ultrasonic needle straightening** - specialist straightening service for engineered components.
+- **Robotic material removal** - micro drilling, trimming, cutting, sanding and polishing of composite and metallic materials.
 
 ## Frameworks, accreditations and memberships
 
-- **Memberships:** ADS Group.
+- **Memberships:** ADS Group, National Defence Industries (NDI) network.
 - **Accreditations:** ISO 9001.
 
 ## Links
@@ -33,4 +42,4 @@ Markwell Trading Services acts as an independent sales representative for manufa
 
 ## Sources
 
-Public information verified 2026-06-29. ADS Group member directory (snapshot 2026-05-15), company self-description.
+Public information verified 2026-07-05. Company website (mtsgb.com: About Us, Products and Services), ADS Group member directory.

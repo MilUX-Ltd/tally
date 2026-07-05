@@ -4,7 +4,7 @@ name: Sagentia Defence
 website: https://sagentia.com/defence/
 linkedin: https://www.linkedin.com/company/sagentiadefence
 hq: Bristol, United Kingdom
-uk-region: South West England
+uk-region: South West
 size: large
 sources-verified: 2026-06-29
 tags:

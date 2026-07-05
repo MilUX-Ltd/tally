@@ -5,7 +5,7 @@ website: https://www.extreme-cases.com
 linkedin: https://www.linkedin.com/company/extreme-cases-ltd
 companies-house: "06957356"
 hq: Barnstaple, UK
-uk-region: South West England
+uk-region: South West
 founded: 2009
 size: micro
 sources-verified: 2026-07-04

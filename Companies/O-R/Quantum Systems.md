@@ -4,17 +4,23 @@ name: Quantum-Systems GmbH
 website: https://quantum-systems.com
 linkedin: https://www.linkedin.com/company/quantum-systems-gmbh
 hq: Gilching, Germany
+uk-region: Overseas
 founded: 2015
 size: large
 headcount: ~400
-sources-verified: 2026-06-29
+sources-verified: 2026-07-05
 tags:
   - defence
   - uas
+  - uas/platform
+  - uas/payload
   - drones
   - isr
+  - isr/imint
   - autonomy
+  - autonomy/navigation
   - ai
+  - ai/ml-analytics
   - manufacturing
   - size-large
   - type-scaleup
@@ -50,4 +56,4 @@ Quantum Systems is a European deep-tech company that develops, designs and manuf
 
 ## Sources
 
-Public information verified 2026-06-29. Company website, LinkedIn company page, Wikipedia, EU-Startups, Tech Startups, DroneLife, Defence Industry Europe. Funding totals and valuation drawn from trade press and aggregators; treat as reported.
+Public information verified 2026-07-05. Company website, LinkedIn company page, Wikipedia, EU-Startups, Tech Startups, DroneLife, Defence Industry Europe. Funding totals and valuation drawn from trade press and aggregators; treat as reported.

@@ -18,7 +18,7 @@ tags:
   - size-small
   - type-sme
   - type-manufacturer
-  - fw-joscar
+  - accr-joscar
   - accr-ce
   - accr-iso9001
   - mbr-ads

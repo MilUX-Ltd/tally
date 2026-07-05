@@ -7,7 +7,7 @@ hq: Bristol, United Kingdom
 uk-region: South West
 founded: 2019
 size: small
-sources-verified: 2026-06-29
+sources-verified: 2026-07-05
 tags:
   - defence
   - manufacturing
@@ -43,4 +43,4 @@ iCOMAT is a manufacturer of advanced composite components for the aerospace, def
 
 ## Sources
 
-Public information verified 2026-06-29. Sources: iCOMAT website, University of Bristol news, PR Newswire and Vestbee reporting on the Series A round.
+Public information verified 2026-07-05. Sources: iCOMAT website, University of Bristol news, PR Newswire and Vestbee reporting on the Series A round.

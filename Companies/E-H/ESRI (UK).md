@@ -5,7 +5,7 @@ website: https://www.esriuk.com
 linkedin: https://uk.linkedin.com/company/esriuk
 companies-house: 01288342
 hq: Aylesbury, United Kingdom
-uk-region: South East England
+uk-region: South East
 founded: 1976
 size: large
 headcount: 400

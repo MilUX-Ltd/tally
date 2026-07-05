@@ -5,6 +5,7 @@ website: https://www.thalesgroup.com/en
 linkedin: https://www.linkedin.com/company/thales
 companies-house: "00868273"
 hq: Paris, France
+uk-region: Overseas
 founded: 2000
 size: large
 headcount: ~83000

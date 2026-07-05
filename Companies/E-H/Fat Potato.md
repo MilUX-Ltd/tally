@@ -20,7 +20,7 @@ tags:
   - type-sme
   - type-consultancy
   - owned-founder
-  - fw-joscar
+  - accr-joscar
   - accr-ce-plus
   - mbr-ads
 ---

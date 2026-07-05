@@ -4,6 +4,7 @@ name: Tadaweb
 website: https://www.tadaweb.com
 linkedin: https://www.linkedin.com/company/tadaweb/
 hq: Belval, Luxembourg
+uk-region: Overseas
 founded: 2011
 size: medium
 headcount: 51-200

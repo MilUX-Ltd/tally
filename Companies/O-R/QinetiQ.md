@@ -8,15 +8,26 @@ hq: Farnborough, United Kingdom
 uk-region: South East
 size: large
 headcount: 8,000+
-sources-verified: 2026-06-29
+sources-verified: 2026-07-05
 tags:
   - defence
   - test-evaluation
   - training
+  - training/instruction
   - isr
+  - isr/fusion
   - cyber
+  - cyber/pen-testing
+  - cyber/red-team
+  - cyber/incident-response
+  - cyber/threat-intel
+  - cyber/soc-monitoring
   - sensors
+  - sensors/eo-ir
+  - sensors/radar
   - simulation
+  - simulation/synthetic-environment
+  - simulation/lvc
   - software
   - size-large
   - type-prime
@@ -36,8 +47,10 @@ QinetiQ Group plc is a British defence technology company headquartered at Cody 
 ## Products and solutions
 
 - **Test and evaluation** - operation of UK MOD land, sea and air ranges and test facilities under the Long Term Partnering Agreement.
-- **Training and mission rehearsal** - simulation, synthetic training and operational support.
+- **Training and mission rehearsal** - simulation, synthetic training and operational support, including live-virtual-constructive (LVC) facilities incorporating real and virtual players into synthetic environments.
 - **Robotics and autonomy** - uncrewed systems and target systems.
+- **Persistent surveillance** - tethered Aerostat platforms providing ISR, border security and critical infrastructure monitoring, with customisable payloads including EO/IR cameras, radar and communications relays.
+- **Cyber and digital resilience** - services spanning red teaming, penetration testing, cyber security monitoring and device management, advanced threat hunting, and incident response.
 - **Cyber, information and intelligence** - technical services across defence and national security.
 
 ## Frameworks, accreditations and memberships
@@ -55,4 +68,4 @@ QinetiQ Group plc is a British defence technology company headquartered at Cody 
 
 ## Sources
 
-Public information verified 2026-06-29. Company website (qinetiq.com), LinkedIn company page, Companies House, Wikipedia, UK Defence Equipment & Support, ADS Group.
+Public information verified 2026-07-05. Company website (qinetiq.com), LinkedIn company page, Companies House, Wikipedia, UK Defence Equipment & Support, ADS Group.

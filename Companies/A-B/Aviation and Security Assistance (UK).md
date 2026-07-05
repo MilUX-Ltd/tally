@@ -3,12 +3,13 @@ type: organisation
 name: Aviation and Security Assistance (UK) Ltd
 hq: United Kingdom
 size: small
-sources-verified: 2026-07-03
+sources-verified: 2026-07-04
 tags:
   - defence
   - air
   - maritime
   - training
+  - training/instruction
   - size-small
   - type-sme
   - mbr-ads

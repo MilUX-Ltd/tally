@@ -5,7 +5,7 @@ website: https://5cconsulting.co.uk
 linkedin: https://www.linkedin.com/company/5cconsulting
 companies-house: "12610733"
 hq: Banbury, United Kingdom
-uk-region: South East England
+uk-region: South East
 founded: 2020
 size: micro
 sources-verified: 2026-07-03

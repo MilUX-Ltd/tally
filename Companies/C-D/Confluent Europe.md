@@ -4,6 +4,7 @@ name: Confluent Europe Ltd
 website: https://www.confluent.io
 companies-house: 09969949
 hq: Mountain View, United States
+uk-region: Overseas
 founded: 2016
 size: large
 sources-verified: 2026-07-04

@@ -3,7 +3,7 @@ type: organisation
 name: Penskar Limited
 website: https://penskar.co.uk
 hq: United Kingdom
-sources-verified: 2026-06-30
+sources-verified: 2026-07-05
 tags:
   - defence
   - mbr-ads
@@ -29,4 +29,4 @@ Penskar provides consultancy services covering innovation support, programme man
 
 ## Sources
 
-Public information verified 2026-06-30. D3IP directory (snapshot 2026-05-15).
+Public information verified 2026-06-30.

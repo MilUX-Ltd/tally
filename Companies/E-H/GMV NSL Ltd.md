@@ -46,4 +46,4 @@ GMV NSL is the UK subsidiary of GMV, an international aerospace and defence tech
 
 ## Sources
 
-Public information verified 2026-06-29. DEVONthink ADS directory snapshot (2026-05-15); GMV corporate website (gmv.com).
+Public information verified 2026-06-29. ADS Group members directory (snapshot, 2026-05-15); GMV corporate website (gmv.com).

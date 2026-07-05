@@ -4,10 +4,11 @@ name: HDT Global
 website: https://www.hdtglobal.com/
 linkedin: https://www.linkedin.com/company/hdt-global
 hq: Solon, Ohio, United States
+uk-region: Overseas
 founded: 1937
 size: large
 headcount: 501-1000
-sources-verified: 2026-06-29
+sources-verified: 2026-07-04
 tags:
   - defence
   - robotics

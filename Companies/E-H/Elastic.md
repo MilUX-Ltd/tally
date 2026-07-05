@@ -4,6 +4,7 @@ name: Elastic
 website: https://www.elastic.co/
 linkedin: https://www.linkedin.com/company/elastic-co/
 hq: Mountain View, California, USA
+uk-region: Overseas
 founded: 2012
 size: large
 headcount: 3000

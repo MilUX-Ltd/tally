@@ -5,10 +5,10 @@ website: https://www.astu.co
 linkedin: https://www.linkedin.com/company/astuco
 companies-house: "14636601"
 hq: Wimborne, United Kingdom
-uk-region: South West England
+uk-region: South West
 founded: 2023
 size: small
-sources-verified: 2026-07-03
+sources-verified: 2026-07-04
 tags:
   - defence
   - cyber
@@ -19,7 +19,7 @@ tags:
   - type-integrator
   - size-small
   - owned-uk
-  - fw-joscar
+  - accr-joscar
   - accr-ce
   - accr-ce-plus
 ---

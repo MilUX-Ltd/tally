@@ -18,7 +18,7 @@ tags:
   - accr-iso9001
   - accr-iso27001
   - accr-iso14001
-  - fw-joscar
+  - accr-joscar
 ---
 
 # Squarcle Consulting Ltd
@@ -47,4 +47,4 @@ Squarcle designs and executes supply chain strategies for defence and government
 
 ## Sources
 
-Public information verified 2026-06-30. DEVONthink CRM record (ADS directory snapshot, 2026-05-15; Aurora Provider Network collaboration database snapshot, 2026-05-15).
+Public information verified 2026-06-30. ADS Group members directory (snapshot, 2026-05-15).

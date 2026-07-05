@@ -17,7 +17,7 @@ tags:
   - size-medium
   - type-manufacturer
   - owned-foreign
-  - fw-joscar
+  - accr-joscar
   - accr-ce
   - mbr-ads
 ---

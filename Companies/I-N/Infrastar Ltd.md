@@ -4,7 +4,7 @@ name: Infrastar Ltd
 website: https://www.infrastar.co.uk
 hq: Quedgeley, United Kingdom
 uk-region: South West
-sources-verified: 2026-06-29
+sources-verified: 2026-07-04
 tags:
   - defence
   - mbr-ads
@@ -12,6 +12,7 @@ tags:
   - comms
   - c2
   - isr
+  - isr/imint
   - simulation
   - software
   - sensors
@@ -19,7 +20,6 @@ tags:
   - type-sme
   - type-consultancy
   - accr-ce-plus
-  - accr-itar
 ---
 
 # Infrastar Ltd
@@ -47,4 +47,4 @@ Infrastar provides computer infrastructure, networking, and security solutions f
 
 ## Sources
 
-Public information verified 2026-06-29. DEVONthink CRM record (ADS members directory, captured May 2026).
+Public information verified 2026-07-04. ADS Group members directory (captured May 2026).

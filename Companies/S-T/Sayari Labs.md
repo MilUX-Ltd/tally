@@ -4,6 +4,7 @@ name: Sayari Labs, Inc.
 website: https://sayari.com
 linkedin: https://www.linkedin.com/company/sayarilabs
 hq: Washington, DC, USA
+uk-region: Overseas
 founded: 2015
 size: large
 headcount: 250+

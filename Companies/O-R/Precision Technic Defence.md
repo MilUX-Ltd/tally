@@ -4,9 +4,10 @@ name: Precision Technic Defence
 website: https://ptdefence.com/
 linkedin: https://www.linkedin.com/company/precision-technic-defence-a-s/
 hq: Svenstrup, Denmark
+uk-region: Overseas
 founded: 1985
 size: medium
-sources-verified: 2026-06-29
+sources-verified: 2026-07-05
 tags:
   - defence
   - integration

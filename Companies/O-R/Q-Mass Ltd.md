@@ -4,7 +4,7 @@ name: Q-Mass Ltd
 website: http://www.q-mass.co.uk
 hq: East Kilbride, UK
 uk-region: Scotland
-sources-verified: 2026-06-30
+sources-verified: 2026-07-05
 tags:
   - defence
   - mbr-ads
@@ -16,7 +16,7 @@ tags:
   - maritime
   - type-manufacturer
   - owned-uk
-  - fw-joscar
+  - accr-joscar
   - accr-iso14001
 ---
 
@@ -26,7 +26,7 @@ tags:
 
 ## What they do
 
-Q-Mass provides precision CNC machining, EDM, gun-drilling, honing and CMM inspection services to the aerospace and defence sectors. The company manufactures mechanical components, sub-assemblies and weapon-related parts including carriage and mounts, propulsion components and landing gear elements.
+Q-Mass provides precision CNC machining, EDM, gun-drilling, honing and CMM inspection services to the aerospace and defence sectors from a 57,000 sq ft facility in East Kilbride. The company manufactures mechanical components, sub-assemblies and weapon-related parts including carriage and mounts, propulsion components and landing gear elements.
 
 ## Products and solutions
 
@@ -37,7 +37,7 @@ Q-Mass provides precision CNC machining, EDM, gun-drilling, honing and CMM inspe
 ## Frameworks, accreditations and memberships
 
 - **Memberships:** ADS Group
-- **Accreditations:** AS/EN/JISQ 9100, ISO 14001, NADCAP, NADCAP EDM, Boeing D1-4426, ASD CIS for Anti-Corruption
+- **Accreditations:** AS9100D, AS/EN/JISQ 9100, ISO 14001, NADCAP, NADCAP EDM, Boeing D1-4426, ASD CIS for Anti-Corruption
 - **Frameworks:** JOSCAR Registered, SC21 Bronze
 
 ## Links
@@ -46,4 +46,4 @@ Q-Mass provides precision CNC machining, EDM, gun-drilling, honing and CMM inspe
 
 ## Sources
 
-Public information verified 2026-06-30. DEVONthink CRM record (ADS directory snapshot, 2026-05-15).
+Public information verified 2026-07-05. Company website (q-mass.co.uk), ADS Group members directory (snapshot, 2026-05-15).

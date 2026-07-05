@@ -21,7 +21,7 @@ tags:
   - type-scaleup
   - owned-uk
   - backed-vc
-  - fw-joscar
+  - accr-joscar
   - mbr-ads
 ---
 

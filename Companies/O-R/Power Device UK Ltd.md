@@ -4,7 +4,7 @@ name: Power Device UK Ltd
 website: http://www.ddc-web.co.uk
 hq: Ryde, United Kingdom
 uk-region: South East
-sources-verified: 2026-06-30
+sources-verified: 2026-07-05
 tags:
   - defence
   - mbr-ads
@@ -26,12 +26,12 @@ tags:
 
 ## What they do
 
-DDC designs, develops and manufactures electronic power supply solutions, from simple single-stage convertors to multi-function multi-stage systems. Their products serve in-flight entertainment and connectivity (IFEC) systems and defence platforms across ground, air and naval forces.
+Power Device UK, based in Ryde on the Isle of Wight and formerly known as DDC Electronics, Pascall Electronics and Xcel Power Systems, has over 40 years of experience designing, developing and manufacturing electronic power conversion products for the aerospace, defence and industrial sectors. Its power supplies range from simple single-stage convertors to complex multi-function, multi-stage systems, and are fully customisable to customer requirements. The company states its products are deployed with ground, air and naval forces worldwide, powering electronic systems in challenging operating environments, and that more than 170,000 of its power supply units are installed on commercial aircraft for in-flight entertainment and connectivity (IFEC).
 
 ## Products and solutions
 
-- **Electronic power conversion systems** - customisable power supplies for IFEC and defence applications.
-- **Multi-stage power systems** - multi-function units for complex defence electronics integration.
+- **Electronic power conversion systems** - customisable power supplies ranging from single-stage convertors to multi-function, multi-stage systems for IFEC and defence applications.
+- **Defence power supplies** - power conversion products for ground, air and naval platforms operating in demanding environments.
 
 ## Frameworks, accreditations and memberships
 
@@ -44,4 +44,4 @@ DDC designs, develops and manufactures electronic power supply solutions, from s
 
 ## Sources
 
-Public information verified 2026-06-30. DEVONthink CRM record (ADS directory snapshot, 2026-05-15).
+Public information verified 2026-07-05. ADS Group members directory (snapshot, 2026-05-15); company website (powerdevicecorp.com).

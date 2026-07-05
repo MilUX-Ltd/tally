@@ -6,7 +6,7 @@ hq: Bristol, United Kingdom
 uk-region: South West
 founded: 2021
 size: micro
-sources-verified: 2026-06-29
+sources-verified: 2026-07-04
 tags:
   - defence
   - manufacturing
@@ -38,10 +38,16 @@ HTMS develops bespoke Ceramic Matrix Composite (CMC) materials, specialising in 
 
 - **Memberships:** ADS Group
 
+## Recent news
+
+- **2025-10** - HTMS secured a further €1.5 million to develop advanced heat-resistant materials. [source](https://bebeez.eu/2025/10/08/bristol-based-high-temperature-material-systems-secures-e1-5-million-to-develop-advanced-heat-resistant-materials/)
+- **2025** - HTMS raised £1.3 million (South West Investment Fund and Midlands Engine Investment Fund II) to open a new production facility and a Leamington Spa office. [source](https://www.compositesworld.com/news/htms-engineers-raise-13-million-to-enable-mass-market-cmc-availability)
+- **2025** - HTMS was selected for a DASA Defence Technology Exploitation Programme project, partnered with MBDA, to scale up manufacturing of a lower-cost CMC form for the UK defence supply chain. [source](https://www.gov.uk/government/news/dtep-funding-announced-for-three-more-uk-smes)
+
 ## Links
 
 - Website: https://www.htms.tech
 
 ## Sources
 
-Public information verified 2026-06-29. ADS members directory (snapshot 2026-05-15); The Engineer (HTMS raises £1.3m, 2025); BeBeez International (Bristol-based HTMS secures €1.5 million, October 2025); composights.com (HTMS funding round coverage).
+Public information verified 2026-07-04. ADS members directory (snapshot 2026-05-15); The Engineer (HTMS raises £1.3m, 2025); BeBeez International (Bristol-based HTMS secures €1.5 million, October 2025); composights.com (HTMS funding round coverage); gov.uk DASA DTEP funding announcement.

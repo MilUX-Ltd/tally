@@ -5,7 +5,7 @@ website: https://www.avoptics.com
 linkedin: https://www.linkedin.com/company/avoptics-ltd
 companies-house: "05654119"
 hq: Yeovil, England
-uk-region: South West England
+uk-region: South West
 founded: 2005
 size: small
 sources-verified: 2026-07-03
@@ -23,7 +23,6 @@ tags:
   - accr-as9100
   - accr-ce-plus
   - mbr-ads
-  - prog-diana
 ---
 
 # AVoptics

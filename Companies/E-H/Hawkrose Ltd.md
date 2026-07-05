@@ -5,13 +5,15 @@ website: https://hawkrose.com
 hq: Rossendale, United Kingdom
 uk-region: North West
 size: micro
-sources-verified: 2026-06-29
+sources-verified: 2026-07-04
 tags:
   - defence
   - data
   - software
   - simulation
+  - simulation/synthetic-environment
   - c2
+  - c2/mission-planning
   - size-micro
   - type-consultancy
   - type-sme
@@ -45,4 +47,4 @@ Hawkrose develops and deploys tailored software to help organisations solve comp
 
 ## Sources
 
-Public information verified 2026-06-29. ADS members directory snapshot (2026-05-15); hawkrose.com (2026-06-29).
+Public information verified 2026-07-04. ADS members directory snapshot (2026-05-15); hawkrose.com (2026-06-29).

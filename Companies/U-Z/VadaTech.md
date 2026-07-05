@@ -4,7 +4,7 @@ name: VadaTech
 website: https://www.vadatech.com
 linkedin: https://www.linkedin.com/company/vadatech
 hq: Henderson, Nevada, United States
-uk-region: South East England
+uk-region: South East
 founded: 2005
 sources-verified: 2026-06-30
 tags:

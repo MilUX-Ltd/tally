@@ -4,7 +4,7 @@ name: Intelliconnect (Europe) Ltd
 website: http://www.intelliconnectgroup.com
 hq: Corby, United Kingdom
 uk-region: East Midlands
-sources-verified: 2026-06-29
+sources-verified: 2026-07-04
 tags:
   - defence
   - mbr-ads
@@ -18,7 +18,7 @@ tags:
   - accr-ce-plus
   - accr-iso9001
   - accr-iso14001
-  - fw-joscar
+  - accr-joscar
 ---
 
 # Intelliconnect (Europe) Ltd
@@ -47,4 +47,4 @@ Intelliconnect (Europe) designs and supplies interconnect solutions including co
 
 ## Sources
 
-Public information verified 2026-06-29. DEVONthink CRM record (ADS directory snapshot 2026-05-15).
+Public information verified 2026-06-29. ADS Group members directory (snapshot, 2026-05-15).

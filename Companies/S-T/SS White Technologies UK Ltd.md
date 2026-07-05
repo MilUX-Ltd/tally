@@ -15,7 +15,7 @@ tags:
   - type-sme
   - owned-uk
   - accr-iso9001
-  - fw-joscar
+  - accr-joscar
 ---
 
 # SS White Technologies UK Ltd
@@ -43,4 +43,4 @@ SS White Technologies designs and manufactures flexible rotary drive shafts and 
 
 ## Sources
 
-Public information verified 2026-06-30. DEVONthink CRM record (ADS directory snapshot, 2026-05-15).
+Public information verified 2026-06-30. ADS Group members directory (snapshot, 2026-05-15).

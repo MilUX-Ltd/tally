@@ -3,7 +3,7 @@ type: organisation
 name: Teledyne UK Limited
 website: https://www.teledyne-e2v.com
 hq: Thousand Oaks, United States
-uk-region: East
+uk-region: East of England
 size: large
 sources-verified: 2026-06-30
 tags:
@@ -37,4 +37,4 @@ Teledyne UK operates across nine UK centres of excellence employing over 1,500 p
 
 ## Sources
 
-Public information verified 2026-06-30. DEVONthink CRM record (ADS directory snapshot, 2026-05-15).
+Public information verified 2026-06-30. ADS Group members directory (snapshot, 2026-05-15).

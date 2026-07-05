@@ -5,7 +5,7 @@ website: https://www.latecoere.aero
 hq: Toulouse, France
 uk-region: South West
 size: large
-sources-verified: 2026-06-29
+sources-verified: 2026-07-04
 tags:
   - defence
   - size-large
@@ -41,4 +41,4 @@ Latécoère is a tier 1 partner to major international aircraft manufacturers in
 
 ## Sources
 
-Public information verified 2026-06-29. DEVONthink CRM record (ADS directory snapshot, 2026-05-15).
+Public information verified 2026-06-29. ADS Group members directory (snapshot, 2026-05-15).

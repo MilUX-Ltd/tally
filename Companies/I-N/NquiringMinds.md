@@ -5,16 +5,20 @@ website: https://nquiringminds.com/
 linkedin: https://www.linkedin.com/company/nquiringminds
 companies-house: "07452630"
 hq: Southampton, United Kingdom
-uk-region: South East England
+uk-region: South East
 founded: 2010
 size: small
 headcount: 11-50
-sources-verified: 2026-06-29
+sources-verified: 2026-07-05
 tags:
   - defence
   - cyber
+  - cyber/encryption
+  - cyber/ot-security
   - ai
+  - ai/ml-analytics
   - data
+  - data/analytics
   - software
   - size-small
   - type-software
@@ -52,4 +56,4 @@ Related consortium initiatives include TAIBOM (a trustable AI bill of materials,
 
 ## Sources
 
-Public information verified 2026-06-29. Company website (nquiringminds.com), LinkedIn company page, Companies House (NQUIRINGMINDS LIMITED, company number 07452630, incorporated 26 November 2010), Southampton Science Park business directory, University of Southampton ECS, IoT Security Foundation and Land Mobile. Size band 11-50 per LinkedIn. No Cyber Essentials, ISO 27001, G-Cloud, techUK or ADS membership evidenced in public sources.
+Public information verified 2026-07-05. Company website (nquiringminds.com), LinkedIn company page, Companies House (NQUIRINGMINDS LIMITED, company number 07452630, incorporated 26 November 2010), Southampton Science Park business directory, University of Southampton ECS, IoT Security Foundation and Land Mobile. Size band 11-50 per LinkedIn. No Cyber Essentials, ISO 27001, G-Cloud, techUK or ADS membership evidenced in public sources.

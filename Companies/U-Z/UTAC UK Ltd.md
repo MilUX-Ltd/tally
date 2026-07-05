@@ -3,7 +3,7 @@ type: organisation
 name: UTAC UK Ltd
 website: https://www.utac.com
 hq: United Kingdom
-uk-region: East
+uk-region: East of England
 sources-verified: 2026-06-30
 tags:
   - defence
@@ -16,8 +16,7 @@ tags:
   - accr-iso9001
   - accr-iso27001
   - accr-iso14001
-  - accr-itar
-  - fw-joscar
+  - accr-joscar
 ---
 
 # UTAC UK Ltd
@@ -45,4 +44,4 @@ UTAC Millbrook provides automotive engineering advice and testing services to th
 
 ## Sources
 
-Public information verified 2026-06-30. DEVONthink MilUX CRM record (ADS directory snapshot, captured 2026-05-15).
+Public information verified 2026-06-30. ADS Group members directory (captured 2026-05-15).

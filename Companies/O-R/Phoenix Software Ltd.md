@@ -3,15 +3,19 @@ type: organisation
 name: Phoenix Software Ltd
 website: https://www.phoenixs.co.uk
 hq: Pocklington, United Kingdom
-uk-region: Yorkshire
-sources-verified: 2026-06-30
+uk-region: Yorkshire and The Humber
+sources-verified: 2026-07-05
 tags:
   - defence
   - mbr-ads
   - software
   - data
+  - data/analytics
   - cyber
+  - cyber/soc-monitoring
+  - cyber/incident-response
   - ai
+  - ai/ml-analytics
   - cloud
   - type-integrator
   - owned-uk
@@ -40,10 +44,15 @@ Phoenix Software delivers IT solutions and managed services for defence organisa
 - **Memberships:** ADS Group
 - **Accreditations:** ISO 9001, ISO 27001:2022, ISO 14001, ISO 22301, Cyber Essentials Plus
 
+## Recent news
+
+- **2026-01-13** - Secured a three-year, £75m contract with the UK Ministry of Defence under the Value Added Software Agreement (VOSA), via Crown Commercial Service framework RM6098, running to August 2028, giving MOD visibility and control over departmental software spend. [source](https://www.thinkdigitalpartners.com/news/2026/01/15/phoenix-software-secures-75m-mod-software-deal-under-vosa-framework/)
+
 ## Links
 
 - Website: https://www.phoenixs.co.uk
+- LinkedIn: https://uk.linkedin.com/company/phoenix-software
 
 ## Sources
 
-Public information verified 2026-06-30. DEVONthink MilUX CRM record (ADS directory snapshot, 2026-05-15).
+Public information verified 2026-07-05. ADS Group members directory (snapshot, 2026-05-15); https://www.phoenixs.co.uk/it-solutions/it-managed-services/it-security-managed-services/; https://www.phoenixs.co.uk/it-solutions/data-and-analytics/; https://www.thinkdigitalpartners.com/news/2026/01/15/phoenix-software-secures-75m-mod-software-deal-under-vosa-framework/.

@@ -5,7 +5,7 @@ website: https://www.alacorporation.com/
 linkedin: https://www.linkedin.com/company/advanced-logistics-for-aerospace-uk-limited
 companies-house: 02265000
 hq: Naples, Italy
-uk-region: South East England
+uk-region: South East
 founded: 1988
 size: small
 headcount:

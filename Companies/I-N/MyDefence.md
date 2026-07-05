@@ -4,11 +4,14 @@ name: MyDefence
 website: http://www.mydefence.com
 hq: London, United Kingdom
 uk-region: London
-sources-verified: 2026-06-29
+sources-verified: 2026-07-05
 tags:
   - defence
   - mbr-ads
   - counter-uas
+  - counter-uas/detection
+  - counter-uas/effector
+  - ew/direction-finding
   - drones
   - rf
   - sensors
@@ -29,6 +32,11 @@ MyDefence develops next-generation counter-UAS solutions built around advanced r
 ## Products and solutions
 
 - **Counter-drone detection and neutralisation systems** - RF-based systems for detecting and defeating drone threats in military and critical infrastructure environments.
+- **Wingman** - wearable passive RF drone detector covering 200 MHz to 6 GHz, with stated detection in under 10 seconds and threat direction finding.
+- **Pitbull** - wearable RF jammer stated to neutralise drone threats by disrupting control-link and GNSS signals; combines with Wingman as "The Soldier Kit".
+- **Watchdog 150/202/250** - fixed and vehicle-mounted RF sensors for drone detection.
+- **Dobermann 151** - vehicle-mounted RF jammer.
+- **Wolfpack** - portable RF drone detector.
 
 ## Frameworks, accreditations and memberships
 
@@ -41,4 +49,4 @@ MyDefence develops next-generation counter-UAS solutions built around advanced r
 
 ## Sources
 
-Public information verified 2026-06-29. DEVONthink MilUX CRM record (ADS directory snapshot, 2026-05-15).
+Public information verified 2026-06-29. ADS Group members directory (snapshot, 2026-05-15).

@@ -4,6 +4,7 @@ name: CHAOS Industries
 website: https://www.chaosinc.com
 linkedin: https://www.linkedin.com/company/chaosindustries
 hq: Los Angeles, United States
+uk-region: Overseas
 founded: 2022
 size: medium
 headcount: 51-200

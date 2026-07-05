@@ -5,11 +5,11 @@ website: https://www.atlantictechnology.co.uk
 linkedin: https://www.linkedin.com/company/atlantic-technology
 companies-house: 09998409
 hq: Godalming, England
-uk-region: South East England
+uk-region: South East
 founded: 2016
 size: micro
 headcount: ~6
-sources-verified: 2026-07-03
+sources-verified: 2026-07-04
 tags:
   - defence
   - cyber

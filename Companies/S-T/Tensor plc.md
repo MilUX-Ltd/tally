@@ -3,7 +3,7 @@ type: organisation
 name: Tensor plc
 website: https://www.tensor.co.uk
 hq: St Neots, United Kingdom
-uk-region: East
+uk-region: East of England
 sources-verified: 2026-06-30
 tags:
   - defence
@@ -38,4 +38,4 @@ Tensor designs, manufactures, and installs time and attendance, access control, 
 
 ## Sources
 
-Public information verified 2026-06-30. DEVONthink CRM record (ADS directory snapshot, 2026-05-15).
+Public information verified 2026-06-30. ADS Group members directory (snapshot, 2026-05-15).

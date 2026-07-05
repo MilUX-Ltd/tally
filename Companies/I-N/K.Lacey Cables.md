@@ -2,13 +2,17 @@
 type: organisation
 name: K.Lacey Cables
 website: https://www.klaceycables.co.uk
+linkedin: https://uk.linkedin.com/company/k-lacey-wires-and-cables
+companies-house: 01031406
 hq: Littlehampton, United Kingdom
 uk-region: South East
-sources-verified: 2026-06-29
+founded: 1970s
+sources-verified: 2026-07-04
 tags:
   - defence
   - mbr-ads
   - type-manufacturer
+  - type-sme
   - hardware
   - manufacturing
   - accr-iso9001
@@ -21,13 +25,13 @@ tags:
 
 ## What they do
 
-K.Lacey Cables supplies high-performance wire and cable, sleeving, markers, braid, connectors and associated interconnect products from its South East England base. The company also produces wiring looms and cable assemblies in-house, offering custom cable solutions alongside its distribution range.
+K.Lacey Cables (registered as K. Lacey (Engineers & Designers) Limited) began as a small family business over 50 years ago after identifying a gap in the market for aerospace and defence cable supply and stockholding. Operating from Littlehampton, West Sussex, it is one of the UK's largest suppliers and stockists of PTFE equipment wire to BS3G210, and a manufacturer of build-to-print cable and wire assemblies to the IPC/WHMA-A-620 standard, serving aerospace, defence, electronics and automotive customers.
 
 ## Products and solutions
 
-- **Wire and Cable Distribution** - global stockist of high-performance wire, cable and interconnect products.
-- **Wiring Looms and Cable Assemblies** - in-house manufacturing capability to customer specification.
-- **Custom Cable Solutions** - bespoke design and manufacture of cable products.
+- **Wire and cable distribution** - global stockist of high-performance wire, cable, sleeving, markers, braid, connectors and interconnect products, including PTFE equipment wire to BS3G210.
+- **Wiring looms and cable assemblies** - in-house manufacture of wiring looms and cable assemblies, built to IPC/WHMA-A-620 standard, with harness testing facilities.
+- **Custom cable solutions** - bespoke cable preparation and assembly design and manufacture to customer specification.
 
 ## Frameworks, accreditations and memberships
 
@@ -37,7 +41,8 @@ K.Lacey Cables supplies high-performance wire and cable, sleeving, markers, brai
 ## Links
 
 - Website: https://www.klaceycables.co.uk
+- LinkedIn: https://uk.linkedin.com/company/k-lacey-wires-and-cables
 
 ## Sources
 
-Public information verified 2026-06-29. DEVONthink CRM record (ADS directory snapshot, 2026-05-15).
+Public information verified 2026-07-04. Company website (klaceycables.co.uk, About Us page), K. Lacey Wires and Cables LinkedIn company page, Companies House (01031406), ADS Group members directory (snapshot, 2026-05-15).

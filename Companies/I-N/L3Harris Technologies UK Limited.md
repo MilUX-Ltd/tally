@@ -6,20 +6,25 @@ linkedin: https://www.linkedin.com/company/l3harris-technologies
 hq: Melbourne, FL, USA
 uk-region: London
 size: large
-sources-verified: 2026-06-29
+sources-verified: 2026-07-04
 tags:
   - defence
   - mbr-ads
   - isr
+  - isr/imint
   - ew
+  - ew/ecm
   - sensors
+  - sensors/eo-ir
   - optronics
   - air
   - land
   - maritime
   - space
   - simulation
+  - simulation/synthetic-environment
   - training
+  - training/instruction
   - munitions
   - hardware
   - manufacturing

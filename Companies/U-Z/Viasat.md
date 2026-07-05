@@ -5,6 +5,7 @@ website: https://www.viasat.com/
 linkedin: https://www.linkedin.com/company/viasat
 companies-house: "03007498"
 hq: Carlsbad, United States
+uk-region: Overseas
 founded: 1986
 size: large
 headcount: ~6000

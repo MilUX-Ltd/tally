@@ -33,7 +33,7 @@ tags:
   - accr-ce-plus
   - accr-iso9001
   - accr-iso27001
-  - fw-joscar
+  - accr-joscar
   - mbr-ads
   - mbr-techuk
 ---

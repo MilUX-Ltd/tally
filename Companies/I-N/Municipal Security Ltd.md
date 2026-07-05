@@ -5,7 +5,7 @@ website: http://www.municipalsecurity.co.uk
 hq: Haywards Heath, United Kingdom
 uk-region: South East
 size: micro
-sources-verified: 2026-06-29
+sources-verified: 2026-07-05
 tags:
   - defence
   - size-micro
@@ -40,4 +40,4 @@ Municipal Security Ltd designs and manufactures customised ballistic protection 
 
 ## Sources
 
-Public information verified 2026-06-29. DEVONthink MilUX CRM record (ADS directory snapshot, 2026-05-15).
+Public information verified 2026-07-05. ADS Group members directory (snapshot, 2026-05-15).

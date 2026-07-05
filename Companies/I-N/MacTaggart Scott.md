@@ -9,7 +9,7 @@ uk-region: Scotland
 founded: 1898
 size: large
 headcount: 350
-sources-verified: 2026-06-29
+sources-verified: 2026-07-05
 tags:
   - defence
   - maritime
@@ -53,4 +53,4 @@ _No public news with a verifiable date in the last ~12 months was confirmed at t
 
 ## Sources
 
-Public information verified 2026-06-29. MacTaggart Scott website, LinkedIn company page, ADS members directory (adsgroup.org.uk/members/mactaggart-scott-company-limited), Companies House (SC055532), Navy Leaders exhibitor profile.
+Public information verified 2026-07-05. MacTaggart Scott website, LinkedIn company page, ADS members directory (adsgroup.org.uk/members/mactaggart-scott-company-limited), Companies House (SC055532), Navy Leaders exhibitor profile.

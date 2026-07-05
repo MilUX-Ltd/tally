@@ -4,7 +4,7 @@ name: Rheinmetall Defence UK Ltd
 website: https://www.rheinmetall.com
 hq: Düsseldorf, Germany
 uk-region: South West
-sources-verified: 2026-06-30
+sources-verified: 2026-07-05
 tags:
   - defence
   - mbr-ads
@@ -36,4 +36,4 @@ Rheinmetall Defence UK is the British entity of Rheinmetall AG, one of Europe's 
 
 ## Sources
 
-Public information verified 2026-06-30. DEVONthink CRM record (ADS directory snapshot, 2026-05-15); Rheinmetall AG public profile.
+Public information verified 2026-07-05. ADS Group members directory (snapshot, 2026-05-15); Rheinmetall AG public profile; [Rheinmetall Defence UK Limited](https://www.rheinmetall.com/en/company/subsidiaries/rheinmetall-defence-uk_limited).

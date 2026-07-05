@@ -9,7 +9,7 @@ uk-region: South West
 founded: 1985
 size: medium
 headcount: 11-50
-sources-verified: 2026-07-03
+sources-verified: 2026-07-04
 tags:
   - defence
   - land

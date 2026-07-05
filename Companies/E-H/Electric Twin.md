@@ -5,7 +5,7 @@ website: https://www.electrictwin.com
 linkedin: https://www.linkedin.com/company/electric-twin
 companies-house: "15173006"
 hq: London, UK
-uk-region: Greater London
+uk-region: London
 founded: 2023
 size: small
 headcount: 18

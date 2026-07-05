@@ -3,7 +3,7 @@ type: organisation
 name: Ultra Precision Control Systems
 website: https://www.ultra-pcs.com/
 hq: Cheltenham, Gloucestershire
-uk-region: South West England
+uk-region: South West
 sources-verified: 2026-06-30
 tags:
   - defence

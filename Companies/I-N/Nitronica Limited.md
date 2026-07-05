@@ -4,7 +4,7 @@ name: Nitronica Limited
 website: https://www.nitronica.com
 hq: Ballynahinch, United Kingdom
 uk-region: Northern Ireland
-sources-verified: 2026-06-30
+sources-verified: 2026-07-05
 tags:
   - defence
   - mbr-ads

@@ -40,4 +40,4 @@ SteelRock Technologies produces rotary UAV platforms and a dedicated counter-UAV
 
 ## Sources
 
-Public information verified 2026-06-30. DEVONthink CRM record sourced from ADS members directory snapshot (2026-05-15).
+Public information verified 2026-06-30. ADS Group members directory (snapshot, 2026-05-15).

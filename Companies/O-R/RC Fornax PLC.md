@@ -5,15 +5,18 @@ website: https://www.rcfornax.co.uk
 hq: Bristol, United Kingdom
 uk-region: South West
 size: small
-sources-verified: 2026-06-30
+sources-verified: 2026-07-05
 tags:
   - defence
   - mbr-ads
   - size-small
   - software
   - simulation
+  - simulation/synthetic-environment
   - training
+  - training/instruction
   - data
+  - data/analytics
   - type-consultancy
   - type-sme
   - owned-veteran
@@ -49,4 +52,4 @@ RC Fornax specialises in rapid team formation and managed service delivery, prov
 
 ## Sources
 
-Public information verified 2026-06-30. DEVONthink record sourced from ADS members directory snapshot, 15 May 2026.
+Public information verified 2026-07-05. ADS Group members directory (snapshot, 15 May 2026).

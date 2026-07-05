@@ -36,4 +36,4 @@ UniVirtua researches, develops, and commercialises highly secure and dynamic net
 
 ## Sources
 
-Public information verified 2026-06-30. DEVONthink MilUX CRM record (D3IP directory snapshot, captured 2026-05-15).
+Public information verified 2026-06-30.

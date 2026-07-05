@@ -4,6 +4,7 @@ name: STARK Defence
 website: https://stark-defence.com/en
 linkedin: https://www.linkedin.com/company/stark-defence/
 hq: Munich, Germany
+uk-region: Overseas
 founded: 2024
 size: medium
 sources-verified: 2026-06-29

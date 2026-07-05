@@ -3,9 +3,9 @@ type: organisation
 name: Radio Design Ltd
 website: https://www.radiodesign.eu
 hq: Shipley, United Kingdom
-uk-region: Yorkshire
+uk-region: Yorkshire and The Humber
 size: micro
-sources-verified: 2026-06-30
+sources-verified: 2026-07-05
 tags:
   - defence
   - mbr-ads
@@ -14,16 +14,20 @@ tags:
   - hardware
   - manufacturing
   - counter-uas
+  - counter-uas/effector
   - ew
+  - ew/ecm
+  - ew/eccm
   - sensors
   - comms
+  - comms/tactical-radio
   - type-manufacturer
   - type-sme
   - owned-uk
   - accr-ce-plus
   - accr-iso9001
   - accr-iso14001
-  - fw-joscar
+  - accr-joscar
 ---
 
 # Radio Design Ltd
@@ -46,10 +50,14 @@ Radio Design Ltd specialises in the design and manufacture of RF and microwave s
 - **Memberships:** ADS Group
 - **Accreditations:** ISO 9001, ISO 14001, Cyber Essentials Plus, JOSCAR Registered
 
+## Recent news
+
+- **2025-07-02** - Selected by the MOD for the Defence Supplier Capability Development Programme (DSCDP), a year-long tailored improvement programme delivered by Grant Thornton UK LLP. [source](https://radiodesign.eu/news/mod-selects-radio-design-dscdp/)
+
 ## Links
 
 - Website: https://www.radiodesign.eu
 
 ## Sources
 
-Public information verified 2026-06-30. DEVONthink record sourced from ADS members directory snapshot, 15 May 2026.
+Public information verified 2026-07-05. Radio Design website (radiodesign.eu, defence applications and products pages), ADS Group members directory (snapshot, 15 May 2026).

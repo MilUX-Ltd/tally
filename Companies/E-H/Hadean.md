@@ -8,7 +8,7 @@ hq: London, UK
 uk-region: London
 founded: 2015
 size: medium
-sources-verified: 2026-06-29
+sources-verified: 2026-07-04
 tags:
   - defence
   - ai
@@ -20,6 +20,8 @@ tags:
   - size-medium
   - type-scaleup
   - backed-vc
+  - simulation/synthetic-environment
+  - c2/situational-awareness
 ---
 
 # Hadean

@@ -14,7 +14,7 @@ tags:
   - owned-foreign
   - accr-ce-plus
   - accr-iso14001
-  - fw-joscar
+  - accr-joscar
 ---
 
 # Teledyne Reynolds UK
@@ -36,4 +36,4 @@ Teledyne Reynolds UK designs and manufactures interconnect solutions spanning si
 
 ## Sources
 
-Public information verified 2026-06-30. DEVONthink CRM record (ADS directory snapshot, 2026-05-15).
+Public information verified 2026-06-30. ADS Group members directory (snapshot, 2026-05-15).

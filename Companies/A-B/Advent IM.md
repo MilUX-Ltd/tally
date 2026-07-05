@@ -19,7 +19,7 @@ tags:
   - size-small
   - type-sme
   - type-consultancy
-  - fw-joscar
+  - accr-joscar
   - fw-gcloud
   - fw-ccs
   - accr-ce

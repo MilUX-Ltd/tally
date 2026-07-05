@@ -4,11 +4,12 @@ name: Rheinmetall Technical Publications UK Ltd
 website: https://www.rheinmetall-tp.com
 hq: Bristol, United Kingdom
 uk-region: South West
-sources-verified: 2026-06-30
+sources-verified: 2026-07-05
 tags:
   - defence
   - mbr-ads
   - training
+  - training/courseware
   - logistics
   - type-integrator
   - owned-foreign
@@ -20,14 +21,14 @@ tags:
 
 ## What they do
 
-Rheinmetall Technical Publications UK delivers integrated logistics support (ILS) services, technical publications, engineering services and training for defence programmes. The company operates as part of the wider Rheinmetall group and is based at Aztec West, Bristol.
+Rheinmetall Technical Publications UK (RTP-UK) delivers integrated logistics support (ILS), technical documentation and training courseware for defence and commercial aerospace programmes. The company operates as part of the wider Rheinmetall group and is based at Aztec West, Bristol, and has provided ILS and publications services for around 40 years to defence and commercial customers including major aerospace manufacturers.
 
 ## Products and solutions
 
 - **ILS Services** - Integrated logistics support across defence programmes.
-- **Technical Publications** - Production and management of technical documentation for defence equipment.
+- **Technical Publications** - Production and management of technical documentation, including interactive electronic technical documentation (IETD), maintenance manuals and spare parts catalogues.
 - **Engineering Services** - Engineering support services for defence customers.
-- **Training Services** - Training delivery and management for defence platforms and systems.
+- **Training Services** - Training courseware development and management for defence platforms and systems.
 
 ## Frameworks, accreditations and memberships
 
@@ -39,4 +40,4 @@ Rheinmetall Technical Publications UK delivers integrated logistics support (ILS
 
 ## Sources
 
-Public information verified 2026-06-30. DEVONthink CRM record (ADS directory snapshot, 2026-05-15).
+Public information verified 2026-07-05. ADS Group members directory (snapshot, 2026-05-15); [RTP-UK, IPS Professionals Domain](https://integratedproductsupport.co/rtp-uk/); [Rheinmetall Technical Publications](https://www.rheinmetall.com/en/company/subsidiaries/rheinmetall-technical-publications).

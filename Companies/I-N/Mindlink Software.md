@@ -8,12 +8,15 @@ hq: London, United Kingdom
 uk-region: London
 founded: 2011
 size: small
-sources-verified: 2026-06-29
+sources-verified: 2026-07-05
 tags:
   - defence
   - software
   - comms
+  - comms/networking
   - cyber
+  - cyber/cross-domain
+  - cyber/encryption
   - size-small
   - type-vendor
   - owned-uk
@@ -49,4 +52,4 @@ MindLink provides a secure mission information-sharing platform that lets organi
 
 ## Sources
 
-Public information verified 2026-06-29. MindLink website (mindlinksoft.com), MindLink LinkedIn company page, Companies House (company 07578750), MindLink blog.
+Public information verified 2026-07-05. MindLink website (mindlinksoft.com), MindLink LinkedIn company page, Companies House (company 07578750), MindLink blog, MindLink FRNIX federation whitepaper.

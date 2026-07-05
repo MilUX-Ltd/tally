@@ -5,13 +5,14 @@ website: https://www.providenceitf.com
 hq: Hereford, UK
 uk-region: West Midlands
 size: micro
-sources-verified: 2026-06-30
+sources-verified: 2026-07-05
 tags:
   - defence
   - size-micro
   - mbr-ads
   - isr
   - training
+  - training/instruction
   - type-consultancy
   - owned-uk
 ---
@@ -34,4 +35,4 @@ Providence Global ITF draws on operational surveillance and intelligence-gatheri
 
 ## Sources
 
-Public information verified 2026-06-30. DEVONthink CRM record (ADS directory snapshot, 2026-05-15).
+Public information verified 2026-06-30. ADS Group members directory (snapshot, 2026-05-15).

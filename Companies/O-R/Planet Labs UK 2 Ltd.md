@@ -4,15 +4,19 @@ name: Planet Labs UK 2 Ltd
 website: https://www.planet.com
 hq: San Francisco, United States
 uk-region: London
-sources-verified: 2026-06-30
+sources-verified: 2026-07-05
 tags:
   - defence
   - mbr-ads
   - space
   - isr
+  - isr/geoint
+  - isr/imint
   - data
+  - data/analytics
   - gis
   - sensors
+  - sensors/eo-ir
   - type-prime
   - owned-foreign
 ---
@@ -35,10 +39,14 @@ Planet designs, builds, and operates a large fleet of imaging satellites that ca
 
 - **Memberships:** ADS Group
 
+## Recent news
+
+- **2025-10-07** - Planet awarded a contract renewal for vessel detection and monitoring by the US Navy. [source](https://www.businesswire.com/news/home/20251007388454/en/Planet-Awarded-Contract-Renewal-for-Vessel-Detection-and-Monitoring-by-US-Navy)
+
 ## Links
 
 - Website: https://www.planet.com
 
 ## Sources
 
-Public information verified 2026-06-30. DEVONthink MilUX CRM record (ADS directory snapshot, 2026-05-15).
+Public information verified 2026-07-05. Planet.com Geospatial Intelligence page (https://www.planet.com/geospatial-intelligence/). ADS Group members directory (snapshot, 2026-05-15).

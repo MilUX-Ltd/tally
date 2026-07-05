@@ -5,7 +5,7 @@ website: https://www.copperturtle.co.uk
 linkedin: https://uk.linkedin.com/company/copper-turtle
 companies-house: 10812457
 hq: Poole, United Kingdom
-uk-region: South West England
+uk-region: South West
 founded: 2017
 size: micro
 sources-verified: 2026-07-04

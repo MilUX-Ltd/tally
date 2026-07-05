@@ -3,16 +3,17 @@ type: organisation
 name: Pera Prometheus Consulting Ltd
 website: https://pera-prometheus.com
 hq: Hull, United Kingdom
-uk-region: Yorkshire
-sources-verified: 2026-06-30
+uk-region: Yorkshire and The Humber
+sources-verified: 2026-07-05
 tags:
   - defence
   - mbr-ads
   - cyber
+  - cyber/grc
+  - cyber/pen-testing
   - type-consultancy
   - owned-uk
   - accr-ce-plus
-  - accr-def-stan
 ---
 
 # Pera Prometheus Consulting Ltd
@@ -27,6 +28,9 @@ Pera Prometheus delivers custom information security solutions covering risk man
 
 - **InfoSec Risk Management** - assessment and management of information security risk against defence and regulatory frameworks.
 - **Regulatory Compliance** - support for achieving and maintaining accreditation against standards including Def Stan 05-135.
+- **Penetration Testing** - testing services identifying vulnerabilities in client systems.
+- **Virtual CISO and Security Management** - outsourced security leadership and management services.
+- **Business Continuity and Incident Management** - planning and response support for security incidents and business disruption.
 
 ## Frameworks, accreditations and memberships
 
@@ -39,4 +43,4 @@ Pera Prometheus delivers custom information security solutions covering risk man
 
 ## Sources
 
-Public information verified 2026-06-30. ADS Group member directory (snapshot 2026-05-15).
+Public information verified 2026-07-05. ADS Group member directory (snapshot 2026-05-15). Company website (pera-prometheus.com), confirmed 2026-07-05.

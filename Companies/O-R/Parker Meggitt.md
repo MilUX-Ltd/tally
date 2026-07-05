@@ -8,7 +8,7 @@ uk-region: West Midlands
 founded: 1948
 size: large
 headcount: 9000+
-sources-verified: 2026-06-29
+sources-verified: 2026-07-05
 tags:
   - defence
   - aerospace
@@ -53,4 +53,4 @@ Parker Meggitt (formerly Meggitt plc) is a British aerospace, defence and energy
 
 ## Sources
 
-Public information verified 2026-06-29. Parker Aerospace (discover.parker.com/meggitt), Wikipedia, CompositesWorld, Aerospace Testing International, GOV.UK.
+Public information verified 2026-07-05. Parker Aerospace (discover.parker.com/meggitt), Wikipedia, CompositesWorld, Aerospace Testing International, GOV.UK.

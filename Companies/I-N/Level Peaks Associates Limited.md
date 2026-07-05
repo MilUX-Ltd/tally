@@ -5,7 +5,7 @@ website: https://www.levelpeaks.com
 hq: Hereford, United Kingdom
 uk-region: West Midlands
 size: small
-sources-verified: 2026-06-29
+sources-verified: 2026-07-04
 tags:
   - defence
   - size-small
@@ -13,7 +13,9 @@ tags:
   - land
   - sensors
   - uas
+  - uas/platform
   - isr
+  - isr/imint
   - munitions
   - hardware
   - training
@@ -23,7 +25,6 @@ tags:
   - accr-iso9001
   - accr-iso27001
   - accr-ce-plus
-  - accr-itar
 ---
 
 # Level Peaks Associates Limited
@@ -53,4 +54,4 @@ Level Peaks Associates represents a portfolio of market-leading defence brands, 
 
 ## Sources
 
-Public information verified 2026-06-29. DEVONthink CRM record (ADS directory snapshot, 2026-05-15).
+Public information verified 2026-07-04. ADS Group members directory (snapshot, 2026-05-15).

@@ -8,7 +8,7 @@ uk-region: North West
 founded:
 size: small
 headcount:
-sources-verified: 2026-06-29
+sources-verified: 2026-07-04
 tags:
   - defence
   - manufacturing
@@ -48,4 +48,4 @@ Heatsense Cables designs and manufactures specialist cables operating across a t
 
 ## Sources
 
-Public information verified 2026-06-29. ADS members directory (snapshot 2026-05-15); heatsensecables.co.uk (confirmed live 2026-06-29).
+Public information verified 2026-07-04. ADS members directory (snapshot 2026-05-15); heatsensecables.co.uk (confirmed live 2026-06-29).

@@ -19,7 +19,7 @@ tags:
   - owned-uk
   - owned-veteran
   - accr-ce
-  - fw-joscar
+  - accr-joscar
   - mbr-ads
 ---
 

@@ -9,10 +9,11 @@ uk-region: Northern Ireland
 founded: 2006
 size: small
 headcount: 11-50
-sources-verified: 2026-06-29
+sources-verified: 2026-07-05
 tags:
   - defence
   - sensors
+  - sensors/eo-ir
   - optronics
   - isr
   - space
@@ -60,4 +61,4 @@ Raptor Photonics designs, manufactures and sells high-performance, low-light-lev
 
 ## Sources
 
-Public information verified 2026-06-29. Sources: company website (raptorphotonics.com), ADS Group member profile (adsgroup.org.uk/members/raptor-photonics-ltd-2), Companies House (company NI060799), EDR Magazine, Northern Ireland Photonics member directory.
+Public information verified 2026-07-05. Sources: company website (raptorphotonics.com), ADS Group member profile (adsgroup.org.uk/members/raptor-photonics-ltd-2), Companies House (company NI060799), EDR Magazine, Northern Ireland Photonics member directory.

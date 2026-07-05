@@ -8,7 +8,7 @@ hq: Exeter, United Kingdom
 uk-region: South West
 founded: 2022
 size: micro
-sources-verified: 2026-06-29
+sources-verified: 2026-07-04
 tags:
   - defence
   - electronics
@@ -50,4 +50,4 @@ Jade Electronics Solutions is a provider of professional contract and extended e
 
 ## Sources
 
-Public information verified 2026-06-29. Company website (jade-electronics.com), Companies House (company 14511027), LinkedIn company page, GOV.UK Armed Forces Covenant signatories.
+Public information verified 2026-07-04. Company website (jade-electronics.com), Companies House (company 14511027), LinkedIn company page, GOV.UK Armed Forces Covenant signatories.

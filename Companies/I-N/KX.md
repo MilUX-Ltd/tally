@@ -16,7 +16,7 @@ tags:
   - type-manufacturer
   - owned-uk
   - accr-ce-plus
-  - fw-joscar
+  - accr-joscar
 ---
 
 # KX
@@ -43,4 +43,4 @@ KX develops KX Streaming Analytics, a high-performance platform built on the kdb
 
 ## Sources
 
-Public information verified 2026-06-29. DEVONthink MilUX CRM record (ADS directory snapshot, 2026-05-15).
+Public information verified 2026-06-29. ADS Group members directory (snapshot, 2026-05-15).

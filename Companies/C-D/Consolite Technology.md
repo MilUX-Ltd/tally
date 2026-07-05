@@ -5,7 +5,7 @@ website: https://www.consolite.co.uk/
 linkedin: https://www.linkedin.com/company/consolite-technology-limited/
 companies-house: 01530246
 hq: Zeals, United Kingdom
-uk-region: South West England
+uk-region: South West
 founded: 1980
 size: small
 sources-verified: 2026-07-04

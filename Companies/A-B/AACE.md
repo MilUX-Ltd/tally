@@ -5,7 +5,7 @@ website: https://www.aace.co.uk
 linkedin: https://www.linkedin.com/company/aace-ltd
 companies-house: "03377828"
 hq: Bristol, United Kingdom
-uk-region: South West England
+uk-region: South West
 founded: 1997
 size: small
 sources-verified: 2026-07-03

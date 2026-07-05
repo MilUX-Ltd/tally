@@ -5,16 +5,17 @@ website: https://www.hellios.com
 hq: Oxford, United Kingdom
 uk-region: South East
 size: small
-sources-verified: 2026-06-29
+sources-verified: 2026-07-04
 tags:
   - defence
   - data
+  - data/engineering
   - software
   - logistics
   - size-small
   - type-sme
   - owned-uk
-  - fw-joscar
+  - accr-joscar
   - mbr-ads
 ---
 
@@ -41,4 +42,4 @@ Hellios collects, validates and distributes supplier data on behalf of buying or
 
 ## Sources
 
-Public information verified 2026-06-29. DEVONthink ADS directory snapshot (2026-05-15); hellios.com (2026-06-29).
+Public information verified 2026-06-29. ADS Group members directory (snapshot, 2026-05-15); hellios.com (2026-06-29).

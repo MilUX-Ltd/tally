@@ -6,7 +6,7 @@ linkedin: https://www.linkedin.com/company/greene-tweed
 hq: Kulpsville, Pennsylvania, USA
 uk-region: East Midlands
 size: large
-sources-verified: 2026-06-29
+sources-verified: 2026-07-04
 tags:
   - defence
   - manufacturing

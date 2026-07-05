@@ -4,11 +4,18 @@ name: NCC Group
 website: https://www.nccgroup.com
 hq: Manchester, United Kingdom
 uk-region: North West
-sources-verified: 2026-06-30
+sources-verified: 2026-07-05
 tags:
   - defence
   - mbr-ads
   - cyber
+  - cyber/pen-testing
+  - cyber/red-team
+  - cyber/incident-response
+  - cyber/digital-forensics
+  - cyber/idam
+  - cyber/grc
+  - cyber/ot-security
   - software
   - data
   - isr
@@ -31,6 +38,10 @@ NCC Group provides end-to-end cyber security and resilience solutions, with capa
 
 - **Security consultancy** - Defence, aerospace, and counter-terrorism consultancy covering C2, communications, and surveillance.
 - **Software security and cyber testing** - Penetration testing, data forensics, software security assessment, and cyber systems integrity services.
+- **Attack simulation** - Red team, purple team and gold team exercises.
+- **Digital forensics and incident response** - Dedicated DFIR service handling investigation, containment, eradication and recovery.
+- **Identity and access management** - Consultancy and implementation covering IAM, customer IAM and privileged access management.
+- **Operational technology security** - ICS/SCADA product testing, firmware review and threat modelling for industrial and critical national infrastructure environments.
 - **Managed security services** - Ongoing monitoring, detection, and response for critical national infrastructure and defence clients.
 - **Unmanned systems security** - Security services listed under the unmanned systems technology category.
 
@@ -44,4 +55,4 @@ NCC Group provides end-to-end cyber security and resilience solutions, with capa
 
 ## Sources
 
-Public information verified 2026-06-30. DEVONthink MilUX CRM record (ADS directory snapshot captured 2026-05-15).
+Public information verified 2026-07-05. ADS Group members directory (captured 2026-05-15). NCC Group public service pages: penetration testing, attack simulation, digital forensics and incident response, identity and access management, operational technology security, strategy risk and compliance (nccgroup.com).

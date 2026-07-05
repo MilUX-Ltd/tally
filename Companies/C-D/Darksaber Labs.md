@@ -4,6 +4,7 @@ name: DarkSaber Labs
 website: https://darksaberlabs.com/
 linkedin: https://www.linkedin.com/company/darksaber-labs
 hq: Arlington, United States
+uk-region: Overseas
 founded: 2025
 size: micro
 headcount: ~9

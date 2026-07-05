@@ -4,7 +4,7 @@ name: Sibylline
 website: https://sibylline.co.uk
 linkedin: https://www.linkedin.com/company/sibylline-ltd/
 hq: London
-uk-region: Greater London
+uk-region: London
 founded: 2010
 size: large
 headcount: 275

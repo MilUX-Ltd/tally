@@ -2,7 +2,7 @@
 type: organisation
 name: Defence Dynamics
 hq: United Kingdom
-uk-region: Midlands
+uk-region:
 size: small
 sources-verified: 2026-07-04
 tags:

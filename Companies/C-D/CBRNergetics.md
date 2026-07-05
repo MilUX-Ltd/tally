@@ -4,6 +4,7 @@ name: CBRNergetics Limited
 website: https://www.cbrnergeticsltd.com
 companies-house: 09767640
 hq: Dorset, United Kingdom
+uk-region: South West
 size: small
 sources-verified: 2026-07-04
 tags:

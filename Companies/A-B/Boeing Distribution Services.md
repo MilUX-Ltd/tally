@@ -4,7 +4,7 @@ name: Boeing Distribution Services III Limited
 website: https://www.boeingdistribution.com/
 companies-house: 00446288
 hq: Chicago, United States
-uk-region: South East England
+uk-region: South East
 size: large
 sources-verified: 2026-07-04
 tags:

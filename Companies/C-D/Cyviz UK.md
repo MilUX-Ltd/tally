@@ -25,7 +25,7 @@ tags:
   - type-integrator
   - owned-foreign
   - listed
-  - fw-joscar
+  - accr-joscar
   - mbr-ads
 ---
 

@@ -5,11 +5,11 @@ website: https://www.renishaw.com
 linkedin: https://www.linkedin.com/company/renishaw
 companies-house: "01106260"
 hq: Wotton-under-Edge, United Kingdom
-uk-region: South West England
+uk-region: South West
 founded: 1973
 size: large
 headcount: ~5000
-sources-verified: 2026-06-29
+sources-verified: 2026-07-05
 tags:
   - defence
   - manufacturing
@@ -55,4 +55,4 @@ Renishaw is a manufacturer of high-precision metrology and healthcare technology
 
 ## Sources
 
-Public information verified 2026-06-29. Company website (renishaw.com), Companies House (registration 01106260), London Stock Exchange listing (RSW), Investegate financial filings and Soldier Systems. No formal accreditations were firmly evidenced and are omitted; the IOM3 entry is a supplier listing.
+Public information verified 2026-07-05. Company website (renishaw.com), Companies House (registration 01106260), London Stock Exchange listing (RSW), Investegate financial filings and Soldier Systems. No formal accreditations were firmly evidenced and are omitted; the IOM3 entry is a supplier listing.

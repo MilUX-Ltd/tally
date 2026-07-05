@@ -31,4 +31,4 @@ SMT Labs UK is the UK arm of SMT, an SAE AS6081-accredited independent distribut
 
 ## Sources
 
-Public information verified 2026-06-30. DEVONthink record sourced from ADS members directory snapshot (2026-05-15).
+Public information verified 2026-06-30. ADS Group members directory (snapshot, 2026-05-15).

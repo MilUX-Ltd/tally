@@ -8,19 +8,23 @@ hq: Harwell, UK
 uk-region: South East
 founded: 2020
 size: small
-sources-verified: 2026-06-29
+sources-verified: 2026-07-05
 tags:
   - defence
   - ai
+  - ai/decision-support
   - robotics
   - autonomy
+  - autonomy/uxv-control
   - c2
+  - c2/situational-awareness
+  - c2/integration
   - counter-uas
+  - counter-uas/detection
   - software
   - size-small
   - type-sme
   - owned-uk
-  - prog-dasa
   - mbr-ads
 ---
 

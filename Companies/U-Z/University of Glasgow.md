@@ -33,4 +33,4 @@ The University of Glasgow's aerospace engineering department conducts research a
 
 ## Sources
 
-Public information verified 2026-06-30. DEVONthink MilUX CRM record (ADS directory snapshot, captured 2026-05-15).
+Public information verified 2026-06-30. ADS Group members directory (captured 2026-05-15).

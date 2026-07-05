@@ -6,7 +6,7 @@ linkedin: https://www.linkedin.com/company/high-value-manufacturing-catapult
 hq: Birmingham, United Kingdom
 uk-region: West Midlands
 size: large
-sources-verified: 2026-06-29
+sources-verified: 2026-07-04
 tags:
   - defence
   - manufacturing
@@ -37,6 +37,10 @@ The High Value Manufacturing Catapult is established and funded by Innovate UK t
 
 - **Memberships:** ADS Group
 
+## Recent news
+
+- **2025-09** - HVM Catapult and the Ministry of Defence announced a new alliance to grow the UK defence manufacturing supply chain, tied to the publication of the Defence Industrial Strategy, giving industry, particularly SMEs, access to HVM Catapult R&D facilities and market insight. [source](https://hvm.catapult.org.uk/news/new-alliance-to-help-grow-defence-manufacturing-supply-chain/)
+
 ## Links
 
 - Website: https://hvm.catapult.org.uk
@@ -44,4 +48,4 @@ The High Value Manufacturing Catapult is established and funded by Innovate UK t
 
 ## Sources
 
-Public information verified 2026-06-29. ADS members directory (snapshot 2026-05-15); hvm.catapult.org.uk (public website and annual report 2025); HVM Catapult news release on MoD alliance; UK Defence Tech coverage of MoD-HVM partnership.
+Public information verified 2026-07-04. ADS members directory (snapshot 2026-05-15); hvm.catapult.org.uk (public website and annual report 2025); HVM Catapult news release on MoD alliance; UK Defence Tech coverage of MoD-HVM partnership.

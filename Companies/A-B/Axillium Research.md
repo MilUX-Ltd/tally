@@ -6,7 +6,7 @@ linkedin: https://uk.linkedin.com/company/axillium-research
 hq: Daventry, United Kingdom
 uk-region: East Midlands
 size: small
-sources-verified: 2026-07-03
+sources-verified: 2026-07-04
 tags:
   - defence
   - data

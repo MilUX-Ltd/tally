@@ -9,12 +9,13 @@ uk-region: South East
 founded: 1991
 size: medium
 headcount: ~100
-sources-verified: 2026-06-29
+sources-verified: 2026-07-05
 tags:
   - defence
   - hardware
   - manufacturing
   - simulation
+  - simulation/synthetic-environment
   - training
   - type-manufacturer
   - size-medium
@@ -53,4 +54,4 @@ Novatech designs, assembles, supports and repairs custom-built computer hardware
 
 ## Sources
 
-Public information verified 2026-06-29. Novatech website (defence, training and simulation pages), Companies House (02605046), ADS Group members directory, ADS Advance, Defence Online.
+Public information verified 2026-07-05. Novatech website (defence, training and simulation pages), Companies House (02605046), ADS Group members directory, ADS Advance, Defence Online. No `training/courseware` or `training/instruction` subset added: Novatech supplies simulator hardware and systems, not instructional content or delivery itself.

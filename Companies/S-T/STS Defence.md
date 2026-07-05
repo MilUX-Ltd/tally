@@ -5,7 +5,7 @@ website: https://www.sts-defence.com
 linkedin: https://www.linkedin.com/company/sts-defence-limited
 companies-house: "03193298"
 hq: Gosport, United Kingdom
-uk-region: South East England
+uk-region: South East
 size: medium
 headcount: ~150
 sources-verified: 2026-06-29
@@ -20,7 +20,6 @@ tags:
   - type-manufacturer
   - owned-foreign
   - accr-joscar
-  - accr-sc21
   - mbr-ads
 ---
 

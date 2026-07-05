@@ -5,7 +5,7 @@ website: https://www.goonveancore.com
 hq: Cullompton, UK
 uk-region: South West
 size: small
-sources-verified: 2026-06-29
+sources-verified: 2026-07-04
 tags:
   - defence
   - manufacturing
@@ -40,4 +40,4 @@ Goonvean Core Engineering operates from its facility in Cullompton, Devon, provi
 
 ## Sources
 
-Public information verified 2026-06-29. DEVONthink ADS directory snapshot (2026-05-15); Goonvean Core Engineering website (goonveancore.com).
+Public information verified 2026-06-29. ADS Group members directory (snapshot, 2026-05-15); Goonvean Core Engineering website (goonveancore.com).

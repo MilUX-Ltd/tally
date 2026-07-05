@@ -7,7 +7,7 @@ hq: Bedford, United Kingdom
 uk-region: East of England
 founded: 1995
 size: medium
-sources-verified: 2026-07-03
+sources-verified: 2026-07-04
 tags:
   - defence
   - air
@@ -17,7 +17,7 @@ tags:
   - size-medium
   - type-manufacturer
   - owned-foreign
-  - fw-joscar
+  - accr-joscar
   - accr-ce-plus
   - accr-iso9001
   - accr-iso27001

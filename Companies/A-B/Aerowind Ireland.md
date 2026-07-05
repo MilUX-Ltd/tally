@@ -4,6 +4,7 @@ name: Aerowind Ireland Ltd
 website: https://www.aerowindireland.com
 linkedin: https://www.linkedin.com/company/aerowind-ireland-limited
 hq: Scariff, Ireland
+uk-region: Overseas
 founded: 1999
 size: small
 sources-verified: 2026-07-03

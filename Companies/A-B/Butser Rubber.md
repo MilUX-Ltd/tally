@@ -17,7 +17,6 @@ tags:
   - size-small
   - type-sme
   - type-manufacturer
-  - accr-def-stan
   - mbr-ads
 ---
 

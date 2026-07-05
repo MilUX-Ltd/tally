@@ -23,4 +23,4 @@ Vanguard Dynamic provides advisory services to government authorities, military 
 
 ## Sources
 
-Public information verified 2026-06-30. DEVONthink MilUX CRM record (D3IP directory snapshot, 2026-05-15). No website listed in directory at capture.
+Public information verified 2026-06-30. No website listed in directory at capture.

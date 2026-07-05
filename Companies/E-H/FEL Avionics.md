@@ -21,7 +21,7 @@ tags:
   - type-sme
   - size-micro
   - owned-uk
-  - fw-joscar
+  - accr-joscar
   - accr-ce
   - accr-ce-plus
   - accr-iso9001

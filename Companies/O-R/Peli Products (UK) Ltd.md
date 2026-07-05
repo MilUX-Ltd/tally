@@ -4,7 +4,7 @@ name: Peli Products (UK) Ltd
 website: https://www.peliproducts.co.uk
 hq: Glossop, United Kingdom
 uk-region: East Midlands
-sources-verified: 2026-06-30
+sources-verified: 2026-07-05
 tags:
   - defence
   - mbr-ads
@@ -15,7 +15,7 @@ tags:
   - owned-foreign
   - accr-iso9001
   - accr-ce-plus
-  - fw-joscar
+  - accr-joscar
 ---
 
 # Peli Products (UK) Ltd

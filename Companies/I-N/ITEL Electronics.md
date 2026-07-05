@@ -8,7 +8,7 @@ hq: Swindon, United Kingdom
 uk-region: South West
 founded: 1997
 size: small
-sources-verified: 2026-06-29
+sources-verified: 2026-07-04
 tags:
   - defence
   - electronics
@@ -53,4 +53,4 @@ ITEL Electronics is a family-owned business based in Swindon, Wiltshire, designi
 
 ## Sources
 
-Public information verified 2026-06-29. Company website (itelelectronics.com), Companies House (company 03368428), LinkedIn company page.
+Public information verified 2026-07-04. Company website (itelelectronics.com), Companies House (company 03368428), LinkedIn company page.

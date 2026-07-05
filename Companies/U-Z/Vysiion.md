@@ -17,7 +17,7 @@ tags:
 # Vysiion
 > Secure communications and network infrastructure integrator serving defence, government and critical national infrastructure, with SC and DV-cleared engineering teams; part of the Exponential-e Group.
 ## What they do
-Vysiion delivers secure communications, network infrastructure and systems integration for defence, government, critical national infrastructure and regulated environments. Capabilities span secure WAN/LAN and SD-WAN networks, unified communications, resilient voice and radio systems, SCADA and operational technology communications, CCTV, access control, control room AV, and secure collaboration environments. The company provides end-to-end design, installation, commissioning and 24/7 support through SC and DV-cleared engineering teams. Part of the Exponential-e Group. Aurora Provider Network member.
+Vysiion delivers secure communications, network infrastructure and systems integration for defence, government, critical national infrastructure and regulated environments. Capabilities span secure WAN/LAN and SD-WAN networks, unified communications, resilient voice and radio systems, SCADA and operational technology communications, CCTV, access control, control room AV, and secure collaboration environments. The company provides end-to-end design, installation, commissioning and 24/7 support through SC and DV-cleared engineering teams. Part of the Exponential-e Group.
 ## Products and solutions
 - **Secure WAN/LAN and SD-WAN** - Assured network infrastructure for defence and government.
 - **Unified communications and resilient voice** - Including radio systems for operational environments.

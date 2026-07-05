@@ -3,11 +3,13 @@ type: organisation
 name: InnaLabs Ltd
 website: https://www.innalabs.com
 hq: Dublin, Ireland
-sources-verified: 2026-06-29
+uk-region: Overseas
+sources-verified: 2026-07-04
 tags:
   - defence
   - mbr-ads
   - sensors
+  - sensors/pnt
   - hardware
   - manufacturing
   - type-manufacturer
@@ -38,4 +40,4 @@ InnaLabs designs and manufactures tactical-grade Coriolis vibratory gyroscopes a
 
 ## Sources
 
-Public information verified 2026-06-29. DEVONthink CRM record (ADS members directory, captured May 2026).
+Public information verified 2026-07-04. ADS Group members directory (captured May 2026).

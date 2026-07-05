@@ -3,7 +3,7 @@ type: organisation
 name: Daring Futures
 website: https://www.daringfutures.com
 hq: Fareham, Hampshire
-uk-region: South East England
+uk-region: South East
 size: micro
 sources-verified: 2026-07-04
 tags:

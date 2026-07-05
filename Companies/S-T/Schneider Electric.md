@@ -18,7 +18,7 @@ tags:
   - accr-iso9001
   - accr-iso14001
   - accr-ce-plus
-  - fw-joscar
+  - accr-joscar
 ---
 
 # Schneider Electric
@@ -47,4 +47,4 @@ Schneider Electric supplies electrical components, power management systems, HVA
 
 ## Sources
 
-Public information verified 2026-06-30. DEVONthink MilUX CRM record (ADS directory snapshot, 2026-05-15).
+Public information verified 2026-06-30. ADS Group members directory (snapshot, 2026-05-15).

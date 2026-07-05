@@ -5,7 +5,7 @@ website: https://bradbury-group.com/
 linkedin: https://www.linkedin.com/company/bradburygroup
 companies-house: 02752887
 hq: Scunthorpe, England
-uk-region: Yorkshire and the Humber
+uk-region: Yorkshire and The Humber
 founded: 1991
 size: medium
 sources-verified: 2026-07-04

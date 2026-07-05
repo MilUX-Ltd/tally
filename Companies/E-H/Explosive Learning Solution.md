@@ -20,7 +20,7 @@ tags:
   - type-sme
   - type-consultancy
   - owned-uk
-  - fw-joscar
+  - accr-joscar
   - accr-ce
   - accr-ce-plus
   - accr-iso9001

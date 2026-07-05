@@ -4,7 +4,7 @@ name: IPC Mouldings
 website: https://www.ipcmouldings.com
 hq: Carrickfergus, United Kingdom
 uk-region: Northern Ireland
-sources-verified: 2026-06-29
+sources-verified: 2026-07-04
 tags:
   - defence
   - mbr-ads
@@ -40,4 +40,4 @@ IPC Mouldings designs and manufactures injection moulded parts and engineered as
 
 ## Sources
 
-Public information verified 2026-06-29. DEVONthink CRM record (ADS directory snapshot, 2026-05-15).
+Public information verified 2026-06-29. ADS Group members directory (snapshot, 2026-05-15).

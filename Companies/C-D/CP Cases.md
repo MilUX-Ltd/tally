@@ -17,7 +17,6 @@ tags:
   - size-medium
   - type-manufacturer
   - owned-uk
-  - accr-def-stan
   - mbr-ads
 ---
 

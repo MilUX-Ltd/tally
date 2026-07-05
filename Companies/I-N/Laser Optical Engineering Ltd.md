@@ -5,7 +5,7 @@ website: https://www.laseroptical.co.uk
 hq: East Midlands Airport, United Kingdom
 uk-region: East Midlands
 size: micro
-sources-verified: 2026-06-29
+sources-verified: 2026-07-04
 tags:
   - defence
   - size-micro
@@ -46,4 +46,4 @@ Laser Optical Engineering develops and manufactures laser-based products and sys
 
 ## Sources
 
-Public information verified 2026-06-29. DEVONthink CRM record (ADS directory snapshot, 2026-05-15).
+Public information verified 2026-06-29. ADS Group members directory (snapshot, 2026-05-15).

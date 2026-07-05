@@ -9,7 +9,7 @@ uk-region: Scotland
 founded: 2006
 size: small
 headcount: 10-49
-sources-verified: 2026-07-03
+sources-verified: 2026-07-04
 tags:
   - defence
   - cyber

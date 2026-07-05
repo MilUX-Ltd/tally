@@ -4,7 +4,7 @@ name: Metis Aerospace Limited
 website: http://www.metisaerospace.com
 hq: Lincoln, UK
 uk-region: East Midlands
-sources-verified: 2026-06-29
+sources-verified: 2026-07-05
 tags:
   - defence
   - mbr-ads
@@ -46,4 +46,4 @@ Metis Aerospace provides independent technical advice and support to military an
 
 ## Sources
 
-Public information verified 2026-06-29. DEVONthink CRM record (source: ADS directory snapshot 2026-05-15).
+Public information verified 2026-07-05. ADS Group members directory (snapshot, 2026-05-15).

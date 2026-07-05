@@ -4,6 +4,7 @@ name: Geodesy
 website: https://geodesy.net/
 linkedin: https://www.linkedin.com/company/geodesy/
 hq: San Francisco, United States
+uk-region: Overseas
 size: small
 sources-verified: 2026-07-04
 tags:

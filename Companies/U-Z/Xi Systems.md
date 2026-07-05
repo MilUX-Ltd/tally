@@ -4,7 +4,7 @@ name: Xi Systems
 website: https://www.xisystems.co.uk
 companies-house: 07423264
 hq: Somerton, Somerset
-uk-region: South West England
+uk-region: South West
 founded: 2010
 size: small
 headcount: 25

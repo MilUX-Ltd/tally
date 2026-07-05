@@ -3,7 +3,7 @@ type: organisation
 name: Special Quality Alloys Ltd
 website: https://www.specialqualityalloys.com
 hq: Sheffield, United Kingdom
-uk-region: Yorkshire
+uk-region: Yorkshire and The Humber
 sources-verified: 2026-06-30
 tags:
   - defence
@@ -42,4 +42,4 @@ Special Quality Alloys Ltd manufactures and supplies aerospace and defence-grade
 
 ## Sources
 
-Public information verified 2026-06-30. DEVONthink CRM record (ADS directory snapshot, 2026-05-15).
+Public information verified 2026-06-30. ADS Group members directory (snapshot, 2026-05-15).

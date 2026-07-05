@@ -5,7 +5,7 @@ website: https://www.eizoglobal.com
 linkedin: https://www.linkedin.com/company/eizo
 companies-house: "07738824"
 hq: Hakusan, Japan
-uk-region: South East England
+uk-region: South East
 founded: 1968
 size: large
 headcount: 2400

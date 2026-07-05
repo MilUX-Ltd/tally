@@ -20,7 +20,7 @@ tags:
   - accr-iso9001
   - accr-ce
   - accr-ce-plus
-  - fw-joscar
+  - accr-joscar
   - mbr-ads
 ---
 

@@ -4,13 +4,16 @@ name: Morpho UK Ltd
 website: https://www.morpho.com
 hq: Paris, France
 uk-region: South East
-sources-verified: 2026-06-29
+sources-verified: 2026-07-05
 tags:
   - defence
   - mbr-ads
   - sensors
   - data
   - software
+  - ai
+  - ai/computer-vision
+  - ai/ml-analytics
   - type-manufacturer
   - type-integrator
   - owned-foreign
@@ -29,6 +32,7 @@ Morpho (now part of IDEMIA) delivers automated fingerprint identification system
 - **AFIS (Automated Fingerprint Identification Systems)** - Large-scale biometric identification for law enforcement and government.
 - **Identity management systems** - End-to-end civil identity, border control and road safety platforms.
 - **Secure access solutions** - Smart cards, secure tokens, passports and physical/logical access control products.
+- **AI-driven biometric matching** - Machine learning and computer vision applied to facial recognition and fingerprint matching, including bias removal and liveness detection.
 
 ## Frameworks, accreditations and memberships
 
@@ -40,4 +44,4 @@ Morpho (now part of IDEMIA) delivers automated fingerprint identification system
 
 ## Sources
 
-Public information verified 2026-06-29. DEVONthink CRM record (ADS directory snapshot, 2026-05-15).
+Public information verified 2026-07-05. ADS Group members directory (snapshot, 2026-05-15). Additional verification via idemia.com product pages (facial recognition, fingerprint enrolment, border security).

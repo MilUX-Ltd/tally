@@ -9,7 +9,7 @@ uk-region: South East
 founded: 1961
 size: large
 headcount: 250+
-sources-verified: 2026-07-03
+sources-verified: 2026-07-04
 tags:
   - defence
   - maritime

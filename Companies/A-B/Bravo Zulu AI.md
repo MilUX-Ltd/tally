@@ -5,7 +5,7 @@ website: https://bravozuluai.com
 linkedin: https://www.linkedin.com/company/bravo-zulu-intelligence
 companies-house: "13805370"
 hq: Fleet, United Kingdom
-uk-region: South East England
+uk-region: South East
 founded: 2021
 size: micro
 sources-verified: 2026-07-04

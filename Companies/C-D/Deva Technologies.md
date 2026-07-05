@@ -22,7 +22,7 @@ tags:
   - type-sme
   - type-manufacturer
   - owned-uk
-  - fw-joscar
+  - accr-joscar
   - accr-iso9001
   - mbr-ads
 ---

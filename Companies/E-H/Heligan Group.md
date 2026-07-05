@@ -7,7 +7,7 @@ hq: Birmingham, United Kingdom
 uk-region: West Midlands
 founded: 2015
 size: small
-sources-verified: 2026-06-29
+sources-verified: 2026-07-04
 tags:
   - defence
   - data
@@ -46,4 +46,4 @@ Heligan Group operates as an intelligence-driven financial services business foc
 
 ## Sources
 
-Public information verified 2026-06-29. ADS members directory (snapshot May 2026); DEVONthink CRM record; heligangroup.com; web search results.
+Public information verified 2026-06-29. ADS members directory (snapshot May 2026); heligangroup.com; web search results.

@@ -3,13 +3,16 @@ type: organisation
 name: NOVA Defence Intelligence Systems
 website: https://novaalliedtrainingllm.com
 hq: Bristol, UK
-uk-region: South West England
+uk-region: South West
 founded: 2025
-sources-verified: 2026-06-29
+sources-verified: 2026-07-05
 tags:
   - defence
   - ai
+  - ai/generative
+  - ai/nlp
   - training
+  - training/courseware
   - software
   - type-startup
 ---
@@ -28,4 +31,4 @@ NOVA automates the Defence Systems Approach to Training (DSAT) lifecycle, includ
 - Website: https://novaalliedtrainingllm.com
 
 ## Sources
-Public information verified 2026-06-29.
+Public information verified 2026-07-05, against the company's own website (novaalliedtrainingllm.com).

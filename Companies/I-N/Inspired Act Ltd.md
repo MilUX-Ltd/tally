@@ -5,11 +5,12 @@ website: http://www.inspiredact.co.uk
 hq: Corsham, United Kingdom
 uk-region: South West
 size: micro
-sources-verified: 2026-06-29
+sources-verified: 2026-07-04
 tags:
   - defence
   - mbr-ads
   - training
+  - training/instruction
   - simulation
   - size-micro
   - type-sme
@@ -39,4 +40,4 @@ Inspired Act supplies roleplay and simulation support for military and governmen
 
 ## Sources
 
-Public information verified 2026-06-29. DEVONthink CRM record (ADS directory snapshot 2026-05-15).
+Public information verified 2026-07-04. ADS Group members directory (snapshot, 2026-05-15).

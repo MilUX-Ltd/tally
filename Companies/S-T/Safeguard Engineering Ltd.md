@@ -32,4 +32,4 @@ Safeguard Engineering is a privately owned consultancy established in 2013, prov
 
 ## Sources
 
-Public information verified 2026-06-30. DEVONthink MilUX CRM record (Aurora Provider Network collaboration database and ADS directory snapshot, 2026-05-15).
+Public information verified 2026-06-30. ADS Group members directory (snapshot, 2026-05-15).

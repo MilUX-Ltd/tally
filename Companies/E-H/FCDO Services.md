@@ -4,7 +4,7 @@ name: FCDO Services
 website: https://www.fcdoservices.gov.uk/
 linkedin: https://www.linkedin.com/company/fcdo-services/
 hq: King Charles Street, London
-uk-region: Greater London
+uk-region: London
 founded: 2008
 size: medium
 headcount: "797 (February 2026)"

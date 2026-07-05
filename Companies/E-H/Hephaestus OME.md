@@ -5,7 +5,7 @@ website: https://hephaestus-ome.co.uk
 hq: Bristol, United Kingdom
 uk-region: South West
 size: micro
-sources-verified: 2026-06-29
+sources-verified: 2026-07-04
 tags:
   - defence
   - munitions
@@ -43,4 +43,4 @@ Hephaestus OME provides subject matter expert (SME) support to the MOD and its c
 
 ## Sources
 
-Public information verified 2026-06-29. DEVONthink Aurora Provider Network collaboration database snapshot (2026-05-15); hephaestus-ome.co.uk (2026-06-29).
+Public information verified 2026-06-29. hephaestus-ome.co.uk (2026-06-29).

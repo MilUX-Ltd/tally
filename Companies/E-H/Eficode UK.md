@@ -5,7 +5,7 @@ website: https://www.eficode.com
 linkedin: https://www.linkedin.com/company/eficode
 companies-house: "05643578"
 hq: Helsinki, Finland
-uk-region: South East England
+uk-region: South East
 founded: 2005
 size: medium
 headcount: 550
@@ -18,7 +18,7 @@ tags:
   - size-medium
   - type-consultancy
   - owned-foreign
-  - fw-joscar
+  - accr-joscar
   - fw-gcloud
   - accr-ce
   - accr-iso27001

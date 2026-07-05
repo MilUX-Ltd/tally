@@ -3,16 +3,17 @@ type: organisation
 name: MTX Solutions
 website: https://mtx.solutions
 hq: Daresbury, Warrington, Cheshire
-uk-region: North West England
-sources-verified: 2026-06-29
+uk-region: North West
+sources-verified: 2026-07-05
 tags:
   - defence
   - simulation
+  - simulation/synthetic-environment
   - software
   - data
   - type-sme
   - mbr-ads
-  - fw-joscar
+  - accr-joscar
   - accr-ce-plus
   - accr-iso9001
   - accr-iso27001
@@ -35,4 +36,4 @@ MTX Solutions blends operational insight with technical expertise, providing def
 - Website: https://mtx.solutions
 
 ## Sources
-Public information verified 2026-06-29.
+Public information verified 2026-07-05. MTX Solutions website (mtx.solutions/what-we-do).

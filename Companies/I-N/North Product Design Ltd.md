@@ -5,7 +5,7 @@ website: https://npd.studio
 hq: Preston, UK
 uk-region: North West
 size: micro
-sources-verified: 2026-06-30
+sources-verified: 2026-07-05
 tags:
   - defence
   - size-micro
@@ -15,7 +15,7 @@ tags:
   - type-consultancy
   - type-sme
   - owned-uk
-  - fw-joscar
+  - accr-joscar
   - accr-ce
 ---
 
@@ -43,4 +43,4 @@ North Product Design Ltd works with defence primes, technology companies and man
 
 ## Sources
 
-Public information verified 2026-06-30. DEVONthink MilUX CRM record (ADS directory snapshot, 2026-05-15).
+Public information verified 2026-06-30. ADS Group members directory (snapshot, 2026-05-15).

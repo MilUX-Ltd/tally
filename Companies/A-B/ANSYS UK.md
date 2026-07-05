@@ -5,7 +5,7 @@ website: https://www.ansys.com
 linkedin: https://www.linkedin.com/company/ansys-inc
 companies-house: 03917515
 hq: Canonsburg, United States
-uk-region: Yorkshire and the Humber
+uk-region: Yorkshire and The Humber
 founded: 1970
 size: large
 sources-verified: 2026-07-03

@@ -3,7 +3,7 @@ type: organisation
 name: Satcom Direct International - UK
 website: https://www.satcomdirect.com
 hq: Farnborough, Hampshire
-uk-region: South East England
+uk-region: South East
 sources-verified: 2026-06-29
 tags:
   - defence

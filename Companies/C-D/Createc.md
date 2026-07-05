@@ -31,7 +31,6 @@ tags:
   - type-sme
   - type-manufacturer
   - owned-uk
-  - prog-dasa
   - mbr-ads
 ---
 

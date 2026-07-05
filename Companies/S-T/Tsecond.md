@@ -3,6 +3,7 @@ type: organisation
 name: Tsecond
 website: https://www.tsecond.ai/
 hq: United States
+uk-region: Overseas
 sources-verified: 2026-06-30
 tags:
   - defence

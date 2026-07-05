@@ -3,11 +3,14 @@ type: organisation
 name: PATCH
 website: https://www.patchconnects.com
 hq: Austin, Texas, USA
+uk-region: Overseas
 founded: 2021
-sources-verified: 2026-06-29
+sources-verified: 2026-07-05
 tags:
   - defence
   - comms
+  - comms/tactical-radio
+  - comms/networking
   - hardware
   - owned-foreign
   - type-sme

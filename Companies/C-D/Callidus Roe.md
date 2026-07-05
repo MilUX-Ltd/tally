@@ -5,7 +5,7 @@ website: https://www.callidusroe.com
 linkedin: https://www.linkedin.com/company/callidus-roe
 companies-house: "10074821"
 hq: Longhope, United Kingdom
-uk-region: South West England
+uk-region: South West
 founded: 2016
 size: micro
 headcount: 8

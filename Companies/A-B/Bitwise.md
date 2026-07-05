@@ -24,7 +24,6 @@ tags:
   - accr-iso27001
   - accr-ce
   - accr-ce-plus
-  - accr-def-stan
   - mbr-ads
 ---
 

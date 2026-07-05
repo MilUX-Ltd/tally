@@ -5,7 +5,7 @@ website: https://www.chemring.com/
 linkedin: https://www.linkedin.com/company/chemring-group-plc
 companies-house: 00086662
 hq: Romsey, United Kingdom
-uk-region: South East England
+uk-region: South East
 founded: 1905
 size: large
 headcount: 2500+

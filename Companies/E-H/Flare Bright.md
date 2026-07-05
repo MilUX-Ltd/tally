@@ -5,7 +5,7 @@ website: https://www.flarebright.com
 linkedin: https://www.linkedin.com/company/flarebright
 companies-house: "09881164"
 hq: Aylesbury, United Kingdom
-uk-region: South East England
+uk-region: South East
 founded: 2015
 size: small
 headcount: 10-30
@@ -26,7 +26,6 @@ tags:
   - type-startup
   - owned-uk
   - backed-vc
-  - prog-dasa
   - mbr-ads
 ---
 

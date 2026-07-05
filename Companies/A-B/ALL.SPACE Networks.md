@@ -5,7 +5,7 @@ website: https://www.all.space/
 linkedin: https://www.linkedin.com/company/allspaceltd
 companies-house: 08706503
 hq: Reading, United Kingdom
-uk-region: South East England
+uk-region: South East
 founded: 2013
 size: medium
 sources-verified: 2026-07-03

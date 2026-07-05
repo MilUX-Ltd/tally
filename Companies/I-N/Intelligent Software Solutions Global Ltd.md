@@ -4,13 +4,15 @@ name: Intelligent Software Solutions Global Ltd
 website: https://www.issglobal.co.uk
 hq: Sandwich, United Kingdom
 uk-region: South East
-sources-verified: 2026-06-29
+sources-verified: 2026-07-04
 tags:
   - defence
   - mbr-ads
   - software
   - data
+  - data/analytics
   - isr
+  - isr/fusion
   - c2
   - type-sme
   - owned-uk
@@ -41,4 +43,4 @@ ISS Global develops and delivers the DFuze Product Suite, a COTS intelligence ma
 
 ## Sources
 
-Public information verified 2026-06-29. DEVONthink CRM record (ADS directory snapshot, 2026-05-15).
+Public information verified 2026-06-29. ADS Group members directory (snapshot, 2026-05-15).

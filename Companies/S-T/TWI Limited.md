@@ -3,7 +3,7 @@ type: organisation
 name: TWI Limited
 website: https://www.twi.co.uk
 hq: Cambridge, UK
-uk-region: East
+uk-region: East of England
 sources-verified: 2026-06-30
 tags:
   - defence
@@ -26,7 +26,6 @@ TWI (The Welding Institute) conducts applied research and provides technology se
 ## Frameworks, accreditations and memberships
 
 - **Memberships:** ADS Group
-- **Networks:** Aurora Provider Network (open for collaboration)
 
 ## Links
 
@@ -34,4 +33,4 @@ TWI (The Welding Institute) conducts applied research and provides technology se
 
 ## Sources
 
-Public information verified 2026-06-30. DEVONthink CRM record (ADS directory snapshot 2026-05-15); Aurora Provider Network collaboration database (Kahootz edpaurora workspace, captured 2026-05-15).
+Public information verified 2026-06-30. ADS Group members directory (snapshot, 2026-05-15).

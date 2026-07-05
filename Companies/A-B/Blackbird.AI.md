@@ -5,7 +5,7 @@ website: https://blackbird.ai
 linkedin: https://www.linkedin.com/company/blackbird-ai
 companies-house: 
 hq: New York, NY, USA
-uk-region: 
+uk-region: Overseas
 founded: 2017
 size: small
 headcount: 51-200

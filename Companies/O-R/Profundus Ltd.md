@@ -4,7 +4,7 @@ name: Profundus Ltd
 website: https://www.profundus.ltd.uk
 hq: Chandlers Ford, UK
 uk-region: South East
-sources-verified: 2026-06-30
+sources-verified: 2026-07-05
 tags:
   - defence
   - mbr-ads
@@ -31,4 +31,4 @@ Profundus provides electrical engineering consultancy and project management ser
 
 ## Sources
 
-Public information verified 2026-06-30. DEVONthink CRM record (ADS directory snapshot, 2026-05-15).
+Public information verified 2026-06-30. ADS Group members directory (snapshot, 2026-05-15).

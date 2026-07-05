@@ -8,7 +8,7 @@ hq: London, United Kingdom
 uk-region: London
 size: large
 headcount: ~93,500 worldwide
-sources-verified: 2026-07-03
+sources-verified: 2026-07-04
 tags:
   - defence
   - air

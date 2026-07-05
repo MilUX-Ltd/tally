@@ -4,6 +4,7 @@ name: Systematic
 website: https://systematic.com
 linkedin: https://www.linkedin.com/company/systematic
 hq: Aarhus, Denmark
+uk-region: Overseas
 founded: 1985
 size: large
 sources-verified: 2026-06-29

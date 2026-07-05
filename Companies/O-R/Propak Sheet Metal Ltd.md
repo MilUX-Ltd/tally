@@ -3,8 +3,8 @@ type: organisation
 name: Propak Sheet Metal Ltd
 website: https://www.propak.co.uk
 hq: Stevenage, UK
-uk-region: East
-sources-verified: 2026-06-30
+uk-region: East of England
+sources-verified: 2026-07-05
 tags:
   - defence
   - mbr-ads
@@ -14,7 +14,7 @@ tags:
   - owned-uk
   - accr-iso9001
   - accr-ce-plus
-  - fw-joscar
+  - accr-joscar
 ---
 
 # Propak Sheet Metal Ltd
@@ -42,4 +42,4 @@ Propak Sheet Metal has been manufacturing precision sheet metal components and a
 
 ## Sources
 
-Public information verified 2026-06-30. DEVONthink CRM record (ADS directory snapshot, 2026-05-15).
+Public information verified 2026-06-30. ADS Group members directory (snapshot, 2026-05-15).

@@ -4,12 +4,14 @@ name: JD2E Ltd
 website: https://jd2e-isr.com
 hq: Lincoln, United Kingdom
 uk-region: East Midlands
-sources-verified: 2026-06-29
+sources-verified: 2026-07-04
 tags:
   - defence
   - mbr-ads
   - isr
   - training
+  - training/instruction
+  - training/courseware
   - simulation
   - uas
   - type-sme
@@ -43,4 +45,4 @@ JD2E specialises in intelligence, surveillance, and reconnaissance (ISR) trainin
 
 ## Sources
 
-Public information verified 2026-06-29. DEVONthink CRM record (ADS directory snapshot, 2026-05-15).
+Public information verified 2026-07-04. ADS Group members directory (snapshot, 2026-05-15).

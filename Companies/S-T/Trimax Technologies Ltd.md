@@ -19,7 +19,6 @@ tags:
   - accr-joscar
   - accr-ce-plus
   - accr-iso9001
-  - accr-itar
 ---
 
 # Trimax Technologies Ltd
@@ -47,4 +46,4 @@ Trimax Technologies designs and supplies specialist equipment and training for d
 
 ## Sources
 
-Public information verified 2026-06-30. DEVONthink MilUX CRM record (ADS directory snapshot, 2026-05-15).
+Public information verified 2026-06-30. ADS Group members directory (snapshot, 2026-05-15).

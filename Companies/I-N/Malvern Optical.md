@@ -4,12 +4,13 @@ name: Malvern Optical Ltd
 website: https://www.malvernoptical.co.uk
 hq: Throckmorton, United Kingdom
 uk-region: West Midlands
-sources-verified: 2026-06-29
+sources-verified: 2026-07-05
 tags:
   - defence
   - mbr-ads
   - optronics
   - sensors
+  - sensors/eo-ir
   - test-evaluation
   - simulation
   - comms
@@ -19,9 +20,8 @@ tags:
   - type-sme
   - owned-uk
   - accr-ce-plus
-  - accr-itar
   - accr-iso27001
-  - fw-joscar
+  - accr-joscar
 ---
 
 # Malvern Optical
@@ -51,4 +51,4 @@ Malvern Optical is a research, development and independent test and measurement 
 
 ## Sources
 
-Public information verified 2026-06-29. ADS members directory, DEVONthink CRM record.
+Public information verified 2026-06-29. ADS members directory.

@@ -5,6 +5,7 @@ website: https://futurumglobal.com
 linkedin: https://www.linkedin.com/company/futurum-consultancy-and-training
 companies-house: "09190183"
 hq: London, UK
+uk-region: London
 founded: 2014
 size: micro
 sources-verified: 2026-07-04

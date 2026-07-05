@@ -40,4 +40,4 @@ XPI Simulation designs and manufactures a range of driving simulators, from desk
 
 ## Sources
 
-Public information verified 2026-07-01. DEVONthink CRM record (ADS directory snapshot, 2026-05-15); xpisimulation.com.
+Public information verified 2026-07-01. ADS Group members directory (snapshot, 2026-05-15); xpisimulation.com.

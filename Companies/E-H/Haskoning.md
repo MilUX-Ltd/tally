@@ -3,27 +3,28 @@ type: organisation
 name: Haskoning
 website: https://www.haskoning.com
 hq: Rotterdam, Netherlands
-uk-region: East
+uk-region: East of England
 size: large
-sources-verified: 2026-06-29
+sources-verified: 2026-07-04
 tags:
   - defence
   - maritime
   - simulation
+  - simulation/synthetic-environment
   - software
   - data
   - gis
   - manufacturing
   - training
+  - training/instruction
   - size-large
   - type-consultancy
   - type-integrator
   - owned-foreign
-  - fw-joscar
+  - accr-joscar
   - accr-iso9001
   - accr-iso27001
   - accr-ce-plus
-  - accr-def-stan
   - mbr-ads
 ---
 
@@ -53,4 +54,4 @@ Haskoning (operating globally as Royal HaskoningDHV) integrates over 140 years o
 
 ## Sources
 
-Public information verified 2026-06-29. ADS members directory snapshot (2026-05-15); haskoning.com (2026-06-29).
+Public information verified 2026-07-04. ADS members directory snapshot (2026-05-15); haskoning.com (2026-06-29); royalhaskoningdhv.com/en/services/simulation-modelling-training (2026-07-04).

@@ -4,10 +4,11 @@ name: HENSOLDT
 website: https://www.hensoldt.net/
 linkedin: https://www.linkedin.com/company/hensoldt
 hq: Taufkirchen, Germany
+uk-region: Overseas
 founded: 2017
 size: large
 headcount: ~9500
-sources-verified: 2026-06-29
+sources-verified: 2026-07-04
 tags:
   - defence
   - sensors
@@ -20,7 +21,9 @@ tags:
   - type-prime
   - listed
   - owned-foreign
-  - prog-eurofighter
+  - sensors/radar
+  - sensors/eo-ir
+  - ew/ecm
 ---
 
 # HENSOLDT

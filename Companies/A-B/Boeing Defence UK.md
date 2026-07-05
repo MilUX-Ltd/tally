@@ -4,7 +4,7 @@ name: Boeing Defence UK Limited
 website: https://www.boeing.co.uk/
 companies-house: 01290439
 hq: Chicago, United States
-uk-region: South West England
+uk-region: South West
 founded: 1976
 size: large
 sources-verified: 2026-07-04

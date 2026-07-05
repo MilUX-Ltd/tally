@@ -2,10 +2,11 @@
 type: organisation
 name: Logan Risk
 website: https://www.loganrisk.com
-sources-verified: 2026-06-29
+sources-verified: 2026-07-04
 tags:
   - defence
   - cyber
+  - cyber/grc
   - type-consultancy
   - type-sme
 ---
@@ -20,4 +21,4 @@ Logan Risk Ltd is a UK cyber security and defence consultancy. Its experts asses
 ## Links
 - Website: https://www.loganrisk.com
 ## Sources
-Public information verified 2026-06-29.
+Public information verified 2026-07-04.

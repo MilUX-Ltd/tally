@@ -5,7 +5,7 @@ website: https://asd.ltd
 linkedin: https://www.linkedin.com/company/asd-metal-services
 companies-house: 01370600
 hq: Leeds, United Kingdom
-uk-region: Yorkshire and the Humber
+uk-region: Yorkshire and The Humber
 founded: 1978
 size: large
 headcount: 250+

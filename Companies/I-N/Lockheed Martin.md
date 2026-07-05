@@ -5,10 +5,11 @@ website: https://www.lockheedmartin.com/
 linkedin: https://www.linkedin.com/company/lockheed-martin
 companies-house: "02372738"
 hq: Bethesda, United States
+uk-region: Overseas
 founded: 1995
 size: large
 headcount: ~120000
-sources-verified: 2026-06-29
+sources-verified: 2026-07-04
 tags:
   - defence
   - air
@@ -18,10 +19,19 @@ tags:
   - missiles
   - munitions
   - isr
+  - isr/geoint
+  - isr/sigint
+  - isr/imint
+  - isr/ped
   - c2
   - sensors
+  - sensors/radar
   - autonomy
+  - autonomy/navigation
+  - autonomy/uxv-control
   - cyber
+  - cyber/pen-testing
+  - cyber/incident-response
   - manufacturing
   - size-large
   - type-prime
@@ -63,4 +73,4 @@ Lockheed Martin is a global aerospace, defence, arms, security and advanced tech
 
 ## Sources
 
-Public information verified 2026-06-29. Company website (lockheedmartin.com and lockheedmartin.com/en-gb), LinkedIn company page, ADS Group members directory, Aviation A2Z, Fort Worth Report, Overt Defense. Companies House (Lockheed Martin UK Limited, company number 02372738, incorporated 17 April 1989; registered office Building 7000, Langstone Park, Langstone, Havant, Hampshire PO9 1SW). Global HQ Bethesda, Maryland; formed 1995 from the merger of Lockheed and Martin Marietta; NYSE ticker LMT. Global headcount approximately 120,000 per public figures.
+Public information verified 2026-07-04. Company website (lockheedmartin.com and lockheedmartin.com/en-gb), LinkedIn company page, ADS Group members directory, Aviation A2Z, Fort Worth Report, Overt Defense. Companies House (Lockheed Martin UK Limited, company number 02372738, incorporated 17 April 1989; registered office Building 7000, Langstone Park, Langstone, Havant, Hampshire PO9 1SW). Global HQ Bethesda, Maryland; formed 1995 from the merger of Lockheed and Martin Marietta; NYSE ticker LMT. Global headcount approximately 120,000 per public figures.

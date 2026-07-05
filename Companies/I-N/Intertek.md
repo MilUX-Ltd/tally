@@ -5,7 +5,7 @@ website: https://www.intertek.com
 hq: London, United Kingdom
 uk-region: East Midlands
 size: large
-sources-verified: 2026-06-29
+sources-verified: 2026-07-04
 tags:
   - defence
   - mbr-ads
@@ -35,4 +35,4 @@ Intertek provides testing, inspection, and certification across a broad range of
 
 ## Sources
 
-Public information verified 2026-06-29. DEVONthink CRM record (ADS directory snapshot, 2026-05-15).
+Public information verified 2026-07-04. ADS Group members directory (snapshot, 2026-05-15).

@@ -14,7 +14,7 @@ tags:
   - type-manufacturer
   - type-sme
   - owned-uk
-  - fw-joscar
+  - accr-joscar
 ---
 
 # Symetrica Security Ltd
@@ -42,4 +42,4 @@ Symetrica designs radiation detection and identification products including hand
 
 ## Sources
 
-Public information verified 2026-06-30. DEVONthink CRM record sourced from ADS members directory snapshot, 2026-05-15.
+Public information verified 2026-06-30. ADS Group members directory (snapshot, 2026-05-15).

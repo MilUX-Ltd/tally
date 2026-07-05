@@ -5,7 +5,7 @@ website: https://www.camulos.io/
 linkedin: https://uk.linkedin.com/company/camulos
 companies-house: 12996891
 hq: Gloucester, United Kingdom
-uk-region: South West England
+uk-region: South West
 founded: 2020
 size: small
 sources-verified: 2026-07-04

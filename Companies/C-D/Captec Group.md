@@ -5,7 +5,7 @@ website: https://www.captec-group.com
 linkedin: https://www.linkedin.com/company/captec
 companies-house: "11281644"
 hq: Fareham, United Kingdom
-uk-region: South East England
+uk-region: South East
 founded: 1985
 size: medium
 sources-verified: 2026-07-04
@@ -18,7 +18,7 @@ tags:
   - type-manufacturer
   - accr-iso9001
   - accr-iso14001
-  - accr-cyber-essentials-plus
+  - accr-ce-plus
   - mbr-ads
 ---
 

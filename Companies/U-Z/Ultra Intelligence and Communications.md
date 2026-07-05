@@ -4,7 +4,7 @@ name: Ultra Intelligence and Communications
 website: https://www.ultra-ic.com
 linkedin: https://www.linkedin.com/company/ultra-ic
 hq: Greenford, London
-uk-region: Greater London
+uk-region: London
 sources-verified: 2026-06-30
 tags:
   - defence

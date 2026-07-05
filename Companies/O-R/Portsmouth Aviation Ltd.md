@@ -4,7 +4,7 @@ name: Portsmouth Aviation Ltd
 website: https://www.portav.com
 hq: Portsmouth, United Kingdom
 uk-region: South East
-sources-verified: 2026-06-30
+sources-verified: 2026-07-05
 tags:
   - defence
   - mbr-ads
@@ -16,7 +16,7 @@ tags:
   - type-manufacturer
   - type-integrator
   - owned-uk
-  - fw-joscar
+  - accr-joscar
   - accr-ce-plus
   - accr-iso9001
   - accr-iso14001
@@ -49,4 +49,4 @@ Portsmouth Aviation operates from a single integrated facility in Portsmouth, co
 
 ## Sources
 
-Public information verified 2026-06-30. DEVONthink MilUX CRM record (ADS directory snapshot, 2026-05-15).
+Public information verified 2026-06-30. ADS Group members directory (snapshot, 2026-05-15).

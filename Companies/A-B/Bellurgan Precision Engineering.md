@@ -4,6 +4,7 @@ name: Bellurgan Precision Engineering Ltd
 website: https://www.bellurgan.com
 linkedin: https://www.linkedin.com/company/bellurgan-precision-engineering
 hq: Dundalk, Ireland
+uk-region: Overseas
 founded: 1978
 size: medium
 headcount: ~54

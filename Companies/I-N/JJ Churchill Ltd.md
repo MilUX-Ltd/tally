@@ -4,7 +4,10 @@ name: JJ Churchill Ltd
 website: https://www.jjchurchill.com
 hq: Market Bosworth, UK
 uk-region: West Midlands
-sources-verified: 2026-06-29
+founded: 1937
+size: small
+headcount: ~100-130
+sources-verified: 2026-07-04
 tags:
   - defence
   - mbr-ads
@@ -14,6 +17,7 @@ tags:
   - hardware
   - type-manufacturer
   - owned-uk
+  - size-small
   - accr-iso9001
   - accr-iso14001
 ---
@@ -24,7 +28,7 @@ tags:
 
 ## What they do
 
-JJ Churchill operates as a first-tier sub-contractor, taking supply-chain management responsibility and applying advanced CNC machining processes to high-value aerospace and defence components. The business works across engine components, weapon system parts and structural assemblies, using specialist materials including titanium, nickel and aluminium alloys.
+JJ Churchill operates as a first-tier sub-contractor, taking supply-chain management responsibility and applying advanced CNC machining processes to high-value aerospace and defence components. The business works across engine components, weapon system parts and structural assemblies, using specialist materials including titanium, nickel and aluminium alloys. Founded in 1937 to provide sub-contract machining to the aerospace industry, the company relocated to Market Bosworth in 1941 and today serves the aerospace, power generation, medtech, diesel engine and defence sectors.
 
 ## Products and solutions
 
@@ -40,7 +44,8 @@ JJ Churchill operates as a first-tier sub-contractor, taking supply-chain manage
 ## Links
 
 - Website: https://www.jjchurchill.com
+- LinkedIn: https://www.linkedin.com/company/jj-churchill-ltd
 
 ## Sources
 
-Public information verified 2026-06-29. DEVONthink CRM record (ADS directory snapshot, 2026-05-15).
+Public information verified 2026-07-04. ADS Group members directory (snapshot, 2026-05-15); [JJ Churchill About Us](https://www.jjchurchill.com/about-us/); [JJ Churchill LinkedIn](https://www.linkedin.com/company/jj-churchill-ltd).

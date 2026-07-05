@@ -5,7 +5,7 @@ website: https://www.eset.com/uk/
 linkedin: https://www.linkedin.com/company/eset-uk
 companies-house: "07184889"
 hq: Bratislava, Slovakia
-uk-region: South
+uk-region: Overseas
 founded: 1992
 size: medium
 sources-verified: 2026-07-04

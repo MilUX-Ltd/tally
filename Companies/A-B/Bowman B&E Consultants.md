@@ -4,7 +4,7 @@ name: Bowman B&E Ltd
 website: https://bowmanbeltd.com/
 linkedin: https://www.linkedin.com/company/107239999/
 hq: Wareham, Dorset
-uk-region: South West England
+uk-region: South West
 founded: 2024
 size: micro
 sources-verified: 2026-07-04

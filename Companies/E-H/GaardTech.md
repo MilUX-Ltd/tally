@@ -4,6 +4,7 @@ name: GaardTech Pty Ltd
 website: https://www.gaardtech.com.au
 linkedin: https://au.linkedin.com/company/gaardtech
 hq: Brisbane, Australia
+uk-region: Overseas
 founded: 2017
 size: micro
 sources-verified: 2026-07-04

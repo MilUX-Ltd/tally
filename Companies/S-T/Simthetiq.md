@@ -4,6 +4,7 @@ name: Simthetiq
 website: https://simthetiq.com
 linkedin: https://www.linkedin.com/company/simthetiq
 hq: Montreal, Canada
+uk-region: Overseas
 founded: 2005
 size: small
 sources-verified: 2026-06-29

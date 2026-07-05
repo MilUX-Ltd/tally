@@ -4,17 +4,24 @@ name: Kvertus
 website: https://kvertus.ua/en/
 linkedin: https://www.linkedin.com/company/kvertus
 hq: Kyiv, Ukraine
+uk-region: Overseas
 founded: 2017
 size: medium
-sources-verified: 2026-06-29
+sources-verified: 2026-07-04
 tags:
   - defence
   - ew
+  - ew/elint
+  - ew/ecm
+  - ew/direction-finding
   - counter-uas
+  - counter-uas/detection
+  - counter-uas/effector
   - uas
   - drones
   - rf
   - isr
+  - isr/sigint
   - sensors
   - manufacturing
   - hardware

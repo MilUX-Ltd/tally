@@ -23,7 +23,7 @@ tags:
   - type-prime
   - owned-uk
   - listed
-  - fw-joscar
+  - accr-joscar
   - accr-iso9001
   - accr-iso14001
   - accr-ce

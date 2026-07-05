@@ -5,18 +5,23 @@ website: https://www.marble.aero/
 linkedin: https://www.linkedin.com/company/marble-aerospace
 companies-house: 10183391
 hq: Chippenham, United Kingdom
-uk-region: South West England
+uk-region: South West
 founded: 2016
 size: micro
-sources-verified: 2026-06-29
+sources-verified: 2026-07-05
 tags:
   - defence
   - drones
   - uas
+  - uas/platform
   - autonomy
+  - autonomy/uxv-control
   - isr
+  - isr/imint
   - ai
+  - ai/computer-vision
   - sensors
+  - sensors/eo-ir
   - optronics
   - maritime
   - air
@@ -28,7 +33,6 @@ tags:
   - type-startup
   - owned-uk
   - mbr-ads
-  - prog-diana
 ---
 
 # Marble Aerospace

@@ -4,7 +4,7 @@ name: Techmodal
 website: https://www.techmodal.com
 linkedin: https://www.linkedin.com/company/techmodal/
 hq: Bristol, UK
-uk-region: South West England
+uk-region: South West
 founded: 2005
 size: medium
 headcount: 150

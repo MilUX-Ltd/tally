@@ -4,6 +4,7 @@ name: smartmicro
 website: https://www.smartmicro.com
 linkedin: https://www.linkedin.com/company/smartmicro
 hq: Braunschweig, Germany
+uk-region: Overseas
 founded: 1997
 size: medium
 sources-verified: 2026-06-29

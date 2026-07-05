@@ -4,7 +4,7 @@ name: Elendil Alliance Ltd
 website: https://elendil.uk
 companies-house: "16849566"
 hq: Chichester, UK
-uk-region: South East England
+uk-region: South East
 founded: 2025
 size: micro
 sources-verified: 2026-07-04

@@ -5,16 +5,20 @@ website: https://robosysautomation.com
 linkedin: https://www.linkedin.com/company/robosysautomation
 companies-house: "12369867"
 hq: Hamble, United Kingdom
-uk-region: South East England
+uk-region: South East
 size: small
 headcount: ~17
-sources-verified: 2026-06-29
+sources-verified: 2026-07-05
 tags:
   - defence
   - autonomy
+  - autonomy/navigation
+  - autonomy/uxv-control
   - maritime
   - ai
+  - ai/decision-support
   - software
+  - simulation
   - size-small
   - type-sme
   - owned-uk

@@ -5,7 +5,7 @@ website: https://www.cdsds.uk
 linkedin: https://uk.linkedin.com/company/cds-defence-support
 companies-house: 10459658
 hq: Gloucester, United Kingdom
-uk-region: South West England
+uk-region: South West
 size: medium
 sources-verified: 2026-07-04
 tags:

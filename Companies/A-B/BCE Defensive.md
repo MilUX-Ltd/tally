@@ -7,7 +7,7 @@ hq: Plymouth, United Kingdom
 uk-region: South West
 founded: 2022
 size: micro
-sources-verified: 2026-07-03
+sources-verified: 2026-07-04
 tags:
   - defence
   - manufacturing

@@ -4,6 +4,7 @@ name: K39 Consulting
 website: https://www.k39consulting.com
 linkedin: https://www.linkedin.com/company/k39-consulting-pty-ltd/
 hq: Sydney, NSW, Australia
+uk-region: Overseas
 founded: 2018
 size: small
 headcount: 44

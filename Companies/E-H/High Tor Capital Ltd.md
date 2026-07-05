@@ -8,7 +8,7 @@ hq: London, United Kingdom
 uk-region: London
 founded: 2024
 size: micro
-sources-verified: 2026-06-29
+sources-verified: 2026-07-04
 tags:
   - defence
   - size-micro
@@ -29,6 +29,10 @@ High Tor Capital is a venture capital fund focused on foundational, dual-use tec
 
 - **Memberships:** ADS Group
 
+## Recent news
+
+- **2025-08** - High Tor Capital led a $46 million Series A for Hypersonix Launch Systems, an Australian hypersonic vehicle developer, alongside Saab and other co-investors. [source](https://www.hypersonix.com/resources/news/global-defence-investors-for-australian-hypersonic-flight-pioneer)
+
 ## Links
 
 - Website: https://www.hightorcapital.com
@@ -36,4 +40,4 @@ High Tor Capital is a venture capital fund focused on foundational, dual-use tec
 
 ## Sources
 
-Public information verified 2026-06-29. ADS members directory (snapshot 2026-05-15); hightorcapital.com (public website); Companies House (number 15733891); Crunchbase; Outlander VC dual-use investor list.
+Public information verified 2026-07-04. ADS members directory (snapshot 2026-05-15); hightorcapital.com (public website); Companies House (number 15733891); Crunchbase; Outlander VC dual-use investor list; Hypersonix Launch Systems press release; Space & Defense coverage.

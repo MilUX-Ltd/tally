@@ -5,7 +5,7 @@ website: https://allied.adaptive.industries/
 linkedin: https://www.linkedin.com/company/allied-adaptive-industries/
 companies-house: 15247291
 hq: London
-uk-region: Greater London
+uk-region: London
 sources-verified: 2026-07-03
 tags:
   - defence

@@ -5,7 +5,7 @@ website: https://www.geaerospace.com
 linkedin: https://www.linkedin.com/company/geaerospace/
 companies-house: "06051522"
 hq: Cincinnati, United States
-uk-region: South West England
+uk-region: South West
 size: large
 headcount: 2000+
 sources-verified: 2026-07-04

@@ -5,7 +5,7 @@ website: https://www.uk-cpi.com
 linkedin: https://www.linkedin.com/company/uk-cpi
 companies-house: "05002194"
 hq: Redcar, United Kingdom
-uk-region: North East England
+uk-region: North East
 founded: 2004
 size: medium
 headcount: 450

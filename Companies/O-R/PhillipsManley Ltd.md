@@ -4,7 +4,7 @@ name: PhillipsManley Ltd
 website: https://www.phillipsmanley.co.uk
 hq: Derby, United Kingdom
 uk-region: East Midlands
-sources-verified: 2026-06-30
+sources-verified: 2026-07-05
 tags:
   - defence
   - mbr-ads
@@ -35,4 +35,4 @@ PhillipsManley provides asset management and lifecycle engineering services, inc
 
 ## Sources
 
-Public information verified 2026-06-30. DEVONthink MilUX CRM record (ADS directory snapshot, 2026-05-15).
+Public information verified 2026-07-05. ADS Group members directory (snapshot, 2026-05-15). No further independently verifiable public source material (company website, LinkedIn, Companies House record) could be located in this pass; the existing text above remains the only sourced description on file.

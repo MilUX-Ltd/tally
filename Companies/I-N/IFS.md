@@ -5,7 +5,7 @@ website: https://www.ifs.com/industries/aerospace-and-defense
 hq: Linköping, Sweden
 uk-region: South East
 size: large
-sources-verified: 2026-06-29
+sources-verified: 2026-07-04
 tags:
   - defence
   - mbr-ads
@@ -40,4 +40,4 @@ IFS develops and delivers cloud enterprise software built around manufacturing, 
 
 ## Sources
 
-Public information verified 2026-06-29. DEVONthink CRM record (ADS members directory, captured May 2026).
+Public information verified 2026-06-29. ADS Group members directory (captured May 2026).

@@ -4,6 +4,7 @@ name: Distance Technologies
 website: https://distance.tech/
 linkedin: https://www.linkedin.com/company/distance-technologies
 hq: Helsinki, Finland
+uk-region: Overseas
 founded: 2024
 size: small
 sources-verified: 2026-07-04

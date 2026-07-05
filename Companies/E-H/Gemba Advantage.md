@@ -5,7 +5,7 @@ website: https://www.gembaadvantage.com
 linkedin: https://www.linkedin.com/company/gembaadvantage
 companies-house: "11682283"
 hq: Cheltenham, United Kingdom
-uk-region: South West England
+uk-region: South West
 founded: 2018
 size: small
 headcount: 70+

@@ -4,15 +4,18 @@ name: Neros Technologies
 website: https://www.neros.tech/
 linkedin: https://www.linkedin.com/company/neros-tech
 hq: El Segundo, United States
+uk-region: Overseas
 founded: 2023
 size: medium
-sources-verified: 2026-06-29
+sources-verified: 2026-07-05
 tags:
   - defence
   - drones
   - uas
+  - uas/platform
   - munitions
   - autonomy
+  - autonomy/uxv-control
   - manufacturing
   - hardware
   - size-medium

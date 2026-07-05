@@ -4,7 +4,7 @@ name: Pear Tree (Consulting & Development) Ltd
 website: https://www.peartreeltd.co.uk
 hq: Reading, United Kingdom
 uk-region: South East
-sources-verified: 2026-06-30
+sources-verified: 2026-07-05
 tags:
   - defence
   - mbr-ads
@@ -33,4 +33,4 @@ Pear Tree provides consultancy in international security and defence, primarily 
 
 ## Sources
 
-Public information verified 2026-06-30. ADS Group member directory (snapshot 2026-05-15).
+Public information verified 2026-07-05. ADS Group member directory (snapshot 2026-05-15, confirmed 2026-07-05). The company's own website (peartreeltd.co.uk) is not currently live; no further public detail beyond the ADS profile was found.

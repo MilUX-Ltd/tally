@@ -5,11 +5,11 @@ website: https://www.atlantic-precision.co.uk/
 linkedin: https://www.linkedin.com/company/atlantic-precision-engineering-ltd
 companies-house: 02448830
 hq: Yateley, England
-uk-region: South East England
+uk-region: South East
 founded: 1989
 size: small
 headcount: 11-50
-sources-verified: 2026-07-03
+sources-verified: 2026-07-04
 tags:
   - defence
   - air

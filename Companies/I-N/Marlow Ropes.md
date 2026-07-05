@@ -3,8 +3,8 @@ type: organisation
 name: Marlow Ropes Ltd
 website: https://www.marlowropes.com
 hq: Hailsham, United Kingdom
-uk-region: South East England
-sources-verified: 2026-06-29
+uk-region: South East
+sources-verified: 2026-07-05
 tags:
   - defence
   - mbr-ads

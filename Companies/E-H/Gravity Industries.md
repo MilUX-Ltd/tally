@@ -8,7 +8,7 @@ hq: Salisbury, UK
 uk-region: South West
 founded: 2017
 size: micro
-sources-verified: 2026-06-29
+sources-verified: 2026-07-04
 tags:
   - defence
   - autonomy

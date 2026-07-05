@@ -4,7 +4,7 @@ name: Hydro Aluminium UK Ltd
 website: https://www.hydro.com
 hq: Oslo, Norway
 uk-region: East Midlands
-sources-verified: 2026-06-29
+sources-verified: 2026-07-04
 tags:
   - defence
   - mbr-ads
@@ -33,4 +33,4 @@ Hydro Aluminium UK is part of Norsk Hydro ASA, a global aluminium and renewable 
 
 ## Sources
 
-Public information verified 2026-06-29. DEVONthink MilUX CRM record (ADS directory snapshot, 2026-05-15).
+Public information verified 2026-07-04. ADS Group members directory (snapshot, 2026-05-15). Hydro website (hydro.com), ADS Group members directory.

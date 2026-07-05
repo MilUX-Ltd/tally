@@ -3,6 +3,7 @@ type: organisation
 name: Applied Intuition UK Ltd
 website: https://www.appliedintuition.com
 hq: Mountain View, United States
+uk-region: Overseas
 founded: 2025
 size: small
 sources-verified: 2026-07-03

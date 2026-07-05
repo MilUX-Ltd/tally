@@ -4,7 +4,7 @@ name: RHH Franks Ltd
 website: https://www.rhhfranks.co.uk
 hq: New Milton, Hampshire, United Kingdom
 uk-region: South East
-sources-verified: 2026-06-30
+sources-verified: 2026-07-05
 tags:
   - defence
   - mbr-ads
@@ -41,4 +41,4 @@ RHH Franks is an end-to-end provider of precision engineered components and asse
 
 ## Sources
 
-Public information verified 2026-06-30. DEVONthink CRM record (ADS directory snapshot, 2026-05-15).
+Public information verified 2026-07-05. ADS Group members directory (snapshot, 2026-05-15).

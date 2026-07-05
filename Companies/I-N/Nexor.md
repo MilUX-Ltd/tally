@@ -7,10 +7,11 @@ companies-house: 05152465
 hq: Nottingham, United Kingdom
 uk-region: East Midlands
 size: small
-sources-verified: 2026-06-29
+sources-verified: 2026-07-05
 tags:
   - defence
   - cyber
+  - cyber/cross-domain
   - software
   - data
   - size-small

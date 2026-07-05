@@ -5,7 +5,7 @@ website: https://cambrairisk.com
 linkedin: https://www.linkedin.com/company/cambrai-risk-solutions
 companies-house: "16165420"
 hq: London, United Kingdom
-uk-region: Greater London
+uk-region: London
 founded: 2025
 size: micro
 sources-verified: 2026-07-04

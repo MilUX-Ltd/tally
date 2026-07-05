@@ -5,7 +5,7 @@ website: https://sa.catapult.org.uk
 linkedin: https://www.linkedin.com/company/satellite-applications-catapult/
 companies-house: 07964746
 hq: Harwell, UK
-uk-region: South East England
+uk-region: South East
 founded: 2013
 size: medium
 headcount: 51-200

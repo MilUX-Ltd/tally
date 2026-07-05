@@ -3,7 +3,7 @@ type: organisation
 name: Force Development
 website: https://forcedevelopment.co.uk
 hq: Fareham, Hampshire
-uk-region: South East England
+uk-region: South East
 sources-verified: 2026-07-04
 tags:
   - defence

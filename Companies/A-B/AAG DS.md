@@ -4,7 +4,7 @@ name: AAG DS Ltd
 website: https://www.atlanticaviation.ie/our-services/defence-services/
 linkedin: https://uk.linkedin.com/company/aag-defence-services
 hq: Shannon, Ireland
-uk-region: South East England
+uk-region: South East
 founded: 2020
 size: medium
 headcount: 100+

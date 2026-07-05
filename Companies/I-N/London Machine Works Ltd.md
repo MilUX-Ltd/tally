@@ -4,8 +4,8 @@ name: London Machine Works Ltd
 website: https://londonmachineworks.com
 linkedin: https://www.linkedin.com/company/london-machine-works/
 hq: Farnborough, Hampshire
-uk-region: South East England
-sources-verified: 2026-06-29
+uk-region: South East
+sources-verified: 2026-07-04
 tags:
   - defence
   - manufacturing
@@ -24,4 +24,4 @@ London Machine Works Ltd is a UK defence engineering and manufacturing company b
 - Website: https://londonmachineworks.com
 - LinkedIn: https://www.linkedin.com/company/london-machine-works/
 ## Sources
-Public information verified 2026-06-29.
+Public information verified 2026-07-04.

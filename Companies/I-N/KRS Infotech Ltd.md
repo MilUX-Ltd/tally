@@ -3,7 +3,7 @@ type: organisation
 name: KRS Infotech Ltd
 website: https://krsinfotech.co.uk/
 hq: Colchester, United Kingdom
-uk-region: East
+uk-region: East of England
 size: small
 sources-verified: 2026-07-03
 tags:
@@ -44,4 +44,4 @@ KRS Infotech supplies skilled professionals and managed delivery expertise to pr
 
 ## Sources
 
-Public information verified 2026-07-03. DEVONthink MilUX CRM record (ADS directory snapshot, 2026-05-15). ADS Group member profile (https://www.adsgroup.org.uk/members/krs-infotech-ltd-1/). No dated news items or a verifiable company LinkedIn/careers page could be confirmed as of this pass; several unrelated companies share the "KRS Infotech" name (including an India-based CRM software firm), so no LinkedIn URL has been added without stronger confirmation it belongs to this UK entity.
+Public information verified 2026-07-03. ADS Group members directory (snapshot, 2026-05-15). ADS Group member profile (https://www.adsgroup.org.uk/members/krs-infotech-ltd-1/). No dated news items or a verifiable company LinkedIn/careers page could be confirmed as of this pass; several unrelated companies share the "KRS Infotech" name (including an India-based CRM software firm), so no LinkedIn URL has been added without stronger confirmation it belongs to this UK entity.

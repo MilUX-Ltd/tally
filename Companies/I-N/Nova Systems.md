@@ -5,11 +5,11 @@ website: https://www.novasystems.com/
 linkedin: https://www.linkedin.com/company/nova-systems-international
 companies-house: 03752187
 hq: Adelaide, Australia
-uk-region: South West England
+uk-region: South West
 founded: 2000
 size: large
 headcount: 1000+
-sources-verified: 2026-06-29
+sources-verified: 2026-07-05
 tags:
   - defence
   - test-evaluation
@@ -64,4 +64,4 @@ Nova Systems is a 100% Australian-owned engineering services and technology solu
 
 ## Sources
 
-Public information verified 2026-06-29. Company website (novasystems.com), LinkedIn company page, Companies House (03752187), ADS member directory, and defence trade press. Global headcount of more than 1,000 stated publicly; a discrete UK-only figure was not found. Recent news dates are month-level where the underlying source did not state a precise day.
+Public information verified 2026-07-05. Company website (novasystems.com), LinkedIn company page, Companies House (03752187), ADS member directory, and defence trade press. Global headcount of more than 1,000 stated publicly; a discrete UK-only figure was not found. Recent news dates are month-level where the underlying source did not state a precise day. No capability subsets added for cyber, training or simulation: the page text describes these only at a general level (T&E Centre of Excellence, "advanced training") without stating a specific subset such as courseware, synthetic environments or a named cyber discipline.

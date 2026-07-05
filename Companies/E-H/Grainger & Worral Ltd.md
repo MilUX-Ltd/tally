@@ -5,7 +5,7 @@ website: https://www.gwcast.com
 hq: Bridgnorth, United Kingdom
 uk-region: West Midlands
 size: medium
-sources-verified: 2026-06-29
+sources-verified: 2026-07-04
 tags:
   - defence
   - manufacturing
@@ -15,7 +15,7 @@ tags:
   - size-medium
   - type-manufacturer
   - owned-uk
-  - fw-joscar
+  - accr-joscar
   - accr-iso9001
   - accr-iso14001
   - mbr-ads
@@ -46,4 +46,4 @@ Grainger & Worral produces lightweight, high-integrity aluminium sand castings f
 
 ## Sources
 
-Public information verified 2026-06-29. DEVONthink ADS directory snapshot (2026-05-15); gwcast.com (2026-06-29).
+Public information verified 2026-06-29. ADS Group members directory (snapshot, 2026-05-15); gwcast.com (2026-06-29).

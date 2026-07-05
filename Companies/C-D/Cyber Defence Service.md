@@ -5,7 +5,7 @@ website: https://www.cyberdefenceservice.co.uk/
 linkedin: https://uk.linkedin.com/company/cyber-defence-service-ltd
 companies-house: "10290462"
 hq: Manchester, United Kingdom
-uk-region: North West England
+uk-region: North West
 founded: 2016
 size: micro
 sources-verified: 2026-07-04
@@ -20,7 +20,7 @@ tags:
   - software
   - size-micro
   - type-sme
-  - accr-cyber-essentials-plus
+  - accr-ce-plus
 ---
 
 # Cyber Defence Service Ltd

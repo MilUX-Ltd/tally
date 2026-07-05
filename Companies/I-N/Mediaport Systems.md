@@ -4,13 +4,14 @@ name: Mediaport Systems
 website: https://www.mediaportsystems.com
 linkedin: https://www.linkedin.com/company/mediaport-systems/
 hq: London
-uk-region: Greater London
+uk-region: London
 founded: 2024
 size: micro
-sources-verified: 2026-06-29
+sources-verified: 2026-07-05
 tags:
   - defence
   - comms
+  - comms/networking
   - hardware
   - size-micro
   - type-startup

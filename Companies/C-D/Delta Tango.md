@@ -3,7 +3,7 @@ type: organisation
 name: Delta Tango
 website: https://deltatango.io
 hq: Weymouth, United Kingdom
-uk-region: South West England
+uk-region: South West
 size: micro
 sources-verified: 2026-07-04
 tags:

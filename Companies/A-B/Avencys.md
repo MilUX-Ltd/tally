@@ -4,7 +4,7 @@ name: Avencys
 hq: Berkshire, United Kingdom
 uk-region: South East
 size: small
-sources-verified: 2026-07-03
+sources-verified: 2026-07-04
 tags:
   - defence
   - test-evaluation

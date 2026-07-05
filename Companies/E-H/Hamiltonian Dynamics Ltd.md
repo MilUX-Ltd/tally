@@ -4,17 +4,19 @@ name: Hamiltonian Dynamics Ltd
 website: https://www.hdcorp.co.uk
 companies-house: "12581405"
 hq: Hereford, United Kingdom
-uk-region: South West / West Midlands
+uk-region: West Midlands
 founded: 2020
 size: small
 headcount: 30+
-sources-verified: 2026-06-29
+sources-verified: 2026-07-04
 tags:
   - defence
   - cyber
   - software
   - data
+  - data/analytics
   - c2
+  - c2/integration
   - size-small
   - type-sme
   - owned-uk
@@ -46,4 +48,4 @@ Hamiltonian Dynamics builds secure, high-performance software for the defence, n
 
 ## Sources
 
-Public information verified 2026-06-29. ADS Group members directory (snapshot 2026-05-15); Companies House (company 12581405); hdcorp.co.uk (public website); Digital Marketplace supplier listing.
+Public information verified 2026-07-04. ADS Group members directory (snapshot 2026-05-15); Companies House (company 12581405); hdcorp.co.uk (public website); Digital Marketplace supplier listing.

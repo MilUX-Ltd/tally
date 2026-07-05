@@ -5,15 +5,16 @@ website: https://i3secure.co.uk/
 linkedin: https://uk.linkedin.com/company/i3secureuk
 hq: United Kingdom
 size: small
-sources-verified: 2026-06-29
+sources-verified: 2026-07-05
 tags:
   - defence
   - cyber
+  - cyber/grc
   - software
   - size-small
   - type-consultancy
   - accr-iso27001
-  - accr-cyber-essentials
+  - accr-ce
 ---
 
 # i3Secure

@@ -4,6 +4,7 @@ name: CrowdStrike Holdings, Inc.
 website: https://www.crowdstrike.co.uk/
 linkedin: https://www.linkedin.com/company/crowdstrike
 hq: Austin, United States
+uk-region: Overseas
 founded: 2011
 size: large
 sources-verified: 2026-07-04

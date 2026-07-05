@@ -8,11 +8,14 @@ hq: Luton, United Kingdom
 uk-region: East of England
 founded: 1970
 size: medium
-sources-verified: 2026-06-29
+sources-verified: 2026-07-05
 tags:
   - defence
   - comms
   - sensors
+  - sensors/pnt
+  - sensors/radar
+  - sensors/eo-ir
   - rf
   - air
   - hardware

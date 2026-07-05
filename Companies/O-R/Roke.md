@@ -5,21 +5,34 @@ website: https://www.roke.co.uk/
 linkedin: https://www.linkedin.com/company/roke-manor-research
 companies-house: 00267550
 hq: Romsey, England
-uk-region: South East England
+uk-region: South East
 founded: 1956
 size: large
-sources-verified: 2026-06-29
+sources-verified: 2026-07-05
 tags:
   - defence
   - ai
+  - ai/ml-analytics
+  - ai/computer-vision
   - cyber
   - comms
   - isr
+  - isr/fusion
+  - isr/geoint
   - ew
   - sensors
+  - sensors/radar
   - rf
   - counter-uas
+  - counter-uas/detection
+  - counter-uas/effector
   - autonomy
+  - autonomy/navigation
+  - autonomy/uxv-control
+  - c2
+  - c2/integration
+  - space
+  - maritime
   - gis
   - test-evaluation
   - size-large

@@ -22,7 +22,7 @@ tags:
   - type-sme
   - type-integrator
   - owned-uk
-  - fw-joscar
+  - accr-joscar
   - accr-iso9001
   - accr-ce-plus
   - mbr-ads

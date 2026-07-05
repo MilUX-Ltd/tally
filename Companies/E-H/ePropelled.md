@@ -9,11 +9,12 @@ uk-region: West Midlands
 founded: 2018
 size: small
 headcount: 80
-sources-verified: 2026-06-29
+sources-verified: 2026-07-04
 tags:
   - defence
   - drones
   - uas
+  - uas/platform
   - munitions
   - autonomy
   - hardware
@@ -58,4 +59,16 @@ ePropelled designs and manufactures high-performance electric motors, hybrid sta
 
 ## Sources
 
-Public information verified 2026-06-29. ADS Group industry news: https://www.adsgroup.org.uk/knowledge/industry-member-news/hercules-power-solutions-expanded-by-epropelled/. ADS Advance: https://www.adsadvance.co.uk/global-innovation-centre-opened-by-epropelled-in-coventry.html. Companies House: https://find-and-update.company-information.service.gov.uk/company/03681737. ePropelled website: https://epropelled.com. DroneLife coverage (multiple articles, 2025-2026).
+Public information verified 2026-07-04.
+- https://epropelled.com
+- https://epropelled.com/pages/uncrewed-aerial-vehicles
+- https://epropelled.com/pages/uncrewed-ground-vehicles
+- https://epropelled.com/pages/uncrewed-surface-vehicles
+- https://www.adsgroup.org.uk/knowledge/industry-member-news/hercules-power-solutions-expanded-by-epropelled/
+- https://www.adsadvance.co.uk/global-innovation-centre-opened-by-epropelled-in-coventry.html
+- https://find-and-update.company-information.service.gov.uk/company/03681737
+- https://dronelife.com/2026/03/23/epropelled-opens-uk-hub-to-scale-uav-propulsion/
+- https://dronelife.com/2026/03/05/epropelled-esc-intelligent-power-systems-expansion/
+- https://dronelife.com/2026/01/13/hirth-engines-epropelled-partner-for-hybrid-uav-power-systems/
+- https://dronelife.com/2025/12/09/epropelled-expands-sparrow-motor-line-for-mission-critical-defense-uavs/
+- https://dronelife.com/2025/08/22/epropelled-expands-u-s-manufacturing-to-meet-rising-demand-for-drone-components/

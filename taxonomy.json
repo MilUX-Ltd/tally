@@ -1,0 +1,764 @@
+{
+  "generated": "2026-07-05",
+  "note": "Authoritative controlled vocabulary for Tally facet tags. Machine-readable source of truth consumed by tally-build-web.py (label injection + validation). Human-readable mirror in Taxonomy.md.",
+  "facets": {
+    "capability": {
+      "label": "Capability",
+      "values": [
+        {
+          "slug": "academia",
+          "label": "Academia"
+        },
+        {
+          "slug": "acoustic",
+          "label": "Acoustic"
+        },
+        {
+          "slug": "aerospace",
+          "label": "Aerospace"
+        },
+        {
+          "slug": "ai",
+          "label": "AI"
+        },
+        {
+          "slug": "ai/computer-vision",
+          "label": "AI / Computer Vision"
+        },
+        {
+          "slug": "ai/decision-support",
+          "label": "AI / Decision Support"
+        },
+        {
+          "slug": "ai/generative",
+          "label": "AI / Generative"
+        },
+        {
+          "slug": "ai/ml-analytics",
+          "label": "AI / ML Analytics"
+        },
+        {
+          "slug": "ai/nlp",
+          "label": "AI / NLP"
+        },
+        {
+          "slug": "air",
+          "label": "Air"
+        },
+        {
+          "slug": "autonomy",
+          "label": "Autonomy"
+        },
+        {
+          "slug": "autonomy/eod-robotics",
+          "label": "Autonomy / EOD Robotics"
+        },
+        {
+          "slug": "autonomy/navigation",
+          "label": "Autonomy / Navigation"
+        },
+        {
+          "slug": "autonomy/swarming",
+          "label": "Autonomy / Swarming"
+        },
+        {
+          "slug": "autonomy/uxv-control",
+          "label": "Autonomy / UxV Control"
+        },
+        {
+          "slug": "avionics",
+          "label": "Avionics"
+        },
+        {
+          "slug": "c2",
+          "label": "C2"
+        },
+        {
+          "slug": "c2/battle-management",
+          "label": "C2 / Battle Management"
+        },
+        {
+          "slug": "c2/integration",
+          "label": "C2 / Integration"
+        },
+        {
+          "slug": "c2/mission-planning",
+          "label": "C2 / Mission Planning"
+        },
+        {
+          "slug": "c2/situational-awareness",
+          "label": "C2 / Situational Awareness"
+        },
+        {
+          "slug": "c2/targeting",
+          "label": "C2 / Targeting"
+        },
+        {
+          "slug": "cbrn",
+          "label": "CBRN"
+        },
+        {
+          "slug": "cloud",
+          "label": "Cloud"
+        },
+        {
+          "slug": "comms",
+          "label": "Comms"
+        },
+        {
+          "slug": "comms/networking",
+          "label": "Comms / Networking"
+        },
+        {
+          "slug": "comms/satcom",
+          "label": "Comms / SATCOM"
+        },
+        {
+          "slug": "comms/secure-voice",
+          "label": "Comms / Secure Voice"
+        },
+        {
+          "slug": "comms/tactical-radio",
+          "label": "Comms / Tactical Radio"
+        },
+        {
+          "slug": "comms/waveforms",
+          "label": "Comms / Waveforms"
+        },
+        {
+          "slug": "consultancy",
+          "label": "Consultancy"
+        },
+        {
+          "slug": "counter-uas",
+          "label": "Counter-UAS"
+        },
+        {
+          "slug": "counter-uas/detection",
+          "label": "Counter-UAS / Detection"
+        },
+        {
+          "slug": "counter-uas/effector",
+          "label": "Counter-UAS / Effector"
+        },
+        {
+          "slug": "cyber",
+          "label": "Cyber"
+        },
+        {
+          "slug": "cyber/cross-domain",
+          "label": "Cyber / Cross Domain"
+        },
+        {
+          "slug": "cyber/digital-forensics",
+          "label": "Cyber / Digital Forensics"
+        },
+        {
+          "slug": "cyber/encryption",
+          "label": "Cyber / Encryption"
+        },
+        {
+          "slug": "cyber/grc",
+          "label": "Cyber / GRC"
+        },
+        {
+          "slug": "cyber/idam",
+          "label": "Cyber / IDAM"
+        },
+        {
+          "slug": "cyber/incident-response",
+          "label": "Cyber / Incident Response"
+        },
+        {
+          "slug": "cyber/ot-security",
+          "label": "Cyber / OT Security"
+        },
+        {
+          "slug": "cyber/pen-testing",
+          "label": "Cyber / Pen Testing"
+        },
+        {
+          "slug": "cyber/red-team",
+          "label": "Cyber / Red Team"
+        },
+        {
+          "slug": "cyber/soc-monitoring",
+          "label": "Cyber / SOC Monitoring"
+        },
+        {
+          "slug": "cyber/threat-intel",
+          "label": "Cyber / Threat Intel"
+        },
+        {
+          "slug": "cyber/vuln-management",
+          "label": "Cyber / Vuln Management"
+        },
+        {
+          "slug": "data",
+          "label": "Data"
+        },
+        {
+          "slug": "data/analytics",
+          "label": "Data / Analytics"
+        },
+        {
+          "slug": "data/engineering",
+          "label": "Data / Engineering"
+        },
+        {
+          "slug": "data/labelling",
+          "label": "Data / Labelling"
+        },
+        {
+          "slug": "data/visualisation",
+          "label": "Data / Visualisation"
+        },
+        {
+          "slug": "detection",
+          "label": "Detection"
+        },
+        {
+          "slug": "drones",
+          "label": "Drones"
+        },
+        {
+          "slug": "electronics",
+          "label": "Electronics"
+        },
+        {
+          "slug": "ew",
+          "label": "EW"
+        },
+        {
+          "slug": "ew/direction-finding",
+          "label": "EW / Direction Finding"
+        },
+        {
+          "slug": "ew/eccm",
+          "label": "EW / ECCM"
+        },
+        {
+          "slug": "ew/ecm",
+          "label": "EW / ECM"
+        },
+        {
+          "slug": "ew/elint",
+          "label": "EW / ELINT"
+        },
+        {
+          "slug": "ew/spectrum-management",
+          "label": "EW / Spectrum Management"
+        },
+        {
+          "slug": "fpv",
+          "label": "FPV"
+        },
+        {
+          "slug": "gis",
+          "label": "GIS"
+        },
+        {
+          "slug": "hardware",
+          "label": "Hardware"
+        },
+        {
+          "slug": "human-factors",
+          "label": "Human Factors"
+        },
+        {
+          "slug": "integration",
+          "label": "Integration"
+        },
+        {
+          "slug": "integrator",
+          "label": "Integrator"
+        },
+        {
+          "slug": "isr",
+          "label": "ISR"
+        },
+        {
+          "slug": "isr/fusion",
+          "label": "ISR / Fusion"
+        },
+        {
+          "slug": "isr/geoint",
+          "label": "ISR / GEOINT"
+        },
+        {
+          "slug": "isr/imint",
+          "label": "ISR / IMINT"
+        },
+        {
+          "slug": "isr/osint",
+          "label": "ISR / OSINT"
+        },
+        {
+          "slug": "isr/ped",
+          "label": "ISR / PED"
+        },
+        {
+          "slug": "isr/sigint",
+          "label": "ISR / SIGINT"
+        },
+        {
+          "slug": "it",
+          "label": "IT"
+        },
+        {
+          "slug": "land",
+          "label": "Land"
+        },
+        {
+          "slug": "logistics",
+          "label": "Logistics"
+        },
+        {
+          "slug": "manufacturer",
+          "label": "Manufacturer"
+        },
+        {
+          "slug": "manufacturing",
+          "label": "Manufacturing"
+        },
+        {
+          "slug": "maritime",
+          "label": "Maritime"
+        },
+        {
+          "slug": "missiles",
+          "label": "Missiles"
+        },
+        {
+          "slug": "munitions",
+          "label": "Munitions"
+        },
+        {
+          "slug": "optronics",
+          "label": "Optronics"
+        },
+        {
+          "slug": "quantum",
+          "label": "Quantum"
+        },
+        {
+          "slug": "radar",
+          "label": "Radar"
+        },
+        {
+          "slug": "rf",
+          "label": "RF"
+        },
+        {
+          "slug": "robotics",
+          "label": "Robotics"
+        },
+        {
+          "slug": "satellite",
+          "label": "Satellite"
+        },
+        {
+          "slug": "sensors",
+          "label": "Sensors"
+        },
+        {
+          "slug": "sensors/acoustic-sonar",
+          "label": "Sensors / Acoustic Sonar"
+        },
+        {
+          "slug": "sensors/eo-ir",
+          "label": "Sensors / EO-IR"
+        },
+        {
+          "slug": "sensors/pnt",
+          "label": "Sensors / PNT"
+        },
+        {
+          "slug": "sensors/radar",
+          "label": "Sensors / Radar"
+        },
+        {
+          "slug": "services",
+          "label": "Services"
+        },
+        {
+          "slug": "shipbuilding",
+          "label": "Shipbuilding"
+        },
+        {
+          "slug": "simulation",
+          "label": "Simulation"
+        },
+        {
+          "slug": "simulation/lvc",
+          "label": "Simulation / LVC"
+        },
+        {
+          "slug": "simulation/synthetic-environment",
+          "label": "Simulation / Synthetic Environment"
+        },
+        {
+          "slug": "software",
+          "label": "Software"
+        },
+        {
+          "slug": "space",
+          "label": "Space"
+        },
+        {
+          "slug": "surveillance",
+          "label": "Surveillance"
+        },
+        {
+          "slug": "systems-engineering",
+          "label": "Systems Engineering"
+        },
+        {
+          "slug": "test-evaluation",
+          "label": "Test & Evaluation"
+        },
+        {
+          "slug": "training",
+          "label": "Training"
+        },
+        {
+          "slug": "training/courseware",
+          "label": "Training / Courseware"
+        },
+        {
+          "slug": "training/instruction",
+          "label": "Training / Instruction"
+        },
+        {
+          "slug": "uas",
+          "label": "UAS"
+        },
+        {
+          "slug": "uas/payload",
+          "label": "UAS / Payload"
+        },
+        {
+          "slug": "uas/platform",
+          "label": "UAS / Platform"
+        },
+        {
+          "slug": "vehicles",
+          "label": "Vehicles"
+        }
+      ]
+    },
+    "size": {
+      "label": "Size",
+      "order": [
+        "size-micro",
+        "size-small",
+        "size-medium",
+        "size-large"
+      ],
+      "values": [
+        {
+          "slug": "size-micro",
+          "label": "Micro"
+        },
+        {
+          "slug": "size-small",
+          "label": "Small"
+        },
+        {
+          "slug": "size-medium",
+          "label": "Medium"
+        },
+        {
+          "slug": "size-large",
+          "label": "Large"
+        }
+      ]
+    },
+    "region": {
+      "label": "Region",
+      "values": [
+        {
+          "value": "North East"
+        },
+        {
+          "value": "North West"
+        },
+        {
+          "value": "Yorkshire and The Humber"
+        },
+        {
+          "value": "East Midlands"
+        },
+        {
+          "value": "West Midlands"
+        },
+        {
+          "value": "East of England"
+        },
+        {
+          "value": "London"
+        },
+        {
+          "value": "South East"
+        },
+        {
+          "value": "South West"
+        },
+        {
+          "value": "Scotland"
+        },
+        {
+          "value": "Wales"
+        },
+        {
+          "value": "Northern Ireland"
+        },
+        {
+          "value": "Overseas"
+        }
+      ]
+    },
+    "frameworks": {
+      "label": "Framework",
+      "values": [
+        {
+          "slug": "fw-ccs",
+          "label": "CCS"
+        },
+        {
+          "slug": "fw-dips",
+          "label": "DIPS"
+        },
+        {
+          "slug": "fw-dos",
+          "label": "DOS"
+        },
+        {
+          "slug": "fw-gcloud",
+          "label": "G-Cloud"
+        }
+      ]
+    },
+    "accreditations": {
+      "label": "Accreditation",
+      "values": [
+        {
+          "slug": "accr-as9100",
+          "label": "AS9100"
+        },
+        {
+          "slug": "accr-ce",
+          "label": "Cyber Essentials"
+        },
+        {
+          "slug": "accr-ce-plus",
+          "label": "Cyber Essentials Plus"
+        },
+        {
+          "slug": "accr-crest",
+          "label": "CREST"
+        },
+        {
+          "slug": "accr-iso9001",
+          "label": "ISO 9001"
+        },
+        {
+          "slug": "accr-iso13485",
+          "label": "ISO 13485"
+        },
+        {
+          "slug": "accr-iso14001",
+          "label": "ISO 14001"
+        },
+        {
+          "slug": "accr-iso27001",
+          "label": "ISO 27001"
+        },
+        {
+          "slug": "accr-joscar",
+          "label": "JOSCAR"
+        }
+      ]
+    },
+    "memberships": {
+      "label": "Membership",
+      "values": [
+        {
+          "slug": "mbr-ads",
+          "label": "ADS Group"
+        },
+        {
+          "slug": "mbr-ciehf",
+          "label": "CIEHF"
+        },
+        {
+          "slug": "mbr-makeuk",
+          "label": "Make UK"
+        },
+        {
+          "slug": "mbr-makeuk-defence",
+          "label": "Make UK Defence"
+        },
+        {
+          "slug": "mbr-naudi",
+          "label": "NAUDI"
+        },
+        {
+          "slug": "mbr-scrdsc",
+          "label": "SCRDSC"
+        },
+        {
+          "slug": "mbr-smi",
+          "label": "SMi"
+        },
+        {
+          "slug": "mbr-techuk",
+          "label": "techUK"
+        }
+      ]
+    }
+  },
+  "aliases": {
+    "fw-joscar": "accr-joscar",
+    "mbr-joscar": "accr-joscar",
+    "accr-cyber-essentials": "accr-ce",
+    "accr-cyber-essentials-plus": "accr-ce-plus"
+  },
+  "removed_tags": [
+    "accr-caa",
+    "accr-caa-approved",
+    "accr-def-stan",
+    "accr-itar",
+    "accr-ncsc",
+    "accr-ncsc-assured",
+    "accr-sc21",
+    "prog-* (all programme tags removed)"
+  ],
+  "region_aliases": {
+    "north east": "North East",
+    "north east england": "North East",
+    "north west": "North West",
+    "north west england": "North West",
+    "greater manchester": "North West",
+    "merseyside": "North West",
+    "yorkshire": "Yorkshire and The Humber",
+    "yorkshire and the humber": "Yorkshire and The Humber",
+    "yorkshire and humber": "Yorkshire and The Humber",
+    "east midlands": "East Midlands",
+    "west midlands": "West Midlands",
+    "east of england": "East of England",
+    "east": "East of England",
+    "east england": "East of England",
+    "london": "London",
+    "greater london": "London",
+    "south east": "South East",
+    "south east england": "South East",
+    "south west": "South West",
+    "south west england": "South West",
+    "scotland": "Scotland",
+    "wales": "Wales",
+    "cymru": "Wales",
+    "northern ireland": "Northern Ireland",
+    "overseas": "Overseas"
+  },
+  "overseas_tokens": [
+    "united states",
+    "usa",
+    "u.s.a",
+    "u.s.",
+    ", us",
+    "america",
+    "france",
+    "germany",
+    "switzerland",
+    "canada",
+    "ukraine",
+    "sweden",
+    "india",
+    "israel",
+    "denmark",
+    "estonia",
+    "finland",
+    "slovakia",
+    "spain",
+    "netherlands",
+    "norway",
+    "italy",
+    "belgium",
+    "poland",
+    "australia",
+    "japan",
+    "singapore",
+    "austria",
+    "portugal",
+    "czech",
+    "romania",
+    "luxembourg",
+    "brazil",
+    "emirates",
+    "uae",
+    "qatar",
+    "saudi",
+    "turkey",
+    "greece",
+    "hungary",
+    "slovenia",
+    "croatia",
+    "mexico",
+    "china",
+    "korea",
+    "taiwan",
+    "new zealand",
+    "lithuania",
+    "latvia",
+    "bulgaria",
+    "iceland",
+    "ireland"
+  ],
+  "town_region": {
+    "hereford": "West Midlands",
+    "dorset": "South West",
+    "sale": "North West",
+    "london": "London",
+    "bristol": "South West",
+    "manchester": "North West",
+    "birmingham": "West Midlands",
+    "edinburgh": "Scotland",
+    "glasgow": "Scotland",
+    "cardiff": "Wales",
+    "belfast": "Northern Ireland"
+  },
+  "retained_unfaceted": {
+    "note": "Still stored on companies for data completeness, but not shown as sidebar filters.",
+    "type": [
+      "type-academia",
+      "type-consultancy",
+      "type-holding-company",
+      "type-integrator",
+      "type-investor",
+      "type-large",
+      "type-manufacturer",
+      "type-non-profit",
+      "type-prime",
+      "type-scaleup",
+      "type-services",
+      "type-sme",
+      "type-software",
+      "type-startup",
+      "type-supplier",
+      "type-systems-integrator",
+      "type-vendor"
+    ],
+    "ownership": [
+      "backed-angel",
+      "backed-pe",
+      "backed-vc",
+      "listed",
+      "owned-foreign",
+      "owned-founder",
+      "owned-uk",
+      "owned-uk-vc",
+      "owned-veteran"
+    ]
+  }
+}

@@ -5,7 +5,7 @@ website: https://www.protechnic.com
 hq: Nailsea, UK
 uk-region: South West
 size: small
-sources-verified: 2026-06-30
+sources-verified: 2026-07-05
 tags:
   - defence
   - size-small
@@ -42,4 +42,4 @@ Protechnic has designed and manufactured custom protective packaging solutions f
 
 ## Sources
 
-Public information verified 2026-06-30. DEVONthink CRM record (ADS directory snapshot, 2026-05-15).
+Public information verified 2026-06-30. ADS Group members directory (snapshot, 2026-05-15).

@@ -5,7 +5,7 @@ website: https://www.exail.com
 linkedin: https://www.linkedin.com/company/exail
 companies-house: 05256818
 hq: La Garde, France
-uk-region: South East England
+uk-region: South East
 founded: 2004
 size: large
 headcount: 2000

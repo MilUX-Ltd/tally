@@ -5,7 +5,7 @@ website: https://www.cohortplc.com
 linkedin: https://www.linkedin.com/company/cohort
 companies-house: 05684823
 hq: Reading, United Kingdom
-uk-region: South East England
+uk-region: South East
 founded: 2006
 size: large
 headcount: 1600

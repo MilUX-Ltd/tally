@@ -4,7 +4,7 @@ name: J & D Wilkie Ltd
 website: https://www.onewilkie.com
 hq: Kirriemuir, United Kingdom
 uk-region: Scotland
-sources-verified: 2026-06-29
+sources-verified: 2026-07-04
 tags:
   - defence
   - mbr-ads
@@ -43,4 +43,4 @@ J & D Wilkie manufactures and supplies specialist technical textile materials to
 
 ## Sources
 
-Public information verified 2026-06-29. DEVONthink CRM record (ADS directory snapshot, 2026-05-15).
+Public information verified 2026-07-04. ADS Group members directory (snapshot, 2026-05-15).

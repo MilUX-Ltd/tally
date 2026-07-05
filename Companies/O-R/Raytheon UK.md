@@ -9,14 +9,22 @@ uk-region: East of England
 founded: 1946
 size: large
 headcount: 2000+
-sources-verified: 2026-06-29
+sources-verified: 2026-07-05
 tags:
   - defence
   - munitions
   - sensors
+  - sensors/eo-ir
+  - sensors/radar
+  - sensors/pnt
   - cyber
+  - cyber/threat-intel
+  - cyber/soc-monitoring
+  - cyber/vuln-management
   - space
   - training
+  - training/courseware
+  - training/instruction
   - air
   - maritime
   - land
@@ -37,10 +45,10 @@ Raytheon UK is a landed company within the Raytheon business and part of the RTX
 ## Products and solutions
 
 - **Weapons** - supplies the RAF with the Paveway IV precision-guided weapon and AMRAAM air-to-air missile, the Royal Navy with the Phalanx close-in weapon system, and the British Army with the Javelin anti-tank guided weapon; advanced manufacturing also supports Excalibur and TOW.
-- **Sensors** - integrated sensor solutions for missile systems, the Multi-Spectral Targeting System used on Reaper, and air traffic radars and management solutions.
-- **Cyber** - over 30 years of cyber security, intelligence and digital capability in defence, protecting critical information and infrastructure.
+- **Sensors** - integrated sensor solutions for missile systems, the Multi-Spectral Targeting System (electro-optical/infrared, laser designation and illumination) used on Reaper, land radar and sensing solutions including LTAMDS, and GPS anti-jam and assured positioning, navigation and timing systems.
+- **Cyber** - over 30 years of cyber security, intelligence and digital capability in defence; publicly states threat intelligence development, security operations centre capability (including its AXON Enterprise Operation Centre), and a vulnerability research team covering vulnerability research, reverse engineering, fuzzing and exploit development.
 - **Space and airborne** - space domain awareness and mission intelligence, including the NORSSTrack orbital-analysis software.
-- **Training transformation** - MOD training partner, prime contractor for the integrated training solution at the Future Submarine School at HMNB Clyde for Dreadnought-class submarine crews.
+- **Training transformation** - MOD training partner, prime contractor for the integrated training solution at the Future Submarine School at HMNB Clyde for Dreadnought-class submarine crews, and provider of courseware and media development services.
 
 ## Frameworks, accreditations and memberships
 
@@ -59,4 +67,4 @@ Raytheon UK is a landed company within the Raytheon business and part of the RTX
 
 ## Sources
 
-Public information verified 2026-06-29. Company website (raytheon.co.uk), RTX news centre, Companies House (Raytheon Systems Limited 00406809), ADS Group member listing and Airforce Technology. Owned by RTX Corporation (US parent); no specific accreditations were evidenced and are omitted.
+Public information verified 2026-07-05. Company website (raytheon.co.uk), including current Land, Air, Sea, Space and Cyber, Space and Training pages, RTX news centre, Companies House (Raytheon Systems Limited 00406809), ADS Group member listing and Airforce Technology. Owned by RTX Corporation (US parent); no specific accreditations were evidenced and are omitted.

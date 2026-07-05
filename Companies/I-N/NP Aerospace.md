@@ -9,7 +9,7 @@ uk-region: West Midlands
 founded: 1926
 size: large
 headcount: ~350
-sources-verified: 2026-06-29
+sources-verified: 2026-07-05
 tags:
   - defence
   - land

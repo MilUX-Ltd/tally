@@ -40,4 +40,4 @@ Zscaler provides cloud-native zero trust security through its Zero Trust Exchang
 
 ## Sources
 
-Public information verified 2026-07-01. DEVONthink CRM record (ADS directory snapshot, 2026-05-15); company public self-description.
+Public information verified 2026-07-01. ADS Group members directory (snapshot, 2026-05-15); company public self-description.

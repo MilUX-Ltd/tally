@@ -4,7 +4,7 @@ name: Multiple Access Communications Ltd
 website: http://www.macltd.com
 hq: Southampton, United Kingdom
 uk-region: South East
-sources-verified: 2026-06-29
+sources-verified: 2026-07-05
 tags:
   - defence
   - mbr-ads
@@ -16,7 +16,7 @@ tags:
   - space
   - type-consultancy
   - owned-uk
-  - fw-joscar
+  - accr-joscar
   - accr-ce-plus
 ---
 
@@ -39,4 +39,4 @@ MAC Ltd has specialised in radio frequency consultancy since 1986, working acros
 
 ## Sources
 
-Public information verified 2026-06-29. DEVONthink MilUX CRM record (ADS directory snapshot, 2026-05-15).
+Public information verified 2026-07-05. ADS Group members directory (snapshot, 2026-05-15).

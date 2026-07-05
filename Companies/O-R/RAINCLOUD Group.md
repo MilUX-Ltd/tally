@@ -4,13 +4,15 @@ name: RAINCLOUD Group
 website: https://raincloud.group
 linkedin: https://www.linkedin.com/company/raincloud-group/
 hq: Washington, D.C., United States
+uk-region: Overseas
 founded: 2021
 size: small
 headcount: 11-50
-sources-verified: 2026-06-29
+sources-verified: 2026-07-05
 tags:
   - defence
   - data
+  - data/analytics
   - software
   - type-scaleup
   - size-small
@@ -33,4 +35,4 @@ RAINCLOUD Group builds invitation-only B2B platforms for high-stakes industries,
 - LinkedIn: https://www.linkedin.com/company/raincloud-group/
 
 ## Sources
-Public information verified 2026-06-29.
+Public information verified 2026-07-05.

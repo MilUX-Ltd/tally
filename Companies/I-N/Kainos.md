@@ -9,7 +9,7 @@ uk-region: Northern Ireland
 founded: 1986
 size: large
 headcount: ~2900
-sources-verified: 2026-06-29
+sources-verified: 2026-07-04
 tags:
   - defence
   - software
@@ -21,7 +21,6 @@ tags:
   - listed
   - fw-dips
   - fw-gcloud
-  - prog-ddap
 ---
 
 # Kainos Group
@@ -44,7 +43,7 @@ Kainos Group plc is a digital technology company headquartered in Belfast, North
 
 ## Recent news
 
-- **2025-01** - Kainos was awarded a three-year contract worth £50m to evolve the Ministry of Defence's Defence Data Analytics Platform (DDAP), via the CCS Digital and IT Professional Services framework, taking over from Cognizant. [source](https://www.kainos.com/insights/news/kainos-extends-partnership-with-ministry-of-defence-to-drive-data-and-ai-innovation-with-enhanced-platform-capabilities)
+- **2025-01** - Kainos was awarded a three-year contract worth £50m, running to January 2028, to evolve and support the Ministry of Defence's Defence Data Analytics Platform (DDAP), via the CCS Digital and IT Professional Services framework, taking over platform management, maintenance and support from the incumbent partner. DDAP is built on AWS and supports end-users across the Royal Navy, British Army, RAF and other MOD organisations. [source](https://www.kainos.com/insights/news/kainos-extends-partnership-with-ministry-of-defence-to-drive-data-and-ai-innovation-with-enhanced-platform-capabilities)
 
 ## Links
 
@@ -53,4 +52,4 @@ Kainos Group plc is a digital technology company headquartered in Belfast, North
 
 ## Sources
 
-Public information verified 2026-06-29. Company website (kainos.com), Kainos LinkedIn company page, Companies House (NI019370), Wikipedia, Computer Weekly, Sync NI, ADS Advance.
+Public information verified 2026-07-04. Company website (kainos.com), Kainos LinkedIn company page, Companies House (NI019370), Wikipedia, Computer Weekly, Sync NI, ADS Advance, UKAuthority.

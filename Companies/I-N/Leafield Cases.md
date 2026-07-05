@@ -4,7 +4,7 @@ name: Leafield Cases
 website: https://www.leafieldcases.com
 hq: Corsham, United Kingdom
 uk-region: South West
-sources-verified: 2026-06-29
+sources-verified: 2026-07-04
 tags:
   - defence
   - mbr-ads
@@ -39,4 +39,4 @@ Leafield Cases, a division of Leafield Environmental, designs and manufactures c
 
 ## Sources
 
-Public information verified 2026-06-29. DEVONthink CRM record (ADS directory snapshot, 2026-05-15).
+Public information verified 2026-06-29. ADS Group members directory (snapshot, 2026-05-15).

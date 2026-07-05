@@ -4,11 +4,12 @@ name: JENOPTIK UK Ltd
 website: https://www.jenoptik.co.uk
 hq: Jena, Germany
 uk-region: South East
-sources-verified: 2026-06-29
+sources-verified: 2026-07-04
 tags:
   - defence
   - mbr-ads
   - sensors
+  - sensors/eo-ir
   - optronics
   - isr
   - manufacturing
@@ -46,4 +47,4 @@ JENOPTIK UK is part of Jenoptik's Smart Mobility Solutions division, a globally 
 
 ## Sources
 
-Public information verified 2026-06-29. DEVONthink CRM record (ADS directory snapshot, 2026-05-15).
+Public information verified 2026-07-04. ADS Group members directory (snapshot, 2026-05-15).

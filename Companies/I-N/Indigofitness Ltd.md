@@ -4,7 +4,7 @@ name: Indigofitness Ltd
 website: https://www.indigofitness.com
 hq: Nuneaton, United Kingdom
 uk-region: West Midlands
-sources-verified: 2026-06-29
+sources-verified: 2026-07-04
 tags:
   - defence
   - mbr-ads
@@ -39,4 +39,4 @@ Indigofitness designs and manufactures commercial gym equipment with a specialis
 
 ## Sources
 
-Public information verified 2026-06-29. DEVONthink CRM record (ADS directory).
+Public information verified 2026-07-04. ADS Group members directory.

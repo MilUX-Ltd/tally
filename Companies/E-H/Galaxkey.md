@@ -5,6 +5,7 @@ website: https://www.galaxkey.com
 linkedin: https://www.linkedin.com/company/galaxkey-limited
 companies-house: "07338597"
 hq: London, UK
+uk-region: London
 founded: 2010
 size: small
 sources-verified: 2026-07-04

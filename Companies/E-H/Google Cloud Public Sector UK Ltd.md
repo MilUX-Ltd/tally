@@ -5,10 +5,12 @@ website: https://cloud.google.com/solutions/public-sector
 hq: Mountain View, USA
 uk-region: London
 size: large
-sources-verified: 2026-06-29
+sources-verified: 2026-07-04
 tags:
   - defence
   - cyber
+  - cyber/soc-monitoring
+  - cyber/incident-response
   - ai
   - data
   - software
@@ -43,4 +45,4 @@ Google Cloud Public Sector UK Ltd is the UK contracting entity through which Goo
 
 ## Sources
 
-Public information verified 2026-06-29. DEVONthink ADS directory snapshot (2026-05-15); Google Cloud public sector web presence.
+Public information verified 2026-06-29. ADS Group members directory (snapshot, 2026-05-15); Google Cloud public sector web presence.

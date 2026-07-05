@@ -9,12 +9,14 @@ uk-region: South East
 founded: 2017
 size: large
 headcount: ~500
-sources-verified: 2026-06-29
+sources-verified: 2026-07-05
 tags:
   - defence
   - maritime
   - robotics
   - autonomy
+  - autonomy/uxv-control
+  - autonomy/navigation
   - isr
   - data
   - size-large
@@ -53,4 +55,4 @@ Ocean Infinity deploys fleets of marine robots, operated remotely from onshore c
 
 ## Sources
 
-Public information verified 2026-06-29. Company website, LinkedIn company page, Companies House (03072527), Naval News, Naval Today, MarineLink.
+Public information verified 2026-07-05. Company website, LinkedIn company page, Companies House (03072527), Naval News, Naval Today, MarineLink.

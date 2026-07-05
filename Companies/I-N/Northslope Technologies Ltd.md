@@ -4,11 +4,13 @@ name: Northslope Technologies Ltd
 website: http://www.northslopetech.com
 hq: London, UK
 uk-region: London
-sources-verified: 2026-06-30
+sources-verified: 2026-07-05
 tags:
   - defence
   - mbr-ads
   - data
+  - data/analytics
+  - data/engineering
   - software
   - type-consultancy
   - type-sme
@@ -38,4 +40,4 @@ Northslope Technologies is the leading global Palantir partner, founded in colla
 
 ## Sources
 
-Public information verified 2026-06-30. DEVONthink MilUX CRM record (ADS directory snapshot, 2026-05-15).
+Public information verified 2026-06-30. ADS Group members directory (snapshot, 2026-05-15).

@@ -4,7 +4,7 @@ name: Gattaca Projects Limited
 website: https://www.gattacaplc.com/who-we-are/our-brands/gattaca-projects/
 companies-house: "03312947"
 hq: Fareham, United Kingdom
-uk-region: South East England
+uk-region: South East
 founded: 1997
 size: small
 sources-verified: 2026-07-04
@@ -19,7 +19,7 @@ tags:
   - type-integrator
   - owned-uk
   - listed
-  - fw-joscar
+  - accr-joscar
   - accr-ce-plus
   - accr-iso9001
   - accr-iso27001

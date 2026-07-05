@@ -21,7 +21,6 @@ tags:
   - size-medium
   - type-consultancy
   - owned-uk
-  - prog-dasa
 ---
 
 # Actica Consulting

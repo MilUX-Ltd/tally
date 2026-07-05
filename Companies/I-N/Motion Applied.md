@@ -4,8 +4,8 @@ name: Motion Applied
 website: https://www.motionapplied.com/
 linkedin: https://www.linkedin.com/company/motion-applied/
 hq: Surrey, UK
-uk-region: South East England
-sources-verified: 2026-06-29
+uk-region: South East
+sources-verified: 2026-07-05
 tags:
   - defence
   - sensors
@@ -30,4 +30,4 @@ Motion Applied applies race-proven, mission-ready technologies to extreme defenc
 - LinkedIn: https://www.linkedin.com/company/motion-applied/
 
 ## Sources
-Public information verified 2026-06-29.
+Public information verified 2026-07-05. Company rebranded from McLaren Applied to Motion Applied in August 2025; based at the former McLaren Technology Centre, Woking, Surrey.

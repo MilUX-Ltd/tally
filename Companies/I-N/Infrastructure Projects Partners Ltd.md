@@ -4,7 +4,7 @@ name: Infrastructure Projects Partners Ltd
 website: https://www.infra-pp.com
 hq: Birkenhead, United Kingdom
 uk-region: North West
-sources-verified: 2026-06-29
+sources-verified: 2026-07-04
 tags:
   - defence
   - mbr-ads
@@ -35,4 +35,4 @@ Founded in 2011, IPP provides project, programme and portfolio (P3M) management 
 
 ## Sources
 
-Public information verified 2026-06-29. DEVONthink CRM record (ADS members directory, captured May 2026); company website (www.infra-pp.com, accessed 2026-06-29).
+Public information verified 2026-07-04. ADS Group members directory (captured May 2026); company website (www.infra-pp.com, accessed 2026-07-04).

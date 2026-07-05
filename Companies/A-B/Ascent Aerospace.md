@@ -4,10 +4,11 @@ name: Ascent Aerospace
 website: https://ascentaerospace.com
 linkedin: https://www.linkedin.com/company/ascentaerospace
 hq: Macomb, United States
+uk-region: Overseas
 founded: 2012
 size: large
 headcount: 800+
-sources-verified: 2026-07-03
+sources-verified: 2026-07-04
 tags:
   - defence
   - air

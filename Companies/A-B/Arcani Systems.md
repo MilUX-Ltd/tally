@@ -23,7 +23,6 @@ tags:
   - type-startup
   - size-micro
   - owned-uk
-  - prog-diana
   - mbr-ads
 ---
 

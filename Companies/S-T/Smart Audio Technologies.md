@@ -30,4 +30,4 @@ Smart Audio Technologies produces voice communication systems designed to ensure
 
 ## Sources
 
-Public information verified 2026-06-30. DEVONthink CRM record (D3IP directory snapshot, 2026-05-15).
+Public information verified 2026-06-30.

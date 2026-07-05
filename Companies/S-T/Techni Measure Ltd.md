@@ -3,7 +3,7 @@ type: organisation
 name: Techni Measure Ltd
 website: https://www.technimeasure.co.uk
 hq: Doncaster, United Kingdom
-uk-region: Yorkshire
+uk-region: Yorkshire and The Humber
 sources-verified: 2026-06-30
 tags:
   - defence
@@ -37,4 +37,4 @@ Techni Measure supplies a wide range of sensors covering strain, vibration, acce
 
 ## Sources
 
-Public information verified 2026-06-30. DEVONthink CRM record (ADS directory snapshot, 2026-05-15).
+Public information verified 2026-06-30. ADS Group members directory (snapshot, 2026-05-15).

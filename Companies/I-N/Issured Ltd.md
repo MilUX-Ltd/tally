@@ -4,15 +4,17 @@ name: Issured Ltd
 website: https://www.issured.com
 hq: Milton Keynes, United Kingdom
 uk-region: South East
-sources-verified: 2026-06-29
+sources-verified: 2026-07-04
 tags:
   - defence
   - mbr-ads
   - cyber
+  - cyber/grc
   - c2
   - data
   - software
   - training
+  - training/courseware
   - type-consultancy
   - type-sme
   - owned-uk
@@ -48,4 +50,4 @@ Issured provides management consultancy and professional services to the defence
 
 ## Sources
 
-Public information verified 2026-06-29. DEVONthink CRM record (ADS directory snapshot, 2026-05-15).
+Public information verified 2026-07-04. ADS Group members directory (snapshot, 2026-05-15).

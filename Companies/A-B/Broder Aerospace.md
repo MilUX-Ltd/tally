@@ -5,7 +5,7 @@ website: https://broder-aerospace.com/
 linkedin: https://uk.linkedin.com/company/broder-aerospace
 companies-house: 12431752
 hq: Sheffield, United Kingdom
-uk-region: Yorkshire and the Humber
+uk-region: Yorkshire and The Humber
 founded: 2020
 size: small
 sources-verified: 2026-07-04

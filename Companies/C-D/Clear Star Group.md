@@ -5,7 +5,7 @@ website: https://clearstargroup.co.uk
 linkedin: https://www.linkedin.com/company/clear-star-group
 companies-house: "14738982"
 hq: Banbury, United Kingdom
-uk-region: South East England
+uk-region: South East
 founded: 2023
 size: micro
 sources-verified: 2026-07-04

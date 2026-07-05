@@ -18,7 +18,7 @@ tags:
 
 ## What they do
 
-User Centric Design provides Human Factors expertise and user-centred design services, delivering solutions that are intuitive and regulatory-compliant across defence and other highly regulated sectors. The company holds an Aurora Provider Network listing for collaboration, indicating active engagement with the UK defence procurement community.
+User Centric Design provides Human Factors expertise and user-centred design services, delivering solutions that are intuitive and regulatory-compliant across defence and other highly regulated sectors.
 
 ## Frameworks, accreditations and memberships
 
@@ -30,4 +30,4 @@ User Centric Design provides Human Factors expertise and user-centred design ser
 
 ## Sources
 
-Public information verified 2026-06-30. DEVONthink MilUX CRM record (ADS directory snapshot and Aurora Provider Network database, captured 2026-05-15).
+Public information verified 2026-06-30. ADS Group members directory (captured 2026-05-15).

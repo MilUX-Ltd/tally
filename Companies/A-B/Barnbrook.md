@@ -5,11 +5,11 @@ website: https://barnbrooksystems.com
 linkedin: https://www.linkedin.com/company/barnbrook-systems-ltd
 companies-house: "01362146"
 hq: Fareham, England
-uk-region: South East England
+uk-region: South East
 founded: 1978
 size: small
 headcount: ~50
-sources-verified: 2026-07-03
+sources-verified: 2026-07-04
 tags:
   - defence
   - maritime

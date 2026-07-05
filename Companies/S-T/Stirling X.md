@@ -4,7 +4,7 @@ name: Stirling X
 website: https://www.stirlingx.io
 companies-house: "13610180"
 hq: London
-uk-region: Greater London
+uk-region: London
 sources-verified: 2026-06-29
 tags:
   - defence

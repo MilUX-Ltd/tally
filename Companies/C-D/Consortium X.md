@@ -18,7 +18,7 @@ tags:
   - type-consultancy
   - owned-uk
   - owned-veteran
-  - fw-joscar
+  - accr-joscar
   - accr-ce
   - accr-ce-plus
   - accr-iso9001

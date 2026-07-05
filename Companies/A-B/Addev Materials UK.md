@@ -5,7 +5,7 @@ website: https://addevmaterials.com
 linkedin: https://www.linkedin.com/company/addev-materials/
 companies-house: 03288952
 hq: Lyon, France
-uk-region: South East England
+uk-region: South East
 founded: 2006
 size: large
 headcount: 700+ (group)

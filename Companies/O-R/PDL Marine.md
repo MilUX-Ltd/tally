@@ -17,7 +17,7 @@ tags:
   - type-sme
   - type-manufacturer
   - owned-uk
-sources-verified: 2026-07-01
+sources-verified: 2026-07-05
 ---
 
 # PDL Marine

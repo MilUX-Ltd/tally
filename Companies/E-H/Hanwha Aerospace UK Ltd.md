@@ -7,7 +7,7 @@ hq: Seoul, South Korea
 uk-region: London
 founded: 2023
 size: large
-sources-verified: 2026-06-29
+sources-verified: 2026-07-04
 tags:
   - defence
   - land
@@ -48,4 +48,4 @@ Hanwha Aerospace UK Ltd is the British registered subsidiary of Hanwha Aerospace
 
 ## Sources
 
-Public information verified 2026-06-29. ADS Group members directory (snapshot 2026-05-15); Companies House (company 15125292); hanwha.com (public website); defence-industry.eu DSEI 2025 coverage; hanwha-aerospace.eu product pages; WebSearch results 2026-06-29.
+Public information verified 2026-07-04. ADS Group members directory (snapshot 2026-05-15); Companies House (company 15125292); hanwha.com (public website); defence-industry.eu DSEI 2025 coverage; hanwha-aerospace.eu product pages; WebSearch results 2026-06-29.

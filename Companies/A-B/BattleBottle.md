@@ -2,7 +2,8 @@
 type: organisation
 name: BattleBottle
 website: https://battlebottle.tech/
-sources-verified: 2026-07-03
+size: micro
+sources-verified: 2026-07-04
 tags:
   - defence
   - ai
@@ -14,6 +15,7 @@ tags:
   - training
   - data
   - data/labelling
+  - size-micro
   - type-startup
 ---
 # BattleBottle
@@ -26,8 +28,14 @@ BattleBottle is a UK defence-tech startup building AI-powered simulation tools f
 - **BattleBottle (B2C)** - Mobile drone combat game generating crowdsourced AI training data through player tactical decisions.
 - **BattleBottle Tactical Advisor (B2G)** - Browser-based decision support tool for defence customers, comparing force composition and engagement outcomes across three operational modes.
 
+## Frameworks, accreditations and memberships
+- Not publicly stated at the time of writing.
+
+## Recent news
+- No dated news items found from public sources at the time of writing.
+
 ## Links
 - Website: https://battlebottle.tech/
 
 ## Sources
-Public information verified 2026-06-29.
+Public information verified 2026-07-04. Source: company website (battlebottle.tech). No further independent coverage found via web search at time of writing; company appears to be an early-stage startup with limited public footprint beyond its own site.

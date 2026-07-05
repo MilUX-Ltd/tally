@@ -4,7 +4,7 @@ name: GF Machining Solutions Ltd
 website: https://www.gfms.com/uk/en-gb.html
 companies-house: "03240378"
 hq: Biel/Bienne, Switzerland
-uk-region: Midlands
+uk-region: Overseas
 size: large
 sources-verified: 2026-07-04
 tags:

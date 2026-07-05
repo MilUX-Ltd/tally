@@ -5,7 +5,7 @@ website: https://www.allenvanguard.com/
 linkedin: https://www.linkedin.com/company/allen-vanguard
 companies-house: 01230899
 hq: Tewkesbury, United Kingdom
-uk-region: South West England
+uk-region: South West
 founded: 1975
 size: medium
 sources-verified: 2026-07-03
@@ -22,7 +22,6 @@ tags:
   - type-sme
   - type-manufacturer
   - owned-foreign
-  - prog-dasa
   - mbr-ads
 ---
 

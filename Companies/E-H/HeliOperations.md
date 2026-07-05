@@ -5,12 +5,14 @@ website: https://helioperations.co
 hq: Portland, United Kingdom
 uk-region: South West
 size: small
-sources-verified: 2026-06-29
+sources-verified: 2026-07-04
 tags:
   - defence
   - air
   - training
+  - training/instruction
   - simulation
+  - simulation/synthetic-environment
   - maritime
   - size-small
   - type-sme
@@ -43,4 +45,4 @@ HeliOperations is a British helicopter company based at The HeliPort on Osprey Q
 
 ## Sources
 
-Public information verified 2026-06-29. ADS members directory (snapshot May 2026); DEVONthink CRM record; helioperations.co; Wikipedia entry for HeliOperations; UK Defence Equipment and Support press release (MOD £41M Fleet Helicopter Support Unit contract, 2025); AirMed and Rescue reporting; The Aviationist reporting.
+Public information verified 2026-06-29. ADS members directory (snapshot May 2026); helioperations.co; Wikipedia entry for HeliOperations; UK Defence Equipment and Support press release (MOD £41M Fleet Helicopter Support Unit contract, 2025); AirMed and Rescue reporting; The Aviationist reporting.

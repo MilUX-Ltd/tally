@@ -5,7 +5,7 @@ website: https://catalystcorporation.co.uk
 linkedin: https://www.linkedin.com/company/catalystcorporation
 companies-house: 11821331
 hq: Brighton, England
-uk-region: South East England
+uk-region: South East
 size: micro
 sources-verified: 2026-07-04
 tags:

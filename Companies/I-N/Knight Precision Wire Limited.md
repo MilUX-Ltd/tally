@@ -3,8 +3,8 @@ type: organisation
 name: Knight Precision Wire Limited
 website: https://www.knight-precision-wire.co.uk
 hq: Potters Bar, United Kingdom
-uk-region: East
-sources-verified: 2026-06-29
+uk-region: East of England
+sources-verified: 2026-07-04
 tags:
   - defence
   - mbr-ads
@@ -42,4 +42,4 @@ Knight Precision Wire is part of the Knight Group and processes and stocks preci
 
 ## Sources
 
-Public information verified 2026-06-29. DEVONthink CRM record sourced from ADS members directory snapshot, 2026-05-15.
+Public information verified 2026-06-29. ADS Group members directory (snapshot, 2026-05-15).

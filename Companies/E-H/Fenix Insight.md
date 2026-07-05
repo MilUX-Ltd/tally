@@ -5,7 +5,7 @@ website: https://www.fenixinsight.com
 linkedin: https://www.linkedin.com/company/fenix-insight-ltd
 companies-house: "07486572"
 hq: Copthorne, United Kingdom
-uk-region: South East England
+uk-region: South East
 founded: 2011
 size: small
 headcount: 11-50
@@ -26,7 +26,7 @@ tags:
   - type-sme
   - size-small
   - owned-uk
-  - fw-joscar
+  - accr-joscar
   - accr-ce-plus
   - accr-iso9001
   - accr-iso14001

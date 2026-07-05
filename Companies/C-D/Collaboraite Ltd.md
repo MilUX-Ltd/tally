@@ -5,7 +5,7 @@ website: https://collaboraite.co.uk
 linkedin: https://www.linkedin.com/company/collaboraite
 companies-house: "13787334"
 hq: Dorset
-uk-region: South West England
+uk-region: South West
 founded: 2021
 size: small
 sources-verified: 2026-07-04

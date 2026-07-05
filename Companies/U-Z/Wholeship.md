@@ -3,7 +3,7 @@ type: organisation
 name: WholeShip
 website: https://wholeship.co.uk
 hq: Predannack, Cornwall
-uk-region: South West England
+uk-region: South West
 sources-verified: 2026-06-30
 tags:
   - defence

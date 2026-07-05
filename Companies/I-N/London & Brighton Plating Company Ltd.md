@@ -5,7 +5,7 @@ website: http://www.lbplating.com
 hq: Portslade, United Kingdom
 uk-region: South East
 founded: 1946
-sources-verified: 2026-06-29
+sources-verified: 2026-07-04
 tags:
   - defence
   - mbr-ads
@@ -32,4 +32,4 @@ Established in 1946, London & Brighton Plating draws on decades of experience in
 
 ## Sources
 
-Public information verified 2026-06-29. DEVONthink MilUX CRM reference set (ADS members directory snapshot, 2026-05-15).
+Public information verified 2026-07-04. ADS Group members directory (snapshot, 2026-05-15).

@@ -20,7 +20,6 @@ tags:
   - type-manufacturer
   - owned-uk
   - listed
-  - accr-itar
   - accr-iso14001
 ---
 
@@ -50,4 +49,4 @@ TT Electronics designs and manufactures high-performance electronics for major a
 
 ## Sources
 
-Public information verified 2026-06-30. DEVONthink CRM record sourced from ADS members directory snapshot, May 2026.
+Public information verified 2026-06-30. ADS Group members directory (snapshot, May 2026).

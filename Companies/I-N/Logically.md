@@ -8,12 +8,17 @@ hq: London, United Kingdom
 uk-region: London
 founded: 2017
 size: small
-sources-verified: 2026-06-29
+sources-verified: 2026-07-04
 tags:
   - defence
   - ai
+  - ai/nlp
+  - ai/ml-analytics
   - isr
+  - isr/osint
+  - isr/fusion
   - data
+  - data/analytics
   - software
   - cyber
   - size-small
@@ -50,4 +55,4 @@ Logically provides narrative decision intelligence for government and enterprise
 
 ## Sources
 
-Public information verified 2026-06-29. Company website, LinkedIn company page, Companies House (10850644 including insolvency record), Wikipedia, Sifted, UKTN, BusinessCloud, Databricks customer page.
+Public information verified 2026-07-04. Company website, LinkedIn company page, Companies House (10850644 including insolvency record), Wikipedia, Sifted, UKTN, BusinessCloud, Databricks customer page.

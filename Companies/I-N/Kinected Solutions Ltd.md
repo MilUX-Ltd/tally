@@ -4,13 +4,14 @@ name: Kinected Solutions Ltd
 website: https://www.kinectedsolutions.co.uk
 hq: Barnstaple, United Kingdom
 uk-region: South West
-sources-verified: 2026-06-29
+sources-verified: 2026-07-04
 tags:
   - defence
   - mbr-ads
   - type-consultancy
   - type-sme
   - training
+  - training/instruction
 ---
 
 # Kinected Solutions Ltd
@@ -31,4 +32,4 @@ Kinected Solutions supports defence and security primes and SMEs through the ena
 
 ## Sources
 
-Public information verified 2026-06-29. DEVONthink CRM record (ADS directory snapshot, 2026-05-15).
+Public information verified 2026-06-29. ADS Group members directory (snapshot, 2026-05-15).

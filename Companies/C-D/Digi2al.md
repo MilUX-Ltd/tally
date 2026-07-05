@@ -19,7 +19,7 @@ tags:
   - isr/osint
   - size-small
   - type-consultancy
-  - fw-joscar
+  - accr-joscar
   - accr-ce
   - mbr-ads
   - mbr-techuk

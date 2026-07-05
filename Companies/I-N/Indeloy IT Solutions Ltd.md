@@ -5,7 +5,7 @@ website: https://www.indeloy.com
 hq: Gloucester, United Kingdom
 uk-region: South West
 size: small
-sources-verified: 2026-06-29
+sources-verified: 2026-07-04
 tags:
   - defence
   - mbr-ads
@@ -16,7 +16,7 @@ tags:
   - owned-uk
   - accr-ce
   - accr-ce-plus
-  - fw-joscar
+  - accr-joscar
 ---
 
 # Indeloy IT Solutions Ltd
@@ -39,4 +39,4 @@ Indeloy provides hardware, software, configuration, and managed services to defe
 
 ## Sources
 
-Public information verified 2026-06-29. DEVONthink CRM record (ADS directory).
+Public information verified 2026-07-04. ADS Group members directory.

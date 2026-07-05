@@ -5,7 +5,7 @@ website: https://www.anschuetz.com/who-we-are/anschuetz-uk/
 linkedin: https://www.linkedin.com/company/anschutz-uk-ltd
 companies-house: 14277721
 hq: Kiel, Germany
-uk-region: South East England
+uk-region: South East
 founded: 2022
 size: small
 sources-verified: 2026-07-03
@@ -19,7 +19,7 @@ tags:
   - size-small
   - type-integrator
   - owned-foreign
-  - fw-joscar
+  - accr-joscar
   - accr-iso9001
   - accr-ce
   - accr-ce-plus

@@ -4,7 +4,7 @@ name: Com Dev Europe Limited
 website: http://www.comdev.co.uk
 companies-house: 01863723
 hq: Aylesbury, United Kingdom
-uk-region: South East England
+uk-region: South East
 founded: 1984
 size: large
 sources-verified: 2026-07-04

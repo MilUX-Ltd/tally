@@ -9,10 +9,11 @@ uk-region: Scotland
 founded: 2012
 size: medium
 headcount: ~51
-sources-verified: 2026-06-29
+sources-verified: 2026-07-05
 tags:
   - defence
   - comms
+  - comms/tactical-radio
   - rf
   - hardware
   - sensors

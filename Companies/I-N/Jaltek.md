@@ -8,7 +8,7 @@ hq: Luton, United Kingdom
 uk-region: East of England
 founded: 1988
 size: small
-sources-verified: 2026-06-29
+sources-verified: 2026-07-04
 tags:
   - defence
   - manufacturing
@@ -22,7 +22,7 @@ tags:
   - accr-iso27001
   - accr-ce-plus
   - mbr-ads
-  - mbr-joscar
+  - accr-joscar
 ---
 
 # Jaltek Systems
@@ -55,4 +55,4 @@ Jaltek Systems is a UK electronics design and manufacturing company based in Lut
 
 ## Sources
 
-Public information verified 2026-06-29. Company website (jaltek.com), Jaltek LinkedIn company page, ADS Group members directory, Companies House (02312905), Luton Council business news.
+Public information verified 2026-07-04. Company website (jaltek.com), Jaltek LinkedIn company page, ADS Group members directory, Companies House (02312905), Luton Council business news.

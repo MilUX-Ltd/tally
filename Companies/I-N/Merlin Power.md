@@ -4,7 +4,7 @@ name: Merlin Power
 website: https://www.merlin-power.com
 hq: Exeter, United Kingdom
 uk-region: South West
-sources-verified: 2026-06-29
+sources-verified: 2026-07-05
 tags:
   - defence
   - mbr-ads
@@ -39,4 +39,4 @@ Merlin Power designs, manufactures, supplies and installs electrical products an
 
 ## Sources
 
-Public information verified 2026-06-29. DEVONthink CRM record sourced from ADS members directory snapshot (2026-05-15).
+Public information verified 2026-07-05. ADS Group members directory (snapshot, 2026-05-15).

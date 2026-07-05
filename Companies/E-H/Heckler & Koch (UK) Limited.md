@@ -8,7 +8,7 @@ uk-region: East Midlands
 founded:
 size: large
 headcount:
-sources-verified: 2026-06-29
+sources-verified: 2026-07-04
 tags:
   - defence
   - manufacturing
@@ -46,4 +46,4 @@ Heckler & Koch GmbH is a German manufacturer of small arms including handguns, r
 
 ## Sources
 
-Public information verified 2026-06-29. ADS members directory (snapshot 2026-05-15). Note: heckler-koch-uk.com did not return readable content; parent company site used. UK entity confirmed at Nottingham per ADS directory.
+Public information verified 2026-07-04. ADS members directory (snapshot 2026-05-15). Note: heckler-koch-uk.com did not return readable content; parent company site used. UK entity confirmed at Nottingham per ADS directory.

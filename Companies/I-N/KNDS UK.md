@@ -58,4 +58,4 @@ Older news, retained for context:
 
 ## Sources
 
-Public information verified 2026-07-03. Sources used: KNDS UK website (knds.co.uk, including the Engineering Excellence page for accreditation detail), KNDS Group website (knds.com news and subsidiary pages), GOV.UK press release on the RCH 155 contract (13 May 2026), Defence Equipment & Support news (Project TYRO, 25 January 2024), Marketing Stockport (14 May 2026), ADS Group members directory. DEVONthink CRM record sourced from ADS members directory snapshot, 2026-05-15.
+Public information verified 2026-07-03. Sources used: KNDS UK website (knds.co.uk, including the Engineering Excellence page for accreditation detail), KNDS Group website (knds.com news and subsidiary pages), GOV.UK press release on the RCH 155 contract (13 May 2026), Defence Equipment & Support news (Project TYRO, 25 January 2024), Marketing Stockport (14 May 2026), ADS Group members directory. ADS Group members directory (snapshot, 2026-05-15).

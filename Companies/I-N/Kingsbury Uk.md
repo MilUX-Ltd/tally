@@ -4,7 +4,7 @@ name: Kingsbury UK
 website: https://www.kingsburyuk.com
 hq: Gosport, United Kingdom
 uk-region: South East
-sources-verified: 2026-06-29
+sources-verified: 2026-07-04
 tags:
   - defence
   - mbr-ads
@@ -31,4 +31,4 @@ Kingsbury UK supplies precision machine tools from leading German manufacturers,
 
 ## Sources
 
-Public information verified 2026-06-29. DEVONthink CRM record (ADS directory snapshot, 2026-05-15).
+Public information verified 2026-06-29. ADS Group members directory (snapshot, 2026-05-15).

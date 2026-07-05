@@ -4,6 +4,7 @@ name: Savox Communications
 website: https://www.savox.com
 linkedin: https://www.linkedin.com/company/savox-communications-ltd
 hq: Espoo, Finland
+uk-region: Overseas
 founded: 1982
 size: large
 headcount: ~300

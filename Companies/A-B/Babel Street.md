@@ -8,15 +8,17 @@ hq: Reston, Virginia, USA
 uk-region: London
 founded: 2009
 size: large
-sources-verified: 2026-07-03
+sources-verified: 2026-07-04
 tags:
   - defence
   - ai
   - ai/ml-analytics
+  - ai/nlp
   - isr
   - isr/osint
   - isr/fusion
   - data
+  - data/analytics
   - software
   - cyber
   - size-large

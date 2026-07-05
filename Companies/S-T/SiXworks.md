@@ -3,7 +3,7 @@ type: organisation
 name: SiXworks
 website: https://www.sixworks.net
 hq: Farnborough
-uk-region: South East England
+uk-region: South East
 sources-verified: 2026-06-29
 tags:
   - defence

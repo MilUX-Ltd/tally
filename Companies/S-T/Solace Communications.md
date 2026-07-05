@@ -29,4 +29,4 @@ Solace Communications develops and delivers connectivity solutions designed for 
 
 ## Sources
 
-Public information verified 2026-06-30. DEVONthink record sourced from D3IP directory snapshot (2026-05-15).
+Public information verified 2026-06-30.

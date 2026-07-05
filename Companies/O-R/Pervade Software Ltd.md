@@ -4,12 +4,15 @@ name: Pervade Software Ltd
 website: https://www.pervade-software.com
 hq: Cardiff, United Kingdom
 uk-region: Wales
-sources-verified: 2026-06-30
+sources-verified: 2026-07-05
 tags:
   - defence
   - mbr-ads
   - cyber
+  - cyber/threat-intel
+  - cyber/soc-monitoring
   - isr
+  - isr/osint
   - software
   - data
   - type-sme
@@ -39,4 +42,4 @@ Pervade Software develops award-winning cyber and intelligence products for defe
 
 ## Sources
 
-Public information verified 2026-06-30. DEVONthink MilUX CRM record (ADS directory snapshot, 2026-05-15).
+Public information verified 2026-07-05. ADS Group members directory (snapshot, 2026-05-15). Company website (pervade-software.com), confirmed 2026-07-05.

@@ -16,7 +16,6 @@ tags:
   - data
   - type-startup
   - size-small
-  - prog-dasa
 ---
 
 # Advai

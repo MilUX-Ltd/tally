@@ -6,7 +6,7 @@ hq: Hamble-le-Rice, United Kingdom
 uk-region: South East
 founded: 1936
 size: large
-sources-verified: 2026-06-29
+sources-verified: 2026-07-04
 tags:
   - defence
   - air
@@ -44,4 +44,4 @@ Hamble Aerostructures Limited (HAL) is headquartered in Hamble-le-Rice, Hampshir
 
 ## Sources
 
-Public information verified 2026-06-29. Sources: Aernnova website (aernnova.com/en/discover-hamble-aerostructures/); Aernnova EN9100 certificate for Hamble Aerostructures Limited; ADS Group members directory (snapshot 2026-05-15).
+Public information verified 2026-07-04. Sources: Aernnova website (aernnova.com/en/discover-hamble-aerostructures/); Aernnova EN9100 certificate for Hamble Aerostructures Limited; ADS Group members directory (snapshot 2026-05-15).

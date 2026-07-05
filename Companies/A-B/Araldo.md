@@ -4,7 +4,7 @@ name: Araldo Limited
 website: https://araldo.co.uk
 companies-house: 06634009
 hq: Alton, United Kingdom
-uk-region: South East England
+uk-region: South East
 founded: 2008
 size: micro
 sources-verified: 2026-07-03

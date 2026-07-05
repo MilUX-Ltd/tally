@@ -3,9 +3,9 @@ type: organisation
 name: Musketeer Solutions Ltd
 website: http://www.musketeersolutions.com
 hq: Peterborough, United Kingdom
-uk-region: East
+uk-region: East of England
 size: micro
-sources-verified: 2026-06-29
+sources-verified: 2026-07-05
 tags:
   - defence
   - size-micro
@@ -29,6 +29,7 @@ Musketeer Solutions Ltd (MSL) delivers independent airworthiness support to the 
 - **Airworthiness review services** - independent airworthiness support using a range of review methodologies for MOD platforms.
 - **Structural and systems inspection** - on-aircraft interconnectivity inspection and structural repair assessment.
 - **Safety and engineering consultancy** - health and safety, logistics, research and training services for the aerospace and defence sector.
+- **Battle of Britain Memorial Flight support** - prime contractor for the BBMF Fighters Industry Group (B-FIG), maintaining historic military aircraft including Spitfire and Hurricane, delivered through the MOD SHIELD contract.
 
 ## Frameworks, accreditations and memberships
 
@@ -41,4 +42,4 @@ Musketeer Solutions Ltd (MSL) delivers independent airworthiness support to the 
 
 ## Sources
 
-Public information verified 2026-06-29. DEVONthink MilUX CRM record (ADS directory snapshot, 2026-05-15).
+Public information verified 2026-07-05. ADS Group members directory (snapshot, 2026-05-15); MOD Defence Equipment & Support and Joint Forces News reporting on the BBMF/B-FIG SHIELD contract.

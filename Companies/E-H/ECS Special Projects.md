@@ -5,7 +5,7 @@ website: https://cobramds.co.uk
 linkedin: https://www.linkedin.com/company/ecs-special-projects-limited
 companies-house: "07487578"
 hq: Dorchester, United Kingdom
-uk-region: South West England
+uk-region: South West
 founded: 2011
 size: micro
 headcount: 4

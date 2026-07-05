@@ -4,11 +4,12 @@ name: JAG Secure Ltd
 website: https://jagsecure.com
 hq: London, United Kingdom
 uk-region: London
-sources-verified: 2026-06-29
+sources-verified: 2026-07-04
 tags:
   - defence
   - mbr-ads
   - cyber
+  - cyber/pen-testing
   - type-consultancy
   - type-sme
   - owned-uk
@@ -40,4 +41,4 @@ JAG Secure delivers penetration testing and cyber security services with qualifi
 
 ## Sources
 
-Public information verified 2026-06-29. DEVONthink CRM record (ADS directory snapshot, 2026-05-15).
+Public information verified 2026-07-04. ADS Group members directory (snapshot, 2026-05-15).

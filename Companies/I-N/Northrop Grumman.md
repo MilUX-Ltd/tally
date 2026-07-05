@@ -5,21 +5,37 @@ website: https://www.northropgrumman.com/
 linkedin: https://www.linkedin.com/company/northrop-grumman-corporation
 companies-house: "05989428"
 hq: Falls Church, United States
+uk-region: Overseas
 founded: 1994
 size: large
 headcount: ~95000
-sources-verified: 2026-06-29
+sources-verified: 2026-07-05
 tags:
   - defence
   - air
   - space
   - isr
+  - isr/sigint
+  - isr/geoint
+  - isr/fusion
+  - isr/ped
+  - isr/imint
   - c2
+  - c2/battle-management
+  - c2/integration
+  - c2/targeting
   - ew
+  - ew/ecm
+  - ew/elint
+  - ew/eccm
   - sensors
+  - sensors/radar
+  - sensors/eo-ir
   - cyber
   - munitions
   - autonomy
+  - autonomy/uxv-control
+  - autonomy/swarming
   - manufacturing
   - size-large
   - type-prime

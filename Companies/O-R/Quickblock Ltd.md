@@ -4,7 +4,7 @@ name: Quickblock Ltd
 website: https://www.quickblock.uk
 hq: Stirling, United Kingdom
 uk-region: Scotland
-sources-verified: 2026-06-30
+sources-verified: 2026-07-05
 tags:
   - defence
   - mbr-ads
@@ -38,4 +38,4 @@ Quickblock produces a flat-pack, rapid-assembly building system requiring no ski
 
 ## Sources
 
-Public information verified 2026-06-30. DEVONthink CRM record (ADS directory snapshot, 2026-05-15).
+Public information verified 2026-07-05. ADS Group members directory (snapshot, 2026-05-15).

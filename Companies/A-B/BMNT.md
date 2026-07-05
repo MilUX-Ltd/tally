@@ -7,7 +7,7 @@ companies-house: 12638967
 hq: London, United Kingdom
 uk-region: London
 size: small
-sources-verified: 2026-07-03
+sources-verified: 2026-07-04
 tags:
   - defence
   - ai
@@ -15,7 +15,6 @@ tags:
   - type-consultancy
   - size-small
   - mbr-ads
-  - prog-h4d
 ---
 
 # BMNT

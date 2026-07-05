@@ -18,7 +18,7 @@ tags:
   - type-sme
   - owned-uk
   - accr-iso9001
-  - fw-joscar
+  - accr-joscar
   - mbr-ads
 ---
 

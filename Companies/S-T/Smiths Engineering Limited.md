@@ -41,4 +41,4 @@ Smiths Engineering (trading as Smiths Precision) specialises in CNC multi-axis m
 
 ## Sources
 
-Public information verified 2026-06-30. DEVONthink record sourced from ADS members directory snapshot (2026-05-15).
+Public information verified 2026-06-30. ADS Group members directory (snapshot, 2026-05-15).

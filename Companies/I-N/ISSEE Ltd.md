@@ -4,18 +4,20 @@ name: ISSEE Ltd
 website: https://www.issee.co.uk
 hq: Woking, United Kingdom
 uk-region: South East
-sources-verified: 2026-06-29
+sources-verified: 2026-07-04
 tags:
   - defence
   - mbr-ads
   - training
+  - training/courseware
+  - training/instruction
   - type-sme
   - owned-uk
   - accr-ce
   - accr-ce-plus
   - accr-iso9001
   - accr-iso14001
-  - fw-joscar
+  - accr-joscar
 ---
 
 # ISSEE Ltd
@@ -45,4 +47,4 @@ ISSEE delivers externally verified and accredited training across the full spect
 
 ## Sources
 
-Public information verified 2026-06-29. DEVONthink CRM record (ADS directory snapshot, 2026-05-15).
+Public information verified 2026-06-29. ADS Group members directory (snapshot, 2026-05-15).

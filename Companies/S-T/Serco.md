@@ -4,7 +4,7 @@ name: Serco Group plc
 website: https://www.serco.com
 linkedin: https://www.linkedin.com/company/serco
 hq: Hook, Hampshire, United Kingdom
-uk-region: South East England
+uk-region: South East
 founded: 1929
 size: large
 sources-verified: 2026-06-29

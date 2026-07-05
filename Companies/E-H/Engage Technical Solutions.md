@@ -5,7 +5,7 @@ website: https://www.engage-ltd.co.uk
 linkedin: https://www.linkedin.com/company/engage-technical-solutions-ltd
 companies-house: 07825541
 hq: Chippenham, United Kingdom
-uk-region: South West England
+uk-region: South West
 founded: 2011
 size: small
 headcount: 77
@@ -22,7 +22,7 @@ tags:
   - type-sme
   - type-consultancy
   - owned-uk
-  - fw-joscar
+  - accr-joscar
   - fw-gcloud
   - accr-iso9001
   - accr-ce

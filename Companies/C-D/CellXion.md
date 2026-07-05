@@ -5,7 +5,7 @@ website: https://cell-xion.com
 linkedin: https://uk.linkedin.com/company/cellxion-ltd
 companies-house: 04780952
 hq: Caterham, United Kingdom
-uk-region: South East England
+uk-region: South East
 founded: 2003
 size: small
 headcount: ~25

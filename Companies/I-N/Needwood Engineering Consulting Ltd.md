@@ -2,15 +2,16 @@
 type: organisation
 name: Needwood Engineering Consulting Ltd
 website: https://www.needwoodengineeringconsultingltd.co.uk
+companies-house: 12257829
 hq: Staffordshire, United Kingdom
 uk-region: West Midlands
-sources-verified: 2026-06-30
+founded: 2019
+size: micro
+sources-verified: 2026-07-05
 tags:
   - defence
   - mbr-ads
   - air
-  - drones
-  - uas
   - hardware
   - type-sme
   - owned-uk
@@ -18,11 +19,11 @@ tags:
 
 # Needwood Engineering Consulting Ltd
 
-> Engineering consultancy developing novel VTOL aircraft technology with granted patents in Europe and the United States.
+> Engineering consultancy developing novel vertical/short take-off and landing (VSTOL) aircraft technology, with granted patents in Europe and the United States.
 
 ## What they do
 
-Needwood Engineering Consulting develops proprietary vertical take-off and landing (VTOL) technology, holding European Patent EP 3 914 513 B1 and US Patent US12,291,331 B2. The company operates as an engineering consultancy with a manufacturing orientation, working on novel aerospace platforms.
+Needwood Engineering Consulting is a small engineering consultancy developing proprietary VSTOL (vertical/short take-off and landing) aircraft propulsion technology, holding European Patent EP 3 914 513 B1 and US Patent US 12,291,331 B2. The granted US patent describes a fixed-wing aircraft with at least one propulsion unit mounted forward of the wing's leading edge, with exhaust flow passing over the wing to generate lift and forward thrust, paired with a further propulsion unit providing thrust in the opposite direction. No flying prototype, demonstrator, or named platform has been publicly documented; the company's public footprint is centred on the patent family and its consultancy trading description.
 
 ## Frameworks, accreditations and memberships
 
@@ -34,4 +35,4 @@ Needwood Engineering Consulting develops proprietary vertical take-off and landi
 
 ## Sources
 
-Public information verified 2026-06-30. DEVONthink MilUX CRM record (ADS directory snapshot, 2026-05-15).
+Public information verified 2026-07-05. European Patent Register and US Patent and Trademark Office filings (EP 3 914 513 B1, US 12,291,331 B2), ADS Group members directory (snapshot, 2026-05-15). Public sources describe a fixed-wing VSTOL propulsion concept at IP/consultancy stage rather than a fielded or flown unmanned platform; the `drones`/`uas` tags have been removed pending confirmation the platform is unmanned.

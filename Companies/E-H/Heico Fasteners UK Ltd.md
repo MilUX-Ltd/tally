@@ -8,7 +8,7 @@ uk-region: East of England
 founded: 1990
 size: micro
 headcount: 2-10
-sources-verified: 2026-06-29
+sources-verified: 2026-07-04
 tags:
   - defence
   - manufacturing
@@ -43,4 +43,4 @@ Heico Fasteners UK is the British arm of the HEICO Group, a family-owned fasteni
 
 ## Sources
 
-Public information verified 2026-06-29. ADS members directory (snapshot May 2026); DEVONthink CRM record; web search results including ADS Group member listing and company profile data.
+Public information verified 2026-06-29. ADS members directory (snapshot May 2026); web search results including ADS Group member listing and company profile data.

@@ -54,4 +54,4 @@ KRG Specialist Engineering Services delivers precision machining, including 5-ax
 
 ## Sources
 
-Public information verified 2026-07-03. DEVONthink MilUX CRM record (ADS directory snapshot, 2026-05-15). KRG Specialist Engineering website (About, News, Careers pages, krg-engservices.com). Torishima Service Solutions Europe acquisition announcement (torishima.co.uk, 4 August 2025). Machinery.co.uk coverage of the Torishima acquisition. LinkedIn company page (linkedin.com/company/krg-specialist-engineering-services-ltd).
+Public information verified 2026-07-03. ADS Group members directory (snapshot, 2026-05-15). KRG Specialist Engineering website (About, News, Careers pages, krg-engservices.com). Torishima Service Solutions Europe acquisition announcement (torishima.co.uk, 4 August 2025). Machinery.co.uk coverage of the Torishima acquisition. LinkedIn company page (linkedin.com/company/krg-specialist-engineering-services-ltd).

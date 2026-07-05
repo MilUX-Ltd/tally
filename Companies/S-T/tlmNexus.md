@@ -19,7 +19,7 @@ tags:
   - type-sme
   - fw-gcloud
   - fw-dos
-  - fw-joscar
+  - accr-joscar
   - fw-ccs
   - accr-iso9001
   - accr-iso27001

@@ -4,11 +4,15 @@ name: Nokia UK Ltd
 website: https://www.nokia.com
 hq: Espoo, Finland
 uk-region: South West
-sources-verified: 2026-06-30
+sources-verified: 2026-07-05
 tags:
   - defence
   - mbr-ads
   - comms
+  - comms/tactical-radio
+  - comms/satcom
+  - comms/networking
+  - comms/secure-voice
   - software
   - hardware
   - manufacturing
@@ -34,4 +38,4 @@ Nokia designs and delivers mobile, fixed and cloud networks, with a significant 
 
 ## Sources
 
-Public information verified 2026-06-30. DEVONthink MilUX CRM record (ADS directory snapshot, 2026-05-15).
+Public information verified 2026-06-30. ADS Group members directory (snapshot, 2026-05-15).

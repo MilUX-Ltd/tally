@@ -4,7 +4,7 @@ name: Air Tanker
 website: https://www.airtanker.co.uk/
 linkedin: https://www.linkedin.com/company/air-tanker/
 hq: RAF Brize Norton, Oxfordshire
-uk-region: South East England
+uk-region: South East
 founded: 2007
 size: large
 sources-verified: 2026-07-03

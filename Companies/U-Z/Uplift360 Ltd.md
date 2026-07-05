@@ -31,4 +31,4 @@ Uplift360 develops and scales low-impact recycling technologies for high-perform
 
 ## Sources
 
-Public information verified 2026-06-30. DEVONthink MilUX CRM record (ADS directory snapshot, captured 2026-05-15). UK operating address: Future Space, North Gate (UWE), Filton Road, Stoke Gifford, Gloucestershire.
+Public information verified 2026-06-30. ADS Group members directory (captured 2026-05-15). UK operating address: Future Space, North Gate (UWE), Filton Road, Stoke Gifford, Gloucestershire.

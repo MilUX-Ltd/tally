@@ -4,7 +4,7 @@ name: Teledyne Defence & Space
 website: https://www.teledynedefence.co.uk
 linkedin: https://www.linkedin.com/company/teledynedefence&space
 hq: Shipley, UK
-uk-region: Yorkshire and the Humber
+uk-region: Yorkshire and The Humber
 size: medium
 sources-verified: 2026-06-29
 tags:

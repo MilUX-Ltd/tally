@@ -9,16 +9,18 @@ uk-region: South East
 founded: 1982
 size: small
 headcount: ~20-24
-sources-verified: 2026-07-01
+sources-verified: 2026-07-05
 tags:
   - defence
   - maritime
   - sensors
+  - sensors/acoustic-sonar
   - autonomy
+  - autonomy/uxv-control
   - size-small
   - type-sme
   - owned-uk
-  - fw-joscar
+  - accr-joscar
   - accr-iso9001
 ---
 
@@ -57,4 +59,4 @@ RS Aqua supplies and integrates ocean-technology sensors, instruments and monito
 
 ## Sources
 
-Public information verified 2026-07-01. Sources: RS Aqua website (rsaqua.co.uk), Companies House (01661817), Marine Technology News, Society of Maritime Industries directory. Headcount is a third-party estimate; operating HQ at Port Solent, Portsmouth (registered office differs).
+Public information verified 2026-07-05. Sources: RS Aqua website (rsaqua.co.uk), Companies House (01661817), Marine Technology News, Society of Maritime Industries directory. Headcount is a third-party estimate; operating HQ at Port Solent, Portsmouth (registered office differs).

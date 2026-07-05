@@ -5,10 +5,11 @@ website: https://www.hawkinformation.com
 hq: Moreton-in-Marsh, United Kingdom
 uk-region: South West
 size: micro
-sources-verified: 2026-06-29
+sources-verified: 2026-07-04
 tags:
   - defence
   - isr
+  - isr/osint
   - data
   - software
   - training
@@ -45,4 +46,4 @@ Hawk Information is a UK-registered OSINT and strategy firm providing intelligen
 
 ## Sources
 
-Public information verified 2026-06-29. ADS members directory snapshot (2026-05-15); hawkinformation.com (2026-06-29).
+Public information verified 2026-07-04. ADS members directory snapshot (2026-05-15); hawkinformation.com (2026-06-29).

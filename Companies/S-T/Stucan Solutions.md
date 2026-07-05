@@ -4,6 +4,7 @@ name: Stucan Solutions
 website: https://www.stucan-solutions.com/
 linkedin: https://www.linkedin.com/company/stucan-solutions/
 hq: Leesburg, Virginia, USA
+uk-region: Overseas
 founded: 2011
 sources-verified: 2026-06-29
 tags:

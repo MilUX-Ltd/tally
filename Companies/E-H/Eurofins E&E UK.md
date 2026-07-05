@@ -5,7 +5,7 @@ website: https://www.eurofins.co.uk/electrical-and-electronics/
 linkedin: https://uk.linkedin.com/company/eurofins-e-e-uk
 companies-house: 06048589
 hq: Luxembourg City, Luxembourg
-uk-region: Yorkshire and the Humber
+uk-region: Yorkshire and The Humber
 founded: 2007
 size: medium
 headcount: 129
@@ -19,7 +19,6 @@ tags:
   - size-medium
   - type-sme
   - owned-foreign
-  - accr-def-stan
   - mbr-ads
 ---
 

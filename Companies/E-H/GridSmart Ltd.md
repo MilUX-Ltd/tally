@@ -6,14 +6,16 @@ companies-house: 03296028
 hq: Exeter, UK
 uk-region: South West
 size: micro
-sources-verified: 2026-06-29
+sources-verified: 2026-07-04
 tags:
   - defence
   - isr
   - sensors
+  - sensors/pnt
   - software
   - hardware
   - c2
+  - c2/situational-awareness
   - size-micro
   - type-sme
   - owned-uk
@@ -48,4 +50,4 @@ GridSmart supplies and supports secure tracking, sensing and switching solutions
 
 ## Sources
 
-Public information verified 2026-06-29. Company website (gridsmart.co.uk), ADS members directory, Security and Policing 2026 exhibitor listing, DEVONthink CRM reference (ADS snapshot 2026-05-15).
+Public information verified 2026-06-29. Company website (gridsmart.co.uk), ADS members directory, Security and Policing 2026 exhibitor listing, ADS Group members directory (snapshot, 2026-05-15).

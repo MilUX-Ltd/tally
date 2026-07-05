@@ -8,13 +8,15 @@ hq: Bromsgrove, United Kingdom
 uk-region: West Midlands
 founded: 2020
 size: micro
-sources-verified: 2026-06-29
+sources-verified: 2026-07-04
 tags:
   - defence
   - comms
+  - comms/networking
   - rf
   - maritime
   - sensors
+  - sensors/pnt
   - hardware
   - size-micro
   - type-startup
@@ -46,4 +48,4 @@ JET Connectivity delivers secure 5G/6G mesh networks with integrated backhaul an
 
 ## Sources
 
-Public information verified 2026-06-29. Company website (jet-eng.co.uk), Companies House (14386396), TRICAPITAL Angels, Scottish Business News, Offshore Renewable Energy Catapult case study.
+Public information verified 2026-07-04. Company website (jet-eng.co.uk), Companies House (14386396), TRICAPITAL Angels, Scottish Business News, Offshore Renewable Energy Catapult case study.

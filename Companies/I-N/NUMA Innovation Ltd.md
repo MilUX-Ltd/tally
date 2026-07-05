@@ -5,7 +5,7 @@ website: https://www.numa-innovation.com
 hq: Belfast, United Kingdom
 uk-region: Northern Ireland
 size: micro
-sources-verified: 2026-06-30
+sources-verified: 2026-07-05
 tags:
   - defence
   - size-micro

@@ -5,10 +5,10 @@ website: https://www.bastionprotects.com
 linkedin: https://www.linkedin.com/company/bastion-security-products-ltd
 companies-house: 08667108
 hq: Newcastle upon Tyne, United Kingdom
-uk-region: North East England
+uk-region: North East
 founded: 2013
 size: small
-sources-verified: 2026-07-03
+sources-verified: 2026-07-04
 tags:
   - defence
   - hardware

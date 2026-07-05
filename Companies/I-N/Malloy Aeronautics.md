@@ -4,13 +4,14 @@ name: Malloy Aeronautics Ltd
 website: https://www.malloyaeronautics.com
 linkedin: https://www.linkedin.com/company/malloy-aeronautics-ltd
 hq: Maidenhead, United Kingdom
-uk-region: South East England
+uk-region: South East
 founded: 2012
 size: small
-sources-verified: 2026-06-29
+sources-verified: 2026-07-05
 tags:
   - defence
   - uas
+  - uas/platform
   - drones
   - logistics
   - air

@@ -8,7 +8,7 @@ hq: Hove, United Kingdom
 uk-region: South East
 founded: 1989
 size: small
-sources-verified: 2026-06-29
+sources-verified: 2026-07-04
 tags:
   - defence
   - acoustic
@@ -46,4 +46,4 @@ Hosiden Besson (trading as HBL) designs and manufactures acoustic, electronic an
 
 ## Sources
 
-Public information verified 2026-06-29. Company website (hbl.co.uk), Companies House (company 02444091), LinkedIn company page.
+Public information verified 2026-07-04. Company website (hbl.co.uk), Companies House (company 02444091), LinkedIn company page.

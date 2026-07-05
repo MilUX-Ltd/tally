@@ -3,7 +3,7 @@ type: organisation
 name: Senior Plc
 website: https://www.seniorplc.com
 hq: Rickmansworth, United Kingdom
-uk-region: East
+uk-region: East of England
 size: large
 sources-verified: 2026-06-30
 tags:
@@ -37,4 +37,4 @@ Senior plc operates two divisions: Aerospace (65% of revenues), which supplies f
 
 ## Sources
 
-Public information verified 2026-06-30. DEVONthink CRM record (ADS directory snapshot, 2026-05-15).
+Public information verified 2026-06-30. ADS Group members directory (snapshot, 2026-05-15).

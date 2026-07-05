@@ -6,12 +6,16 @@ hq: London, UK
 uk-region: London
 founded: 2017
 size: micro
-sources-verified: 2026-06-29
+sources-verified: 2026-07-04
 tags:
   - defence
   - cyber
+  - cyber/grc
+  - cyber/incident-response
   - isr
+  - isr/osint
   - training
+  - training/instruction
   - comms
   - size-micro
   - type-consultancy
@@ -46,4 +50,4 @@ Greycoat Global was formed in 2017 by two founders who bring together over 50 ye
 
 ## Sources
 
-Public information verified 2026-06-29. Company website (greycoat.global), ADS members directory, DEVONthink CRM reference (ADS snapshot 2026-05-15).
+Public information verified 2026-06-29. Company website (greycoat.global), ADS members directory, ADS Group members directory (snapshot, 2026-05-15).

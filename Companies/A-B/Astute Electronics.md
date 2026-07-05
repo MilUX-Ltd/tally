@@ -8,7 +8,7 @@ hq: Stevenage, England
 uk-region: East of England
 founded: 1988
 size: medium
-sources-verified: 2026-07-03
+sources-verified: 2026-07-04
 tags:
   - defence
   - hardware

@@ -5,10 +5,11 @@ website: https://www.leonardo.com/en/home
 linkedin: https://www.linkedin.com/company/leonardo_company
 companies-house: "02426132"
 hq: Rome, Italy
+uk-region: Overseas
 founded: 1948
 size: large
 headcount: ~60000
-sources-verified: 2026-06-29
+sources-verified: 2026-07-04
 tags:
   - defence
   - air
@@ -16,12 +17,43 @@ tags:
   - land
   - maritime
   - isr
+  - isr/sigint
+  - isr/imint
+  - isr/fusion
+  - isr/ped
   - c2
+  - c2/battle-management
+  - c2/mission-planning
+  - c2/situational-awareness
+  - c2/targeting
+  - c2/integration
   - ew
+  - ew/elint
+  - ew/ecm
+  - ew/direction-finding
   - sensors
+  - sensors/eo-ir
+  - sensors/radar
+  - sensors/acoustic-sonar
+  - sensors/pnt
   - cyber
+  - cyber/soc-monitoring
+  - cyber/incident-response
+  - cyber/threat-intel
+  - cyber/vuln-management
+  - cyber/pen-testing
+  - cyber/encryption
+  - cyber/cross-domain
+  - cyber/ot-security
   - comms
+  - comms/tactical-radio
+  - comms/satcom
+  - comms/waveforms
+  - comms/networking
+  - comms/secure-voice
   - counter-uas
+  - counter-uas/detection
+  - counter-uas/effector
   - optronics
   - manufacturing
   - size-large
@@ -62,4 +94,4 @@ Leonardo is an Italian multinational specialising in aerospace, defence and secu
 
 ## Sources
 
-Public information verified 2026-06-29. Company website (leonardo.com and uk.leonardo.com), LinkedIn company page, Aviation Week, Bloomberg, Forces News. Companies House (Leonardo UK Ltd, company number 02426132, incorporated 25 September 1989; registered office 1 Eagle Place, St James's, London SW1Y 6AF). Global HQ Rome, Italy; formed 1948 (origins as Finmeccanica, renamed Leonardo in 2016); listed on Borsa Italiana. Global headcount approximately 60,000 per public figures; UK headcount around 8,400.
+Public information verified 2026-07-04. Company website (leonardo.com, uk.leonardo.com, electronics.leonardo.com, cybersecurity.leonardo.com), LinkedIn company page, Aviation Week, Bloomberg, Forces News. Companies House (Leonardo UK Ltd, company number 02426132, incorporated 25 September 1989; registered office 1 Eagle Place, St James's, London SW1Y 6AF). Global HQ Rome, Italy; formed 1948 (origins as Finmeccanica, renamed Leonardo in 2016); listed on Borsa Italiana. Global headcount approximately 60,000 per public figures; UK headcount around 8,400.

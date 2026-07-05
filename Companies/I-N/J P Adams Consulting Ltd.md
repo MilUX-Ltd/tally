@@ -4,7 +4,7 @@ name: J P Adams Consulting Ltd
 website: https://www.jpac.engineer
 hq: Bristol, United Kingdom
 uk-region: South West
-sources-verified: 2026-06-29
+sources-verified: 2026-07-04
 tags:
   - defence
   - mbr-ads
@@ -35,4 +35,4 @@ J P Adams Consulting delivers traditional and model-based systems engineering, s
 
 ## Sources
 
-Public information verified 2026-06-29. DEVONthink CRM record (ADS directory snapshot, 2026-05-15).
+Public information verified 2026-07-04. ADS Group members directory (snapshot, 2026-05-15).

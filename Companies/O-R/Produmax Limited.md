@@ -3,8 +3,8 @@ type: organisation
 name: Produmax Limited
 website: https://www.produmax.co.uk
 hq: Baildon, UK
-uk-region: Yorkshire
-sources-verified: 2026-06-30
+uk-region: Yorkshire and The Humber
+sources-verified: 2026-07-05
 tags:
   - defence
   - mbr-ads
@@ -33,4 +33,4 @@ Produmax is a precision engineering specialist focused on flight control compone
 
 ## Sources
 
-Public information verified 2026-06-30. DEVONthink CRM record sourced from ADS members directory snapshot, 2026-05-15.
+Public information verified 2026-06-30. ADS Group members directory (snapshot, 2026-05-15).

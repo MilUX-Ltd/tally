@@ -4,7 +4,7 @@ name: SPAICE
 website: https://spaice.tech/
 linkedin: https://www.linkedin.com/company/spaicetech/
 hq: London
-uk-region: Greater London
+uk-region: London
 founded: 2023
 sources-verified: 2026-06-29
 tags:

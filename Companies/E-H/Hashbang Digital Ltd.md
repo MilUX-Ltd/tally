@@ -6,12 +6,15 @@ companies-house: "12504402"
 hq: London, UK
 uk-region: London
 size: small
-sources-verified: 2026-06-29
+sources-verified: 2026-07-04
 tags:
   - defence
   - software
   - data
+  - data/engineering
   - ai
+  - ai/generative
+  - ai/decision-support
   - cyber
   - size-small
   - type-sme

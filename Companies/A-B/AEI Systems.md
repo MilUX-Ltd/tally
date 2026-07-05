@@ -5,7 +5,7 @@ website: https://aei-systems.com
 linkedin: https://uk.linkedin.com/company/aei-systems-ltd
 companies-house: 04462335
 hq: Ascot, United Kingdom
-uk-region: South East England
+uk-region: South East
 founded: 1961
 size: small
 headcount:

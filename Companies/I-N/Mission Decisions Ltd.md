@@ -3,12 +3,16 @@ type: organisation
 name: Mission Decisions Ltd
 website: https://missiondecisions.com
 hq: Bristol, UK
-uk-region: South West England
-sources-verified: 2026-06-29
+uk-region: South West
+sources-verified: 2026-07-05
 tags:
   - defence
   - ai
+  - ai/ml-analytics
+  - ai/decision-support
+  - ai/generative
   - data
+  - data/analytics
   - software
   - type-consultancy
   - mbr-ads
@@ -31,4 +35,4 @@ Mission Decisions delivers human-machine teaming services, integrating AI and ma
 - Website: https://missiondecisions.com
 
 ## Sources
-Public information verified 2026-06-29.
+Public information verified 2026-07-05. Mission Decisions website (missiondecisions.com), ADS Group member directory.

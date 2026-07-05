@@ -4,6 +4,7 @@ name: Comand AI
 website: https://www.comand.ai/
 linkedin: https://www.linkedin.com/company/comand-ai
 hq: Paris, France
+uk-region: Overseas
 founded: 2023
 size: small
 sources-verified: 2026-07-04

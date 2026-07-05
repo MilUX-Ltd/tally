@@ -5,7 +5,7 @@ website: https://www.spherea.co.uk
 linkedin: https://uk.linkedin.com/company/spherea-uk
 companies-house: 04279438
 hq: Christchurch, UK
-uk-region: South West England
+uk-region: South West
 founded: 2001
 size: small
 sources-verified: 2026-06-29

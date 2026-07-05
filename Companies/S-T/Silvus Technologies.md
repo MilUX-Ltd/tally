@@ -4,6 +4,7 @@ name: Silvus Technologies
 website: https://silvustechnologies.com
 linkedin: https://www.linkedin.com/company/silvus-technologies
 hq: Los Angeles, United States
+uk-region: Overseas
 founded: 2004
 size: medium
 sources-verified: 2026-06-29

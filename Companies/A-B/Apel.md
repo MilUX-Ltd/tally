@@ -18,7 +18,7 @@ tags:
   - type-sme
   - type-manufacturer
   - owned-uk
-  - fw-joscar
+  - accr-joscar
   - mbr-ads
 ---
 

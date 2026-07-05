@@ -18,7 +18,7 @@ tags:
   - size-large
   - type-prime
   - owned-foreign
-  - fw-joscar
+  - accr-joscar
   - accr-iso9001
   - mbr-ads
 ---

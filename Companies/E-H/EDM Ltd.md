@@ -5,7 +5,7 @@ website: https://edmgroupltd.com
 linkedin: https://uk.linkedin.com/company/edm-ltd
 companies-house: 01001465
 hq: Manchester, United Kingdom
-uk-region: North West England
+uk-region: North West
 founded: 1971
 size: large
 sources-verified: 2026-07-04

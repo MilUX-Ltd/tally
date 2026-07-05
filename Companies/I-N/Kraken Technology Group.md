@@ -5,15 +5,17 @@ website: https://krakentechnology.com
 linkedin: https://uk.linkedin.com/company/kraken-technology-group
 companies-house: "13099283"
 hq: Fareham, United Kingdom
-uk-region: South East England
+uk-region: South East
 founded: 2020
 size: small
-sources-verified: 2026-06-29
+sources-verified: 2026-07-04
 tags:
   - defence
   - maritime
   - autonomy
+  - autonomy/navigation
   - uas
+  - uas/platform
   - manufacturing
   - size-small
   - type-manufacturer
@@ -50,4 +52,4 @@ Kraken Technology Group is a UK company applying precision design and advanced e
 
 ## Sources
 
-Public information verified 2026-06-29. Company website (krakentechnology.com), Companies House (KRAKEN TECHNOLOGY GROUP LIMITED, company number 13099283, incorporated 24 December 2020), ADS Group members directory, Royal Navy, NATO Innovation Fund, and reputable news.
+Public information verified 2026-07-04. Company website (krakentechnology.com), Companies House (KRAKEN TECHNOLOGY GROUP LIMITED, company number 13099283, incorporated 24 December 2020), ADS Group members directory, Royal Navy, NATO Innovation Fund, and reputable news.

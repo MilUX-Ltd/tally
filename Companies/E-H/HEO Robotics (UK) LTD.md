@@ -6,7 +6,7 @@ linkedin: https://www.linkedin.com/company/heospace
 hq: Sydney, Australia
 uk-region: London
 size: small
-sources-verified: 2026-06-29
+sources-verified: 2026-07-04
 tags:
   - defence
   - space
@@ -18,6 +18,9 @@ tags:
   - type-scaleup
   - owned-foreign
   - mbr-ads
+  - isr/imint
+  - data/analytics
+  - sensors/eo-ir
 ---
 
 # HEO Robotics (UK) LTD
@@ -45,4 +48,4 @@ HEO (High Earth Orbit Robotics) provides on-demand, high-frequency imagery of sa
 
 ## Sources
 
-Public information verified 2026-06-29. DEVONthink ADS directory snapshot (2026-05-15); heospace.com (2026-06-29).
+Public information verified 2026-06-29. ADS Group members directory (snapshot, 2026-05-15); heospace.com (2026-06-29).

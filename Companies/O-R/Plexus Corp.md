@@ -4,10 +4,11 @@ name: Plexus Corp.
 website: https://www.plexus.com
 linkedin: https://www.linkedin.com/company/plexus
 hq: Neenah, United States
+uk-region: Overseas
 founded: 1979
 size: large
 headcount: ~20000
-sources-verified: 2026-06-29
+sources-verified: 2026-07-05
 tags:
   - defence
   - air
@@ -20,7 +21,6 @@ tags:
   - size-large
   - owned-foreign
   - listed
-  - accr-itar
 ---
 
 # Plexus Corp.
@@ -54,4 +54,4 @@ Plexus is a global electronics manufacturing services (EMS) company that designs
 
 ## Sources
 
-Public information verified 2026-06-29. Plexus website (aerospace and defense market pages), LinkedIn company page, SEC filings (NASDAQ: PLXS), StockTitan, Business Wire.
+Public information verified 2026-07-05. Plexus website (aerospace and defense market pages), LinkedIn company page, SEC filings (NASDAQ: PLXS), StockTitan, Business Wire. Confirmed no capability subset tags apply: Plexus's own defense market pages describe manufacturing of customers' battlefield communications, radar, C4ISR and EW products as a contract EMS provider, not Plexus's own ISR, comms or EW capability, and none of `cyber`, `ai`, `isr`, `comms`, `c2`, `ew`, `autonomy`, `uas`, `counter-uas`, `data`, `simulation`, `training` or `sensors` are carried as top-level tags on this page.

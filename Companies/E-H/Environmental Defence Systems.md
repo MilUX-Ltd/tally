@@ -4,7 +4,7 @@ name: Environmental Defence Systems Limited
 website: https://edslimited.co.uk
 companies-house: 06300190
 hq: Huddersfield, United Kingdom
-uk-region: Yorkshire and the Humber
+uk-region: Yorkshire and The Humber
 founded: 2007
 size: small
 sources-verified: 2026-07-04

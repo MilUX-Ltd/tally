@@ -4,6 +4,7 @@ name: Getac Technology Corporation
 website: https://www.getac.com
 linkedin: https://www.linkedin.com/company/getactechnology
 hq: Taipei, Taiwan
+uk-region: Overseas
 founded: 1989
 size: large
 sources-verified: 2026-07-04

@@ -8,10 +8,11 @@ hq: Blackwood, United Kingdom
 uk-region: Wales
 founded: 2017
 size: micro
-sources-verified: 2026-06-29
+sources-verified: 2026-07-05
 tags:
   - defence
   - cyber
+  - cyber/encryption
   - data
   - software
   - quantum
@@ -51,4 +52,4 @@ Prizsm describes itself as a computational storage capability providing resilien
 
 ## Sources
 
-Public information verified 2026-06-29. Prizsm website, LinkedIn company page, Companies House (10720342), CCS Digital Marketplace (G-Cloud listing), Digital Security by Design, techUK. Website and LinkedIn URLs confirmed via search indexes; direct page fetch was unavailable at time of verification.
+Public information verified 2026-07-05. Prizsm website, LinkedIn company page, Companies House (10720342), CCS Digital Marketplace (G-Cloud listing), Digital Security by Design, techUK, cybersecurityintelligence.com company listing (confirming quantum-resistant cryptographic approach). Website and LinkedIn URLs confirmed via search indexes; direct page fetch was unavailable at time of verification.

@@ -8,12 +8,14 @@ hq: London, UK
 uk-region: London
 founded: 2016
 size: small
-sources-verified: 2026-06-29
+sources-verified: 2026-07-04
 tags:
   - defence
   - space
   - isr
+  - isr/imint
   - sensors
+  - sensors/eo-ir
   - data
   - gis
   - ai

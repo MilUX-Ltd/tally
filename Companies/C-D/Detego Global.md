@@ -5,7 +5,7 @@ website: https://detegoglobal.com
 linkedin: https://www.linkedin.com/company/detegoforensics
 companies-house: "05196800"
 hq: Horsham, United Kingdom
-uk-region: South East England
+uk-region: South East
 founded: 2003
 size: small
 sources-verified: 2026-07-04
@@ -19,7 +19,7 @@ tags:
   - size-small
   - type-sme
   - owned-uk
-  - fw-joscar
+  - accr-joscar
   - accr-ce
   - accr-ce-plus
   - accr-iso9001

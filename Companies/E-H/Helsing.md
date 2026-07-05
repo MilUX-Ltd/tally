@@ -5,15 +5,18 @@ website: https://helsing.ai
 linkedin: https://www.linkedin.com/company/helsing
 companies-house: "13447361"
 hq: Munich, Germany
-uk-region: South West England
+uk-region: South West
 founded: 2021
 size: large
-sources-verified: 2026-06-29
+sources-verified: 2026-07-04
 tags:
   - defence
   - ai
+  - ai/decision-support
   - autonomy
+  - autonomy/uxv-control
   - uas
+  - uas/platform
   - drones
   - maritime
   - air

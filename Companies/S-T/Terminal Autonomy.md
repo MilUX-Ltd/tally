@@ -4,6 +4,7 @@ name: Terminal Autonomy
 website: https://terminalautonomy.com/
 linkedin: https://www.linkedin.com/company/terminalautonomy
 hq: Kyiv, Ukraine
+uk-region: Overseas
 founded: 2022
 size: medium
 sources-verified: 2026-06-29

@@ -7,7 +7,7 @@ companies-house: 02676395
 hq: Melksham, UK
 uk-region: South West
 size: large
-sources-verified: 2026-07-03
+sources-verified: 2026-07-04
 tags:
   - defence
   - cbrn

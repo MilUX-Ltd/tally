@@ -3,8 +3,8 @@ type: organisation
 name: Run Flat Systems Ltd
 website: http://www.runflatcbr.com
 hq: Sheffield, United Kingdom
-uk-region: Yorkshire
-sources-verified: 2026-06-30
+uk-region: Yorkshire and The Humber
+sources-verified: 2026-07-05
 tags:
   - defence
   - mbr-ads
@@ -39,4 +39,4 @@ Incorporated in 2007 as an R&D company, Run Flat Systems has designed and patent
 
 ## Sources
 
-Public information verified 2026-06-30. DEVONthink CRM record (ADS directory capture).
+Public information verified 2026-06-30. ADS Group members directory.

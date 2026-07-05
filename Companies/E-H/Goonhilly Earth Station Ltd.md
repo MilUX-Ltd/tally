@@ -5,11 +5,12 @@ website: https://www.goonhilly.org
 hq: Helston, UK
 uk-region: South West
 size: small
-sources-verified: 2026-06-29
+sources-verified: 2026-07-04
 tags:
   - defence
   - space
   - comms
+  - comms/satcom
   - isr
   - data
   - sensors
@@ -45,4 +46,4 @@ Goonhilly Earth Station Ltd operates from its site on Goonhilly Downs in Cornwal
 
 ## Sources
 
-Public information verified 2026-06-29. DEVONthink ADS directory snapshot (2026-05-15); Goonhilly Earth Station website (goonhilly.org).
+Public information verified 2026-06-29. ADS Group members directory (snapshot, 2026-05-15); Goonhilly Earth Station website (goonhilly.org).

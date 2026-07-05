@@ -5,7 +5,7 @@ website: https://www.exensor.com
 linkedin: https://www.linkedin.com/company/exensor-technology
 companies-house: 02327794
 hq: Lund, Sweden
-uk-region: South East England
+uk-region: South East
 founded: 1987
 size: medium
 sources-verified: 2026-07-04

@@ -5,7 +5,7 @@ website: https://www.khipu-networks.com/
 linkedin: https://www.linkedin.com/company/khipu-networks
 companies-house: 05218573
 hq: Fleet, United Kingdom
-uk-region: South East England
+uk-region: South East
 founded: 2005
 size: medium
 sources-verified: 2026-07-03
@@ -23,7 +23,7 @@ tags:
   - type-sme
   - owned-uk
   - accr-iso27001
-  - accr-cyber-essentials
+  - accr-ce
 ---
 
 # KHIPU Networks

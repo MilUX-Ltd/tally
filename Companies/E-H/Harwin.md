@@ -5,7 +5,7 @@ website: https://www.harwin.com
 hq: Portsmouth, UK
 uk-region: South East
 size: medium
-sources-verified: 2026-06-29
+sources-verified: 2026-07-04
 tags:
   - defence
   - hardware
@@ -49,4 +49,4 @@ Harwin manufactures high-reliability electronic connectors designed to withstand
 
 ## Sources
 
-Public information verified 2026-06-29. ADS members directory (snapshot 2026-05-15); harwin.com (fetched 2026-06-29).
+Public information verified 2026-07-04. ADS members directory (snapshot 2026-05-15); harwin.com (fetched 2026-06-29).

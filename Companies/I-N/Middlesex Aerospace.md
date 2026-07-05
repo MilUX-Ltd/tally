@@ -4,7 +4,7 @@ name: Middlesex Aerospace
 website: http://www.middlesexaerospace.com
 hq: Basingstoke, United Kingdom
 uk-region: South East
-sources-verified: 2026-06-29
+sources-verified: 2026-07-05
 tags:
   - defence
   - mbr-ads
@@ -15,7 +15,7 @@ tags:
   - owned-uk
   - accr-iso9001
   - accr-ce-plus
-  - fw-joscar
+  - accr-joscar
 ---
 
 # Middlesex Aerospace
@@ -37,4 +37,4 @@ Middlesex Aerospace manufactures build-to-specification complex machined compone
 
 ## Sources
 
-Public information verified 2026-06-29. DEVONthink record sourced from ADS members directory snapshot (2026-05-15).
+Public information verified 2026-07-05. ADS Group members directory (snapshot, 2026-05-15).

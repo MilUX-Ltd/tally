@@ -25,7 +25,7 @@ tags:
   - mbr-ads
   - accr-iso9001
   - accr-ce-plus
-  - fw-joscar
+  - accr-joscar
 ---
 
 # Somerford Associates

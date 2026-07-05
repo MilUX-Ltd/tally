@@ -7,13 +7,17 @@ hq: London, United Kingdom
 uk-region: London
 founded: 2017
 size: micro
-sources-verified: 2026-06-29
+sources-verified: 2026-07-05
 tags:
   - defence
   - data
+  - data/analytics
   - software
   - isr
+  - isr/sigint
+  - isr/fusion
   - ai
+  - ai/ml-analytics
   - size-micro
   - type-startup
   - owned-uk
@@ -38,7 +42,7 @@ PreCog Systems is a London-based software company that analyses structured and u
 
 ## Recent news
 
-- No dated public news item verified within the last 12 months as of 2026-06-29.
+- No dated public news item verified within the last 12 months as of 2026-07-05.
 
 ## Links
 
@@ -47,6 +51,6 @@ PreCog Systems is a London-based software company that analyses structured and u
 
 ## Sources
 
-Public information verified 2026-06-29. Company website (precogsystems.co.uk), LinkedIn, PitchBook, Tracxn, Startups Magazine.
+Public information verified 2026-07-05. Company website (precogsystems.co.uk), LinkedIn, PitchBook, Tracxn, Startups Magazine.
 
 Note: the publicly verifiable PreCog Systems is a data-analytics firm as described above, not a rugged data-recording and processing hardware supplier. No defence rugged-recording company under this exact name could be confirmed from public sources.

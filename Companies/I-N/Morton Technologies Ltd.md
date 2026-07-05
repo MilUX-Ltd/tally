@@ -4,7 +4,7 @@ name: Morton Technologies Ltd
 website: https://www.mortontech.io
 hq: Bristol, United Kingdom
 uk-region: South West
-sources-verified: 2026-06-29
+sources-verified: 2026-07-05
 tags:
   - defence
   - mbr-ads
@@ -40,4 +40,4 @@ Morton Technologies develops software solutions for the defence and security mar
 
 ## Sources
 
-Public information verified 2026-06-29. DEVONthink CRM record sourced from ADS members directory snapshot (2026-05-15); company website consulted to verify defence classification.
+Public information verified 2026-07-05. ADS Group members directory (snapshot, 2026-05-15); company website consulted to verify defence classification.

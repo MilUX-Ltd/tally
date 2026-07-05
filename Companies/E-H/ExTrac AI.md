@@ -21,7 +21,7 @@ tags:
   - size-micro
   - type-startup
   - owned-uk
-  - fw-joscar
+  - accr-joscar
   - mbr-ads
 ---
 

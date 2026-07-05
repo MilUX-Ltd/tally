@@ -9,7 +9,7 @@ uk-region: London
 founded: 2021
 size: small
 headcount: 30
-sources-verified: 2026-07-03
+sources-verified: 2026-07-04
 tags:
   - defence
   - ai

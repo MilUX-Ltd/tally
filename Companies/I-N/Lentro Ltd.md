@@ -2,10 +2,11 @@
 type: organisation
 name: Lentro Ltd
 website: https://www.lentro.co.uk
+companies-house: "09637983"
 hq: London, United Kingdom
 uk-region: London
 size: micro
-sources-verified: 2026-06-29
+sources-verified: 2026-07-04
 tags:
   - defence
   - size-micro
@@ -26,6 +27,11 @@ tags:
 
 Lentro applies a secure-by-design approach to architecture, governance and delivery for national security and critical infrastructure clients. Services span the modernisation of legacy systems, development of secure digital platforms, and transformation of technical debt into maintainable, long-term solutions.
 
+## Products and solutions
+
+- **Secure-by-design architecture** - architecture and governance services applying secure-by-design principles for national security and critical infrastructure clients.
+- **Legacy modernisation** - modernisation of legacy systems and reduction of technical debt into maintainable, long-term solutions.
+
 ## Frameworks, accreditations and memberships
 
 - **Memberships:** ADS Group
@@ -36,4 +42,4 @@ Lentro applies a secure-by-design approach to architecture, governance and deliv
 
 ## Sources
 
-Public information verified 2026-06-29. DEVONthink CRM record (ADS directory snapshot, 2026-05-15).
+Public information verified 2026-07-04. Company website (lentro.co.uk). Companies House (Lentro Limited, company number 09637983, incorporated 15 June 2015). ADS Group members directory (snapshot, 2026-05-15).

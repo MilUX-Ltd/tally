@@ -4,14 +4,17 @@ name: Rhea Space Activity UK Ltd
 website: https://www.rheaspaceactivity.com
 hq: Washington DC, United States
 uk-region: London
-sources-verified: 2026-06-30
+sources-verified: 2026-07-05
 tags:
   - defence
   - mbr-ads
   - space
   - sensors
+  - sensors/pnt
   - comms
+  - comms/satcom
   - autonomy
+  - autonomy/navigation
   - isr
   - type-sme
   - type-scaleup
@@ -36,4 +39,4 @@ Rhea Space Activity conducts R&D and government-funded project work in systems, 
 
 ## Sources
 
-Public information verified 2026-06-30. DEVONthink CRM record (ADS directory snapshot, 2026-05-15).
+Public information verified 2026-07-05. ADS Group members directory (snapshot, 2026-05-15); [Rhea Space Activity](https://www.rheaspaceactivity.com); [SpaceNews, Rhea Space Activity applies optical navigation to military rendezvous missions](https://spacenews.com/rhea-space-activity-applies-optical-navigation-to-military-rendezvous-missions/).

@@ -4,6 +4,7 @@ name: Accord Global Technology Solutions Private Limited
 website: https://www.altengt.com/
 linkedin: https://in.linkedin.com/company/accord-global-technology-solutions-private-limited
 hq: Bangalore, India
+uk-region: Overseas
 founded: 1991
 size: large
 sources-verified: 2026-07-03

@@ -2,9 +2,12 @@
 type: organisation
 name: MilSim Ltd
 website: https://milsim.uk
+companies-house: 14443724
 hq: London, United Kingdom
 uk-region: London
-sources-verified: 2026-06-29
+founded: 2022
+size: micro
+sources-verified: 2026-07-05
 tags:
   - defence
   - mbr-ads
@@ -20,7 +23,7 @@ tags:
 
 ## What they do
 
-MilSim provides specialist consultancy enabling clients to optimise their use of simulation training activities. The firm works across the defence sector, advising on how simulation capabilities can be better exploited to improve training outcomes.
+MilSim is a specialist consultancy that helps defence organisations get more from simulation-based training. Its stated focus is enabling realistic training without the restrictions of peacetime live exercises, through repeated low-cost practice, safe failure, and objective assessment of capability. The firm describes a particular specialism in air-land integration.
 
 ## Frameworks, accreditations and memberships
 
@@ -32,4 +35,4 @@ MilSim provides specialist consultancy enabling clients to optimise their use of
 
 ## Sources
 
-Public information verified 2026-06-29. DEVONthink CRM record sourced from ADS directory snapshot (2026-05-15).
+Public information verified 2026-07-05. MilSim Ltd website (milsim.uk), Companies House (14443724), ADS Group members directory.

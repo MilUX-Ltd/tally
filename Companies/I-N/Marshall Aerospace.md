@@ -4,7 +4,7 @@ name: Marshall Aerospace
 website: https://www.marshallaerospace.com
 hq: Cambridge, UK
 uk-region: East of England
-sources-verified: 2026-06-29
+sources-verified: 2026-07-05
 tags:
   - defence
   - mbr-ads
@@ -15,7 +15,6 @@ tags:
   - owned-uk
   - accr-iso9001
   - accr-iso14001
-  - accr-itar
 ---
 
 # Marshall Aerospace

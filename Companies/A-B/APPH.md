@@ -20,7 +20,6 @@ tags:
   - type-manufacturer
   - owned-foreign
   - accr-iso9001
-  - accr-itar
   - mbr-ads
 ---
 

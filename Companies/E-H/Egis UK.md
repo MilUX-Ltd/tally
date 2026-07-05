@@ -21,7 +21,7 @@ tags:
   - type-prime
   - type-consultancy
   - owned-foreign
-  - fw-joscar
+  - accr-joscar
   - accr-ce
   - accr-ce-plus
   - accr-iso9001

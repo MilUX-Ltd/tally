@@ -5,7 +5,7 @@ website: https://www.explosives.net/
 linkedin: https://www.linkedin.com/company/alford-technologies
 companies-house: 01914544
 hq: Trowbridge, United Kingdom
-uk-region: South West England
+uk-region: South West
 founded: 1985
 size: small
 sources-verified: 2026-07-03

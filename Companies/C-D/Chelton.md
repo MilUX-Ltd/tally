@@ -4,7 +4,7 @@ name: Chelton Ltd
 website: https://www.chelton.com
 linkedin: https://www.linkedin.com/company/chelton
 hq: Marlow, United Kingdom
-uk-region: South East England
+uk-region: South East
 founded: 1947
 size: large
 headcount: ~500

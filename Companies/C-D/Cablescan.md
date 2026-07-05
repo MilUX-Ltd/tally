@@ -5,7 +5,7 @@ website: https://www.cablescan.co.uk
 linkedin: https://uk.linkedin.com/company/cablescan-limited
 companies-house: 04198380
 hq: Brough, United Kingdom
-uk-region: Yorkshire and the Humber
+uk-region: Yorkshire and The Humber
 founded: 2001
 size: small
 sources-verified: 2026-07-04
@@ -23,7 +23,7 @@ tags:
   - accr-iso9001
   - accr-iso14001
   - accr-ce-plus
-  - fw-joscar
+  - accr-joscar
   - mbr-ads
 ---
 

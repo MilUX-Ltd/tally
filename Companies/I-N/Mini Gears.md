@@ -5,7 +5,7 @@ website: https://www.minigears.co.uk
 hq: Stockport, United Kingdom
 uk-region: North West
 size: small
-sources-verified: 2026-06-29
+sources-verified: 2026-07-05
 tags:
   - defence
   - mbr-ads
@@ -42,4 +42,4 @@ Mini Gears operates a 35,000 sq ft factory in Stockport with over 100 machines a
 
 ## Sources
 
-Public information verified 2026-06-29. DEVONthink CRM record sourced from ADS directory snapshot (2026-05-15).
+Public information verified 2026-07-05. ADS Group members directory (snapshot, 2026-05-15).

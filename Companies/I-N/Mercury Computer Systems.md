@@ -4,7 +4,7 @@ name: Mercury Computer Systems Ltd
 website: https://www.mrcy.com
 hq: Andover, United States
 uk-region: South East
-sources-verified: 2026-06-29
+sources-verified: 2026-07-05
 tags:
   - defence
   - mbr-ads
@@ -14,10 +14,19 @@ tags:
   - hardware
   - software
   - sensors
+  - sensors/eo-ir
+  - sensors/radar
   - rf
   - cyber
+  - cyber/encryption
+  - cyber/cross-domain
   - ew
+  - ew/elint
+  - ew/ecm
+  - ew/spectrum-management
   - isr
+  - isr/sigint
+  - isr/imint
   - air
   - land
   - maritime
@@ -51,4 +60,4 @@ Mercury designs and manufactures secure embedded processing modules, mission com
 
 ## Sources
 
-Public information verified 2026-06-29. DEVONthink CRM record sourced from ADS members directory snapshot (2026-05-15). Mercury Computer Systems Ltd is the UK entity of Mercury Systems, Inc., headquartered in Andover, Massachusetts.
+Public information verified 2026-07-05. Company website (mrcy.com), including Electronic Warfare and Applications pages. ADS Group members directory (snapshot, 2026-05-15). Mercury Computer Systems Ltd is the UK entity of Mercury Systems, Inc., headquartered in Andover, Massachusetts.

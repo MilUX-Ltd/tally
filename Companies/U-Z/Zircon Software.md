@@ -39,4 +39,4 @@ Zircon Software supports defence, aerospace, transport, and industrial organisat
 
 ## Sources
 
-Public information verified 2026-07-01. DEVONthink CRM record (Aurora Provider Network collaboration database snapshot, 2026-05-15; company self-description).
+Public information verified 2026-07-01.

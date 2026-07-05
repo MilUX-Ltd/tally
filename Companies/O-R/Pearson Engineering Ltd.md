@@ -4,7 +4,7 @@ name: Pearson Engineering Ltd
 website: https://www.pearson-eng.com
 hq: Newcastle upon Tyne, United Kingdom
 uk-region: North East
-sources-verified: 2026-06-30
+sources-verified: 2026-07-05
 tags:
   - defence
   - mbr-ads
@@ -42,4 +42,4 @@ Pearson Engineering designs and manufactures breaching, obstacle-crossing, explo
 
 ## Sources
 
-Public information verified 2026-06-30. ADS Group member directory (snapshot 2026-05-15).
+Public information verified 2026-07-05. ADS Group member directory (snapshot 2026-05-15, confirmed 2026-07-05).

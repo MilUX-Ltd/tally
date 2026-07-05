@@ -4,7 +4,7 @@ name: Pratt & Whitney
 website: https://www.prattwhitney.com/
 hq: East Hartford, United States
 uk-region: London
-sources-verified: 2026-06-30
+sources-verified: 2026-07-05
 tags:
   - defence
   - mbr-ads
@@ -41,4 +41,4 @@ Pratt & Whitney, an RTX business, has designed and manufactured aircraft propuls
 
 ## Sources
 
-Public information verified 2026-06-30. DEVONthink CRM record (ADS directory snapshot, 2026-05-15).
+Public information verified 2026-06-30. ADS Group members directory (snapshot, 2026-05-15).

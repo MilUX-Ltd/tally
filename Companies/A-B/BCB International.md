@@ -8,7 +8,7 @@ hq: Cardiff, United Kingdom
 uk-region: Wales
 founded: 1979
 size: medium
-sources-verified: 2026-07-03
+sources-verified: 2026-07-04
 tags:
   - defence
   - manufacturing

@@ -3,8 +3,8 @@ type: organisation
 name: Innoviz Ltd
 website: https://innovizl.com
 hq: Cranfield, United Kingdom
-uk-region: East
-sources-verified: 2026-06-29
+uk-region: East of England
+sources-verified: 2026-07-04
 tags:
   - defence
   - mbr-ads
@@ -16,7 +16,7 @@ tags:
   - type-consultancy
   - type-integrator
   - accr-ce-plus
-  - fw-joscar
+  - accr-joscar
   - accr-iso9001
 ---
 
@@ -45,4 +45,4 @@ Innoviz operates across three verticals: aerospace and IT recruitment, aerospace
 
 ## Sources
 
-Public information verified 2026-06-29. DEVONthink CRM record (ADS members directory, captured May 2026).
+Public information verified 2026-07-04. ADS Group members directory (captured May 2026).

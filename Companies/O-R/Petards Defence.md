@@ -4,23 +4,26 @@ name: Petards Defence
 website: https://www.petards.com
 hq: Gateshead, United Kingdom
 uk-region: North East
-sources-verified: 2026-06-30
+sources-verified: 2026-07-05
 tags:
   - defence
   - mbr-ads
   - ew
+  - ew/eccm
   - isr
   - comms
+  - comms/tactical-radio
+  - comms/secure-voice
   - sensors
   - hardware
   - manufacturing
   - training
+  - training/courseware
   - type-sme
   - owned-uk
   - accr-iso9001
   - accr-iso14001
   - accr-ce-plus
-  - accr-itar
 ---
 
 # Petards Defence
@@ -51,4 +54,4 @@ Petards Defence, part of Petards Group Plc and founded in 1952, holds in-service
 
 ## Sources
 
-Public information verified 2026-06-30. DEVONthink MilUX CRM record (ADS directory snapshot, 2026-05-15).
+Public information verified 2026-06-30. ADS Group members directory (snapshot, 2026-05-15).

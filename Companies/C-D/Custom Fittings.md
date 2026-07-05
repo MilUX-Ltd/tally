@@ -5,7 +5,7 @@ website: https://www.customfittings.com
 linkedin: https://www.linkedin.com/company/custom-fittings
 companies-house: "01565833"
 hq: Cleckheaton, UK
-uk-region: Yorkshire and the Humber
+uk-region: Yorkshire and The Humber
 founded: 1981
 size: small
 sources-verified: 2026-07-04
@@ -21,7 +21,7 @@ tags:
   - type-manufacturer
   - type-sme
   - owned-uk
-  - fw-joscar
+  - accr-joscar
   - accr-iso9001
   - mbr-ads
 ---

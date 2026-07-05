@@ -5,15 +5,19 @@ website: https://www.kongsberg.com
 hq: Kongsberg, Norway
 uk-region: South West
 size: large
-sources-verified: 2026-06-29
+sources-verified: 2026-07-04
 tags:
   - defence
   - size-large
   - mbr-ads
   - maritime
   - isr
+  - isr/fusion
   - sensors
+  - sensors/radar
+  - sensors/eo-ir
   - c2
+  - c2/situational-awareness
   - type-prime
   - owned-foreign
 ---
@@ -41,4 +45,4 @@ Kongsberg Norcontrol designs and integrates Maritime Domain Awareness systems, c
 
 ## Sources
 
-Public information verified 2026-06-29. DEVONthink MilUX CRM record (ADS directory snapshot, 2026-05-15).
+Public information verified 2026-07-04. ADS Group members directory (snapshot, 2026-05-15).

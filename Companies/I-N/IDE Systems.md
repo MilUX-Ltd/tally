@@ -4,7 +4,7 @@ name: IDE Systems
 website: https://www.ide-systems.com
 hq: Coalville, United Kingdom
 uk-region: East Midlands
-sources-verified: 2026-06-29
+sources-verified: 2026-07-04
 tags:
   - defence
   - mbr-ads
@@ -36,4 +36,4 @@ IDE Systems provides safety analysis, safety case development, and systems engin
 
 ## Sources
 
-Public information verified 2026-06-29. DEVONthink CRM record (ADS members directory, captured May 2026).
+Public information verified 2026-06-29. ADS Group members directory (captured May 2026).

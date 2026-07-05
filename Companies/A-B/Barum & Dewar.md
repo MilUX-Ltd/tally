@@ -5,10 +5,10 @@ website: https://www.barumanddewar.com
 linkedin: https://www.linkedin.com/company/841149
 companies-house: SC168649
 hq: Barnstaple, United Kingdom
-uk-region: South West England
+uk-region: South West
 founded: 1996
 size: medium
-sources-verified: 2026-07-03
+sources-verified: 2026-07-04
 tags:
   - defence
   - manufacturing
@@ -21,7 +21,7 @@ tags:
   - type-sme
   - type-manufacturer
   - owned-uk
-  - fw-joscar
+  - accr-joscar
   - accr-iso9001
   - accr-ce
   - accr-ce-plus

@@ -4,7 +4,7 @@ name: Intelligent Energy Ltd
 website: https://www.intelligent-energy.com
 hq: Loughborough, United Kingdom
 uk-region: East Midlands
-sources-verified: 2026-06-29
+sources-verified: 2026-07-04
 tags:
   - defence
   - mbr-ads
@@ -39,4 +39,4 @@ Intelligent Energy designs, manufactures, and commercialises hydrogen fuel cell 
 
 ## Sources
 
-Public information verified 2026-06-29. DEVONthink CRM record (ADS directory snapshot, 2026-05-15).
+Public information verified 2026-06-29. ADS Group members directory (snapshot, 2026-05-15).

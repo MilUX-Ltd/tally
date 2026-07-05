@@ -3,7 +3,7 @@ type: organisation
 name: Sirius Digital Services
 website: https://www.sirius-digital.co.uk
 hq: Portsmouth
-uk-region: South East England
+uk-region: South East
 sources-verified: 2026-06-29
 tags:
   - defence

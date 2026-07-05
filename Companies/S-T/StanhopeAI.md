@@ -4,7 +4,7 @@ name: StanhopeAI
 website: https://www.stanhopeai.com/
 linkedin: https://www.linkedin.com/company/stanhopeai/
 hq: London
-uk-region: Greater London
+uk-region: London
 founded: 2021
 sources-verified: 2026-06-29
 tags:

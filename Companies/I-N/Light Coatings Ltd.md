@@ -5,7 +5,7 @@ website: https://lightcoatings.co.uk
 hq: Daresbury, UK
 uk-region: North West
 size: micro
-sources-verified: 2026-06-29
+sources-verified: 2026-07-04
 tags:
   - defence
   - size-micro
@@ -44,4 +44,4 @@ Light Coatings designs, specifies and manufactures coated components and applies
 
 ## Sources
 
-Public information verified 2026-06-29. DEVONthink MilUX CRM record (ADS directory snapshot, 2026-05-15).
+Public information verified 2026-07-04. ADS Group members directory (snapshot, 2026-05-15).

@@ -4,7 +4,7 @@ name: MSM aerospace fabricators
 website: https://www.msm-aero.com
 hq: Manchester, United Kingdom
 uk-region: North West
-sources-verified: 2026-06-29
+sources-verified: 2026-07-05
 tags:
   - defence
   - mbr-ads
@@ -39,4 +39,4 @@ MSM aerospace fabricators manufactures and repairs aerospace components includin
 
 ## Sources
 
-Public information verified 2026-06-29. DEVONthink MilUX CRM record (ADS directory snapshot, 2026-05-15).
+Public information verified 2026-07-05. ADS Group members directory (snapshot, 2026-05-15).

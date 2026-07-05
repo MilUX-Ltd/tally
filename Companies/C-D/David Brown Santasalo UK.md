@@ -5,7 +5,7 @@ website: https://dbsantasalo.com
 linkedin: https://www.linkedin.com/company/david-brown-santasalo
 companies-house: 06624684
 hq: Huddersfield, UK
-uk-region: Yorkshire and the Humber
+uk-region: Yorkshire and The Humber
 founded: 2008
 size: large
 headcount: 850-1000

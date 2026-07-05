@@ -19,7 +19,6 @@ tags:
   - type-manufacturer
   - owned-uk
   - accr-iso9001
-  - accr-itar
   - mbr-ads
 ---
 

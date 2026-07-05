@@ -5,7 +5,7 @@ website: https://brookhouse-aerospace.com/
 linkedin: https://uk.linkedin.com/company/brookhouseaero
 companies-house: 01898700
 hq: Darwen, United Kingdom
-uk-region: North West England
+uk-region: North West
 founded: 1985
 size: medium
 headcount: 160-180

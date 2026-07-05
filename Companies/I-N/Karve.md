@@ -8,7 +8,7 @@ hq: Poole, United Kingdom
 uk-region: South West
 founded: 2021
 size: micro
-sources-verified: 2026-06-29
+sources-verified: 2026-07-04
 tags:
   - defence
   - software
@@ -29,8 +29,8 @@ Karve International is a UK defence technology company building software platfor
 
 ## Products and solutions
 
-- **KarveOS** - enterprise operating infrastructure that connects data, platforms, funding streams and operational demand into a single executable system, designed to coordinate procurement, resource allocation and delivery across distributed programmes and national boundaries.
-- **Advisory services** - mission-focused growth, intelligence and strategic advisory to align innovation with operational requirements and scale dual-use and mission-critical technologies.
+- **KarveOS** - enterprise operating infrastructure that connects data, platforms, funding streams and operational demand into a single executable system, designed to coordinate procurement, resource allocation and delivery across distributed programmes and national boundaries, spanning land, maritime, air, space and cyber domains.
+- **Advisory services** - mission-focused growth, intelligence and strategic advisory to align innovation with operational requirements and scale dual-use and mission-critical technologies, working with customers across national security, healthcare, energy, transport, aerospace and cyber.
 
 ## Frameworks, accreditations and memberships
 
@@ -47,4 +47,4 @@ Karve International is a UK defence technology company building software platfor
 
 ## Sources
 
-Public information verified 2026-06-29. Company website (karveinternational.com), Karve LinkedIn company page, ADS Group members directory, Companies House (13679834), South West Regional Defence and Security Cluster.
+Public information verified 2026-07-04. Company website (karveinternational.com, including About page), Karve LinkedIn company page, ADS Group members directory, Companies House (13679834), South West Regional Defence and Security Cluster, Crunchbase.

@@ -7,7 +7,7 @@ companies-house: "00853053"
 hq: Southampton, United Kingdom
 uk-region: South East
 size: medium
-sources-verified: 2026-07-01
+sources-verified: 2026-07-04
 tags:
   - defence
   - maritime

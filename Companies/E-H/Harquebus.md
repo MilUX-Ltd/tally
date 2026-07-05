@@ -5,10 +5,11 @@ website: https://harquebus.co.uk
 hq: London, UK
 uk-region: London
 size: small
-sources-verified: 2026-06-29
+sources-verified: 2026-07-04
 tags:
   - defence
   - training
+  - training/instruction
   - isr
   - cyber
   - consultancy
@@ -48,4 +49,4 @@ Harquebus draws on a team of ex-military and civilian intelligence officers with
 
 ## Sources
 
-Public information verified 2026-06-29. ADS members directory (snapshot 2026-05-15); harquebus.co.uk (fetched 2026-06-29).
+Public information verified 2026-07-04. ADS members directory (snapshot 2026-05-15); harquebus.co.uk (fetched 2026-06-29).

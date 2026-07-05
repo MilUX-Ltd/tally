@@ -5,7 +5,7 @@ website: https://www.kontron.com
 hq: Augsburg, Germany
 uk-region: South East
 size: large
-sources-verified: 2026-06-29
+sources-verified: 2026-07-04
 tags:
   - defence
   - size-large
@@ -44,4 +44,4 @@ Kontron manufactures ruggedised computing systems, avionics hardware, and in-fli
 
 ## Sources
 
-Public information verified 2026-06-29. DEVONthink MilUX CRM record (ADS directory snapshot, 2026-05-15).
+Public information verified 2026-07-04. ADS Group members directory (snapshot, 2026-05-15).

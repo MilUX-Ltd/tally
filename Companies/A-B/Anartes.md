@@ -4,7 +4,7 @@ name: Anartes
 website: https://anartes.com
 companies-house: "14161461"
 hq: Exeter, United Kingdom
-uk-region: South West England
+uk-region: South West
 founded: 2022
 size: micro
 sources-verified: 2026-07-03

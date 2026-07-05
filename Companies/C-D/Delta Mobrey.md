@@ -5,7 +5,7 @@ website: https://www.delta-mobrey.com
 linkedin: https://www.linkedin.com/company/delta-mobrey-ltd
 companies-house: "05369683"
 hq: Camberley, United Kingdom
-uk-region: South East England
+uk-region: South East
 founded: 2005
 size: small
 headcount: 51-200
@@ -20,7 +20,7 @@ tags:
   - size-small
   - type-manufacturer
   - owned-uk
-  - fw-joscar
+  - accr-joscar
   - mbr-ads
 ---
 

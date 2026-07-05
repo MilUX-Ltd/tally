@@ -5,7 +5,7 @@ website: https://www.das-int.com
 linkedin: https://www.linkedin.com/company/decision-analysis-services-ltd
 companies-house: "05980241"
 hq: Basingstoke, United Kingdom
-uk-region: South East England
+uk-region: South East
 founded: 2006
 size: small
 headcount: 70

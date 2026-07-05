@@ -4,7 +4,7 @@ name: Lyonlight Consulting Ltd
 website: http://www.lyonlight.co.uk
 hq: London, United Kingdom
 uk-region: London
-sources-verified: 2026-06-29
+sources-verified: 2026-07-04
 tags:
   - defence
   - mbr-ads
@@ -31,4 +31,4 @@ Lyonlight offers strategic advisory and analysis for organisations operating in 
 
 ## Sources
 
-Public information verified 2026-06-29. DEVONthink record sourced from ADS members directory snapshot, 2026-05-15.
+Public information verified 2026-07-04. ADS Group members directory (snapshot, 2026-05-15).

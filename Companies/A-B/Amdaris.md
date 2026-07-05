@@ -3,7 +3,7 @@ type: organisation
 name: Amdaris
 website: https://www.amdaris.com
 hq: Bristol
-uk-region: South West England
+uk-region: South West
 sources-verified: 2026-07-03
 tags:
   - defence

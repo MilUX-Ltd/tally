@@ -3,9 +3,9 @@ type: organisation
 name: Insight Direct (UK) Ltd
 website: https://uk.insight.com
 hq: Tempe, United States
-uk-region: Yorkshire
+uk-region: Yorkshire and The Humber
 size: large
-sources-verified: 2026-06-29
+sources-verified: 2026-07-04
 tags:
   - defence
   - mbr-ads
@@ -40,4 +40,4 @@ Insight Direct (UK) provides IT hardware, software, and services from its Sheffi
 
 ## Sources
 
-Public information verified 2026-06-29. DEVONthink CRM record (ADS members directory, captured May 2026).
+Public information verified 2026-07-04. ADS Group members directory (captured May 2026).

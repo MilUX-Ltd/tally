@@ -3,7 +3,7 @@ type: organisation
 name: System Design Evaluation Ltd
 website: http://www.SDE-UK.com
 hq: Ware, United Kingdom
-uk-region: East
+uk-region: East of England
 sources-verified: 2026-06-30
 tags:
   - defence
@@ -42,4 +42,4 @@ Founded in 1986, SDE provides technical support across land, sea and air domains
 
 ## Sources
 
-Public information verified 2026-06-30. DEVONthink MilUX CRM record (ADS directory snapshot, captured 2026-05-15).
+Public information verified 2026-06-30. ADS Group members directory (captured 2026-05-15).

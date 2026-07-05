@@ -4,6 +4,7 @@ name: Eviden
 website: https://eviden.com
 linkedin: https://www.linkedin.com/company/eviden
 hq: Bezons, France
+uk-region: Overseas
 founded: 2023
 size: large
 sources-verified: 2026-07-04

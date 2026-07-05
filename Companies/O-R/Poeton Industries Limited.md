@@ -4,7 +4,7 @@ name: Poeton Industries Limited
 website: https://www.poeton.co.uk
 hq: Gloucester, United Kingdom
 uk-region: South West
-sources-verified: 2026-06-30
+sources-verified: 2026-07-05
 tags:
   - defence
   - mbr-ads
@@ -13,7 +13,6 @@ tags:
   - type-manufacturer
   - type-sme
   - owned-uk
-  - accr-itar
   - accr-iso9001
   - accr-iso14001
 ---
@@ -43,4 +42,4 @@ Poeton provides advanced surface treatment solutions including electroplating, c
 
 ## Sources
 
-Public information verified 2026-06-30. DEVONthink MilUX CRM record (ADS directory snapshot, 2026-05-15).
+Public information verified 2026-07-05. ADS Group members directory (snapshot, 2026-05-15). Confirmed no capability subset tags apply: Poeton's public material describes surface treatment, coating and finishing services only; none of `cyber`, `ai`, `isr`, `comms`, `c2`, `ew`, `autonomy`, `uas`, `counter-uas`, `data`, `simulation`, `training` or `sensors` are carried as top-level tags on this page. No genuinely recent (within ~12 months) public news item was found to add.

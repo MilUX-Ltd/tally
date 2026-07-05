@@ -5,15 +5,17 @@ website: https://www.i-t-s.org.uk/
 linkedin: https://www.linkedin.com/company/integrated-training-solutions-global/
 companies-house: 
 hq: Oxfordshire, UK
-uk-region: South East England
+uk-region: South East
 founded: 
 size: small
 headcount: 
-sources-verified: 2026-06-29
+sources-verified: 2026-07-04
 tags:
   - defence
   - training
+  - training/instruction
   - c2
+  - c2/mission-planning
   - size-small
   - type-consultancy
   - owned-uk

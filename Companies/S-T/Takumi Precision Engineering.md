@@ -3,6 +3,7 @@ type: organisation
 name: Takumi Precision Engineering
 website: https://www.takumiprecision.com
 hq: Limerick, Ireland
+uk-region: Overseas
 size: small
 sources-verified: 2026-06-30
 tags:
@@ -34,4 +35,4 @@ Established in 1998, Takumi operates a 22,000 sq ft facility in Raheen Business 
 
 ## Sources
 
-Public information verified 2026-06-30. DEVONthink MilUX CRM record (ADS directory snapshot, 2026-05-15).
+Public information verified 2026-06-30. ADS Group members directory (snapshot, 2026-05-15).

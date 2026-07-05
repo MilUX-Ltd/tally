@@ -5,7 +5,7 @@ website: https://www.ankasa.co.uk
 linkedin: https://www.linkedin.com/company/ankasa-ltd
 companies-house: "09876876"
 hq: Cheltenham, United Kingdom
-uk-region: South West England
+uk-region: South West
 founded: 2015
 size: micro
 sources-verified: 2026-07-03
@@ -23,7 +23,7 @@ tags:
   - type-consultancy
   - size-micro
   - owned-uk
-  - fw-joscar
+  - accr-joscar
   - accr-ce-plus
   - accr-iso9001
 ---

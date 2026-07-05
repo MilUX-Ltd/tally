@@ -4,12 +4,15 @@ name: Golduc Consulting Ltd
 website: https://www.golducconsulting.com
 hq: London, United Kingdom
 uk-region: London
-sources-verified: 2026-06-29
+founded: 2024
+size: micro
+sources-verified: 2026-07-04
 tags:
   - defence
   - mbr-ads
   - type-consultancy
   - owned-uk
+  - size-micro
 ---
 
 # Golduc Consulting Ltd
@@ -30,4 +33,4 @@ Golduc Consulting provides specialist support to business development, pursuit, 
 
 ## Sources
 
-Public information verified 2026-06-29. DEVONthink CRM record (ADS directory snapshot, 2026-05-15).
+Public information verified 2026-07-04. Sources: ADS Group members directory (snapshot, 2026-05-15); Companies House filing history (company number 15638777, incorporated April 2024, micro-entity accounts).

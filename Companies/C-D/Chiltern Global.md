@@ -5,7 +5,7 @@ website: https://chilternglobal.com/
 linkedin: https://www.linkedin.com/company/chiltern-global-limited
 companies-house: 05367501
 hq: Chesham, United Kingdom
-uk-region: South East England
+uk-region: South East
 founded: 2005
 size: small
 sources-verified: 2026-07-04

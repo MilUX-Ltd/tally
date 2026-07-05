@@ -4,6 +4,7 @@ name: Cubic Corporation
 website: https://www.cubic.com/
 linkedin: https://www.linkedin.com/company/cubic-corporation
 hq: San Diego, United States
+uk-region: Overseas
 founded: 1949
 size: large
 headcount: ~6,000 worldwide

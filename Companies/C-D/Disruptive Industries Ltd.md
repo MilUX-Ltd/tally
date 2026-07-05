@@ -5,7 +5,7 @@ website: https://www.disruptive-industries.io
 linkedin: https://www.linkedin.com/company/disruptive-industries
 companies-house: "14696823"
 hq: London, United Kingdom
-uk-region: Greater London
+uk-region: London
 founded: 2023
 size: micro
 sources-verified: 2026-07-04

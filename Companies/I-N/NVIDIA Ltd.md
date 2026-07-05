@@ -5,7 +5,7 @@ website: https://www.nvidia.com
 hq: Santa Clara, United States
 uk-region: South East
 size: large
-sources-verified: 2026-06-30
+sources-verified: 2026-07-05
 tags:
   - defence
   - size-large
@@ -15,6 +15,7 @@ tags:
   - software
   - hardware
   - simulation
+  - simulation/synthetic-environment
   - type-prime
   - owned-foreign
   - listed

@@ -4,6 +4,7 @@ name: AAR Government Services
 website: https://www.aarcorp.com/
 linkedin: https://www.linkedin.com/company/aar-corp
 hq: Wood Dale, Illinois, USA
+uk-region: Overseas
 size: large
 sources-verified: 2026-07-03
 tags:

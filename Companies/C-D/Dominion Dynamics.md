@@ -4,6 +4,7 @@ name: Dominion Dynamics
 website: https://www.dominion-dynamics.com/
 linkedin: https://www.linkedin.com/company/dominiondynamics/
 hq: Ottawa, Canada
+uk-region: Overseas
 founded: 2025
 sources-verified: 2026-07-04
 tags:

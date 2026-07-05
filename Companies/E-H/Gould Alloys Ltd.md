@@ -5,7 +5,7 @@ website: https://www.gouldalloys.com
 hq: Chesterfield, United Kingdom
 uk-region: East Midlands
 size: medium
-sources-verified: 2026-06-29
+sources-verified: 2026-07-04
 tags:
   - defence
   - manufacturing
@@ -14,7 +14,7 @@ tags:
   - size-medium
   - type-manufacturer
   - owned-uk
-  - fw-joscar
+  - accr-joscar
   - mbr-ads
 ---
 
@@ -42,4 +42,4 @@ Gould Alloys supplies high-integrity metals and components for critical applicat
 
 ## Sources
 
-Public information verified 2026-06-29. DEVONthink ADS directory snapshot (2026-05-15); gouldalloys.com (2026-06-29).
+Public information verified 2026-06-29. ADS Group members directory (snapshot, 2026-05-15); gouldalloys.com (2026-06-29).

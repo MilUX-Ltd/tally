@@ -20,7 +20,7 @@ tags:
   - size-medium
   - type-manufacturer
   - owned-foreign
-  - fw-joscar
+  - accr-joscar
   - accr-ce-plus
   - accr-iso9001
   - accr-iso14001

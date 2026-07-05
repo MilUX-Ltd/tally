@@ -7,11 +7,12 @@ hq: Bristol, United Kingdom
 uk-region: South West
 founded: 2014
 size: medium
-sources-verified: 2026-06-29
+sources-verified: 2026-07-05
 tags:
   - defence
   - software
   - cyber
+  - cyber/grc
   - data
   - size-medium
   - type-consultancy

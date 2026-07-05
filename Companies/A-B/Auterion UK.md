@@ -5,9 +5,10 @@ website: https://auterion.com/
 linkedin: https://www.linkedin.com/company/auterion
 companies-house: 16200514
 hq: Arlington, Virginia, United States
+uk-region: Overseas
 founded: 2017
 size: medium
-sources-verified: 2026-07-03
+sources-verified: 2026-07-04
 tags:
   - defence
   - drones
@@ -16,6 +17,7 @@ tags:
   - autonomy
   - autonomy/uxv-control
   - autonomy/swarming
+  - autonomy/navigation
   - software
   - ai
   - robotics

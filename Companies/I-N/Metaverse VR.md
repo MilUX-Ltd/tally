@@ -1,7 +1,7 @@
 ---
 type: organisation
 name: Metaverse VR
-sources-verified: 2026-06-29
+sources-verified: 2026-07-05
 tags:
   - defence
   - training
@@ -14,4 +14,4 @@ tags:
 Metaverse VR is an immersive training design and delivery company developing training using virtual reality, augmented reality, and mixed reality technologies, focused on next-generation approaches to defence training. It is a member of the D3IP community at the Defence BattleLab, Dorset Innovation Park.
 ## Links
 ## Sources
-Public information verified 2026-06-29.
+Public information verified 2026-07-05.

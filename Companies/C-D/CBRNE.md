@@ -5,6 +5,7 @@ website: https://cbrneltd.com
 linkedin: https://uk.linkedin.com/company/cbrne-ltd
 companies-house: 06510023
 hq: London, United Kingdom
+uk-region: London
 founded: 2008
 size: small
 sources-verified: 2026-07-04

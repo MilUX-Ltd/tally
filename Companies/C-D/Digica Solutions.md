@@ -5,7 +5,7 @@ website: https://digica.com
 linkedin: https://www.linkedin.com/company/digicasolutions
 companies-house: 06853474
 hq: Sale, UK
-uk-region: Greater Manchester
+uk-region: North West
 founded: 2009
 size: small
 sources-verified: 2026-07-04

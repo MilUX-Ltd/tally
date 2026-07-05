@@ -16,7 +16,7 @@ tags:
   - manufacturing
   - size-medium
   - type-sme
-  - fw-joscar
+  - accr-joscar
   - accr-iso9001
   - mbr-ads
 ---

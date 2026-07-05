@@ -13,7 +13,7 @@ tags:
   - logistics
   - accr-iso9001
   - accr-ce-plus
-  - fw-joscar
+  - accr-joscar
 ---
 
 # Verify Europe Ltd
@@ -35,4 +35,4 @@ Verify has operated in complex aerospace and defence supply chains for over 45 y
 
 ## Sources
 
-Public information verified 2026-07-01. DEVONthink CRM record (ADS directory snapshot, 2026-05-15).
+Public information verified 2026-07-01. ADS Group members directory (snapshot, 2026-05-15).

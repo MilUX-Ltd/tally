@@ -20,7 +20,7 @@ tags:
   - accr-ce-plus
   - accr-iso9001
   - accr-iso27001
-  - fw-joscar
+  - accr-joscar
 ---
 
 # SVGC Limited
@@ -43,4 +43,4 @@ SVGC provides acquisition support, capability and decision management, data scie
 
 ## Sources
 
-Public information verified 2026-06-30. DEVONthink CRM record (ADS directory snapshot, 2026-05-15).
+Public information verified 2026-06-30. ADS Group members directory (snapshot, 2026-05-15).

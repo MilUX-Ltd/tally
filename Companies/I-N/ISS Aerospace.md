@@ -4,14 +4,17 @@ name: ISS Aerospace
 website: https://www.issaerospace.com
 hq: Chieveley, United Kingdom
 uk-region: South East
-sources-verified: 2026-06-29
+sources-verified: 2026-07-04
 tags:
   - defence
   - mbr-ads
   - drones
   - uas
+  - uas/platform
   - isr
+  - isr/imint
   - autonomy
+  - autonomy/navigation
   - hardware
   - manufacturing
   - type-manufacturer
@@ -30,7 +33,7 @@ ISS Aerospace designs and builds autonomous fixed-wing and multi-rotor UAV syste
 ## Products and solutions
 
 - **Electric UAVs** - Battery-powered unmanned aerial vehicles for intelligence, surveillance, and reconnaissance missions.
-- **Hydrogen-powered UAVs** - Extended-endurance drone platforms for long-range defence and industrial applications.
+- **Hydrogen-powered UAVs** - Extended-endurance drone platforms, including the SENSUS 6 hydrogen UAS, developed with Intelligent Energy for up to 120 minutes of flight endurance for long-range defence and industrial applications.
 
 ## Frameworks, accreditations and memberships
 
@@ -42,4 +45,4 @@ ISS Aerospace designs and builds autonomous fixed-wing and multi-rotor UAV syste
 
 ## Sources
 
-Public information verified 2026-06-29. DEVONthink CRM record (ADS directory snapshot, 2026-05-15).
+Public information verified 2026-07-04. Company website (SENSUS 6 product page); Unmanned Systems Technology company profile. ADS Group members directory (snapshot, 2026-05-15).

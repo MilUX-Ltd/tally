@@ -4,7 +4,7 @@ name: Chess Dynamics Limited
 website: https://www.chess-dynamics.com
 linkedin: https://uk.linkedin.com/company/chess-dynamics-ltd
 hq: Horsham, United Kingdom
-uk-region: South East England
+uk-region: South East
 founded: 2005
 size: medium
 headcount: 200+

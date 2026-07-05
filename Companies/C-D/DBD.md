@@ -5,7 +5,7 @@ website: https://dbdinternational.com
 linkedin: https://www.linkedin.com/company/dbd-int
 companies-house: 03118924
 hq: Warrington, UK
-uk-region: North West England
+uk-region: North West
 founded: 1995
 size: medium
 headcount: 180-210

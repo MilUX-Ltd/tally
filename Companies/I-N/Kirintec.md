@@ -4,12 +4,15 @@ name: Kirintec
 website: https://www.kirintec.com
 hq: Ross-on-Wye, United Kingdom
 uk-region: West Midlands
-sources-verified: 2026-06-29
+sources-verified: 2026-07-04
 tags:
   - defence
   - mbr-ads
   - ew
+  - ew/ecm
+  - ew/spectrum-management
   - counter-uas
+  - counter-uas/effector
   - hardware
   - manufacturing
   - type-manufacturer
@@ -40,4 +43,4 @@ Kirintec designs and manufactures electronic countermeasure (ECM) systems, IED j
 
 ## Sources
 
-Public information verified 2026-06-29. DEVONthink CRM record (ADS directory snapshot, 2026-05-15).
+Public information verified 2026-06-29. ADS Group members directory (snapshot, 2026-05-15).

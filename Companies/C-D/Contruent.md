@@ -5,6 +5,7 @@ website: https://www.contruent.com/
 linkedin: https://www.linkedin.com/company/contruent
 companies-house: 07695394
 hq: Naperville, United States
+uk-region: Overseas
 founded: 1994
 size: medium
 sources-verified: 2026-07-04

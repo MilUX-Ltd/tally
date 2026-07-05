@@ -3,7 +3,7 @@ type: organisation
 name: Slingsby Advanced Composites Ltd
 website: https://www.slingsbyac.com
 hq: Kirkbymoorside, United Kingdom
-uk-region: Yorkshire and the Humber
+uk-region: Yorkshire and The Humber
 sources-verified: 2026-06-30
 tags:
   - defence
@@ -37,4 +37,4 @@ Slingsby Advanced Composites produces advanced composite structures and sub-syst
 
 ## Sources
 
-Public information verified 2026-06-30. DEVONthink CRM record (ADS directory snapshot, 2026-05-15).
+Public information verified 2026-06-30. ADS Group members directory (snapshot, 2026-05-15).

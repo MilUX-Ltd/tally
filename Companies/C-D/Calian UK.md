@@ -5,7 +5,7 @@ website: https://www.calian.com
 linkedin: https://ca.linkedin.com/company/calian
 companies-house: 05136214
 hq: Ottawa, Canada
-uk-region: South East England
+uk-region: South East
 founded: 2004
 size: large
 sources-verified: 2026-07-04

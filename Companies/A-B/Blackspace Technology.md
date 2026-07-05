@@ -17,7 +17,7 @@ tags:
   - owned-uk
   - accr-iso9001
   - accr-iso13485
-  - accr-cyber-essentials-plus
+  - accr-ce-plus
 ---
 
 # Black Space Technology

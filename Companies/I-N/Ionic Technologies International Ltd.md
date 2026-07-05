@@ -4,7 +4,7 @@ name: Ionic Technologies International Ltd
 website: https://ionictechnologies.com
 hq: Belfast, United Kingdom
 uk-region: Northern Ireland
-sources-verified: 2026-06-29
+sources-verified: 2026-07-04
 tags:
   - defence
   - mbr-ads
@@ -32,4 +32,4 @@ Ionic Technologies has developed a long-loop process for recycling end-of-life r
 
 ## Sources
 
-Public information verified 2026-06-29. DEVONthink CRM record (ADS directory snapshot, 2026-05-15).
+Public information verified 2026-07-04. ADS Group members directory (snapshot, 2026-05-15).

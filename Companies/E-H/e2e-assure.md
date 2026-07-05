@@ -9,18 +9,23 @@ uk-region: South East
 founded: 2013
 size: small
 headcount: 72
-sources-verified: 2026-06-29
+sources-verified: 2026-07-04
 tags:
   - defence
   - cyber
+  - cyber/soc-monitoring
+  - cyber/threat-intel
+  - cyber/ot-security
+  - cyber/vuln-management
   - software
   - data
   - ai
+  - ai/ml-analytics
   - size-small
   - type-sme
   - owned-uk
   - backed-pe
-  - fw-joscar
+  - accr-joscar
   - fw-gcloud
   - accr-ce-plus
   - accr-iso27001
@@ -62,7 +67,7 @@ e2e-assure delivers Security Operations Centre services to defence, government, 
 
 ## Sources
 
-Public information verified 2026-06-29.
+Public information verified 2026-07-04.
 - https://e2e-assure.com/about-us
 - https://e2e-assure.com/industries/defence
 - https://e2e-assure.com/about-us/cumulo

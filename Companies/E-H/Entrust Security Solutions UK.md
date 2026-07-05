@@ -5,7 +5,7 @@ website: https://www.entrust.com
 linkedin: https://www.linkedin.com/company/entrust
 companies-house: 03056930
 hq: Shakopee, United States
-uk-region: Greater London
+uk-region: London
 founded: 1995
 size: large
 sources-verified: 2026-07-04

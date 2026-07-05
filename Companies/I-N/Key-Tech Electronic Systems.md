@@ -4,7 +4,7 @@ name: Key-Tech Electronic Systems
 website: https://key-tech.co.uk
 hq: Kirkcaldy, United Kingdom
 uk-region: Scotland
-sources-verified: 2026-06-29
+sources-verified: 2026-07-04
 tags:
   - defence
   - mbr-ads
@@ -39,4 +39,4 @@ Key-Tech provides electronic contract manufacturing (ECM) services from its faci
 
 ## Sources
 
-Public information verified 2026-06-29. DEVONthink CRM record (ADS directory snapshot, 2026-05-15).
+Public information verified 2026-06-29. ADS Group members directory (snapshot, 2026-05-15).

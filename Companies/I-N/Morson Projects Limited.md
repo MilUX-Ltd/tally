@@ -4,7 +4,7 @@ name: Morson Projects Limited
 website: https://www.morson-projects.co.uk
 hq: Belfast, United Kingdom
 uk-region: Northern Ireland
-sources-verified: 2026-06-29
+sources-verified: 2026-07-05
 tags:
   - defence
   - mbr-ads
@@ -14,7 +14,6 @@ tags:
   - accr-iso9001
   - accr-iso27001
   - accr-iso14001
-  - accr-itar
 ---
 
 # Morson Projects Limited
@@ -36,4 +35,4 @@ Morson Projects provides qualified engineering teams spanning numerous disciplin
 
 ## Sources
 
-Public information verified 2026-06-29. DEVONthink CRM record sourced from ADS members directory snapshot (2026-05-15).
+Public information verified 2026-07-05. ADS Group members directory (snapshot, 2026-05-15).

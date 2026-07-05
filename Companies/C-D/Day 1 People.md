@@ -5,7 +5,7 @@ website: https://www.day1people.com
 linkedin: https://www.linkedin.com/company/day-1-people-ltd
 companies-house: 11055367
 hq: Chippenham, UK
-uk-region: South West England
+uk-region: South West
 founded: 2017
 size: micro
 sources-verified: 2026-07-04

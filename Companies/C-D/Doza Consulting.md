@@ -5,7 +5,7 @@ website: https://doza.consulting
 linkedin: https://www.linkedin.com/company/doza-consulting
 companies-house: 14759116
 hq: Leeds, UK
-uk-region: Yorkshire
+uk-region: Yorkshire and The Humber
 founded: 2023
 size: micro
 sources-verified: 2026-07-04

@@ -4,14 +4,18 @@ name: Penlink
 website: https://www.penlink.com
 hq: London, United Kingdom
 uk-region: London
-sources-verified: 2026-06-30
+sources-verified: 2026-07-05
 tags:
   - defence
   - mbr-ads
   - cyber
   - isr
+  - isr/osint
+  - isr/fusion
   - data
+  - data/analytics
   - ai
+  - ai/decision-support
   - software
   - type-sme
   - owned-foreign

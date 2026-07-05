@@ -4,13 +4,15 @@ name: Heruon
 website: http://www.heruon.com
 hq: Bangor, United Kingdom
 uk-region: Northern Ireland
-sources-verified: 2026-06-29
+sources-verified: 2026-07-04
 tags:
   - defence
   - mbr-ads
   - ai
+  - ai/computer-vision
   - sensors
   - isr
+  - isr/sigint
   - cyber
   - hardware
   - software
@@ -41,4 +43,4 @@ Heruon develops proprietary AI and hardware for ethical and accurate facial and 
 
 ## Sources
 
-Public information verified 2026-06-29. DEVONthink CRM record sourced from ADS members directory snapshot, 2026-05-15.
+Public information verified 2026-06-29. ADS Group members directory (snapshot, 2026-05-15).

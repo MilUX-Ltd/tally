@@ -19,7 +19,6 @@ tags:
   - type-manufacturer
   - owned-uk
   - accr-ce-plus
-  - accr-def-stan
   - mbr-ads
 ---
 

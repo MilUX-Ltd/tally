@@ -16,7 +16,6 @@ tags:
   - hardware
   - type-manufacturer
   - owned-uk
-  - accr-sc21
 ---
 
 # UTC Aerospace Systems - SIS
@@ -44,4 +43,4 @@ UTC Aerospace SIS in Plymouth specialises in solid-state and rotating gyroscopes
 
 ## Sources
 
-Public information verified 2026-06-30. DEVONthink MilUX CRM record (ADS directory snapshot, 2026-05-15).
+Public information verified 2026-06-30. ADS Group members directory (snapshot, 2026-05-15).

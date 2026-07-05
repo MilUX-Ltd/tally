@@ -44,4 +44,4 @@ TT Electronics IoT Solutions HMI has designed and manufactured HMI control assem
 
 ## Sources
 
-Public information verified 2026-06-30. DEVONthink CRM record sourced from ADS members directory snapshot, May 2026. Listed separately from TT Electronics plc in the ADS directory; manufacturing site at Eastleigh, Hampshire.
+Public information verified 2026-06-30. ADS Group members directory (snapshot, May 2026). Listed separately from TT Electronics plc in the ADS directory; manufacturing site at Eastleigh, Hampshire.

@@ -4,7 +4,7 @@ name: Flitetec Limited
 website: https://flitetec.com
 companies-house: "02868467"
 hq: Amersham, United Kingdom
-uk-region: South East England
+uk-region: South East
 founded: 1985
 size: small
 headcount: 25-35

@@ -37,4 +37,4 @@ SentinelOne's Singularity platform unifies endpoint protection (EPP), endpoint d
 
 ## Sources
 
-Public information verified 2026-06-30. DEVONthink CRM record (ADS directory snapshot, 2026-05-15). UK office at Cheltenham; HQ Mountain View, California.
+Public information verified 2026-06-30. ADS Group members directory (snapshot, 2026-05-15). UK office at Cheltenham; HQ Mountain View, California.

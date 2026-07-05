@@ -18,7 +18,7 @@ tags:
   - type-manufacturer
   - owned-uk
   - backed-pe
-  - fw-joscar
+  - accr-joscar
   - accr-iso9001
   - accr-iso27001
   - mbr-ads

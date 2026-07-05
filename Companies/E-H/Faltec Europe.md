@@ -5,7 +5,7 @@ website: https://falteceurope.com
 linkedin: https://www.linkedin.com/company/falteceurope
 companies-house: 02385379
 hq: Kawasaki, Japan
-uk-region: North East England
+uk-region: North East
 founded: 1989
 size: medium
 headcount: 450
@@ -19,7 +19,7 @@ tags:
   - size-medium
   - type-manufacturer
   - owned-foreign
-  - fw-joscar
+  - accr-joscar
   - accr-ce
   - accr-iso9001
   - accr-iso14001

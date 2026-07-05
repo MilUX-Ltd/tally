@@ -5,7 +5,7 @@ website: https://epiqsolutions.com
 linkedin: https://www.linkedin.com/company/epiq-solutions
 companies-house: "14694112"
 hq: Rolling Meadows, United States
-uk-region: North West England
+uk-region: North West
 founded: 2009
 size: small
 headcount: 135

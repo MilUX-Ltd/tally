@@ -8,7 +8,7 @@ hq: Pershore, United Kingdom
 uk-region: West Midlands
 founded: 2021
 size: micro
-sources-verified: 2026-07-03
+sources-verified: 2026-07-04
 tags:
   - defence
   - software

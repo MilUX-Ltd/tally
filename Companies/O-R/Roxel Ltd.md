@@ -4,7 +4,7 @@ name: Roxel Ltd
 website: https://www.roxelgroup.com
 hq: Kidderminster, United Kingdom
 uk-region: West Midlands
-sources-verified: 2026-06-30
+sources-verified: 2026-07-05
 tags:
   - defence
   - mbr-ads
@@ -39,4 +39,4 @@ Roxel designs and manufactures propulsion systems for most existing European mis
 
 ## Sources
 
-Public information verified 2026-06-30. DEVONthink CRM record (ADS directory snapshot, May 2026).
+Public information verified 2026-06-30. ADS Group members directory (snapshot, May 2026).

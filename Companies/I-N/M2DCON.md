@@ -4,7 +4,7 @@ name: M2DCON
 website: http://m2dcon.com
 hq: Salisbury, United Kingdom
 uk-region: South West
-sources-verified: 2026-06-29
+sources-verified: 2026-07-04
 tags:
   - defence
   - mbr-ads
@@ -37,4 +37,4 @@ M2DCON develops and manufactures CBRNe decontamination solutions with over 40 ye
 
 ## Sources
 
-Public information verified 2026-06-29. DEVONthink record sourced from ADS members directory snapshot and D3IP directory snapshot, 2026-05-15.
+Public information verified 2026-07-04. ADS Group members directory (snapshot, 2026-05-15).

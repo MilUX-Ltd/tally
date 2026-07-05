@@ -4,7 +4,7 @@ name: AI Score
 website: https://www.aiscore.ai/
 linkedin: https://www.linkedin.com/company/ai-score-ai/
 hq: London
-uk-region: Greater London
+uk-region: London
 size: micro
 headcount: 2-10
 sources-verified: 2026-07-03

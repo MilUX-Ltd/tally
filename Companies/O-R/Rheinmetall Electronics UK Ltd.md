@@ -4,18 +4,21 @@ name: Rheinmetall Electronics UK Ltd
 website: https://www.rheinmetall.com
 hq: Newport, Isle of Wight, United Kingdom
 uk-region: South East
-sources-verified: 2026-06-30
+sources-verified: 2026-07-05
 tags:
   - defence
   - mbr-ads
   - hardware
   - software
   - ew
+  - ew/elint
   - isr
   - sensors
+  - sensors/eo-ir
   - rf
   - comms
   - c2
+  - c2/situational-awareness
   - type-sme
   - owned-foreign
 ---
@@ -32,6 +35,8 @@ Rheinmetall Electronics UK develops high-specification signal, image and video p
 
 - **EW Digital Receivers** - High-performance software-defined digital receiver designs for electronic warfare systems.
 - **Real-Time Video Processing** - Extreme real-time video processing and analytics solutions, delivered as soft IP or full sub-system hardware.
+- **Trailblazer** - driver vision system providing situational awareness for military vehicle platforms.
+- **ACE-AR** - system addressing 360-degree situational awareness in confined vehicle cabins.
 
 ## Frameworks, accreditations and memberships
 
@@ -43,4 +48,4 @@ Rheinmetall Electronics UK develops high-specification signal, image and video p
 
 ## Sources
 
-Public information verified 2026-06-30. DEVONthink CRM record (ADS directory snapshot, 2026-05-15).
+Public information verified 2026-07-05. ADS Group members directory (snapshot, 2026-05-15); [Rheinmetall Electronics UK Ltd (REUK)](https://www.rheinmetall.com/en/company/subsidiaries/rheinmetall-electronics-uk-ltd).

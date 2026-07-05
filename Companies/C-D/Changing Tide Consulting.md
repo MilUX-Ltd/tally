@@ -3,7 +3,7 @@ type: organisation
 name: Changing Tide Consulting
 website: https://www.changingtideconsulting.co.uk
 hq: Bristol
-uk-region: South West England
+uk-region: South West
 size: micro
 sources-verified: 2026-07-04
 tags:

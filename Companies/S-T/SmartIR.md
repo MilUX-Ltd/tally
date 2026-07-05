@@ -3,7 +3,7 @@ type: organisation
 name: SmartIR
 website: https://smartir.co.uk
 hq: Sale
-uk-region: Greater Manchester
+uk-region: North West
 sources-verified: 2026-06-29
 tags:
   - defence

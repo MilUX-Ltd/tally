@@ -4,13 +4,16 @@ name: LiveU UK Ltd
 website: https://www.liveu.tv
 hq: Tel Aviv, Israel
 uk-region: West Midlands
-sources-verified: 2026-06-29
+sources-verified: 2026-07-04
 tags:
   - defence
   - mbr-ads
   - isr
+  - isr/imint
   - uas
+  - uas/payload
   - comms
+  - comms/networking
   - software
   - hardware
   - type-sme
@@ -40,4 +43,4 @@ LiveU develops bonded cellular and satellite video transmission technology enabl
 
 ## Sources
 
-Public information verified 2026-06-29. DEVONthink MilUX CRM record (ADS directory snapshot, 2026-05-15).
+Public information verified 2026-07-04. ADS Group members directory (snapshot, 2026-05-15).

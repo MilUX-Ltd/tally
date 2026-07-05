@@ -6,11 +6,12 @@ companies-house: 09392813
 hq: Latchingdon, England
 uk-region: East of England
 size: small
-sources-verified: 2026-07-03
+sources-verified: 2026-07-04
 tags:
   - defence
   - hardware
   - sensors
+  - sensors/radar
   - comms
   - maritime
   - logistics

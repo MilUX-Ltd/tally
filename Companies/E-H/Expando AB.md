@@ -4,6 +4,7 @@ name: Expando AB
 website: https://expando.se
 linkedin: https://www.linkedin.com/company/expando-ab
 hq: Sollentuna, Sweden
+uk-region: Overseas
 founded: 2000
 size: small
 sources-verified: 2026-07-04
@@ -23,7 +24,7 @@ tags:
   - size-small
   - type-integrator
   - owned-foreign
-  - fw-joscar
+  - accr-joscar
   - accr-iso9001
   - accr-iso14001
 ---

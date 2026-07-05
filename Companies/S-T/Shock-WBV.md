@@ -41,4 +41,4 @@ Shock-WBV designs, tests and manufactures seat suspension systems in the United 
 
 ## Sources
 
-Public information verified 2026-06-30. DEVONthink MilUX CRM record (D3IP directory snapshot, 2026-05-15); shock-wbv.com.
+Public information verified 2026-06-30. shock-wbv.com.

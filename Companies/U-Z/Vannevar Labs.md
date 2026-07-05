@@ -4,6 +4,7 @@ name: Vannevar Labs, Inc.
 website: https://www.vannevarlabs.com/
 linkedin: https://www.linkedin.com/company/vannevar-labs
 hq: Palo Alto, United States
+uk-region: Overseas
 founded: 2019
 size: medium
 headcount: ~190

@@ -8,10 +8,14 @@ hq: Birmingham, United Kingdom
 uk-region: West Midlands
 founded: 1998
 size: small
-sources-verified: 2026-06-29
+sources-verified: 2026-07-05
 tags:
   - defence
   - cyber
+  - cyber/soc-monitoring
+  - cyber/incident-response
+  - cyber/vuln-management
+  - cyber/pen-testing
   - cloud
   - software
   - ai
@@ -32,15 +36,22 @@ METCLOUD provides sovereign cloud, cyber security and managed services built aro
 
 - **Sovereign cloud platform** - hybrid cloud built around high-assurance security controls, with enterprise servers and storage.
 - **Managed cyber security services** - next generation firewall, SIEM, endpoint protection, network access control, automated patch management and backup, plus 24/7 monitoring and surveillance.
-- **METCLOUD Defence** - secure, sovereign cloud services tailored to the UK defence sector.
+- **Security Operations Centre as a Service (SOCaaS)** and **Monitoring as a Service (MaaS)** - continuous cyber threat detection and infrastructure monitoring.
+- **Cyber Incident Response (CIR)** - service to help mitigate the risk of extensive damage and downtime following an attack.
+- **Vulnerability Application Management (VAM)** - ongoing visibility of vulnerabilities across a customer's IT infrastructure.
+- **Penetration testing** - systematic probing of a customer's computing infrastructure to identify potential vulnerabilities.
+- **METCLOUD Defence** - secure, sovereign cloud services tailored to the UK defence sector, stated to be vetted by NCSC and supported by UK Government SC-cleared personnel.
 
 ## Frameworks, accreditations and memberships
 
+- **Accreditations:** ISO 27001:2022, ISO 9001:2015.
 - **Memberships:** Fire Industry Association (FIA) listed partner.
 
 ## Recent news
 
+- **2026-05** - METCLOUD selected by Nurol Makina UK as its UK cybersecure sovereign cloud provider.
 - **2025-11** - METCLOUD Defence awarded "highly commended" for Defence Innovator of the Year at The Innovation Awards. [source](https://www.metcloud.com/about/success/)
+- **2025-02** - Expansion into the fifth floor of Lyndon House, Birmingham, following contract wins including cyber security services to a specialist defence manufacturing firm, with plans to create up to 100 jobs.
 
 ## Links
 
@@ -49,4 +60,4 @@ METCLOUD provides sovereign cloud, cyber security and managed services built aro
 
 ## Sources
 
-Public information verified 2026-06-29. METCLOUD website (metcloud.com), METCLOUD LinkedIn company page, Companies House (company 03594373), FIA membership listing.
+Public information verified 2026-07-05. METCLOUD website (metcloud.com), METCLOUD LinkedIn company page, Companies House (company 03594373), FIA membership listing, Invest West Midlands.

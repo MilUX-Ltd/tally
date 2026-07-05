@@ -4,6 +4,7 @@ name: ScioTeq
 website: https://www.scioteq.com
 linkedin: https://www.linkedin.com/company/scioteq
 hq: Kortrijk, Belgium
+uk-region: Overseas
 founded: 2014
 size: medium
 sources-verified: 2026-06-29

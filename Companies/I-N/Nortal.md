@@ -4,13 +4,21 @@ name: Nortal
 website: https://nortal.com
 hq: Tallinn, Estonia
 uk-region: London
-sources-verified: 2026-06-30
+sources-verified: 2026-07-05
 tags:
   - defence
   - mbr-ads
   - cyber
+  - cyber/soc-monitoring
+  - cyber/grc
+  - cyber/incident-response
+  - cyber/vuln-management
+  - cyber/idam
+  - cyber/threat-intel
   - software
   - data
+  - data/analytics
+  - data/engineering
   - type-consultancy
   - owned-foreign
 ---
@@ -38,4 +46,4 @@ Nortal partners with government and regulated-sector clients to design and imple
 
 ## Sources
 
-Public information verified 2026-06-30. DEVONthink MilUX CRM record (ADS directory snapshot, 2026-05-15).
+Public information verified 2026-06-30. ADS Group members directory (snapshot, 2026-05-15).

@@ -3,6 +3,7 @@ type: organisation
 name: VANTIQ
 website: https://vantiq.com/
 hq: Walnut Creek, California, United States
+uk-region: Overseas
 size: medium
 headcount: 125
 sources-verified: 2026-06-30

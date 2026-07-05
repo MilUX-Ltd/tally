@@ -4,7 +4,7 @@ name: CCPI Europe Limited
 website: https://ccpi-europe.com
 companies-house: 05726866
 hq: Sheffield, United Kingdom
-uk-region: Yorkshire and the Humber
+uk-region: Yorkshire and The Humber
 founded: 2006
 size: small
 sources-verified: 2026-07-04

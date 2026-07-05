@@ -5,21 +5,21 @@ website: https://www.heliguy.com
 linkedin: https://www.linkedin.com/company/heliguy
 companies-house: "05819252"
 hq: North Shields, United Kingdom
-uk-region: North East England
+uk-region: North East
 founded: 2006
 size: small
 headcount: 35+ staff
-sources-verified: 2026-06-29
+sources-verified: 2026-07-04
 tags:
   - defence
   - drones
   - uas
   - training
+  - training/instruction
   - gis
   - isr
   - size-small
-  - type-supplier
-  - accr-caa-approved
+  - type-sme
 ---
 
 # heliguy
@@ -55,4 +55,15 @@ heliguy is the trading brand of Colena Ltd, a UK drone specialist established in
 
 ## Sources
 
-Public information verified 2026-06-29. Company website (heliguy.com), Companies House (Colena Ltd 05819252), DroneLife, DJI Enterprise Insights. ADS, techUK and ISO certifications not evidenced publicly and so not tagged. A separate Heliguy PTY LTD in Australia is an unrelated entity.
+Public information verified 2026-07-04.
+
+- https://www.heliguy.com
+- https://www.heliguy.com/drone-training/
+- https://training.heliguy.com/
+- https://www.heliguy.com/drone-as-first-responder-for-public-safety/
+- https://www.heliguy.com/drones-for-utilities/
+- https://www.heliguy.com/dji-drones-shop/dji-docks/
+- https://dronelife.com/2025/02/20/fighting-fire-with-fire-in-the-uk-a-north-east-drone-company-is-helping-prisons-fight-back/
+- Companies House (Colena Ltd, company number 05819252)
+
+ADS, techUK and ISO certifications not evidenced publicly and so not tagged. A separate Heliguy PTY LTD in Australia is an unrelated entity. No JOSCAR or G-Cloud framework listing found publicly.

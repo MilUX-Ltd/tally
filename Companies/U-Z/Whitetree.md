@@ -3,7 +3,7 @@ type: organisation
 name: Whitetree
 website: https://whitetree.co.uk
 hq: Wells, Somerset
-uk-region: South West England
+uk-region: South West
 sources-verified: 2026-06-30
 tags:
   - defence
@@ -14,7 +14,7 @@ tags:
   - accr-iso9001
   - accr-ce
   - accr-ce-plus
-  - fw-joscar
+  - accr-joscar
   - type-consultancy
   - type-sme
   - owned-uk

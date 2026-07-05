@@ -4,12 +4,13 @@ name: Netscout Systems UK Ltd
 website: https://www.netscout.com
 hq: Westford, United States
 uk-region: South East
-sources-verified: 2026-06-30
+sources-verified: 2026-07-05
 tags:
   - defence
   - mbr-ads
   - cyber
-  - comms
+  - cyber/soc-monitoring
+  - cyber/incident-response
   - sensors
   - type-prime
   - owned-foreign
@@ -25,17 +26,24 @@ NETSCOUT protects critical digital infrastructure from cyberattacks and performa
 
 ## Products and solutions
 
-- **Network Detection and Response (NDR)** - Real-time threat detection and response using deep packet inspection.
-- **Performance management and service assurance** - Visibility and monitoring across network, cloud, and service environments.
+- **Omnis Cyber Intelligence / Omnis CyberStream** - Network detection and response built for SOC teams, integrating with SIEM, XDR, SOAR and EDR workflows for continuous monitoring.
+- **Adaptive Threat Analytics** - Threat investigation and incident response capability aimed at reducing detection-to-response time, launched 2025.
+- **Performance management and service assurance** - Visibility and monitoring across network, cloud, and service environments, built on deep packet inspection at scale.
 
 ## Frameworks, accreditations and memberships
 
 - **Memberships:** ADS Group
 
+## Recent news
+
+- **2026-05-07** - NETSCOUT reported fourth-quarter and full fiscal year 2026 results, with revenue of $859.5m, up from $822.7m, and a return to profitability. [source](https://ir.netscout.com/news/news-details/2026/NETSCOUT-Reports-Fourth-Quarter-and-Full-Fiscal-Year-2026-Financial-Results/default.aspx)
+- **2025-07-15** - Launched NETSCOUT Adaptive Threat Analytics, aimed at reducing detection-to-response time for security teams. [source](https://www.helpnetsecurity.com/2025/07/15/netscout-adaptive-threat-analytics/)
+
 ## Links
 
 - Website: https://www.netscout.com
+- LinkedIn: https://uk.linkedin.com/company/netscout
 
 ## Sources
 
-Public information verified 2026-06-30. DEVONthink MilUX CRM record (ADS directory snapshot, 2026-05-15).
+Public information verified 2026-07-05. Company website (netscout.com), NETSCOUT investor relations press release (7 May 2026), Help Net Security (15 July 2025), ADS Group members directory (snapshot, 2026-05-15).

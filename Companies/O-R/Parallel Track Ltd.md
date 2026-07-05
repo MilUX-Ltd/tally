@@ -5,7 +5,7 @@ website: https://www.paralleltrack.co.uk
 hq: London, United Kingdom
 uk-region: London
 size: micro
-sources-verified: 2026-06-30
+sources-verified: 2026-07-05
 tags:
   - defence
   - size-micro
@@ -32,4 +32,4 @@ Parallel Track provides consulting services helping defence and aerospace compan
 
 ## Sources
 
-Public information verified 2026-06-30. DEVONthink CRM record (ADS directory snapshot, 2026-05-15).
+Public information verified 2026-07-05. ADS Group members directory (snapshot, 2026-05-15).

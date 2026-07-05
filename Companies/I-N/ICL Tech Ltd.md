@@ -4,7 +4,7 @@ name: ICL Tech Ltd
 website: https://www.icltech.co.uk
 hq: Glasgow, United Kingdom
 uk-region: Scotland
-sources-verified: 2026-06-29
+sources-verified: 2026-07-04
 tags:
   - defence
   - mbr-ads
@@ -40,4 +40,4 @@ ICL Tech manufactures bespoke plastic components and products for aerospace, def
 
 ## Sources
 
-Public information verified 2026-06-29. DEVONthink MilUX CRM record (ADS directory snapshot, 2026-05-15).
+Public information verified 2026-06-29. ADS Group members directory (snapshot, 2026-05-15).

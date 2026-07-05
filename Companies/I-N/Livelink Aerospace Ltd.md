@@ -4,14 +4,20 @@ name: Livelink Aerospace Ltd
 website: https://www.livelinkaerospace.com
 hq: Lavant, UK
 uk-region: South East
-sources-verified: 2026-06-29
+sources-verified: 2026-07-04
 tags:
   - defence
   - mbr-ads
   - counter-uas
+  - counter-uas/detection
+  - counter-uas/effector
   - isr
+  - isr/fusion
   - c2
+  - c2/integration
   - sensors
+  - sensors/eo-ir
+  - sensors/acoustic-sonar
   - optronics
   - air
   - manufacturing
@@ -45,4 +51,4 @@ Livelink Aerospace produces its Airspace Intelligence System (AIS), a modular so
 
 ## Sources
 
-Public information verified 2026-06-29. DEVONthink MilUX CRM record (ADS directory snapshot, 2026-05-15).
+Public information verified 2026-07-04. ADS Group members directory (snapshot, 2026-05-15).

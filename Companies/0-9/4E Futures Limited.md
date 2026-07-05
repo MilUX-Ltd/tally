@@ -5,7 +5,7 @@ website: https://4e-technology.co.uk
 linkedin: https://www.linkedin.com/company/4e-futures
 companies-house: "09998380"
 hq: Salisbury, Wiltshire
-uk-region: South West England
+uk-region: South West
 founded: 2016
 size: small
 headcount: 11-50

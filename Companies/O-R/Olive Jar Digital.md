@@ -3,9 +3,9 @@ type: organisation
 name: Olive Jar Digital
 website: https://www.olivejar.co.uk
 hq: London
-uk-region: Greater London
+uk-region: London
 founded: 2015
-sources-verified: 2026-06-29
+sources-verified: 2026-07-05
 tags:
   - defence
   - software
@@ -39,4 +39,4 @@ Olive Jar Digital is a UK digital services and consultancy firm focused on MOD a
 
 ## Sources
 
-Public information verified 2026-06-29.
+Public information verified 2026-07-05.

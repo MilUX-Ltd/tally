@@ -5,7 +5,7 @@ website: https://www.entrust.com
 linkedin: https://www.linkedin.com/company/entrust
 companies-house: 03403634
 hq: Shakopee, United States
-uk-region: South East England
+uk-region: South East
 founded: 1997
 size: large
 sources-verified: 2026-07-04

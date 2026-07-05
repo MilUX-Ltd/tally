@@ -4,10 +4,10 @@ name: Atlantic + Limited
 website: https://atlantic-plus.co.uk/
 companies-house: 12435769
 hq: Cheltenham, England
-uk-region: South West England
+uk-region: South West
 founded: 2019
 size: small
-sources-verified: 2026-07-03
+sources-verified: 2026-07-04
 tags:
   - defence
   - cyber

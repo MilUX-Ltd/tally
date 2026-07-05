@@ -5,7 +5,7 @@ website: https://www.rapidcncservices.co.uk
 hq: Stockton-on-Tees, United Kingdom
 uk-region: North East
 size: micro
-sources-verified: 2026-06-30
+sources-verified: 2026-07-05
 tags:
   - defence
   - mbr-ads
@@ -33,6 +33,7 @@ Rapid CNC Services provides prototype and small-batch precision machined compone
 ## Frameworks, accreditations and memberships
 
 - **Memberships:** ADS Group
+- **Accreditations:** preparing for ISO 9001 certification (Stage 2 audit pending, not yet certified).
 
 ## Links
 
@@ -40,4 +41,4 @@ Rapid CNC Services provides prototype and small-batch precision machined compone
 
 ## Sources
 
-Public information verified 2026-06-30. DEVONthink record sourced from ADS members directory snapshot, 15 May 2026.
+Public information verified 2026-07-05. Sources: company website (rapidcncservices.co.uk); ADS Group members directory snapshot, 15 May 2026.

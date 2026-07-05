@@ -4,7 +4,7 @@ name: Krempel Industries Ltd
 website: https://krempel.com/en
 hq: Vaihingen an der Enz, Germany
 uk-region: South West
-sources-verified: 2026-06-29
+sources-verified: 2026-07-04
 tags:
   - defence
   - mbr-ads
@@ -39,10 +39,14 @@ Krempel Industries manufactures composite and polymer products for aerospace, de
 - **Accreditations:** AS/EN/JISQ 9100, ISO 9001, Cyber Essentials Plus, SC21 Bronze
 - **Memberships:** ADS Group
 
+## Recent news
+
+- **2026-06-15** - Krempel Group confirmed as an exhibitor at Eurosatory 2026, Paris. [source](https://krempel.com/en/news-events/eurosatory-2026)
+
 ## Links
 
 - Website: https://krempel.com/en
 
 ## Sources
 
-Public information verified 2026-06-29. DEVONthink MilUX CRM record (ADS directory snapshot, 2026-05-15).
+Public information verified 2026-07-04. Company website (krempel.com product and news pages), ADS Group members directory (snapshot, 2026-05-15). No subset tag added under "sensors": Krempel's public material describes composite radomes, antenna shrouds and sonar covers as structural and ballistic protection for third-party antennas and sensors, not sensor components manufactured by Krempel itself.

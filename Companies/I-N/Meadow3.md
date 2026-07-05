@@ -4,7 +4,7 @@ name: Meadow3 Limited
 website: https://www.meadow3.co.uk
 hq: Llandysul, United Kingdom
 uk-region: Wales
-sources-verified: 2026-06-29
+sources-verified: 2026-07-05
 tags:
   - defence
   - mbr-ads
@@ -12,7 +12,7 @@ tags:
   - owned-uk
   - accr-ce
   - accr-ce-plus
-  - fw-joscar
+  - accr-joscar
 ---
 
 # Meadow3
@@ -34,4 +34,4 @@ Meadow3 works with capture teams in the aerospace and defence sector to develop 
 
 ## Sources
 
-Public information verified 2026-06-29. DEVONthink CRM record sourced from ADS members directory snapshot (2026-05-15).
+Public information verified 2026-06-29. ADS Group members directory (snapshot, 2026-05-15).

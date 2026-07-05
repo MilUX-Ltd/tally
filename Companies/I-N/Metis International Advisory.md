@@ -4,7 +4,7 @@ name: Metis International Advisory Ltd
 website: http://www.metisintl.com
 hq: Nottingham, UK
 uk-region: East Midlands
-sources-verified: 2026-06-29
+sources-verified: 2026-07-05
 tags:
   - defence
   - mbr-ads
@@ -35,4 +35,4 @@ Metis International Advisory provides tailored strategic advisory to defence ind
 
 ## Sources
 
-Public information verified 2026-06-29. DEVONthink CRM record (source: ADS directory snapshot 2026-05-15).
+Public information verified 2026-07-05. ADS Group members directory (snapshot, 2026-05-15).

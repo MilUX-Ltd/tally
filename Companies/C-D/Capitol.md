@@ -4,6 +4,7 @@ name: Capitol
 website: https://www.capitol.ai/
 linkedin: https://www.linkedin.com/company/capitolai/
 hq: Washington DC, United States
+uk-region: Overseas
 founded: 2021
 size: small
 sources-verified: 2026-07-04

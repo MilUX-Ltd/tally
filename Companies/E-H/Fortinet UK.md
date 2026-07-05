@@ -5,6 +5,7 @@ website: https://www.fortinet.com/uk
 linkedin: https://www.linkedin.com/company/fortinet
 companies-house: 04570027
 hq: Sunnyvale, United States
+uk-region: Overseas
 founded: 2000
 size: large
 sources-verified: 2026-07-04

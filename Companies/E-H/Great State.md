@@ -6,7 +6,7 @@ linkedin: https://www.linkedin.com/company/greatstate
 hq: Bristol, UK
 uk-region: South West
 size: small
-sources-verified: 2026-06-29
+sources-verified: 2026-07-04
 tags:
   - defence
   - software

@@ -6,7 +6,7 @@ linkedin: https://www.linkedin.com/company/helix-powertrain
 hq: Milton Keynes, United Kingdom
 uk-region: South East
 size: small
-sources-verified: 2026-06-29
+sources-verified: 2026-07-04
 tags:
   - defence
   - air
@@ -15,7 +15,7 @@ tags:
   - size-small
   - type-manufacturer
   - owned-foreign
-  - fw-joscar
+  - accr-joscar
   - accr-iso9001
   - accr-iso14001
   - mbr-ads
@@ -48,4 +48,4 @@ Helix designs and manufactures compact, power-dense electric motors and powertra
 
 ## Sources
 
-Public information verified 2026-06-29. ADS members directory (snapshot May 2026); DEVONthink CRM record; ehelix.com; web search results including Midlands Aerospace Alliance participation and MiddleGround Capital company profile.
+Public information verified 2026-06-29. ADS members directory (snapshot May 2026); ehelix.com; web search results including Midlands Aerospace Alliance participation and MiddleGround Capital company profile.

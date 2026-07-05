@@ -3,10 +3,10 @@ type: organisation
 name: Assaye Defence Consultancy Ltd
 companies-house: "11680797"
 hq: Wool, England
-uk-region: South West England
+uk-region: South West
 founded: 2018
 size: micro
-sources-verified: 2026-07-03
+sources-verified: 2026-07-04
 tags:
   - defence
   - software

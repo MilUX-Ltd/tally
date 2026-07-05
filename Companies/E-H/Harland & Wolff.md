@@ -7,7 +7,7 @@ hq: Belfast, United Kingdom
 uk-region: Northern Ireland
 founded: 1861
 size: large
-sources-verified: 2026-06-29
+sources-verified: 2026-07-04
 tags:
   - defence
   - maritime
@@ -16,7 +16,6 @@ tags:
   - size-large
   - type-prime
   - owned-foreign
-  - prog-fss
 ---
 
 # Harland & Wolff
@@ -46,4 +45,4 @@ Harland & Wolff is a shipbuilding and fabrication business operating yards at Be
 
 ## Sources
 
-Public information verified 2026-06-29. Sources: Harland & Wolff website, Navantia UK press releases, Marine Link and Naval Today reporting on the Navantia acquisition.
+Public information verified 2026-07-04. Sources: Harland & Wolff website, Navantia UK press releases, Marine Link and Naval Today reporting on the Navantia acquisition.

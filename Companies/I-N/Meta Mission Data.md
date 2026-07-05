@@ -4,7 +4,7 @@ name: Meta Mission Data Limited
 website: https://meta.aero/mmd/
 hq: Malvern, UK
 uk-region: West Midlands
-sources-verified: 2026-06-29
+sources-verified: 2026-07-05
 tags:
   - defence
   - mbr-ads
@@ -21,8 +21,6 @@ tags:
   - accr-iso9001
   - accr-iso27001
   - accr-ce-plus
-  - accr-itar
-  - accr-def-stan
 ---
 
 # Meta Mission Data Limited
@@ -51,4 +49,4 @@ Meta Mission Data provides consultancy and airborne surveillance capabilities ac
 
 ## Sources
 
-Public information verified 2026-06-29. DEVONthink CRM record (source: ADS directory snapshot 2026-05-15).
+Public information verified 2026-07-05. ADS Group members directory (snapshot, 2026-05-15).

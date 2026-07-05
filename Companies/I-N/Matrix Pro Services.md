@@ -4,11 +4,12 @@ name: Matrix Pro Services Ltd
 website: https://matrixproservices.co.uk
 hq: Cobham, UK
 uk-region: South East
-sources-verified: 2026-06-29
+sources-verified: 2026-07-05
 tags:
   - defence
   - mbr-ads
   - simulation
+  - simulation/synthetic-environment
   - training
   - data
   - software
@@ -40,4 +41,4 @@ Matrix Pro Services provides wargaming support services including operational an
 
 ## Sources
 
-Public information verified 2026-06-29. ADS members directory (snapshot May 2026).
+Public information verified 2026-07-05. ADS members directory (snapshot May 2026).

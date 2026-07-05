@@ -22,7 +22,7 @@ tags:
   - accr-iso27001
   - accr-iso14001
   - accr-ce
-  - fw-joscar
+  - accr-joscar
   - mbr-ads
 ---
 

@@ -4,6 +4,7 @@ name: Abbattis Risk Management Ltd
 website: https://www.abbattis.com/
 companies-house: 16477900
 hq: Zurich, Switzerland
+uk-region: Overseas
 size: micro
 sources-verified: 2026-07-03
 tags:

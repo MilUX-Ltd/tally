@@ -4,7 +4,7 @@ name: Lincad Ltd
 website: https://www.lincad.co.uk
 hq: Ash Vale, UK
 uk-region: South East
-sources-verified: 2026-06-29
+sources-verified: 2026-07-04
 tags:
   - defence
   - mbr-ads
@@ -14,7 +14,7 @@ tags:
   - accr-iso9001
   - accr-iso14001
   - accr-ce-plus
-  - fw-joscar
+  - accr-joscar
   - type-sme
   - owned-uk
 ---
@@ -44,4 +44,4 @@ Lincad designs and manufactures batteries, battery chargers and associated power
 
 ## Sources
 
-Public information verified 2026-06-29. DEVONthink MilUX CRM record (ADS directory snapshot, 2026-05-15).
+Public information verified 2026-07-04. ADS Group members directory (snapshot, 2026-05-15).

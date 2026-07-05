@@ -4,7 +4,7 @@ name: Totalia
 website: https://www.totalia.co.uk
 companies-house: "09810544"
 hq: Cheltenham, Gloucestershire
-uk-region: South West England
+uk-region: South West
 sources-verified: 2026-06-30
 tags:
   - defence

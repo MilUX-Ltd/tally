@@ -28,4 +28,4 @@ Vault Cloud UK offers sovereign cloud infrastructure built on the technology and
 
 ## Sources
 
-Public information verified 2026-06-30. DEVONthink MilUX CRM record (ADS directory snapshot, 2026-05-15). No website listed in directory at capture.
+Public information verified 2026-06-30. ADS Group members directory (snapshot, 2026-05-15). No website listed in directory at capture.

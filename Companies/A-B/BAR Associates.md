@@ -5,10 +5,10 @@ website: https://barassociates.co.uk
 linkedin: https://www.linkedin.com/company/bar-associates-ltd
 companies-house: "09380601"
 hq: Okehampton, United Kingdom
-uk-region: South West England
+uk-region: South West
 founded: 2015
 size: micro
-sources-verified: 2026-07-03
+sources-verified: 2026-07-04
 tags:
   - defence
   - type-consultancy

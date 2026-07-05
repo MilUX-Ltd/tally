@@ -4,12 +4,16 @@ name: QinetiQ Training & Simulation Ltd
 website: https://www.nsc.co.uk
 hq: Farnborough, United Kingdom
 uk-region: South East
-sources-verified: 2026-06-30
+sources-verified: 2026-07-05
 tags:
   - defence
   - mbr-ads
   - simulation
+  - simulation/synthetic-environment
+  - simulation/lvc
   - training
+  - training/courseware
+  - training/instruction
   - software
   - c2
   - type-sme
@@ -25,7 +29,7 @@ tags:
 
 ## What they do
 
-QinetiQ Training & Simulation Ltd (QTSL) develops and delivers decision training systems from the tactical to theatre level, supporting the Contemporary Operating Environment for military and National Security and Resilience markets. Their systems are in use at the UK Defence Academy and international staff colleges.
+QinetiQ Training & Simulation Ltd (QTSL) develops and delivers decision training systems from the tactical to theatre level, supporting the Contemporary Operating Environment for military and National Security and Resilience markets. Their systems are in use at the UK Defence Academy and international staff colleges. Parent company QinetiQ's wider training and simulation facilities support live-virtual-constructive (LVC) capability, incorporating real and virtual players into synthetic environments representing aircraft, uncrewed systems and other platforms.
 
 ## Products and solutions
 
@@ -43,4 +47,4 @@ QinetiQ Training & Simulation Ltd (QTSL) develops and delivers decision training
 
 ## Sources
 
-Public information verified 2026-06-30. DEVONthink CRM record (ADS directory snapshot, 2026-05-15).
+Public information verified 2026-07-05. Company website (nsc.co.uk), QinetiQ Group training and simulation pages, ADS Group members directory (snapshot, 2026-05-15).

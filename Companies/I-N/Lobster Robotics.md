@@ -4,21 +4,25 @@ name: Lobster Robotics
 website: https://www.lobster-robotics.com/
 linkedin: https://www.linkedin.com/company/lobster-robotics
 hq: Delft, Netherlands
+uk-region: Overseas
 founded: 2021
 size: small
-sources-verified: 2026-06-29
+sources-verified: 2026-07-04
 tags:
   - defence
   - maritime
   - robotics
   - autonomy
+  - autonomy/navigation
+  - autonomy/uxv-control
   - isr
+  - isr/imint
   - sensors
+  - sensors/eo-ir
   - optronics
   - type-startup
   - size-small
   - owned-foreign
-  - prog-diana
 ---
 
 # Lobster Robotics
@@ -51,4 +55,4 @@ Lobster Robotics designs, manufactures and operates fully integrated autonomous 
 
 ## Sources
 
-Public information verified 2026-06-29. Lobster Robotics website, LinkedIn company page, Netherlands Ministry of Defence, The Defense Post, Hydro International, InnovationQuarter, YES!Delft.
+Public information verified 2026-07-04. Lobster Robotics website, LinkedIn company page, Netherlands Ministry of Defence, The Defense Post, Hydro International, InnovationQuarter, YES!Delft.

@@ -2,9 +2,11 @@
 type: organisation
 name: Milfoam International Ltd
 website: http://www.milfoam.co.uk
+companies-house: 04043806
 hq: Wembley, United Kingdom
 uk-region: London
-sources-verified: 2026-06-29
+founded: 2000
+sources-verified: 2026-07-05
 tags:
   - defence
   - mbr-ads
@@ -24,9 +26,10 @@ Milfoam International supplies eco-friendly, high-precision barrel cleaning solu
 
 ## Products and solutions
 
-- **Advanced Cleaning Foams** - Remove carbon, copper, brass and plastic residues from weapon barrels.
-- **Synthetic Oils and Pneumatic Brushes** - Clean, lubricate and protect barrels to extend service life.
-- **Vibrating Pneumatic Brushes** - Accelerate and standardise the cleaning process for military and commercial users.
+- **Milfoam Forrest Bore Cleaning Foam** - colour-changing foam (blue for copper, black for other residues) that removes carbon, copper, brass and plastic residues from weapon barrels, supplied in aerosol format.
+- **Milfoam Forrest Synthetic Gun Maintenance Oil** - synthetic oil that cleans, lubricates and protects barrels to extend service life.
+- **Vibrating Pneumatic Brush (VPB) range** - sized for calibres from 23mm to 155mm, accelerating and standardising the cleaning process for military and commercial users.
+- **Foam Dispenser and Heavy Barrel Cleaning System** - equipment for large-calibre application and post-proof cleaning of new gun barrels, used by weapon manufacturers.
 
 ## Frameworks, accreditations and memberships
 
@@ -38,4 +41,4 @@ Milfoam International supplies eco-friendly, high-precision barrel cleaning solu
 
 ## Sources
 
-Public information verified 2026-06-29. DEVONthink record sourced from ADS members directory snapshot (2026-05-15); company website consulted to confirm product scope and defence customers.
+Public information verified 2026-07-05. Milfoam International website (milfoam.co.uk), Companies House (04043806), ADS Group members directory.

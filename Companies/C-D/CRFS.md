@@ -26,7 +26,7 @@ tags:
   - type-manufacturer
   - owned-foreign
   - accr-ce
-  - fw-joscar
+  - accr-joscar
   - accr-iso9001
   - mbr-ads
 ---

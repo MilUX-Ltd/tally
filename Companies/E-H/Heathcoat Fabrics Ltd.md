@@ -8,7 +8,7 @@ uk-region: South West
 founded:
 size: large
 headcount: 430
-sources-verified: 2026-06-29
+sources-verified: 2026-07-04
 tags:
   - defence
   - manufacturing
@@ -48,4 +48,4 @@ Heathcoat Fabrics has manufactured textiles on its Tiverton site for over 200 ye
 
 ## Sources
 
-Public information verified 2026-06-29. ADS members directory (snapshot 2026-05-15); heathcoat.co.uk (confirmed live 2026-06-29).
+Public information verified 2026-07-04. ADS members directory (snapshot 2026-05-15); heathcoat.co.uk (confirmed live 2026-06-29).

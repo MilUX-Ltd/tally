@@ -5,7 +5,7 @@ website: https://www.chemring.com/about-us/our-business/chemring-countermeasures
 linkedin: https://www.linkedin.com/company/chemring-countermeasures
 companies-house: 00218229
 hq: Salisbury, United Kingdom
-uk-region: South West England
+uk-region: South West
 size: medium
 sources-verified: 2026-07-04
 tags:

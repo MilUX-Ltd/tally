@@ -4,7 +4,7 @@ name: Marlborough Engineering Ltd
 website: https://www.marlborough-eng.com
 hq: Belfast, United Kingdom
 uk-region: Northern Ireland
-sources-verified: 2026-06-29
+sources-verified: 2026-07-05
 tags:
   - defence
   - mbr-ads

@@ -8,7 +8,7 @@ hq: London, UK
 uk-region: London
 founded: 2024
 size: small
-sources-verified: 2026-06-29
+sources-verified: 2026-07-04
 tags:
   - defence
   - manufacturing
@@ -16,6 +16,7 @@ tags:
   - air
   - space
   - ai
+  - ai/ml-analytics
   - software
   - munitions
   - size-small
@@ -31,7 +32,7 @@ tags:
 
 ## What they do
 
-Isembard is a software-first precision manufacturing company that produces high-precision metal components and assemblies for critical industries including aerospace, defence and energy. It operates a network of its own and franchised factories run on its proprietary AI-driven platform, MasonOS, using advanced CNC machining and automation to move customers quickly from prototype to production. Its stated mission is to reshore and rebuild Western industrial manufacturing capacity, with plans to scale its factory footprint across the UK and into Europe.
+Isembard is a software-first precision manufacturing company that produces high-precision metal components and assemblies for critical industries including aerospace, defence and energy. It operates a network of its own and franchised factories run on its proprietary AI-driven platform, MasonOS, using advanced CNC machining and automation to move customers quickly from prototype to production. MasonOS integrates quoting, scheduling, supply chain, manufacturing, quality control and delivery into a single operating layer, using machine learning to generate customer quotes, optimise scheduling, automate supply chain and inventory management, and support quality inspection. Its stated mission is to reshore and rebuild Western industrial manufacturing capacity, with plans to scale its factory footprint across the UK and into Europe.
 
 ## Products and solutions
 
@@ -56,4 +57,4 @@ Isembard is a software-first precision manufacturing company that produces high-
 
 ## Sources
 
-Public information verified 2026-06-29. Company website (isembard.com), Companies House (no. 15989684), TechCrunch, tech.eu, EU-Startups.
+Public information verified 2026-07-04. Company website (isembard.com), Companies House (no. 15989684), TechCrunch, tech.eu, EU-Startups, Resilience Media, techfundingnews.com.

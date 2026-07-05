@@ -32,4 +32,4 @@ Weatherhaven designs, manufactures, delivers, and supports military and commerci
 
 ## Sources
 
-Public information verified 2026-07-01. DEVONthink CRM record (Aurora Provider Network collaboration database snapshot, 2026-05-15).
+Public information verified 2026-07-01.

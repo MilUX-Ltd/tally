@@ -4,7 +4,7 @@ name: PilgrimBlue Ltd
 website: https://www.pilgrimblue.co.uk
 hq: Crook, United Kingdom
 uk-region: North East
-sources-verified: 2026-06-30
+sources-verified: 2026-07-05
 tags:
   - defence
   - mbr-ads
@@ -30,4 +30,4 @@ PilgrimBlue offers flexible project delivery services including project manageme
 
 ## Sources
 
-Public information verified 2026-06-30. DEVONthink CRM record (ADS directory snapshot, 2026-05-15).
+Public information verified 2026-07-05. ADS Group members directory (snapshot, 2026-05-15); https://www.adsgroup.org.uk/members/pilgrimblue-ltd-1/. No further independently verifiable detail (Companies House record, LinkedIn page, headcount, or named clients) could be located in this pass.

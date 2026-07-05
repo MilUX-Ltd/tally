@@ -5,6 +5,7 @@ website: https://alpineeagle.com/
 linkedin: https://www.linkedin.com/company/alpineeagle
 companies-house: 16351257
 hq: Munich, Germany
+uk-region: Overseas
 founded: 2023
 size: small
 sources-verified: 2026-07-03

@@ -4,6 +4,7 @@ name: T-SPARK Engineering
 website: https://techspark.engineering
 linkedin: https://www.linkedin.com/company/t-spark-engineering/
 hq: Ternopil, Ukraine
+uk-region: Overseas
 sources-verified: 2026-06-30
 tags:
   - defence

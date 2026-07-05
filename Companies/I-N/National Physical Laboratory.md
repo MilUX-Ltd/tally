@@ -4,7 +4,7 @@ name: National Physical Laboratory
 website: https://www.npl.co.uk
 hq: Teddington, United Kingdom
 uk-region: South East
-sources-verified: 2026-06-30
+sources-verified: 2026-07-05
 tags:
   - defence
   - mbr-ads
@@ -39,4 +39,4 @@ NPL is a world-leading centre of excellence in measurement standards, science, a
 
 ## Sources
 
-Public information verified 2026-06-30. DEVONthink MilUX CRM record (ADS directory snapshot and D3IP directory snapshot, both captured 2026-05-15).
+Public information verified 2026-07-05. ADS Group members directory (captured 2026-05-15).

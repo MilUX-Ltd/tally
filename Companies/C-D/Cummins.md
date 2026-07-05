@@ -4,7 +4,7 @@ name: Cummins Ltd
 website: https://www.cummins.com
 companies-house: 00573951
 hq: Columbus, Indiana, USA
-uk-region: Multiple (Darlington, Daventry)
+uk-region: Overseas
 founded: 1956
 size: large
 sources-verified: 2026-07-04

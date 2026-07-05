@@ -9,7 +9,7 @@ uk-region: West Midlands
 founded: 2015
 size: small
 headcount: 
-sources-verified: 2026-06-29
+sources-verified: 2026-07-04
 tags:
   - defence
   - cyber
@@ -18,7 +18,7 @@ tags:
   - size-small
   - type-sme
   - owned-uk
-  - fw-joscar
+  - accr-joscar
   - accr-iso9001
   - accr-iso27001
 ---

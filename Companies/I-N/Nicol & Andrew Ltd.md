@@ -4,7 +4,7 @@ name: Nicol & Andrew Ltd
 website: https://www.nicolandandrew.com
 hq: High Wycombe, United Kingdom
 uk-region: South East
-sources-verified: 2026-06-30
+sources-verified: 2026-07-05
 tags:
   - defence
   - mbr-ads
@@ -14,7 +14,7 @@ tags:
   - owned-uk
   - accr-ce-plus
   - accr-iso9001
-  - fw-joscar
+  - accr-joscar
 ---
 
 # Nicol & Andrew Ltd
@@ -23,7 +23,14 @@ tags:
 
 ## What they do
 
-Nicol & Andrew provides turnkey in-situ and on-site machining and specialist repair services, with teams deploying globally to address urgent and technically demanding repair programmes. Capabilities include crankshaft and journal repairs, line boring, laser alignment, metal stitching and portable milling.
+Nicol & Andrew Ltd, trading as Nicol & Andrew On Site Machining, is based in High Wycombe and part of the wider Nicol & Andrew Group, which traces back to a marine propulsion machining business founded in 1952. It provides turnkey in-situ and on-site machining and specialist repair services, with teams deploying globally to address urgent and technically demanding repair programmes.
+
+## Products and solutions
+
+- **Crankshaft and journal repairs** - in-situ repair of engine crankshafts and journals.
+- **Line boring and portable milling** - on-site machining for large or immovable equipment.
+- **Laser alignment** - on-site laser surveys of engine blocks, compressors, turbine casings, pumps and similar equipment.
+- **Metal stitching** - cold repair method for cracked or damaged cast components.
 
 ## Frameworks, accreditations and memberships
 
@@ -34,7 +41,8 @@ Nicol & Andrew provides turnkey in-situ and on-site machining and specialist rep
 ## Links
 
 - Website: https://www.nicolandandrew.com
+- LinkedIn: https://uk.linkedin.com/company/nicol-and-andrew
 
 ## Sources
 
-Public information verified 2026-06-30. ADS members directory snapshot (2026-05-15).
+Public information verified 2026-07-05. Nicol & Andrew website (nicolandandrew.com), including its About Us and Laser Alignment pages; ADS members directory.

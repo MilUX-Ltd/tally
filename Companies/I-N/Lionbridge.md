@@ -3,11 +3,13 @@ type: organisation
 name: Lionbridge
 website: https://www.lionbridge.com
 size: large
-sources-verified: 2026-06-29
+sources-verified: 2026-07-04
 tags:
   - defence
   - training
+  - training/courseware
   - data
+  - data/labelling
   - software
   - size-large
   - type-prime
@@ -24,4 +26,4 @@ Lionbridge supports defence, aerospace, land, marine, digital, and industrial or
 ## Links
 - Website: https://www.lionbridge.com
 ## Sources
-Public information verified 2026-06-29.
+Public information verified 2026-07-04.

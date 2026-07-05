@@ -5,16 +5,18 @@ website: https://www.intelligentartefacts.com
 linkedin: 
 companies-house: 
 hq: London, UK
-uk-region: Greater London
+uk-region: London
 founded: 
 size: small
 headcount: 
-sources-verified: 2026-06-29
+sources-verified: 2026-07-04
 tags:
   - defence
   - ai
   - simulation
+  - simulation/synthetic-environment
   - training
+  - training/courseware
   - software
   - size-small
   - type-sme

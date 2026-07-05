@@ -34,4 +34,4 @@ Synoptix delivers solutions and services across systems engineering, cyber and i
 
 ## Sources
 
-Public information verified 2026-06-30. DEVONthink MilUX CRM record (ADS directory snapshot and Aurora Provider Network listing, captured 2026-05-15).
+Public information verified 2026-06-30. ADS Group members directory (captured 2026-05-15).

@@ -3,7 +3,7 @@ type: organisation
 name: Aetherion Ltd
 companies-house: 16731035
 hq: London
-uk-region: Greater London
+uk-region: London
 founded: 2025
 size: micro
 sources-verified: 2026-07-03

@@ -4,13 +4,17 @@ name: L7 Simulators
 website: https://www.l7simulators.com/en
 linkedin: https://www.linkedin.com/company/pss-by-logics-7
 hq: Kyiv, Ukraine
+uk-region: Overseas
 founded: 2019
 size: small
-sources-verified: 2026-06-29
+sources-verified: 2026-07-04
 tags:
   - defence
   - simulation
+  - simulation/synthetic-environment
   - training
+  - training/courseware
+  - training/instruction
   - drones
   - uas
   - counter-uas

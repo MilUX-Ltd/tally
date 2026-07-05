@@ -5,14 +5,18 @@ website: https://www.noxvayn.com
 hq: London, United Kingdom
 uk-region: London
 size: micro
-sources-verified: 2026-06-30
+sources-verified: 2026-07-05
 tags:
   - defence
   - size-micro
   - mbr-ads
   - counter-uas
+  - counter-uas/detection
+  - counter-uas/effector
   - drones
   - sensors
+  - sensors/eo-ir
+  - sensors/radar
   - cyber
   - isr
   - maritime
@@ -46,4 +50,4 @@ Noxvayn designs, builds, and deploys discrete detection and response systems for
 
 ## Sources
 
-Public information verified 2026-06-30. ADS members directory snapshot (2026-05-15).
+Public information verified 2026-07-05. ADS members directory snapshot (2026-05-15). No cyber or isr subset added: the page text does not describe a specific cyber discipline or ISR product line beyond the general detection, tracking and response systems already documented.

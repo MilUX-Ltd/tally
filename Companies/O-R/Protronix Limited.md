@@ -5,7 +5,7 @@ website: https://protronix-uk.com
 hq: Bellshill, UK
 uk-region: Scotland
 size: small
-sources-verified: 2026-06-30
+sources-verified: 2026-07-05
 tags:
   - defence
   - size-small
@@ -36,4 +36,4 @@ Founded in 1994 and based in Bellshill, Scotland, Protronix designs and manufact
 
 ## Sources
 
-Public information verified 2026-06-30. DEVONthink CRM record (ADS directory snapshot, 2026-05-15).
+Public information verified 2026-06-30. ADS Group members directory (snapshot, 2026-05-15).

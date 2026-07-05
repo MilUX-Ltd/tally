@@ -9,7 +9,7 @@ uk-region: East of England
 founded: 2021
 size: medium
 headcount: 31
-sources-verified: 2026-07-03
+sources-verified: 2026-07-04
 tags:
   - defence
   - cyber

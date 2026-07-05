@@ -4,7 +4,7 @@ name: PUBLIC.io
 website: https://www.public.io/
 linkedin: https://www.linkedin.com/company/public.io/
 hq: London
-uk-region: Greater London
+uk-region: London
 sources-verified: 2026-07-03
 tags:
   - defence

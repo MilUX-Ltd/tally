@@ -42,4 +42,4 @@ True Position Robotics (TPR) designs and builds robotic drilling and inspection 
 
 ## Sources
 
-Public information verified 2026-06-30. DEVONthink CRM record sourced from ADS members directory snapshot, May 2026.
+Public information verified 2026-06-30. ADS Group members directory (snapshot, May 2026).

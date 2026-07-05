@@ -4,13 +4,16 @@ name: PentenAmio
 website: https://www.pentenamio.com
 hq: Tewkesbury, United Kingdom
 uk-region: South West
-sources-verified: 2026-06-30
+sources-verified: 2026-07-05
 tags:
   - defence
   - mbr-ads
   - comms
+  - comms/networking
   - cyber
+  - cyber/incident-response
   - ew
+  - ew/ecm
   - software
   - hardware
   - type-sme
@@ -27,9 +30,9 @@ PentenAmio delivers secure mobile communications, AI-enabled cyber defence, and 
 
 ## Products and solutions
 
-- **Secure Mobile Communications** - protected communications systems for defence and security operations.
+- **AltoCrypt** - secure mobility platform providing sovereign, protected mobile access to classified networks across multiple devices.
 - **AI-Enabled Cyber Defence** - machine-intelligence-driven tools for cyber threat detection and response.
-- **Electronic Deception Technologies** - systems supporting electronic warfare and deception operations.
+- **TrapRadio and electronic deception suite** - AI-powered deception technologies delivering large-scale RF and communications effects for defence operations and training.
 
 ## Frameworks, accreditations and memberships
 
@@ -41,4 +44,4 @@ PentenAmio delivers secure mobile communications, AI-enabled cyber defence, and 
 
 ## Sources
 
-Public information verified 2026-06-30. ADS Group member directory (snapshot 2026-05-15).
+Public information verified 2026-07-05. ADS Group member directory (snapshot 2026-05-15). PentenAmio newsroom and company website (pentenamio.com), confirmed 2026-07-05.

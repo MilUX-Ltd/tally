@@ -2,20 +2,20 @@
 type: organisation
 name: i9 Ltd
 website: https://i9tech.io
-linkedin: 
-companies-house: 
-hq: 
-uk-region: 
-founded: 
+companies-house: 13696630
+hq: Dorchester, United Kingdom
+uk-region: South West
+founded: 2021
 size: micro
-headcount: 
-sources-verified: 2026-06-29
+sources-verified: 2026-07-05
 tags:
   - defence
   - drones
   - uas
+  - uas/platform
   - isr
   - training
+  - training/instruction
   - size-micro
   - type-sme
   - owned-uk
@@ -26,12 +26,13 @@ tags:
 
 ## What they do
 
-i9 Ltd is a security-cleared operator of fixed-wing, rotary, and FPV unmanned aerial systems, operating for defence, MOD, and police clients. The company also provides ATAK (Android Team Awareness Kit) integration training, enabling operators to connect drone systems into tactical situational-awareness networks. i9 is a member of the D3IP community at the Defence BattleLab, Dorset Innovation Park.
+i9 Ltd is a security-cleared operator of fixed-wing, rotary, and FPV unmanned aerial systems, operating for defence, MOD, and police clients. The company also provides ATAK (Android Team Awareness Kit) integration training, enabling operators to connect drone systems into tactical situational-awareness networks. i9 is a member of the D3IP community at the Defence BattleLab, Dorset Innovation Park, and describes its work as designing and developing advanced drone systems for defence and public service use.
 
 ## Products and solutions
 
 - **UAS operations** - security-cleared fixed-wing, rotary, and FPV drone operations for defence and law enforcement clients.
-- **ATAK integration training** - instruction on connecting unmanned systems into ATAK tactical situational-awareness networks.
+- **UAS design and development** - development of drone systems incorporating hardware, software and sensor technology for defence and public service use.
+- **ATAK integration training** - instruction on connecting unmanned systems into ATAK tactical situational-awareness networks to securely stream, communicate and control.
 
 ## Links
 
@@ -39,4 +40,4 @@ i9 Ltd is a security-cleared operator of fixed-wing, rotary, and FPV unmanned ae
 
 ## Sources
 
-Public information verified 2026-06-29.
+Public information verified 2026-07-05. Company website (i9tech.io), Companies House (no. 13696630), Dorset Council coverage of Dorset Innovation Park.

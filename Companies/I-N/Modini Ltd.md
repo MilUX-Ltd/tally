@@ -3,17 +3,18 @@ type: organisation
 name: Modini Ltd
 website: https://www.modini.co.uk
 hq: Pewsey, Wiltshire
-uk-region: South West England
-sources-verified: 2026-06-29
+uk-region: South West
+sources-verified: 2026-07-05
 tags:
   - defence
   - drones
   - uas
+  - uas/platform
   - hardware
   - manufacturing
   - type-sme
   - mbr-ads
-  - fw-joscar
+  - accr-joscar
   - accr-ce
   - accr-ce-plus
 ---
@@ -25,6 +26,7 @@ Modini delivers end-to-end capability across the full UxS lifecycle, from analys
 
 ## Products and solutions
 - **Uncrewed system development and delivery** - Full-lifecycle UxS engineering from concept analysis through to operational fielding.
+- **Uncrewed platforms** - Multi-rotor and fixed-wing platforms using electric, jet or gas turbine propulsion, developed for austere operating conditions across land, maritime and air domains.
 
 ## Frameworks, accreditations and memberships
 - **Frameworks:** JOSCAR
@@ -35,4 +37,4 @@ Modini delivers end-to-end capability across the full UxS lifecycle, from analys
 - Website: https://www.modini.co.uk
 
 ## Sources
-Public information verified 2026-06-29.
+Public information verified 2026-07-05. Modini website (modini.co.uk), ADS Group member directory.

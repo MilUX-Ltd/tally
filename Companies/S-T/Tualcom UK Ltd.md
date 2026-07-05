@@ -48,4 +48,4 @@ Tualcom designs and manufactures RF navigation and communication systems for def
 
 ## Sources
 
-Public information verified 2026-06-30. DEVONthink CRM record sourced from ADS members directory snapshot, May 2026. HQ in Ankara, Türkiye; additional offices in London and Virginia, USA. Over 200 staff globally.
+Public information verified 2026-06-30. ADS Group members directory (snapshot, May 2026). HQ in Ankara, Türkiye; additional offices in London and Virginia, USA. Over 200 staff globally.

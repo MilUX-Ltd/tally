@@ -20,7 +20,6 @@ tags:
   - size-micro
   - type-startup
   - owned-founder
-  - prog-dasa
   - mbr-ads
 ---
 

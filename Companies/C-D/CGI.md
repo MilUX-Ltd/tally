@@ -4,6 +4,7 @@ name: CGI Inc.
 website: https://www.cgi.com/uk/en-gb/defence
 linkedin: https://www.linkedin.com/company/cgi/
 hq: Montreal, Canada
+uk-region: Overseas
 founded: 1976
 size: large
 headcount: ~90,000 (global)

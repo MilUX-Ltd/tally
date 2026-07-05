@@ -37,4 +37,4 @@ ZZAG AI (trading as Zig Zag Technology) develops human-centric AI tools that ext
 
 ## Sources
 
-Public information verified 2026-07-01. DEVONthink CRM record (Human-Centricity Workshop ZZAG PDF, captured 2026-04-30; ADS membership via vault record).
+Public information verified 2026-07-01. ADS Group members directory (captured 2026-04-30).

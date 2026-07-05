@@ -4,16 +4,25 @@ name: Real-Time Innovations (RTI)
 website: https://www.rti.com
 linkedin: https://www.linkedin.com/company/rti
 hq: Milpitas, California, United States
+uk-region: Overseas
 founded: 1991
 size: medium
-sources-verified: 2026-06-29
+sources-verified: 2026-07-05
 tags:
   - defence
   - software
   - data
+  - data/visualisation
   - autonomy
+  - autonomy/uxv-control
   - c2
+  - c2/battle-management
+  - c2/situational-awareness
+  - c2/targeting
+  - c2/integration
   - simulation
+  - simulation/synthetic-environment
+  - simulation/lvc
   - size-medium
   - type-vendor
   - owned-foreign
@@ -48,4 +57,4 @@ RTI is a software framework company for intelligent physical systems. Its Connex
 
 ## Sources
 
-Public information verified 2026-06-29. RTI company website (rti.com/company/about-rti, newsroom), RTI LinkedIn company page, GlobeNewswire, AeroMorning.
+Public information verified 2026-07-05. RTI company website (rti.com/company/about-rti, newsroom, JADC2 and all-domain pages, modelling & simulation page), RTI LinkedIn company page, GlobeNewswire, AeroMorning.

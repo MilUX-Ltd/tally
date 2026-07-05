@@ -4,11 +4,14 @@ name: Nexus Training Solutions
 website: https://nexustrain.com
 linkedin: https://www.linkedin.com/company/nexus-training/
 hq: Australia
+uk-region: Overseas
 founded: 
-sources-verified: 2026-06-29
+sources-verified: 2026-07-05
 tags:
   - defence
   - training
+  - training/instruction
+  - training/courseware
   - simulation
   - type-sme
   - owned-foreign

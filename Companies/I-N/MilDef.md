@@ -4,15 +4,17 @@ name: MilDef Group AB
 website: https://mildef.com/
 linkedin: https://www.linkedin.com/company/mildef-group
 hq: Helsingborg, Sweden
+uk-region: Overseas
 founded: 1997
 size: large
 headcount: 514
-sources-verified: 2026-06-29
+sources-verified: 2026-07-05
 tags:
   - defence
   - hardware
   - software
   - c2
+  - c2/integration
   - manufacturing
   - land
   - air
@@ -35,7 +37,7 @@ MilDef is a systems integrator and full-spectrum provider specialising in rugged
 
 - **Rugged computers and electronics** - small form factor computers, mobile computers, displays, panel PCs and special electronics for the harshest conditions.
 - **19"/2 rugged IT platform** - rack-mounted rugged computing supporting modular defence systems.
-- **Command and Control (C2) software** - C2 systems delivered to defence customers including the Swedish Navy.
+- **OneCIS** - tactical C2IS software platform providing secure, deployable IT infrastructure that hosts and connects command and control, battle management and geographical services, delivered to defence customers including the Swedish Navy.
 - **Integration services** - system design and implementation alongside hardware delivery.
 
 ## Recent news
@@ -50,4 +52,4 @@ MilDef is a systems integrator and full-spectrum provider specialising in rugged
 
 ## Sources
 
-Public information verified 2026-06-29. MilDef website (mildef.com), MilDef investor relations (investors.mildef.com), MilDef LinkedIn company page, Nasdaq Stockholm company announcements, Cision press releases.
+Public information verified 2026-07-05. MilDef website (mildef.com), MilDef investor relations (investors.mildef.com), MilDef LinkedIn company page, Nasdaq Stockholm company announcements, Cision press releases.

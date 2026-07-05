@@ -25,4 +25,4 @@ Verity Advisory Services provides trusted insight and strategic advice to client
 
 ## Sources
 
-Public information verified 2026-07-01. DEVONthink CRM record (ADS directory snapshot, 2026-05-15). No company website listed in source.
+Public information verified 2026-07-01. ADS Group members directory (snapshot, 2026-05-15). No company website listed in source.

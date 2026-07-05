@@ -5,7 +5,7 @@ website: https://c3ia.co.uk
 linkedin: https://www.linkedin.com/company/c3ia/
 companies-house: "05746584"
 hq: Poole, United Kingdom
-uk-region: South West England
+uk-region: South West
 founded: 2006
 size: medium
 headcount: 80+ permanent staff
@@ -21,10 +21,9 @@ tags:
   - comms/networking
   - size-medium
   - type-consultancy
-  - accr-ncsc-assured
   - accr-iso27001
   - accr-iso9001
-  - accr-cyber-essentials-plus
+  - accr-ce-plus
   - accr-joscar
   - mbr-techuk
 ---

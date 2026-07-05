@@ -4,6 +4,7 @@ name: SIG SAUER, Inc.
 website: https://www.sigsauer.com
 linkedin: https://www.linkedin.com/company/sigsauer
 hq: Newington, New Hampshire, United States
+uk-region: Overseas
 founded: 1985
 size: large
 headcount: 3200+

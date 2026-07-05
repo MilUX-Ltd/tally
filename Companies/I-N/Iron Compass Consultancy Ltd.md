@@ -5,7 +5,7 @@ website: https://www.icconsultancy.co.uk
 hq: Oxford, United Kingdom
 uk-region: South East
 size: micro
-sources-verified: 2026-06-29
+sources-verified: 2026-07-04
 tags:
   - defence
   - mbr-ads
@@ -32,4 +32,4 @@ Iron Compass was founded in 2023 by consultants with operational military, diplo
 
 ## Sources
 
-Public information verified 2026-06-29. DEVONthink CRM record (ADS directory snapshot, 2026-05-15).
+Public information verified 2026-07-04. ADS Group members directory (snapshot, 2026-05-15).

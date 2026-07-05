@@ -4,7 +4,7 @@ name: Lunasa Ltd
 website: https://www.lunasaspace.com
 hq: Paris, France
 uk-region: London
-sources-verified: 2026-06-29
+sources-verified: 2026-07-04
 tags:
   - defence
   - mbr-ads
@@ -32,4 +32,4 @@ Lunasa is a UK entity owned by Infinite Orbits, focused on advanced in-space sat
 
 ## Sources
 
-Public information verified 2026-06-29. DEVONthink record sourced from ADS members directory snapshot, 2026-05-15. Infinite Orbits is French-headquartered; Lunasa is the UK entity — tagged owned-foreign accordingly.
+Public information verified 2026-07-04. ADS Group members directory (snapshot, 2026-05-15). Infinite Orbits is French-headquartered; Lunasa is the UK entity, tagged owned-foreign accordingly.

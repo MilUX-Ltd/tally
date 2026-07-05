@@ -4,6 +4,7 @@ name: Cellebrite DI Ltd.
 website: https://cellebrite.com/en/
 linkedin: https://www.linkedin.com/company/cellebrite
 hq: Petah Tikva, Israel
+uk-region: Overseas
 founded: 1999
 size: large
 sources-verified: 2026-07-04

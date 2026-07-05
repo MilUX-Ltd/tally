@@ -4,6 +4,7 @@ name: Futuria Ltd
 website: https://futuria.ai
 companies-house: "15097040"
 hq: Bristol, UK
+uk-region: South West
 founded: 2023
 size: micro
 sources-verified: 2026-07-04

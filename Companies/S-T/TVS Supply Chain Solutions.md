@@ -39,4 +39,4 @@ TVS Supply Chain Solutions (TVS SCS) delivers supply chain outsourcing and fourt
 
 ## Sources
 
-Public information verified 2026-06-30. DEVONthink CRM record sourced from ADS members directory snapshot, May 2026. UK operational HQ at Chorley, Lancashire. Parent group headquartered in Chennai, India.
+Public information verified 2026-06-30. ADS Group members directory (snapshot, May 2026). UK operational HQ at Chorley, Lancashire. Parent group headquartered in Chennai, India.

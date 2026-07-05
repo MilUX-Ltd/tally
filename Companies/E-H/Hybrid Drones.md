@@ -8,10 +8,12 @@ hq: London, United Kingdom
 uk-region: London
 founded: 2019
 size: micro
-sources-verified: 2026-06-29
+sources-verified: 2026-07-04
 tags:
   - defence
   - uas
+  - uas/platform
+  - uas/payload
   - drones
   - air
   - logistics
@@ -52,4 +54,4 @@ Hybrid Drones Ltd is a UK heavy-lift hybrid UAS manufacturer, founded in 2019 to
 
 ## Sources
 
-Public information verified 2026-06-29. HYDRA / Hybrid Drones website, LinkedIn company page, ADS members directory (adsgroup.org.uk/members/hybrid-drones-ltd-2), Companies House (12259467), MBDA press releases, The Defense Post.
+Public information verified 2026-07-04. HYDRA / Hybrid Drones website, LinkedIn company page, ADS members directory (adsgroup.org.uk/members/hybrid-drones-ltd-2), Companies House (12259467), MBDA press releases, The Defense Post.

@@ -4,7 +4,7 @@ name: Para Tech Coating UK Ltd
 website: https://www.paratechcoating.co.uk
 hq: Northampton, United Kingdom
 uk-region: East Midlands
-sources-verified: 2026-06-30
+sources-verified: 2026-07-05
 tags:
   - defence
   - mbr-ads
@@ -38,4 +38,4 @@ Para Tech Coating provides Parylene coating, conformal coating application and r
 
 ## Sources
 
-Public information verified 2026-06-30. DEVONthink CRM record (ADS directory snapshot, 2026-05-15).
+Public information verified 2026-07-05. ADS Group members directory (snapshot, 2026-05-15).

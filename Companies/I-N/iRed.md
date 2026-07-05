@@ -4,15 +4,19 @@ name: iRed
 website: https://ired.co.uk
 hq: Emsworth, United Kingdom
 uk-region: South East
-sources-verified: 2026-06-29
+sources-verified: 2026-07-05
 tags:
   - defence
   - mbr-ads
   - drones
   - uas
+  - uas/platform
   - isr
+  - isr/imint
   - sensors
+  - sensors/eo-ir
   - training
+  - training/instruction
   - type-sme
   - owned-uk
 ---
@@ -41,4 +45,4 @@ iRed (trading as iRed Ltd) has delivered drone and thermal imaging technology, t
 
 ## Sources
 
-Public information verified 2026-06-29. DEVONthink CRM record (D3IP directory snapshot + ADS directory snapshot + web research, 2026-05-15).
+Public information verified 2026-07-05. ADS Group members directory (snapshot, 2026-05-15).

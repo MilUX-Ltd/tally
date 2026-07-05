@@ -3,7 +3,7 @@ type: organisation
 name: ISHelp.co.uk Ltd
 website: https://ishelp.co.uk
 hq: United Kingdom
-sources-verified: 2026-06-29
+sources-verified: 2026-07-04
 tags:
   - defence
   - mbr-ads
@@ -17,7 +17,7 @@ tags:
   - accr-ce-plus
   - accr-iso9001
   - accr-iso27001
-  - fw-joscar
+  - accr-joscar
 ---
 
 # ISHelp.co.uk Ltd
@@ -40,4 +40,4 @@ ISHelp has over 25 years of experience in secure-by-design architecture and end-
 
 ## Sources
 
-Public information verified 2026-06-29. DEVONthink CRM record (Aurora Provider Network collaboration database, 2026-05-15).
+Public information verified 2026-06-29.

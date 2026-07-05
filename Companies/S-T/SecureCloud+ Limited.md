@@ -15,7 +15,7 @@ tags:
   - data
   - type-sme
   - owned-uk
-  - fw-joscar
+  - accr-joscar
   - accr-ce-plus
   - accr-iso9001
   - accr-iso27001
@@ -41,4 +41,4 @@ SecureCloud+ develops and delivers innovative ICT systems for defence and public
 
 ## Sources
 
-Public information verified 2026-06-30. DEVONthink CRM record (ADS directory snapshot, 2026-05-15).
+Public information verified 2026-06-30. ADS Group members directory (snapshot, 2026-05-15).

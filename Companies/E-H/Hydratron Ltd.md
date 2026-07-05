@@ -4,7 +4,7 @@ name: Hydratron Ltd
 website: https://www.hydratron.com
 hq: North Shields, United Kingdom
 uk-region: North East
-sources-verified: 2026-06-29
+sources-verified: 2026-07-04
 tags:
   - defence
   - mbr-ads
@@ -37,4 +37,4 @@ Founded in 1981, Hydratron designs and manufactures high-pressure hydraulic, gas
 
 ## Sources
 
-Public information verified 2026-06-29. DEVONthink MilUX CRM record (ADS directory snapshot, 2026-05-15).
+Public information verified 2026-07-04. ADS Group members directory (snapshot, 2026-05-15). Hydratron website (hydratron.com).

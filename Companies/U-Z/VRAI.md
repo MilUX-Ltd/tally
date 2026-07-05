@@ -4,6 +4,7 @@ name: VRAI
 website: https://www.vraisimulation.com/
 linkedin: https://www.linkedin.com/company/vrai-simulation/
 hq: Dublin, Ireland
+uk-region: Overseas
 founded: 2017
 sources-verified: 2026-06-30
 tags:

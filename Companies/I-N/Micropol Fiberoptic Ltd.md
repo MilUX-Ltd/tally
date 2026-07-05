@@ -4,7 +4,7 @@ name: Micropol Fiberoptic Ltd
 website: http://www.micropol.com/en
 hq: Stockholm, Sweden
 uk-region: London
-sources-verified: 2026-06-29
+sources-verified: 2026-07-05
 tags:
   - defence
   - mbr-ads
@@ -37,4 +37,4 @@ Micropol Fiberoptic develops and manufactures battle-tested fibre optic products
 
 ## Sources
 
-Public information verified 2026-06-29. DEVONthink record sourced from ADS members directory snapshot (2026-05-15).
+Public information verified 2026-07-05. ADS Group members directory (snapshot, 2026-05-15).

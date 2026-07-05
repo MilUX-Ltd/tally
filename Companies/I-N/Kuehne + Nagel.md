@@ -5,7 +5,7 @@ website: https://www.kuehne-nagel.com
 hq: Schindellegi, Switzerland
 uk-region: London
 size: large
-sources-verified: 2026-06-29
+sources-verified: 2026-07-04
 tags:
   - defence
   - size-large
@@ -15,7 +15,7 @@ tags:
   - type-integrator
   - owned-foreign
   - accr-ce-plus
-  - fw-joscar
+  - accr-joscar
   - listed
 ---
 
@@ -38,10 +38,14 @@ Kuehne + Nagel is a leading global freight and logistics business operating acro
 - **Accreditations:** Cyber Essentials Plus, SC21 Gold, SC21 OE, JOSCAR Registered, BS OHSAS 18001:2007
 - **Memberships:** ADS Group
 
+## Recent news
+
+- **2025-11-03** - Kuehne+Nagel announced intent to acquire Eastway Global Forwarding, an aerospace logistics specialist providing aircraft-on-ground services, engine logistics and aviation warehousing. [source](https://newsroom.kuehne-nagel.com/kuehnenagel-to-acquire-eastway-a-leader-in-aerospace-logistics/)
+
 ## Links
 
 - Website: https://www.kuehne-nagel.com
 
 ## Sources
 
-Public information verified 2026-06-29. DEVONthink MilUX CRM record (ADS directory snapshot, 2026-05-15).
+Public information verified 2026-07-04. Company website (kuehne-nagel.com), newsroom.kuehne-nagel.com, ADS Group members directory (snapshot, 2026-05-15). No capability subset tags apply: "logistics" has no defined subsets in the current tagging scheme.

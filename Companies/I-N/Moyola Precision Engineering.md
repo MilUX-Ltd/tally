@@ -4,7 +4,7 @@ name: Moyola Precision Engineering
 website: https://www.moyola.com
 hq: Magherafelt, United Kingdom
 uk-region: Northern Ireland
-sources-verified: 2026-06-29
+sources-verified: 2026-07-05
 tags:
   - defence
   - mbr-ads
@@ -14,7 +14,6 @@ tags:
   - optronics
   - type-manufacturer
   - owned-uk
-  - accr-itar
 ---
 
 # Moyola Precision Engineering
@@ -42,4 +41,4 @@ Moyola manufactures and assembles precision components and sub-assemblies using 
 
 ## Sources
 
-Public information verified 2026-06-29. DEVONthink CRM record sourced from ADS members directory snapshot (2026-05-15).
+Public information verified 2026-07-05. ADS Group members directory (snapshot, 2026-05-15).

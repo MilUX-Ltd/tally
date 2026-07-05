@@ -5,10 +5,10 @@ website: https://avenue3.com
 linkedin: https://www.linkedin.com/company/avenue3/
 companies-house: "13040131"
 hq: Leeds, England
-uk-region: Yorkshire and the Humber
+uk-region: Yorkshire and The Humber
 founded: 2020
 size: micro
-sources-verified: 2026-07-03
+sources-verified: 2026-07-04
 tags:
   - defence
   - data
@@ -17,7 +17,6 @@ tags:
   - size-micro
   - type-consultancy
   - mbr-ads
-  - prog-mercury
 ---
 
 # Avenue3

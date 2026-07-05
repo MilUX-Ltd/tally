@@ -5,15 +5,20 @@ website: https://milaniongroup.com/
 linkedin: https://www.linkedin.com/company/milaniongroup
 companies-house: 12951650
 hq: Abu Dhabi, United Arab Emirates
+uk-region: Overseas
 founded: 2020
 size: micro
-sources-verified: 2026-06-29
+sources-verified: 2026-07-05
 tags:
   - defence
   - autonomy
+  - autonomy/navigation
+  - autonomy/uxv-control
   - robotics
   - uas
+  - uas/platform
   - isr
+  - isr/imint
   - munitions
   - land
   - maritime
@@ -36,7 +41,7 @@ Milanion Group is a vertically integrated defence company that designs, integrat
 
 - **AGEMA UGV** - modular, multi-mission, amphibious unmanned ground vehicle, with ISR payloads and weaponised or munitions-launcher variants.
 - **Unmanned surface vessels** - an Advanced Autonomous Conversion System that converts manned platforms such as fast attack craft to unmanned operation.
-- **MSP Warblefly** - precision loitering munition, including a launcher integrated onto the AGEMA UGV.
+- **MSP Warblefly** - tube-launched loitering munition UAV, marketed by Milanion as an air system, including a launcher integrated onto the AGEMA UGV.
 - **Mortar and indirect fire systems** - mobile mortar carrier and indirect-fire systems (Milanion NTGS), plus remote weapon stations.
 
 ## Frameworks, accreditations and memberships
@@ -55,4 +60,4 @@ Milanion Group is a vertically integrated defence company that designs, integrat
 
 ## Sources
 
-Public information verified 2026-06-29. Milanion Group website, LinkedIn company page, ADS members directory (adsgroup.org.uk/members/milanion-ltd-2), Companies House (12951650), Army Recognition, Janes, Defense Arabia, ADS Advance.
+Public information verified 2026-07-05. Milanion Group website, LinkedIn company page, ADS members directory (adsgroup.org.uk/members/milanion-ltd-2), Companies House (12951650), Army Recognition, Janes, Defense Arabia, ADS Advance.

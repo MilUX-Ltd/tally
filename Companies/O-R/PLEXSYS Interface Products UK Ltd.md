@@ -4,13 +4,16 @@ name: PLEXSYS Interface Products UK Ltd
 website: https://www.plexsys.com
 hq: Covington, United States
 uk-region: East Midlands
-sources-verified: 2026-06-30
+sources-verified: 2026-07-05
 tags:
   - defence
   - mbr-ads
   - simulation
+  - simulation/lvc
   - training
+  - training/courseware
   - c2
+  - c2/integration
   - comms
   - software
   - type-sme
@@ -44,4 +47,4 @@ Founded in 1986, PLEXSYS is a modelling and simulation software company with ove
 
 ## Sources
 
-Public information verified 2026-06-30. DEVONthink MilUX CRM record (ADS directory snapshot, 2026-05-15).
+Public information verified 2026-06-30. ADS Group members directory (snapshot, 2026-05-15).

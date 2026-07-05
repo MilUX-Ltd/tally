@@ -4,7 +4,7 @@ name: Mission Systems Wimborne Ltd (Eaton)
 website: https://cobhammissionsystems.com
 hq: Wimborne, United Kingdom
 uk-region: South West
-sources-verified: 2026-06-29
+sources-verified: 2026-07-05
 tags:
   - defence
   - mbr-ads
@@ -12,6 +12,8 @@ tags:
   - hardware
   - air
   - uas
+  - uas/platform
+  - uas/payload
   - type-manufacturer
   - type-integrator
   - owned-foreign
@@ -31,6 +33,7 @@ Mission Systems Wimborne is the largest global supplier of hose and drogue air-t
 - **Refuelling probes** - Receiver-side probe systems for fixed-wing and rotary platforms.
 - **Defensive Aids Sub-Systems (DASS)** - Integrated defensive systems for combat aircraft.
 - **Actuation equipment** - Control surface and systems actuation for fixed-wing, rotorcraft and UAVs.
+- **UAV SATCOM payload systems** - Compact satellite communication payloads for UAV platforms, integrating connectivity into a single lightweight unit.
 
 ## Frameworks, accreditations and memberships
 
@@ -42,4 +45,4 @@ Mission Systems Wimborne is the largest global supplier of hose and drogue air-t
 
 ## Sources
 
-Public information verified 2026-06-29. DEVONthink CRM record sourced from ADS directory snapshot (2026-05-15).
+Public information verified 2026-07-05. ADS Group members directory (snapshot, 2026-05-15); Eaton / Cobham Mission Systems public product material on UAV SATCOM payloads.

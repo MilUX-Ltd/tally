@@ -5,17 +5,20 @@ website: https://www.mindfoundry.ai
 linkedin: https://www.linkedin.com/company/mind-foundry
 companies-house: "09882159"
 hq: Oxford, United Kingdom
-uk-region: South East England
+uk-region: South East
 founded: 2016
 size: medium
-sources-verified: 2026-06-29
+sources-verified: 2026-07-05
 tags:
   - defence
   - ai
+  - ai/decision-support
   - data
   - software
   - isr
+  - isr/fusion
   - sensors
+  - sensors/acoustic-sonar
   - maritime
   - size-medium
   - type-software
@@ -57,4 +60,4 @@ Mind Foundry develops responsible AI and machine learning solutions for high-sta
 
 ## Sources
 
-Public information verified 2026-06-29. Company website (mindfoundry.ai), Companies House (Mind Foundry Limited, company number 09882159, incorporated 20 November 2015), ADS Group members directory, Oxford Science Enterprises portfolio (investor), and reputable news. Backed by Oxford Science Enterprises and Parkwalk Advisors.
+Public information verified 2026-07-05. Company website (mindfoundry.ai), Companies House (Mind Foundry Limited, company number 09882159, incorporated 20 November 2015), ADS Group members directory, Oxford Science Enterprises portfolio (investor), and reputable news. Backed by Oxford Science Enterprises and Parkwalk Advisors.

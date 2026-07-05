@@ -7,7 +7,7 @@ hq: Morecambe, United Kingdom
 uk-region: North West
 founded: 2008
 size: small
-sources-verified: 2026-06-29
+sources-verified: 2026-07-04
 tags:
   - defence
   - air
@@ -44,4 +44,4 @@ Halo Aerospace Laboratories UK Ltd provides non-destructive testing (NDT) and ma
 
 ## Sources
 
-Public information verified 2026-06-29. Sources: Halo Aerospace Laboratories UK website (halolaboratoriesuk.com); ADS Group members directory (snapshot 2026-05-15); Companies House record 06620992.
+Public information verified 2026-07-04. Sources: Halo Aerospace Laboratories UK website (halolaboratoriesuk.com); ADS Group members directory (snapshot 2026-05-15); Companies House record 06620992.

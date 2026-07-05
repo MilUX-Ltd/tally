@@ -8,7 +8,7 @@ hq: Ballynahinch, United Kingdom
 uk-region: Northern Ireland
 founded: 2017
 size: micro
-sources-verified: 2026-07-03
+sources-verified: 2026-07-04
 tags:
   - defence
   - cyber

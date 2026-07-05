@@ -5,7 +5,7 @@ website: https://connorsolutions.co.uk
 linkedin: https://uk.linkedin.com/company/connor-solutions
 companies-house: 03775671
 hq: Houghton le Spring, United Kingdom
-uk-region: North East England
+uk-region: North East
 size: medium
 headcount: 54
 sources-verified: 2026-07-04
@@ -19,7 +19,7 @@ tags:
   - size-medium
   - type-manufacturer
   - owned-uk
-  - fw-joscar
+  - accr-joscar
   - accr-iso9001
   - accr-iso27001
   - accr-iso14001

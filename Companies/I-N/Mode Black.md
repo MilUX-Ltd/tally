@@ -3,12 +3,13 @@ type: organisation
 name: Mode Black
 website: https://mode.black/
 hq: South West, UK
-uk-region: South West England
+uk-region: South West
 founded: 2022
-sources-verified: 2026-06-29
+sources-verified: 2026-07-05
 tags:
   - defence
   - comms
+  - comms/networking
   - hardware
   - type-startup
   - owned-uk
@@ -26,4 +27,4 @@ Mode Black produces a covert communications product based on Free Space Optics, 
 - Website: https://mode.black/
 
 ## Sources
-Public information verified 2026-06-29.
+Public information verified 2026-07-05. Mode Black website (mode.black).

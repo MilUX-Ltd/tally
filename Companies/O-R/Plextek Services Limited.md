@@ -3,25 +3,33 @@ type: organisation
 name: Plextek Services Limited
 website: https://www.plextek.com
 hq: Great Chesterford, United Kingdom
-uk-region: East
-sources-verified: 2026-06-30
+uk-region: East of England
 tags:
   - defence
   - mbr-ads
   - sensors
+  - sensors/radar
+  - sensors/pnt
+  - sensors/eo-ir
   - rf
   - comms
+  - comms/tactical-radio
+  - comms/waveforms
   - isr
+  - isr/geoint
+  - isr/imint
   - space
   - simulation
+  - simulation/synthetic-environment
   - hardware
   - software
   - type-consultancy
   - type-sme
   - owned-uk
-  - fw-joscar
+  - accr-joscar
   - accr-ce-plus
   - accr-iso9001
+sources-verified: 2026-07-05
 ---
 
 # Plextek Services Limited
@@ -43,10 +51,15 @@ Plextek works with defence, security, and commercial clients to turn complex eng
 - **Memberships:** ADS Group
 - **Accreditations:** ISO 9001, ISO 13485, Cyber Essentials Plus, JOSCAR Registered
 
+## Recent news
+
+- **2026** - Plextek received a King's Award for Enterprise for Innovation, recognising its PLX-T60 reconfigurable sensing platform, now in use in orbit and under further development with international space agencies and satellite manufacturers for space debris removal missions. [source](https://www.cambridgenetwork.co.uk/news/plextek-receives-kings-award-enterprise-innovation-2026)
+- **2026** - Plextek won Technology Company of the Year at the Cambridge Independent Science and Technology Awards, recognised for its work integrating radar and communication systems. [source](https://www.cambridgenetwork.co.uk/news/plextek-receives-kings-award-enterprise-innovation-2026)
+
 ## Links
 
 - Website: https://www.plextek.com
 
 ## Sources
 
-Public information verified 2026-06-30. DEVONthink MilUX CRM record (ADS directory snapshot, 2026-05-15).
+Public information verified 2026-07-05. Plextek website (plextek.com: Defence, Radar, Alternative PNT, Electromagnetic Warfare, Data Exploitation, Modelling & Simulation, Secure Critical Communications application/expertise pages), Cambridge Network. Capability subset tags added under existing top-level tags (sensors, comms, isr, simulation) based on Plextek's own published application and expertise pages.

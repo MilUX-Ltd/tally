@@ -4,7 +4,7 @@ name: Hyde Aero Products Limited
 website: https://www.hydegroup.com
 hq: Dukinfield, United Kingdom
 uk-region: North West
-sources-verified: 2026-06-29
+sources-verified: 2026-07-04
 tags:
   - defence
   - mbr-ads
@@ -16,7 +16,6 @@ tags:
   - owned-uk
   - accr-ce-plus
   - accr-iso9001
-  - accr-itar
 ---
 
 # Hyde Aero Products Limited
@@ -38,4 +37,4 @@ Hyde Aero Products designs, manufactures, and surface-finishes detailed parts an
 
 ## Sources
 
-Public information verified 2026-06-29. DEVONthink MilUX CRM record (ADS directory snapshot, 2026-05-15).
+Public information verified 2026-07-04. ADS Group members directory (snapshot, 2026-05-15). Hyde Group website (hydegroup.com), North West Aerospace Alliance capability guide.

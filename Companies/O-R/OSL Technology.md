@@ -4,17 +4,20 @@ name: OSL Technology
 website: https://www.operationalsolutions.co.uk
 hq: Padworth Common, UK
 uk-region: South East
-sources-verified: 2026-06-30
+sources-verified: 2026-07-05
 tags:
   - defence
   - mbr-ads
   - counter-uas
+  - counter-uas/detection
   - drones
   - isr
   - sensors
   - c2
+  - c2/situational-awareness
   - software
   - training
+  - training/instruction
   - type-sme
   - type-integrator
   - owned-uk
@@ -48,4 +51,4 @@ Founded in 2010, OSL Technology supplies and integrates drone detection and coun
 
 ## Sources
 
-Public information verified 2026-06-30. DEVONthink CRM record sourced from ADS members directory snapshot (2026-05-15).
+Public information verified 2026-07-05. ADS Group members directory (snapshot, 2026-05-15).

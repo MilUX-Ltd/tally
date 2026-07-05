@@ -4,7 +4,7 @@ name: Linwave Technology Ltd
 website: https://www.linwave.co.uk
 hq: Lincoln, UK
 uk-region: East Midlands
-sources-verified: 2026-06-29
+sources-verified: 2026-07-04
 tags:
   - defence
   - mbr-ads
@@ -45,4 +45,4 @@ Linwave designs and manufactures novel custom RF and microwave modules and subsy
 
 ## Sources
 
-Public information verified 2026-06-29. DEVONthink MilUX CRM record (ADS directory snapshot, 2026-05-15).
+Public information verified 2026-07-04. ADS Group members directory (snapshot, 2026-05-15).

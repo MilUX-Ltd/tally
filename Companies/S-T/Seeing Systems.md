@@ -3,7 +3,7 @@ type: organisation
 name: Seeing Systems
 website: https://www.seeing-systems.com
 hq: London
-uk-region: Greater London
+uk-region: London
 sources-verified: 2026-06-29
 tags:
   - defence

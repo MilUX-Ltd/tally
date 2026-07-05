@@ -5,13 +5,14 @@ website: https://www.guartel.com
 hq: Welshpool, United Kingdom
 uk-region: Wales
 size: small
-sources-verified: 2026-06-29
+sources-verified: 2026-07-04
 tags:
   - defence
   - sensors
   - hardware
   - manufacturing
   - training
+  - training/instruction
   - size-small
   - type-manufacturer
   - owned-uk
@@ -43,4 +44,4 @@ Guartel Technologies Ltd designs, develops, and manufactures metal detection, mi
 
 ## Sources
 
-Public information verified 2026-06-29. DEVONthink CRM record (ADS directory snapshot, 2026-05-15); www.guartel.com (visited 2026-06-29).
+Public information verified 2026-06-29. ADS Group members directory (snapshot, 2026-05-15); www.guartel.com (visited 2026-06-29).

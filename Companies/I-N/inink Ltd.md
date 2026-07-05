@@ -5,11 +5,11 @@ website: https://inink.io
 linkedin: https://www.linkedin.com/company/inink
 companies-house: 14616659
 hq: Broadstairs, UK
-uk-region: South East England
+uk-region: South East
 founded: 2023
 size: micro
 headcount: 2
-sources-verified: 2026-07-03
+sources-verified: 2026-07-05
 tags:
   - defence
   - size-micro
@@ -49,4 +49,4 @@ inink is a communications consultancy working wherever deep tech meets defence a
 
 ## Sources
 
-Public information verified 2026-07-03. Company website (inink.io), Companies House (no. 14616659, incorporated 25 January 2023), ADS members directory (adsgroup.org.uk/members/inink-ltd-1/).
+Public information verified 2026-07-05. Company website (inink.io), Companies House (no. 14616659, incorporated 25 January 2023), ADS members directory (adsgroup.org.uk/members/inink-ltd-1/).

@@ -4,7 +4,7 @@ name: PRP Optoelectronics Limited
 website: http://www.prpopto.com
 hq: Swindon, UK
 uk-region: South West
-sources-verified: 2026-06-30
+sources-verified: 2026-07-05
 tags:
   - defence
   - mbr-ads
@@ -40,4 +40,4 @@ PRP Optoelectronics specialises in the design and manufacture of LED displays, m
 
 ## Sources
 
-Public information verified 2026-06-30. DEVONthink CRM record (ADS directory snapshot, 2026-05-15).
+Public information verified 2026-06-30. ADS Group members directory (snapshot, 2026-05-15).

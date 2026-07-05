@@ -21,7 +21,7 @@ tags:
   - accr-ce-plus
   - accr-iso9001
   - accr-iso14001
-  - fw-joscar
+  - accr-joscar
 ---
 
 # KOLT Power Ltd
@@ -63,4 +63,4 @@ No dated public news items specific to KOLT Power Ltd (the Fareham, UK entity) w
 
 ## Sources
 
-Public information verified 2026-07-03. Sources: [KOLT Power company page](https://koltpower.com/company/), [KOLT Power products](https://koltpower.com/), [KOLT Power events](https://koltpower.com/events/), [ADS Group member profile](https://www.adsgroup.org.uk/members/kolt-power-ltd-2/). DEVONthink CRM record sourced from ADS members directory snapshot, 2026-05-15.
+Public information verified 2026-07-03. Sources: [KOLT Power company page](https://koltpower.com/company/), [KOLT Power products](https://koltpower.com/), [KOLT Power events](https://koltpower.com/events/), [ADS Group member profile](https://www.adsgroup.org.uk/members/kolt-power-ltd-2/). ADS Group members directory (snapshot, 2026-05-15).

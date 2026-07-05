@@ -5,7 +5,7 @@ website: https://www.camberleyrubber.com/
 linkedin: https://uk.linkedin.com/company/camberley-rubber
 companies-house: 01043362
 hq: Aldershot, United Kingdom
-uk-region: South East England
+uk-region: South East
 founded: 1969
 size: small
 sources-verified: 2026-07-04

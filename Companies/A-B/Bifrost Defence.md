@@ -4,6 +4,7 @@ name: Bifrost Defence
 website: https://bifrostdefence.com/
 linkedin: https://dk.linkedin.com/company/bifrost-defence
 hq: Copenhagen, Denmark
+uk-region: Overseas
 founded: 2025
 size: micro
 sources-verified: 2026-07-04

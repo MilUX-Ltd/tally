@@ -4,7 +4,7 @@ name: Bridewell
 website: https://www.bridewell.com/
 linkedin: https://uk.linkedin.com/company/bridewellsec
 hq: Reading, United Kingdom
-uk-region: South East England
+uk-region: South East
 founded: 2013
 size: large
 headcount: 300+
@@ -22,7 +22,6 @@ tags:
   - size-large
   - owned-foreign
   - accr-crest
-  - accr-ncsc
 ---
 
 # Bridewell

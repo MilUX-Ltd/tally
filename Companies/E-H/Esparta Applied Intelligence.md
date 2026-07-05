@@ -5,7 +5,7 @@ website: https://esparta-ai.co.uk
 linkedin: https://uk.linkedin.com/company/esparta-applied-intelligence
 companies-house: 13629108
 hq: Altrincham, United Kingdom
-uk-region: North West England
+uk-region: North West
 founded: 2021
 size: small
 sources-verified: 2026-07-04

@@ -5,7 +5,7 @@ website: https://www.filtronic.com
 linkedin: https://uk.linkedin.com/company/filtronic
 companies-house: 02891064
 hq: Sedgefield, UK
-uk-region: North East England
+uk-region: North East
 founded: 1977
 size: small
 headcount: 175
@@ -24,7 +24,6 @@ tags:
   - listed
   - accr-iso9001
   - accr-iso14001
-  - prog-dasa
   - mbr-ads
 ---
 

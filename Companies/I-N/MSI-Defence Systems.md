@@ -7,7 +7,7 @@ companies-house: 00954839
 hq: Norwich, United Kingdom
 uk-region: East of England
 size: medium
-sources-verified: 2026-06-29
+sources-verified: 2026-07-05
 tags:
   - defence
   - maritime
@@ -16,6 +16,8 @@ tags:
   - manufacturing
   - hardware
   - counter-uas
+  - counter-uas/detection
+  - counter-uas/effector
   - size-medium
   - type-manufacturer
   - owned-uk
@@ -53,4 +55,4 @@ MSI-Defence Systems (MSI-DS) is a UK-based land and naval weapon systems special
 
 ## Sources
 
-Public information verified 2026-06-29. MSI-Defence Systems website (msi-dsl.com), MSI-Defence Systems LinkedIn company page, Companies House (company 00954839), ADS Group members directory, Navy Lookout, Kraken Technology Group.
+Public information verified 2026-07-05. MSI-Defence Systems website (msi-dsl.com), MSI-Defence Systems LinkedIn company page, Companies House (company 00954839), ADS Group members directory, Navy Lookout, Kraken Technology Group.

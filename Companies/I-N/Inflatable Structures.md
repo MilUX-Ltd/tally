@@ -9,7 +9,7 @@ uk-region: East of England
 founded: 
 size: small
 headcount: 
-sources-verified: 2026-06-29
+sources-verified: 2026-07-04
 tags:
   - defence
   - manufacturing
@@ -39,4 +39,4 @@ Inflatable Structures Limited designs and manufactures inflatable products for d
 
 ## Sources
 
-Public information verified 2026-06-29.
+Public information verified 2026-07-04.

@@ -4,7 +4,7 @@ name: Carbon ThreeSixty Ltd
 website: https://carbonthreesixty.com/
 linkedin: https://uk.linkedin.com/company/carbonthreesixty
 hq: Chippenham, United Kingdom
-uk-region: South West England
+uk-region: South West
 founded: 2017
 size: small
 headcount: 38
@@ -17,7 +17,7 @@ tags:
   - size-small
   - owned-founder
   - owned-uk
-  - accr-cyber-essentials-plus
+  - accr-ce-plus
   - mbr-ads
 ---
 

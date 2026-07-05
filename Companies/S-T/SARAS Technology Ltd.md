@@ -3,7 +3,7 @@ type: organisation
 name: SARAS Technology Ltd
 website: http://www.sarastech.co.uk
 hq: Leeds, United Kingdom
-uk-region: Yorkshire
+uk-region: Yorkshire and The Humber
 sources-verified: 2026-06-30
 tags:
   - defence
@@ -39,4 +39,4 @@ SARAS Technology designs, manufactures, and supplies standard and custom RF and 
 
 ## Sources
 
-Public information verified 2026-06-30. DEVONthink CRM record (ADS directory snapshot, 2026-05-15).
+Public information verified 2026-06-30. ADS Group members directory (snapshot, 2026-05-15).

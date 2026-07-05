@@ -6,7 +6,7 @@ hq: Cheltenham, United Kingdom
 uk-region: South West
 founded: 2004
 size: micro
-sources-verified: 2026-06-29
+sources-verified: 2026-07-04
 tags:
   - defence
   - sensors
@@ -49,4 +49,4 @@ HazmatLINK, established in 2004, provides detection products and integration sol
 
 ## Sources
 
-Public information verified 2026-06-29. ADS members directory snapshot (2026-05-15); hazmatlink.com (2026-06-29).
+Public information verified 2026-07-04. ADS members directory snapshot (2026-05-15); hazmatlink.com (2026-06-29).

@@ -4,7 +4,7 @@ name: Metrea Mission Data Limited
 website: https://metrea.aero/mmd/
 hq: London, UK
 uk-region: London
-sources-verified: 2026-06-29
+sources-verified: 2026-07-05
 tags:
   - defence
   - mbr-ads
@@ -23,8 +23,6 @@ tags:
   - accr-iso9001
   - accr-iso27001
   - accr-ce-plus
-  - accr-itar
-  - accr-def-stan
 ---
 
 # Metrea Mission Data Limited
@@ -54,4 +52,4 @@ Metrea Mission Data delivers systems engineering, Tactical Data Link software pr
 
 ## Sources
 
-Public information verified 2026-06-29. DEVONthink CRM record (source: ADS directory snapshot 2026-05-15).
+Public information verified 2026-07-05. ADS Group members directory (snapshot, 2026-05-15).

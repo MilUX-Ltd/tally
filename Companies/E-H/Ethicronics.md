@@ -19,7 +19,6 @@ tags:
   - size-micro
   - type-startup
   - owned-uk
-  - prog-dasa
   - mbr-ads
 ---
 

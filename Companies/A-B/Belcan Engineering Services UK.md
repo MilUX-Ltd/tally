@@ -3,6 +3,7 @@ type: organisation
 name: Belcan Engineering Services UK Limited
 website: https://www.belcan.com/
 hq: Cincinnati, United States
+uk-region: Overseas
 companies-house: SC163213
 founded: 1996
 size: large

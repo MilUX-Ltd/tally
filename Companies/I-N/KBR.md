@@ -63,4 +63,4 @@ _News older than ~12 months should be pruned or moved below a divider._
 
 ## Sources
 
-Public information verified 2026-07-03. KBR corporate site (kbr.com, including Insights & News and What We Do pages), ADS Group member page (adsgroup.org.uk/members/kbr), Frazer-Nash Consultancy news (fnc.co.uk), Rolls-Royce press release (rolls-royce.com), Naval Technology, ADS Advance, Army Technology, GOV.UK Find a Tender. DEVONthink CRM record (ADS directory snapshot, 2026-05-15).
+Public information verified 2026-07-03. KBR corporate site (kbr.com, including Insights & News and What We Do pages), ADS Group member page (adsgroup.org.uk/members/kbr), Frazer-Nash Consultancy news (fnc.co.uk), Rolls-Royce press release (rolls-royce.com), Naval Technology, ADS Advance, Army Technology, GOV.UK Find a Tender. ADS Group members directory (snapshot, 2026-05-15).

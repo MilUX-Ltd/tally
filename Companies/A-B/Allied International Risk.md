@@ -5,7 +5,7 @@ website: https://airl.co.uk/
 linkedin: https://www.linkedin.com/company/allied-international-risk-limited
 companies-house: 09615165
 hq: High Wycombe, United Kingdom
-uk-region: South East England
+uk-region: South East
 founded: 2015
 size: small
 sources-verified: 2026-07-03

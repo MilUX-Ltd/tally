@@ -5,7 +5,7 @@ website: https://www.dellnerglass.co.uk
 linkedin: https://www.linkedin.com/company/dellner-glass-solutions
 companies-house: "04252701"
 hq: Borlänge, Sweden
-uk-region: North East England
+uk-region: North East
 founded: 2021
 size: medium
 headcount: 51-200

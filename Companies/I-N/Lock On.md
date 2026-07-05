@@ -8,7 +8,7 @@ hq: Duxford, Cambridgeshire
 uk-region: East of England
 founded: 2018
 size: small
-sources-verified: 2026-06-29
+sources-verified: 2026-07-04
 tags:
   - defence
   - air
@@ -28,4 +28,4 @@ Lock On provides consultancy services for the aerospace industry with a defence 
 - Website: https://www.lockon.ltd
 - LinkedIn: https://www.linkedin.com/company/lockonltd/
 ## Sources
-Public information verified 2026-06-29.
+Public information verified 2026-07-04.

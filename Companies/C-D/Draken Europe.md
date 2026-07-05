@@ -5,7 +5,7 @@ website: https://www.draken.aero
 linkedin: https://www.linkedin.com/company/draken-aero
 companies-house: 00845310
 hq: Lakeland, FL, USA
-uk-region: South West England
+uk-region: South West
 founded: 1985
 size: large
 sources-verified: 2026-07-04

@@ -5,7 +5,7 @@ website: https://www.itpaero.com
 hq: Bilbao, Spain
 uk-region: East Midlands
 size: large
-sources-verified: 2026-06-29
+sources-verified: 2026-07-04
 tags:
   - defence
   - size-large
@@ -44,4 +44,4 @@ ITP Aero UK manufactures complex fabrications, combustors, casings and outlet gu
 
 ## Sources
 
-Public information verified 2026-06-29. DEVONthink CRM record (ADS directory snapshot, 2026-05-15). ITP Aero is the ninth largest aeronautical engine and component company in the world by turnover (2021 figures).
+Public information verified 2026-07-04. ADS Group members directory (snapshot, 2026-05-15). ITP Aero is the ninth largest aeronautical engine and component company in the world by turnover (2021 figures).

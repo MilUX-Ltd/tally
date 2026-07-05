@@ -4,7 +4,7 @@ name: Mico-Tindall Engineering Ltd
 website: https://www.mico-tindall.com
 hq: Oldham, United Kingdom
 uk-region: North West
-sources-verified: 2026-06-29
+sources-verified: 2026-07-05
 tags:
   - defence
   - mbr-ads
@@ -32,4 +32,4 @@ Mico-Tindall Engineering designs and manufactures the UK's most extensively test
 
 ## Sources
 
-Public information verified 2026-06-29. DEVONthink record sourced from ADS members directory snapshot (2026-05-15); company website consulted to classify product scope.
+Public information verified 2026-07-05. ADS Group members directory (snapshot, 2026-05-15); company website consulted to classify product scope.

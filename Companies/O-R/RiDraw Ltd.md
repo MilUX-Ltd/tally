@@ -4,11 +4,12 @@ name: RiDraw Ltd
 website: https://www.ridraw.com
 hq: Barnet, Middlesex, United Kingdom
 uk-region: South East
-sources-verified: 2026-06-30
+sources-verified: 2026-07-05
 tags:
   - defence
   - mbr-ads
   - data
+  - data/visualisation
   - gis
   - software
   - simulation
@@ -34,4 +35,4 @@ RiDraw works at the intersection of infrastructure and change, delivering spatia
 
 ## Sources
 
-Public information verified 2026-06-30. DEVONthink CRM record (ADS directory snapshot, 2026-05-15).
+Public information verified 2026-07-05. ADS Group members directory (snapshot, 2026-05-15); [RiDraw](https://ridraw.com/).

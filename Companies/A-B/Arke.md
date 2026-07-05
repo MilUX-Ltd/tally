@@ -8,7 +8,7 @@ hq: Westbury, United Kingdom
 uk-region: South West
 founded: 2006
 size: small
-sources-verified: 2026-07-03
+sources-verified: 2026-07-04
 tags:
   - defence
   - simulation
@@ -18,7 +18,7 @@ tags:
   - type-consultancy
   - size-small
   - owned-uk
-  - fw-joscar
+  - accr-joscar
   - accr-iso9001
   - accr-iso14001
   - accr-ce-plus

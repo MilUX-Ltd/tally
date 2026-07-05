@@ -4,7 +4,7 @@ name: Lloyd's Register
 hq: London, United Kingdom
 uk-region: London
 size: large
-sources-verified: 2026-06-29
+sources-verified: 2026-07-04
 tags:
   - defence
   - mbr-ads
@@ -28,4 +28,4 @@ Founded in 1760 as a marine classification society, Lloyd's Register has grown i
 
 ## Sources
 
-Public information verified 2026-06-29. DEVONthink MilUX CRM reference set (D3IP members directory snapshot, 2026-05-15).
+Public information verified 2026-07-04.

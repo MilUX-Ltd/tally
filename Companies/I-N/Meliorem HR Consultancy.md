@@ -4,7 +4,7 @@ name: Meliorem HR Consultancy
 website: https://www.meloremhr.com
 hq: Bristol, United Kingdom
 uk-region: South West
-sources-verified: 2026-06-29
+sources-verified: 2026-07-05
 tags:
   - defence
   - mbr-ads
@@ -30,4 +30,4 @@ Meliorem HR advises UK and international organisations on people strategy, workf
 
 ## Sources
 
-Public information verified 2026-06-29. DEVONthink CRM record sourced from ADS members directory snapshot (2026-05-15).
+Public information verified 2026-06-29. ADS Group members directory (snapshot, 2026-05-15).

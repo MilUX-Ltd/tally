@@ -8,7 +8,7 @@ hq: Ross-on-Wye, United Kingdom
 uk-region: West Midlands
 founded: 2023
 size: medium
-sources-verified: 2026-06-29
+sources-verified: 2026-07-04
 tags:
   - defence
   - munitions
@@ -57,4 +57,4 @@ Igne UXO Ltd is the unexploded ordnance arm of Igne, a UK subsurface services gr
 
 ## Sources
 
-Public information verified 2026-06-29. Igne website, LinkedIn company page, ADS members directory (adsgroup.org.uk/members/igne-uxo-ltd-1), Companies House (Igne UXO Ltd 14747649; Igne Group Ltd 14740656).
+Public information verified 2026-07-04. Igne website, LinkedIn company page, ADS members directory (adsgroup.org.uk/members/igne-uxo-ltd-1), Companies House (Igne UXO Ltd 14747649; Igne Group Ltd 14740656).

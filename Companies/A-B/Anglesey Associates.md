@@ -19,9 +19,8 @@ tags:
   - type-sme
   - type-consultancy
   - owned-uk
-  - fw-joscar
+  - accr-joscar
   - accr-ce
-  - prog-dasa
   - mbr-ads
 ---
 
