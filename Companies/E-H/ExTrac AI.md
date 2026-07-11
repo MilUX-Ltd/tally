@@ -22,6 +22,7 @@ tags:
   - type-startup
   - owned-uk
   - accr-joscar
+  - fw-gcloud
   - mbr-ads
 ---
 
@@ -41,7 +42,7 @@ ExTrac AI Limited is a British Open Source Intelligence (OSINT) company serving 
 
 ## Frameworks, accreditations and memberships
 
-- **Frameworks:** JOSCAR registered
+- **Frameworks:** JOSCAR registered, G-Cloud
 - **Memberships:** ADS Group
 
 ## Links

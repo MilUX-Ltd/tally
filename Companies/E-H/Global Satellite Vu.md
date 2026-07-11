@@ -44,12 +44,13 @@ SatVu designs, owns and operates a constellation of thermal infrared Earth obser
 ## Frameworks, accreditations and memberships
 
 - **Accreditations:** Cyber Essentials Plus
-- **Memberships:** ADS Group
+- **Memberships:** ADS Group, UKspace, World Geospatial Industry Council, Space4Climate, USGIF
 
 ## Recent news
 
 - **2026-06-29** - SatVu declares HotSat-2 Start of Commercial Operations, delivering thermal intelligence over critical infrastructure worldwide. [satellitevu.com](https://www.satellitevu.com/news/satvu-declares-hotsat-2-start-of-commercial-operations)
 - **2026-03-30** - HotSat-2 successfully launched on SpaceX Transporter-16 rideshare mission. [satellitevu.com](https://www.satellitevu.com/news/satvu-set-to-revolutionise-earth-intelligence-with-the-successful-launch-of-their-hotsat-2-thermal-satellite)
+- **2026-02-17** - Closed a ~£30m funding round led by the NATO Innovation Fund to expand the thermal constellation. [spacenews.com](https://spacenews.com/satvu-to-expand-thermal-imaging-constellation-with-nato-backed-funds/)
 - **2025-06-25** - SatVu awarded multi-million Euro ESA contract as the first UK company to receive a Category 1 Copernicus Contributing Mission contract. [satellitevu.com](https://www.satellitevu.com/news/uks-satvu-secures-multi-million-esa-contract-to-power-climate-and-security-intelligence)
 
 ## Links
