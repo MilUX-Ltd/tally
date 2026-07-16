@@ -53,4 +53,4 @@ AVRT develops fully immersive, wireless free-roam VR training systems. Trainees 
 
 ## Sources
 
-Public information verified 2026-06-29, with concurrent-user capacity and counter-drone (CUAS/C-sUAS) training confirmed directly by Andy Higgs, AVRT Sales Director, 2026-07-14. Sources: avrt.training; LinkedIn company page; Companies House (KIM Software Solutions Limited, 03691242); Joint Forces News (January 2024).
+Public information verified 2026-06-29, with concurrent-user capacity and counter-drone (CUAS/C-sUAS) training confirmed directly by AVRT, by email, 2026-07-14. Sources: avrt.training; LinkedIn company page; Companies House (KIM Software Solutions Limited, 03691242); Joint Forces News (January 2024).

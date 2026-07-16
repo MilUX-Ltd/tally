@@ -30,6 +30,7 @@ The A-Z banding matches `MilUX/CRM/organisations/defence companies/` and Foothol
 
 ## How to add a company
 
+0. Check the suppression list first. Some companies have asked to be removed or asked not to be added; they must not be re-added by mistake. Run the check and stop if it reports a match. See the Tally CLAUDE.md for the register and the command.
 1. Copy `Company Page Template.md` into the band folder that matches the first character of the company name.
 2. Name the file after the company, for example `Companies/A-B/ARX Robotics UK Ltd.md`.
 3. Fill the frontmatter and sections from public sources only: the company website, its LinkedIn page, the ADS members directory, public news.
@@ -38,6 +39,7 @@ The A-Z banding matches `MilUX/CRM/organisations/defence companies/` and Foothol
 
 ## Add discipline
 
+- Check the suppression list before adding. If a company has previously asked to be removed or not to be added, do not add it.
 - Public sources only. Never lift content from the private MilUX CRM or from DEVONthink relationship material.
 - No people. No named contacts, no personal data.
 - Capabilities are what the company says about itself in public. No assessment.
