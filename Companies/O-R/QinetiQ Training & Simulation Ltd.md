@@ -43,7 +43,7 @@ QinetiQ Training & Simulation Ltd (QTSL) develops and delivers decision training
 
 ## Links
 
-- Website: https://www.nsc.co.uk
+- Website: https://www.nsc.co.uk (retains the legacy NSC domain; NSC was acquired by QinetiQ in 2020)
 
 ## Sources
 
