@@ -536,6 +536,10 @@
         {
           "slug": "fw-gcloud",
           "label": "G-Cloud"
+        },
+        {
+          "slug": "fw-joscar",
+          "label": "JOSCAR"
         }
       ]
     },

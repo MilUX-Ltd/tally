@@ -3,8 +3,8 @@ type: organisation
 name: KRS Infotech Ltd
 website: https://krsinfotech.co.uk/
 companies-house: "08546527"
-hq: London, United Kingdom
-uk-region: London
+hq: Colchester, United Kingdom
+uk-region: East of England
 founded: 2013
 size: small
 sources-verified: 2026-08-01
@@ -29,7 +29,7 @@ tags:
 
 ## What they do
 
-KRS Infotech is a UK technology consultancy and resource partner, established in 2013, supplying specialist engineering and enterprise transformation capability to defence primes, technology vendors and critical national infrastructure programmes. The company states it operates as a tier-1 subcontractor on UK defence programmes, delivering both embedded specialist resource and managed, outcome-based delivery against defined statements of work. It works from two sites: a registered office in Wimbledon, London, and an office in Colchester, giving it London coverage alongside a presence in the East of England defence cluster.
+KRS Infotech is a UK technology consultancy and resource partner, established in 2013, supplying specialist engineering and enterprise transformation capability to defence primes, technology vendors and critical national infrastructure programmes. The company states it operates as a tier-1 subcontractor on UK defence programmes, delivering both embedded specialist resource and managed, outcome-based delivery against defined statements of work. It works from two sites: an office in Colchester, Essex, and a registered office in Wimbledon, London, giving it a presence in the East of England defence cluster alongside London coverage.
 
 Note on identity: several unrelated companies trade under the "KRS Infotech" name, including an India-based CRM software firm. Company number 08546527 is the definitive identifier for this UK entity.
 
