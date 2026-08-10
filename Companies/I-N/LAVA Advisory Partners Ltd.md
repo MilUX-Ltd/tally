@@ -4,11 +4,12 @@ name: LAVA Advisory Partners Ltd
 website: https://www.lavaadvisory.com
 hq: London, United Kingdom
 uk-region: London
-size: micro
-sources-verified: 2026-07-04
+size: small
+headcount: 18
+sources-verified: 2026-08-10
 tags:
   - defence
-  - size-micro
+  - size-small
   - mbr-ads
   - type-consultancy
   - owned-uk
@@ -45,3 +46,5 @@ LAVA Advisory Partners is a London-based mergers and acquisitions advisory firm 
 ## Sources
 
 Public information verified 2026-07-04. Company website (lavaadvisory.com), ADS members directory (snapshot 2026-05-15), Companies House.
+
+Size band corrected from micro to small, and headcount recorded as 18, confirmed directly by LAVA Advisory Partners, by email, 2026-08-10.
