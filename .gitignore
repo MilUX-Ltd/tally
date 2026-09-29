@@ -3,6 +3,13 @@ CLAUDE.md
 .obsidian/
 .DS_Store
 .trash/
+_to_delete/
+
+# Mini workspace files: local only, never published
+AGENTS.md
+vault.yaml
+Home.md
+.claude/
 
 # FUSE orphan files (stale duplicates left by open handles during rename)
 .fuse_hidden*
