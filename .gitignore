@@ -1,15 +1,18 @@
-# Local and operational, not for the public repo
-CLAUDE.md
-.obsidian/
+# macOS and Windows
 .DS_Store
-.trash/
-_to_delete/
+Thumbs.db
 
-# Mini workspace files: local only, never published
+# Local editor and Obsidian state
+.obsidian/
+.trash/
+.context/
+.claude/
+CLAUDE.md
 AGENTS.md
 vault.yaml
 Home.md
-.claude/
+_to_delete/
+__pycache__/
 
 # FUSE orphan files (stale duplicates left by open handles during rename)
 .fuse_hidden*

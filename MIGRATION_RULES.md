@@ -6,12 +6,10 @@ SKIP: recruiters, law firms, accountants, generic management consultants, generi
 SET ASIDE: large general IT/consulting firms where defence relevance is unclear (e.g. Fujitsu, IBM, Oracle, Google DeepMind, Experian, Big Four, Cognizant, Deloitte).
 
 ## Check the suppression list first
-Before adding any company, check it against the do-not-list register: companies that have
-asked to be removed or asked not to be added. Run
-`python3 /Users/matt/Argos/bin/tally-suppression-check.py --check "Company Name" --domain example.com`.
-If it reports MATCH, do not add the company. This is separate from the SKIP list above:
-SKIP is out-of-scope companies; suppression is in-scope companies that have objected. See
-the Tally CLAUDE.md for full detail.
+Before adding any company, check it against MilUX's do-not-list register: companies that have
+asked to be removed or asked not to be added. The register is kept privately, not in this
+repository. If the company is on it, do not add it. This is separate from the SKIP list above:
+SKIP is out-of-scope companies; suppression is in-scope companies that have objected.
 
 ## Hard rules
 - Check the suppression list before adding (see above). Never add a suppressed company.
@@ -38,7 +36,7 @@ O-R → Companies/O-R/
 S-T → Companies/S-T/
 U-Z → Companies/U-Z/
 
-Full path: /Users/matt/Argos/Obsidian Vaults/Tally/Companies/<band>/<Company Name>.md
+Full path: `Companies/<band>/<Company Name>.md`, from the repository root.
 
 ## Template
 ```
