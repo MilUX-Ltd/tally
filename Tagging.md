@@ -85,7 +85,7 @@ The procurement vehicles a company sits on. The facet that makes the directory w
 
 ## Memberships and clusters (`mbr-`)
 
-`mbr-ads` (ADS Group), `mbr-techuk`, `mbr-makeuk-defence`, `mbr-ndi`, `mbr-scrdsc`, `mbr-swrdsc`, and other regional clusters as encountered.
+`mbr-ads` (ADS Group), `mbr-techuk`, `mbr-makeuk-defence`, `mbr-ndi`, `mbr-scrdsc`, `mbr-swrdsc`, `mbr-walesdsc` (Defence Wales), and other regional clusters as encountered.
 
 ## Location for filtering
 

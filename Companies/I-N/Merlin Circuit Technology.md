@@ -20,6 +20,7 @@ tags:
   - accr-ce
   - accr-ce-plus
   - pcbs
+  - mbr-walesdsc
 ---
 
 # Merlin Circuit Technology

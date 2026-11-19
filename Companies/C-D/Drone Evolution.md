@@ -28,6 +28,7 @@ tags:
   - owned-uk
   - mbr-ads
   - uas/multirotor
+  - mbr-walesdsc
 ---
 
 # Drone Evolution Ltd

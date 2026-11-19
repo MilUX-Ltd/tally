@@ -23,6 +23,7 @@ tags:
   - type-sme
   - owned-uk
   - mbr-ads
+  - mbr-walesdsc
 ---
 
 # Zenotech Ltd

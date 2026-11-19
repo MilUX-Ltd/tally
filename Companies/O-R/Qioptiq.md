@@ -18,6 +18,7 @@ tags:
   - manufacturing
   - type-manufacturer
   - owned-foreign
+  - mbr-walesdsc
 ---
 
 # Qioptiq

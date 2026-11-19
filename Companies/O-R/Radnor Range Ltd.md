@@ -27,6 +27,7 @@ tags:
   - accr-iso14001
   - accr-ce-plus
   - accr-joscar
+  - mbr-walesdsc
 ---
 
 # Radnor Range Ltd

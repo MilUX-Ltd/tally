@@ -17,6 +17,7 @@ tags:
   - type-sme
   - accr-iso9001
   - mbr-ads
+  - mbr-walesdsc
 ---
 # Olsen Actuators and Drives
 

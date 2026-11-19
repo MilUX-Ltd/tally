@@ -22,6 +22,7 @@ tags:
   - metal-fabrication
   - precision-engineering
   - advanced-manufacturing
+  - mbr-walesdsc
 ---
 
 # Hyde Aero Products Limited

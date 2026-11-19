@@ -28,6 +28,7 @@ tags:
   - accr-ce-plus
   - mbr-ads
   - test-equipment
+  - mbr-walesdsc
 ---
 
 # AVoptics

@@ -21,6 +21,7 @@ tags:
   - owned-foreign
   - accr-iso9001
   - pcbs
+  - mbr-walesdsc
 ---
 
 # Triumph Aerospace Operations UK Ltd

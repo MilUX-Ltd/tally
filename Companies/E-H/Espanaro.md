@@ -30,6 +30,7 @@ tags:
   - owned-veteran
   - accr-ce-plus
   - mbr-ads
+  - mbr-walesdsc
 ---
 
 # Espanaro
