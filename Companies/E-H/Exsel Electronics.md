@@ -10,7 +10,7 @@ sources-verified: 2026-11-19
 postcode: SY21 8SL
 lat: 52.67005
 lon: -3.12483
-location-source: website
+location-source: companies-house
 tags:
   - defence
   - cyber
