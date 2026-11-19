@@ -25,6 +25,8 @@ tags:
   - size-medium
   - owned-uk
   - mbr-ads
+  - mbr-scrdsc
+  - mbr-glrdsc
 ---
 
 # Novatech

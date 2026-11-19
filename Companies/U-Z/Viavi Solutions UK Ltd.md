@@ -18,6 +18,7 @@ tags:
   - test-evaluation
   - type-manufacturer
   - owned-foreign
+  - mbr-scrdsc
 ---
 
 # Viavi Solutions UK Ltd

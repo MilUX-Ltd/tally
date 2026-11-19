@@ -15,6 +15,7 @@ tags:
   - type-manufacturer
   - owned-foreign
   - through-life-support
+  - mbr-scrdsc
 ---
 
 # Vector Aerospace International Limited

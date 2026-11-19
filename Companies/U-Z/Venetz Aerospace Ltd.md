@@ -16,6 +16,7 @@ tags:
   - manufacturing
   - type-manufacturer
   - owned-uk
+  - mbr-scrdsc
 ---
 
 # Venetz Aerospace Ltd

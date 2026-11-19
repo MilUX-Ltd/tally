@@ -21,6 +21,7 @@ tags:
   - type-consultancy
   - type-sme
   - size-micro
+  - mbr-scrdsc
 ---
 
 # Integrate Systems Consulting Ltd

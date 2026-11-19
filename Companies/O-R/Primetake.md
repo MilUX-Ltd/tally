@@ -19,6 +19,7 @@ tags:
   - accr-iso9001
   - accr-iso14001
   - accr-ce-plus
+  - mbr-glrdsc
 ---
 
 # Primetake

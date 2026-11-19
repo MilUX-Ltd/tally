@@ -23,6 +23,7 @@ tags:
   - accr-iso9001
   - accr-iso14001
   - mbr-ads
+  - mbr-glrdsc
 ---
 
 # GMK Ltd

@@ -20,6 +20,7 @@ tags:
   - size-small
   - type-consultancy
   - mbr-ads
+  - mbr-glrdsc
 ---
 
 # Sirius Analysis Limited

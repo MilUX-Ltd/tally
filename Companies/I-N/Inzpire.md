@@ -23,6 +23,8 @@ tags:
   - type-sme
   - owned-uk
   - accr-iso9001
+  - mbr-scrdsc
+  - mbr-glrdsc
 ---
 
 # Inzpire

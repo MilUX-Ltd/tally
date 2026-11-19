@@ -27,6 +27,7 @@ tags:
   - type-integrator
   - owned-foreign
   - accr-iso27001
+  - mbr-scrdsc
 ---
 
 # OPSWAT Ltd

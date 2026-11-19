@@ -27,6 +27,7 @@ tags:
   - type-sme
   - owned-uk
   - mbr-smi
+  - mbr-scrdsc
 ---
 
 # Robosys Automation

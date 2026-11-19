@@ -25,6 +25,7 @@ tags:
   - owned-foreign
   - listed
   - mbr-ads
+  - mbr-glrdsc
 ---
 
 # Teledyne Defence & Space

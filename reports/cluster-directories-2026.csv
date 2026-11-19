@@ -1,0 +1,350 @@
+directory,listed,outcome,page,reason
+South Central RDSC,3T-am,new,Companies/0-9/3T Additive Manufacturing.md,UK company owned by Austrian SBO AG since October 2025; tagged owned-foreign and type-subsidiary.
+South Central RDSC,Analytium Ltd,new,Companies/A-B/Analytium.md,
+South Central RDSC,Andrasta Technologies,new,Companies/A-B/Andrasta Technologies.md,Companies House entity 17370889 matched on name; its registered office differs from the London address on the website.
+South Central RDSC,Antenna Dynamics Ltd,new,Companies/A-B/Antenna Dynamics.md,
+South Central RDSC,Apsley Precision Engineering Ltd,new,Companies/A-B/Apsley Precision Engineering.md,
+South Central RDSC,ASCO,matched,Companies/A-B/ASCO UK.md,
+South Central RDSC,AtkinsRéalis,matched,Companies/A-B/AtkinsRealis.md,
+South Central RDSC,Ayumi 5,new,Companies/A-B/Ayumi 5.md,No Companies House entity found (likely unincorporated); region-level location (Hampshire) as no town or postcode is published.
+South Central RDSC,Barnbrook Engineering Solutions Ltd,matched,Companies/A-B/Barnbrook.md,
+South Central RDSC,Bays Consulting,new,Companies/A-B/Bays Consulting.md,
+South Central RDSC,Evolve Dynamics,matched,Companies/E-H/Evolve Dynamics.md,
+South Central RDSC,Evrmind Limited,matched,Companies/E-H/Evrmind.md,
+South Central RDSC,Fareham Innovation Centre / Oxford Innovation Space,skipped,,"Innovation centre premises owned by Fareham Borough Council and managed by an operator, with no website given; a local authority venue and business-support facility rather than a supplier."
+South Central RDSC,Flowlens,new,Companies/E-H/Flowlens.md,
+South Central RDSC,Force Effect,new,Companies/E-H/Force Effect.md,"Registered office is a London formation address; located at the Sherfield English (Hampshire) HQ given on its contact page, town level."
+South Central RDSC,Force Technologies,new,Companies/E-H/Force Technologies.md,
+South Central RDSC,Frazer-Nash Consultancy,matched,Companies/E-H/Frazer-Nash Consultancy.md,
+South Central RDSC,Fresh Eyes Consulting,new,Companies/E-H/Fresh Eyes Consulting.md,Trading style of BMC Global Ltd (16545529); location from its registered office.
+South Central RDSC,G W Martin & Co Ltd,new,Companies/E-H/G W Martin.md,
+South Central RDSC,Ghaire Ltd,skipped,,"Could not be identified with confidence from public sources: no website, and the only matching register entry (12318352) was renamed from Ghaire Ltd to A2MMC Limited on 19 November 2026 with fuel wholesale SIC codes and no public description."
+South Central RDSC,HPI,new,Companies/E-H/HPI.md,French company HPI SAS with no UK entity found; written as an Overseas page (country: France).
+South Central RDSC,i2 Group,new,Companies/I-N/i2 Group.md,"Website names no UK legal entity (brand of Harris Computer), so no Companies House number given; placed at its Cambridge office."
+South Central RDSC,Igence Software,new,Companies/I-N/Igence Software.md,
+South Central RDSC,Incendia UK Ltd,new,Companies/I-N/Incendia.md,"Website is the Canadian company, so the page is written as Overseas (Canada); Incendia(UK) Ltd 16837387 exists on Companies House but no public link to the Canadian company was found, so it is mentioned only in Sources."
+South Central RDSC,iNetic Limited,new,Companies/I-N/iNetic.md,
+South Central RDSC,Ingencium Ltd,new,Companies/I-N/Ingencium.md,"Website shows no company number; matched to the only Ingencium Ltd on the register (17192508, management consultancy, 2026) and located at its London registered office."
+South Central RDSC,Inzpire Limited,matched,Companies/I-N/Inzpire.md,
+South Central RDSC,Itel,matched,Companies/I-N/ITEL Electronics.md,
+South Central RDSC,KDC Projects Limited,new,Companies/I-N/KDC Projects.md,Size set to medium from the company's statement of over 160 engineers.
+South Central RDSC,Kontron UK,matched,Companies/I-N/Kontron UK Ltd.md,
+South Central RDSC,Landau Marine,new,Companies/I-N/Landau Marine.md,Trading name of Landau UK Ltd (03662455).
+South Central RDSC,M Group Rail & Aviation,new,Companies/I-N/M Group.md,"Listing names a division; the website is the M Group site, so the page covers the group (M Group (Services) Limited, 10260164) with rail and aviation noted."
+South Central RDSC,Mace Consult,new,Companies/I-N/Mace Consult.md,"Page is for Mace Consult Limited (07094851), carved out of Mace Group in March 2026 and owner of the Mace brand and macegroup.com; macegroup.com blocked automated access, so facts come from Companies House, press releases and indexed site pages."
+South Central RDSC,Make UK Defence,skipped,,"Trade body, cluster or business network; Tally records membership of such bodies as a tag rather than listing the body as a company."
+South Central RDSC,Maritime Solent,skipped,,"Trade body, cluster or business network; Tally records membership of such bodies as a tag rather than listing the body as a company."
+South Central RDSC,Marlin Environmental Services,new,Companies/I-N/Marlin Environmental.md,
+South Central RDSC,Mott MacDonald,matched,Companies/I-N/Mott MacDonald Ltd.md,
+South Central RDSC,Nova Systems,matched,Companies/I-N/Nova Systems.md,
+South Central RDSC,Novatech Limited,matched,Companies/I-N/Novatech.md,
+South Central RDSC,Oaklands Consulting Ltd,skipped,,"Could not be identified with confidence from public sources: no website, and the only active register entry (16209265, Liss, management consultancy SIC) has no public description of its business."
+South Central RDSC,OM Defence Systems,new,Companies/O-R/OM Defence Systems.md,"UK entity taken as OMD Systems Limited (15059242, Havant), matched on name and the omdsystems.com domain; the wider business recruits in Ukraine, Poland and Germany, so size was left out."
+South Central RDSC,Opswat Ltd,matched,Companies/O-R/OPSWAT Ltd.md,
+South Central RDSC,ORANGE TREE PARTNERSHIP LTD,new,Companies/O-R/Orange Tree Partnership.md,
+South Central RDSC,Origin Safety Ltd,matched,Companies/O-R/Origin Safety.md,
+South Central RDSC,Oxford Innovation Advice,new,Companies/O-R/Oxford Innovation Advice.md,"Registered company is Oxford Innovation Services Limited (07860991), per the company number on its website; treated as an SME business support provider, not a business network."
+South Central RDSC,Pacer Technology Ltd,new,Companies/O-R/Pacer Technology.md,Matched to the only Pacer Technology Ltd on the register (16022338); town-level location used because the registered office appears to be a private address.
+South Central RDSC,Penta Precision,new,Companies/O-R/Penta Precision.md,
+South Central RDSC,People One Fifty Ltd,new,Companies/O-R/People One Fifty.md,
+South Central RDSC,Precision Products (Portsmouth) Ltd,new,Companies/O-R/Precision Products (Portsmouth).md,
+South Central RDSC,Prism Defence Ltd,matched,Companies/O-R/Prism Defence Ltd.md,
+South Central RDSC,Q Two Consulting,new,Companies/O-R/Q Two Consulting.md,
+South Central RDSC,Quercus Defence Limited,skipped,,"Could not be identified with confidence from public sources: no website, and the only trace is a Companies House entry (09400460) with no public description of the business."
+South Central RDSC,Righton and Blackburns Limited,matched,Companies/O-R/Righton Blackburns.md,
+South Central RDSC,Robosys Automation,matched,Companies/O-R/Robosys Automation.md,
+South Central RDSC,Rougemont Security,new,Companies/O-R/Rougemont Security.md,Companies House number omitted: the only same-name company (15008138) has SIC 80100 and the website does not confirm the link.
+South Central RDSC,Royal Air Force,matched,Companies/O-R/Royal Air Force.md,Listed with the RAF Benevolent Fund website; matched to the Royal Air Force page.
+South Central RDSC,SDO Associates,matched,Companies/S-T/SDO Associates.md,
+South Central RDSC,SeaBot Maritime,new,Companies/S-T/SeaBot Maritime.md,
+South Central RDSC,Seacht Group,new,Companies/S-T/Seacht Group.md,Page is for the group holding company Seacht Holdings Limited (12502699); its subsidiary Saith has a separate page.
+South Central RDSC,SensiPhi,new,Companies/S-T/SensiPhi.md,
+South Central RDSC,Soundbite Media,new,Companies/S-T/Soundbite Media.md,No Companies House entity found; town-level location (Basingstoke) taken from its Enterprise Nation business profile.
+South Central RDSC,Southampton Solent University,new,Companies/S-T/Solent University.md,"Page uses the current name, Solent University."
+South Central RDSC,Southcode Engineering Ltd,matched,Companies/S-T/Southcode Engineering.md,
+South Central RDSC,Space Solar,new,Companies/S-T/Space Solar.md,"Companies House number is Space Solar Group Holdings Ltd (14542128), the entity named on the website."
+South Central RDSC,StandardAero,matched,Companies/U-Z/Vector Aerospace International Limited.md,Listed website is StandardAero; matched to its UK operating entity page.
+South Central RDSC,Sterling Thermal Technology Ltd,new,Companies/S-T/Sterling Thermal Technology.md,Placed at Aylesbury head office from its website; Companies House registered office is a Worcester group address.
+South Central RDSC,STI Ltd,matched,Companies/S-T/Surface Technology International Limited.md,Matched by website to Surface Technology International.
+South Central RDSC,STS Defence,matched,Companies/S-T/STS Defence.md,
+South Central RDSC,The Thrive Team,new,Companies/S-T/The Thrive Team.md,
+South Central RDSC,Think Sigma,new,Companies/S-T/Think Sigma.md,Located at town level (Andover) because the registered office appears to be a residential address.
+South Central RDSC,BEA Cars Ltd,new,Companies/A-B/BEA Cars.md,
+South Central RDSC,BEC Group,new,Companies/A-B/BEC Group.md,"Website footer gives company 04637135 (B.E.C Global Limited, New Milton); the dissolved BEC Group Limited entities in Smethwick are unrelated."
+South Central RDSC,Blakcro,new,Companies/A-B/Blakcro.md,
+South Central RDSC,Blake Morgan,new,Companies/A-B/Blake Morgan.md,
+South Central RDSC,Bonwyke Ltd,new,Companies/A-B/Bonwyke.md,"Website postcode is misprinted (PO16 OSU), so the Companies House registered office PO16 0SU at the same estate was used."
+South Central RDSC,Bournemouth and Poole College,new,Companies/A-B/Bournemouth and Poole College.md,
+South Central RDSC,Broadfield Law,new,Companies/A-B/Broadfield.md,"Listed site redirects to broadfieldlaw.com; UK entity Broadfield Law UK LLP, placed at its London office."
+South Central RDSC,Cannon Technologies Ltd,new,Companies/C-D/Cannon Technologies.md,
+South Central RDSC,Carter Manufacturing,new,Companies/C-D/Carter Manufacturing.md,
+South Central RDSC,Centerprise International,new,Companies/C-D/Centerprise International.md,
+South Central RDSC,Chief Disruptor Defence,skipped,,"Chief Disruptor describes itself as a membership community for business and technology leaders running conferences and networking events, so it is a business network rather than a supplier."
+South Central RDSC,CHLLNGR Ltd,skipped,,"Could not be identified with confidence from public sources: the website is a 'launching soon' holding page with no description and the Companies House entry (16522821, incorporated 2025) gives only a generic SIC code."
+South Central RDSC,Commercial Intuition,new,Companies/C-D/Commercial Intuition.md,Companies House number 13357594 attributed as the only active company of that name; the website does not print a company number.
+South Central RDSC,Content Vault Limited,matched,Companies/C-D/Content Vault.md,
+South Central RDSC,Copello Global,new,Companies/C-D/Copello.md,
+South Central RDSC,Copper Turtle Ltd,matched,Companies/C-D/Copper Turtle.md,
+South Central RDSC,"CORNERSTONE, University of Southampton",new,Companies/C-D/CORNERSTONE (University of Southampton).md,"University foundry facility with no separate legal entity; page is for the facility, typed academia."
+South Central RDSC,Cre8tive Space Ltd,new,Companies/C-D/Cre8tive Space.md,
+South Central RDSC,Critical Outcomes Ltd,new,Companies/C-D/Critical Outcomes.md,
+South Central RDSC,CTS Logistics,matched,Companies/C-D/CTS Logistics.md,
+South Central RDSC,D7 Advisers Ltd,new,Companies/C-D/D7 Advisers.md,"Small one-adviser consultancy, but a trading limited company with its own website, so kept."
+South Central RDSC,DataGardener Solutions Limited,new,Companies/C-D/DataGardener.md,
+South Central RDSC,Dorset Innovation Park Ltd,skipped,,"Council-owned enterprise zone and business park company registered at Dorset Council's County Hall, so a local authority economic development body rather than a supplier."
+South Central RDSC,Dream Marketing Intl. Ltd.,new,Companies/C-D/Dream Marketing International.md,
+South Central RDSC,Drumgrange Ltd.,matched,Companies/C-D/Drumgrange.md,
+South Central RDSC,Duodrive,new,Companies/C-D/Duodrive.md,Placed at the Tunbridge Wells address on its website; registered office is in Hartlepool.
+South Central RDSC,Engage Technical Solutions Ltd,matched,Companies/E-H/Engage Technical Solutions.md,
+South Central RDSC,Engeneum Limited,new,Companies/E-H/Engeneum.md,
+South Central RDSC,Erinacus Consulting Limited,new,Companies/E-H/Erinacus Consulting.md,Located at town level (Ropley) because the registered office appears to be a residential address.
+South Central RDSC,European Springs and Pressings Ltd,new,Companies/E-H/European Springs and Pressings.md,UK subsidiary of the Lesjöfors group; page is for the UK entity.
+South Central RDSC,Time on Target Limited,new,Companies/S-T/Time on Target.md,Located at town level (Bulford) because the only address is a Companies House registered office that appears residential.
+South Central RDSC,UK Defence Solutions Centre,skipped,,"Trade body, cluster or business network; Tally records membership of such bodies as a tag rather than listing the body as a company."
+South Central RDSC,UK Docks Marine Services Ltd,new,Companies/U-Z/UK Docks Marine Services.md,"The website footer gives 01297874, which is UK Docks Marine Services North Limited; that entity is used."
+South Central RDSC,University of Chichester,new,Companies/U-Z/University of Chichester.md,
+South Central RDSC,University of Portsmouth,new,Companies/U-Z/University of Portsmouth.md,
+South Central RDSC,University of Southampton,new,Companies/U-Z/University of Southampton.md,
+South Central RDSC,VORTX Group LTD,new,Companies/U-Z/VORTX Group.md,
+South Central RDSC,Xperate Limited,new,Companies/U-Z/Xperate.md,
+South Central RDSC,"Arbuthnot Latham & Co., Ltd",new,Companies/A-B/Arbuthnot Latham.md,Bank subsidiary of Arbuthnot Banking Group PLC; placed at London head office.
+South Central RDSC,Cunning Running Software Ltd,matched,Companies/C-D/Cunning Running Software.md,
+South Central RDSC,Defence Science and Technology Laboratory (Dstl),skipped,,Government body; Tally lists no government departments or agencies.
+South Central RDSC,Eagle Ray Robotics,matched,Companies/E-H/Eagle Ray Robotics.md,
+South Central RDSC,GemaSecure Ltd,new,Companies/E-H/GemaSecure.md,
+South Central RDSC,Hamble Aerostructures Ltd,matched,Companies/E-H/Hamble Aerostructures Ltd.md,
+South Central RDSC,Longitude Engineering,new,Companies/I-N/Longitude.md,"Longitude is part of ABL Group; page uses its UK company Longitude Consulting Engineers Limited (06278389), not the unrelated Longitude Engineering Limited (03721181) in Birmingham."
+South Central RDSC,Noyce Insurance Solutions,new,Companies/I-N/Noyce Insurance Solutions.md,
+South Central RDSC,Ordnance Survey,new,Companies/O-R/Ordnance Survey.md,"Government-owned public corporation trading as a limited company that sells data products, treated as a supplier rather than a government agency; flag if policy is to skip."
+South Central RDSC,PDL Marine Limited,matched,Companies/O-R/PDL Marine.md,
+South Central RDSC,Pelican Insured,new,Companies/O-R/Pelican Insured.md,
+South Central RDSC,Rockstone Data Ltd,new,Companies/O-R/Rockstone Data.md,
+South Central RDSC,Seiche Ltd,new,Companies/S-T/Seiche.md,
+South Central RDSC,Smart Quality Services,new,Companies/S-T/Smart Quality Services.md,mbr-makeuk tag from Make UK logo in the site's member and partner list.
+South Central RDSC,Solent Freeport,skipped,,"A freeport partnership of councils, the port operator and businesses that promotes trade and investment and gives grants, not a supplier of products or services."
+South Central RDSC,TKMS ATLAS UK,matched,Companies/S-T/TKMS ATLAS UK Limited.md,
+South Central RDSC,Viavi Solutions UK Limited,matched,Companies/U-Z/Viavi Solutions UK Ltd.md,
+South Central RDSC,Alacritas Innovations,new,Companies/A-B/Alacritas Innovations.md,
+South Central RDSC,BiD Masters,new,Companies/A-B/BiD Masters.md,
+South Central RDSC,Draconite,new,Companies/C-D/Draconite.md,"Draconite is the product brand of Fuller Three Limited (SC737377), named on the website; located at its Edinburgh registered office."
+South Central RDSC,EfficiencyIT Ltd,new,Companies/E-H/EfficiencyIT.md,
+South Central RDSC,Electus Recruitment Solutions,new,Companies/E-H/Electus Recruitment Solutions.md,
+South Central RDSC,Engineering and Data Limited,new,Companies/E-H/ENGNDATA.md,Filed under trading name ENGNDATA.
+South Central RDSC,E3 Media Ltd t/a Great State,matched,Companies/E-H/Great State.md,
+South Central RDSC,Ex-Eltronics (UK) Ltd,new,Companies/E-H/Ex-Eltronics UK.md,Page is for the UK subsidiary of the US Ex-El Group.
+South Central RDSC,Experis ETS,new,Companies/E-H/Experis UK.md,"Experis is a ManpowerGroup brand with its own entity (Experis Limited, 02114287), so it gets its own page rather than matching the existing Manpower UK Limited page."
+South Central RDSC,Geoptic,new,Companies/E-H/Geoptic.md,
+South Central RDSC,Growth Lending,new,Companies/E-H/Growth Lending.md,
+South Central RDSC,Havant Sheet Metal,new,Companies/E-H/Havant Sheet Metal.md,
+South Central RDSC,Iken Associates,new,Companies/I-N/Iken Associates.md,
+South Central RDSC,Innovate UK Business Connect,skipped,,"Publicly funded innovation network run by Innovate UK, a government body; Tally lists no government bodies."
+South Central RDSC,"Installation, Maintenance And Controls (IMAC)",new,Companies/I-N/IMAC.md,
+South Central RDSC,KHIPU Networks,matched,Companies/I-N/KHIPU Networks.md,Listed without a website; matched by name.
+South Central RDSC,Kraken Technology Group,matched,Companies/I-N/Kraken Technology Group.md,
+South Central RDSC,MarineGuard Systems Ltd,new,Companies/I-N/MarineGuard.md,
+South Central RDSC,MN Consultants,new,Companies/I-N/MN Consultants.md,"Website gives Companies House number 16666226, whose registered name is a personal name, so the entity name is not written on the page."
+South Central RDSC,Nine23 Ltd,new,Companies/I-N/Nine23.md,Tagged owned-group: the company states it became part of Austability Group Ltd in 2026.
+South Central RDSC,QinetiQ Ltd,matched,Companies/O-R/QinetiQ.md,
+South Central RDSC,RED Scientific Reply Ltd,matched,Companies/O-R/RED Scientific Reply.md,"Matched to the RED Scientific Reply page, not the Reply group page."
+South Central RDSC,RSL Project Solutions Ltd,matched,Companies/O-R/RSL Project Solutions Ltd.md,
+South Central RDSC,Rushmoor Borough Council,skipped,,Local authority; Tally lists no local government bodies.
+South Central RDSC,Scientific Management International Ltd,new,Companies/S-T/SMI.md,
+South Central RDSC,Shenton Global Ltd,new,Companies/S-T/Shenton Group.md,"Page uses the trading brand Shenton Group; companies-house set to Shenton Global Limited (10427830), the entity named on its accreditations, not the 2025 holding company."
+South Central RDSC,Sherborne Sensors,new,Companies/S-T/Sherborne Sensors.md,
+South Central RDSC,TICQ Ltd,matched,Companies/S-T/TICQ.md,
+South Central RDSC,University of Surrey,new,Companies/U-Z/University of Surrey.md,
+South Central RDSC,Venetz Aerospace,matched,Companies/U-Z/Venetz Aerospace Ltd.md,
+South Central RDSC,Wardyn Technologies,new,Companies/U-Z/Wardyn Technologies.md,
+South Central RDSC,White Oak Consultants,skipped,,Could not be identified with confidence from public sources: no website was given and no public description links the listing to the White Oak Consultants Limited on the register.
+South Central RDSC,Highscope Media Limited,new,Companies/E-H/Highscope Media.md,"Located at town level (Southampton, as the website states) rather than the registered office, which appears residential."
+South Central RDSC,Lincad Ltd,matched,Companies/I-N/Lincad Ltd.md,
+South Central RDSC,In Trade Compliance Ltd,skipped,,"Could not be identified with confidence from public sources: the website intradecompliance.com does not respond (TLS error), and apart from a Companies House entry (16060862, Salisbury) there is no public description of the business."
+South Central RDSC,James Cowper Kreston,new,Companies/I-N/James Cowper Kreston.md,
+South Central RDSC,Seamach Energy,new,Companies/S-T/Seamach Energy.md,Linked to Seamach Ltd (07225421) through the site's copyright notice; registered office used for location.
+South Central RDSC,SVGC Ltd,matched,Companies/S-T/SVGC Limited.md,
+South Central RDSC,Latitude Recruitment,new,Companies/I-N/Latitude Recruitment.md,
+South Central RDSC,GTR Composites Group,new,Companies/E-H/GTR Composites Group.md,"Trading identity of Global Technologies Racing Limited (04633827), the entity its website names."
+South Central RDSC,ITDev,new,Companies/I-N/ITDev.md,Registered as I.T. Dev Limited (04693711).
+South Central RDSC,Machina Engineering Ltd,matched,Companies/I-N/Machina Engineering Ltd.md,
+South Central RDSC,Martins Rubber Company,matched,Companies/I-N/Martin's Rubber Company.md,
+South Central RDSC,Feed4ward Control Ltd,new,Companies/E-H/Feed4ward.md,
+South Central RDSC,Magload Ltd,new,Companies/I-N/Magload.md,
+South Central RDSC,Fortis DPC Limited,new,Companies/E-H/Fortis DPC.md,
+South Central RDSC,Dorset Innovation Park,skipped,,"Same entity as Dorset Innovation Park Ltd, a council-owned enterprise zone and business park rather than a supplier."
+South Central RDSC,SMI Interconnect,new,Companies/S-T/SMI Interconnect.md,"Brand of the SMI group (Scientific Management International Limited, Andover); legal entity not stated on the site, so no Companies House number and a town-level location."
+South Central RDSC,Imperial College London,new,Companies/I-N/Imperial College London.md,
+South Central RDSC,Dstl,skipped,,Government body; Tally lists no government departments or agencies.
+South Central RDSC,Saith Limited,new,Companies/S-T/Saith.md,"Listing had no website; identified as Saith Limited (03868394, Ringwood) via the Seacht Group site, which links saithlimited.com as a group company."
+South Central RDSC,Messenger BCR Group,new,Companies/I-N/Messenger BCR.md,Page uses the group company Messenger BCR Group Limited (08203415).
+South Central RDSC,Proteum,new,Companies/O-R/Proteum.md,SC Group subsidiary (Proteum Limited); placed at its Southampton operating address rather than the group registered office in Devon.
+South Central RDSC,EnableWorks Services Ltd,new,Companies/E-H/EnableWorks.md,"Very small founder-led consultancy incorporated in 2026, but it has its own company and website, so treated as a business; located at town level, not at the registered address, which may be residential."
+South Central RDSC,Farnborough Aerospace Consortium (FAC),skipped,,"Trade body, cluster or business network; Tally records membership of such bodies as a tag rather than listing the body as a company."
+South Central RDSC,Expromet Technologies Group Ltd,matched,Companies/E-H/Expromet Technologies Group.md,
+South Central RDSC,myprintpod,new,Companies/I-N/myprintpod.md,Trading name of Augmented Solutions Limited (10946820).
+South Central RDSC,Womble Bond Dickinson,new,Companies/U-Z/Womble Bond Dickinson.md,"Listed URL is a WBD defence report; page written for the UK member firm Womble Bond Dickinson (UK) LLP, placed at its Southampton office."
+South Central RDSC,Casper Defence Limited,new,Companies/C-D/Casper Defence.md,Listed URL was the Casper Shipping division page; page uses the Casper Defence division site and the Casper Defence Limited register entry (04499784).
+South Central RDSC,Gurit UK,new,Companies/E-H/Gurit UK.md,"UK subsidiary Gurit (UK) Limited (01368806, Isle of Wight) of the Swiss Gurit group; website is the group site."
+South Central RDSC,Mercator Media Ltd,new,Companies/I-N/Mercator Media.md,"Listing website was seawork.com, an event Mercator Media organises; page uses mercatormedia.com."
+South Central RDSC,PME Power Systems Group Ltd,new,Companies/O-R/PME Group.md,
+South Central RDSC,Qualitetch Components Ltd,new,Companies/O-R/Qualitetch.md,
+South Central RDSC,GMD UK,new,Companies/E-H/GM Defense UK.md,"Listing website is the US parent GM Defense LLC; page written for the UK subsidiary GM Defense UK Ltd (16963340), tagged owned-foreign."
+South Central RDSC,Walker Morris LLP,new,Companies/U-Z/Walker Morris.md,
+South Central RDSC,The High Assurance Security Centre,skipped,,"A community interest company registered as a professional membership organisation (SIC 94120) that runs a members' platform and community, so it is a membership body rather than a supplier."
+South Central RDSC,J M Morris Plant Hire Ltd,new,Companies/I-N/J M Morris Plant Hire.md,
+South Central RDSC,MonsterCAM Composite Systems Ltd,matched,Companies/I-N/MonsterCAM Composite Systems Ltd.md,
+South Central RDSC,Evoke Management Limited,new,Companies/E-H/Evoke Management.md,
+South Central RDSC,Endpoint Engineering,skipped,,"Could not be identified with confidence: endpoint.co.uk redirects to Endpoint, a London wayfinding and signage design firm, which does not match the listed name, and Endpoint Engineering Ltd on the register (Worcester) has no link to that website."
+South Central RDSC,Field Gun Sport Ltd,new,Companies/E-H/Field Gun Sport.md,"Included as an operating company selling team building, planning and event services; Companies House shows its accounts and confirmation statement overdue, so it may warrant review."
+South Central RDSC,Integrate Systems Consulting Ltd,matched,Companies/I-N/Integrate Systems Consulting Ltd.md,
+South Central RDSC,Repro Engineering Limited,new,Companies/O-R/Repro Engineering.md,
+South Central RDSC,Business South,skipped,,"Trade body, cluster or business network; Tally records membership of such bodies as a tag rather than listing the body as a company."
+South Central RDSC,SC Architecture Ltd,new,Companies/S-T/SC Architecture.md,
+South Central RDSC,Proofpoint,new,Companies/O-R/Proofpoint.md,US group; page placed at the Reading UK office with UK entity Proofpoint Limited (05087111).
+South Central RDSC,Bache Pallets Ltd,new,Companies/A-B/Bache Pallets.md,"Website is the Bache Group site; page is for Bache Pallets Limited (01351410), with the group's other businesses mentioned."
+South Central RDSC,SM Group (Europe),new,Companies/S-T/SM Group (Europe).md,Website blocked automated access; facts come from Companies House and the company's Seawork exhibitor profile.
+South Central RDSC,Insphere Ltd,new,Companies/I-N/Insphere.md,
+South Central RDSC,My Sales Agent,new,Companies/I-N/My Sales Agent.md,
+South Central RDSC,Inclusient Ltd,new,Companies/I-N/Inclusient.md,
+South Central RDSC,Blind Veterans UK,skipped,,"Registered charity (216227, SC039411) supporting vision-impaired veterans, not a supplier of products or services."
+South Central RDSC,PHINIA,new,Companies/O-R/PHINIA.md,"Group page for NYSE-listed PHINIA Inc. (US), located at the registered office of its UK operating company PHINIA Delphi UK Ltd (03870587) in Stonehouse."
+South Central RDSC,FN UK & Accuracy International,matched,Companies/E-H/FN UK.md,"Joint listing; matched to the FN UK page. Accuracy International, named in the same listing, is not added separately."
+South Central RDSC,Siemens,matched,Companies/S-T/Siemens PLC.md,Listed without a website; matched to the UK company page.
+South Central RDSC,Koyda Ltd,new,Companies/I-N/Koyda.md,
+South Central RDSC,Advanced Integrated Technologies Limited,matched,Companies/A-B/Advanced Integrated Technologies.md,
+South Central RDSC,Intelligent Energy,matched,Companies/I-N/Intelligent Energy Ltd.md,
+South Central RDSC,Maven Capital Partners,new,Companies/I-N/Maven Capital Partners.md,"UK LLP owned by Mattioli Woods; placed at its Reading office, registered office in Leicester."
+South Central RDSC,Vivace,skipped,,"A supplier framework run by QinetiQ, not a separate company."
+South Central RDSC,SARVANSH GLOBALLINK SERVICES LIMITED,new,Companies/S-T/Sarvansh GlobalLink Services.md,
+South Central RDSC,Arup,new,Companies/A-B/Arup.md,"Group page anchored on the UK operating company Ove Arup & Partners Limited (01312453), London head office."
+South Central RDSC,SMC Group (South Midlands Communications Ltd),matched,Companies/S-T/SMC Group (South Midlands Communications Ltd).md,
+South Central RDSC,Analog Devices,new,Companies/A-B/Analog Devices.md,"US group; page uses UK entity Analog Devices Limited (00895439) at its Hayes UK headquarters. analog.com could not be fetched directly, so its aerospace and defence description is from indexed analog.com pages."
+South Central RDSC,EY,new,Companies/E-H/EY.md,"Page is for the UK member firm Ernst & Young LLP (OC300001), placed at its London office."
+South Central RDSC,Mars Space Ltd,new,Companies/I-N/Mars Space.md,
+South Central RDSC,Absolute Marine Ltd,new,Companies/A-B/Absolute Marine.md,
+South Central RDSC,Inexorable Ltd.,new,Companies/I-N/Inexorable.md,"Website gives no company number; matched to Inexorable Ltd 16363987 (2025, software and R&D SIC codes), the only active entity of that name."
+South Central RDSC,Hampshire County Council,skipped,,Local authority; Tally lists no local government bodies.
+South Central RDSC,Delta XD,matched,Companies/C-D/Delta XD.md,
+South Central RDSC,JDR Products Ltd,new,Companies/I-N/JDR Products.md,"The live site shows a bot check, so facts come from the Internet Archive copy of its own site dated 13 August 2026; Nuneaton address matches Companies House 01481617."
+South Central RDSC,Aquarius Test Engineering Ltd,new,Companies/A-B/Aquarius Test Engineering.md,
+South Central RDSC,Glenside Commercial Interior Projects Ltd,new,Companies/E-H/Glenside.md,
+South Central RDSC,Fairhurst Group LLP,new,Companies/E-H/Fairhurst.md,Placed at the Glasgow office (LLP registered office); size omitted as not confirmed.
+South Central RDSC,Hythe Engineering Ltd,new,Companies/E-H/Hythe Engineering.md,
+Greater Lincolnshire RDSC,BAE Systems,matched,Companies/A-B/BAE Systems.md,
+Greater Lincolnshire RDSC,Leonardo,matched,Companies/I-N/Leonardo.md,
+Greater Lincolnshire RDSC,Lincoln College,new,Companies/I-N/Lincoln College.md,
+Greater Lincolnshire RDSC,MAIAR Limited,matched,Companies/I-N/MAIAR.md,
+Greater Lincolnshire RDSC,Metis Aerospace,matched,Companies/I-N/Metis Aerospace.md,
+Greater Lincolnshire RDSC,Metrea Mission Data,matched,Companies/I-N/Metrea Mission Data.md,"Matched to the UK Metrea Mission Data page, not the US Metrea Aerospace page."
+Greater Lincolnshire RDSC,Qinetiq,matched,Companies/O-R/QinetiQ.md,
+Greater Lincolnshire RDSC,Royal Air Force,matched,Companies/O-R/Royal Air Force.md,
+Greater Lincolnshire RDSC,Tekh Ltd,matched,Companies/S-T/Tekh Ltd.md,
+Greater Lincolnshire RDSC,TMS Support Solutions Ltd,matched,Companies/S-T/TMS Support Solutions Ltd.md,
+Greater Lincolnshire RDSC,University of Lincoln,new,Companies/U-Z/University of Lincoln.md,
+Greater Lincolnshire RDSC,Advanced Integrated Technologies Limited,matched,Companies/A-B/Advanced Integrated Technologies.md,
+Greater Lincolnshire RDSC,Affinity Flight Training Services Ltd,new,Companies/A-B/Affinity Flying Training Services.md,Registered name is Affinity Flying Training Services Limited.
+Greater Lincolnshire RDSC,Agincourt,new,Companies/A-B/Agincourt.md,
+Greater Lincolnshire RDSC,Air & Space Institute,new,Companies/A-B/Air & Space Institute.md,Part of the Lincoln College Group; typed academia.
+Greater Lincolnshire RDSC,Alan Wood & Partners,new,Companies/A-B/Alan Wood & Partners.md,Placed at its Lincoln office (head office Hull); no companies-house field because the registered Alan Wood & Partners Limited is non-trading.
+Greater Lincolnshire RDSC,Alaris Linwave,matched,Companies/I-N/Linwave Technology Ltd.md,Matched to the Linwave Technology page (now trading as Alaris Linwave).
+Greater Lincolnshire RDSC,APK Industries Ltd,new,Companies/A-B/APK Industries.md,
+Greater Lincolnshire RDSC,Ascent Flight Training Ltd,new,Companies/A-B/Ascent Flight Training.md,"Ascent is a group of companies; page uses Ascent Flight Training (Management) Limited (06522636), named at the Bristol head office, and is located at the RAF Cranwell site."
+Greater Lincolnshire RDSC,Aspire Management Consultancy Ltd,new,Companies/A-B/Aspire Management Consultancy.md,
+Greater Lincolnshire RDSC,Autrix,new,Companies/A-B/Autrix.md,
+Greater Lincolnshire RDSC,Awaking Giants Ltd,skipped,,"Could not be identified with confidence from public sources: the website is a coming-soon placeholder with no description, so there is nothing to describe what the company (Awaking Giants Ltd 12115673) does."
+Greater Lincolnshire RDSC,Bacon Engineering Ltd,new,Companies/A-B/Bacon Engineering Group.md,"Registered entity is E.Bacon & Co Limited (00178235) trading as Bacon Engineering Group, as its website states."
+Greater Lincolnshire RDSC,Beretta Defence Technologies BDT,matched,Companies/E-H/GMK.md,BDT is an alliance of Beretta Holding companies rather than a separate UK entity; GMK Ltd is publicly described as BDT's UK representative (BDT UK) and its page already carries mbr-glrdsc.
+Greater Lincolnshire RDSC,Bernard Holmes Precision,new,Companies/A-B/Bernard Holmes Precision.md,
+Greater Lincolnshire RDSC,Bluecube,new,Companies/A-B/Bluecube.md,Not the same as the BlueCube sensing product on the Barnbrook page.
+Greater Lincolnshire RDSC,Boeing Defence UK,matched,Companies/A-B/Boeing Defence UK.md,
+Greater Lincolnshire RDSC,Bosch Rexroth Ltd,new,Companies/A-B/Bosch Rexroth UK.md,"UK subsidiary Bosch Rexroth Limited (00768471), located at its Companies House registered office in St Neots."
+Greater Lincolnshire RDSC,BWB Consulting,new,Companies/A-B/BWB Consulting.md,
+Greater Lincolnshire RDSC,Capytech,new,Companies/C-D/Capytech.md,Located at Cambridge (stated base) rather than its London registered-office address.
+Greater Lincolnshire RDSC,CATCH (HCF Catch Limited),skipped,,"HCF Catch Limited (03837010) is a company limited by guarantee registered as a business and employers membership organisation (SIC 94110), so treated as a membership body; it also runs a commercial training centre."
+Greater Lincolnshire RDSC,CGI,matched,Companies/C-D/CGI.md,
+Greater Lincolnshire RDSC,Cobalt Human Solutions Ltd,new,Companies/C-D/Cobalt Human Solutions.md,Companies House entity 12983928 (Lincoln) matched on name and region; the website gives no address.
+Greater Lincolnshire RDSC,Control Freaks Ltd,new,Companies/C-D/Control Freaks.md,
+Greater Lincolnshire RDSC,Core Architects,new,Companies/C-D/Core Architects.md,"Registered company is Core Plus Architects Limited (07016284), matched by the practice's Lincoln address."
+Greater Lincolnshire RDSC,Cre8tive Space,new,Companies/C-D/Cre8tive Space.md,
+Greater Lincolnshire RDSC,Cubet Ltd,new,Companies/C-D/Cubet.md,Town-level location (Gainsborough) used because the published registered office appears to be a private address. Note: mbr-glrdsc is required by the brief but is not in vocab.txt; used as instructed on all five Greater Lincolnshire pages.
+Greater Lincolnshire RDSC,DEA Aviation Ltd,matched,Companies/C-D/DEA Aviation.md,
+Greater Lincolnshire RDSC,Defence Science and Technology Laboratory,skipped,,Government body; Tally lists no government departments or agencies.
+Greater Lincolnshire RDSC,Demux Video Services Ltd,new,Companies/C-D/DEMUX.md,
+Greater Lincolnshire RDSC,Eagle Eye Innovations,matched,Companies/E-H/Eagle Eye Innovations.md,
+Greater Lincolnshire RDSC,EPA Manufacturing,new,Companies/E-H/EPA Manufacturing.md,
+Greater Lincolnshire RDSC,Equilibrium Risk,matched,Companies/E-H/Equilibrium Risk.md,
+Greater Lincolnshire RDSC,EW Solutions Ltd,matched,Companies/E-H/EW Solutions.md,
+Greater Lincolnshire RDSC,EY,new,Companies/E-H/EY.md,Same page as the South Central RDSC listing; both memberships tagged.
+Greater Lincolnshire RDSC,Faldingworth Defence Ltd,new,Companies/E-H/Faldingworth Defence.md,
+Greater Lincolnshire RDSC,Fenner Precision Polymers,matched,Companies/E-H/Fenner Precision Polymers.md,
+Greater Lincolnshire RDSC,Fenrir Solutions,matched,Companies/E-H/Fenrir Solutions.md,
+Greater Lincolnshire RDSC,Frazer-Nash Consultancy Ltd,matched,Companies/E-H/Frazer-Nash Consultancy.md,
+Greater Lincolnshire RDSC,FundingRound,new,Companies/E-H/FundingRound.md,
+Greater Lincolnshire RDSC,Gelder Group,new,Companies/E-H/Gelder Group.md,
+Greater Lincolnshire RDSC,GeoPura,new,Companies/E-H/GeoPura.md,"No trading address published; located by its registered office, which is care of accountants."
+Greater Lincolnshire RDSC,GMK Limited,matched,Companies/E-H/GMK.md,
+Greater Lincolnshire RDSC,Guardian Risk Ltd,new,Companies/E-H/Guardian Risk.md,Matched to Guardian Risk Ltd 16901732 (Lincoln) by name and location; the website gives no company number.
+Greater Lincolnshire RDSC,Hardfork Ltd,new,Companies/E-H/Highforce Advisory.md,"hard-fork.co.uk redirects to highforceadvisory.com; Hardfork Ltd (14710873) was renamed Highforce Advisory Limited in March 2026, so the page uses the current name."
+Greater Lincolnshire RDSC,HETA,new,Companies/E-H/HETA.md,"A charity Group Training Association, kept because it supplies engineering training to employers."
+Greater Lincolnshire RDSC,HiPer Business Solutions,new,Companies/E-H/HiPer Business Solutions.md,"Registered office appears residential, so placed at town level (Newark-on-Trent)."
+Greater Lincolnshire RDSC,HiTek Electronic Materials Ltd,new,Companies/E-H/HITEK Electronic Materials.md,
+Greater Lincolnshire RDSC,Holscot Advanced Polymers Limited,new,Companies/E-H/Holscot Advanced Polymers.md,
+Greater Lincolnshire RDSC,Iconic Engineering Solutions,new,Companies/I-N/Iconic Engineering Solutions.md,
+Greater Lincolnshire RDSC,Ingleton Wood LLP,new,Companies/I-N/Ingleton Wood.md,Located at its Nottingham office (nearest to the cluster) rather than the London registered office.
+Greater Lincolnshire RDSC,Inzpire,matched,Companies/I-N/Inzpire.md,
+Greater Lincolnshire RDSC,IS3 Ltd,new,Companies/I-N/iS3.md,"Located at town level (Lincoln, stated on its site) because the registered office is a London formation address."
+Greater Lincolnshire RDSC,JD2E Ltd,matched,Companies/I-N/JD2E Ltd.md,
+Greater Lincolnshire RDSC,Jolly Good Web,new,Companies/I-N/Jolly Good Web.md,"No website in the listing; identified as jollygoodweb.com, which matches Jolly Good Web Ltd (12899639) in Lincoln and states its Greater Lincolnshire cluster membership."
+Greater Lincolnshire RDSC,Kahootz,matched,Companies/I-N/Kahootz Ltd.md,
+Greater Lincolnshire RDSC,KK Secure,new,Companies/I-N/KK-Secure.md,Companies House entity 10296974 is now named CyberShadows Limited (formerly KK Secure Limited); matched on name history and 2016 founding.
+Greater Lincolnshire RDSC,Lincoln Science Innovation Park,new,Companies/I-N/Lincoln Science and Innovation Park.md,"Treated as an operating business (science park property and services company), not a network."
+Greater Lincolnshire RDSC,Lincolnshire Chamber of Commerce,skipped,,"Trade body, cluster or business network; Tally records membership of such bodies as a tag rather than listing the body as a company."
+Greater Lincolnshire RDSC,Lindum Group Ltd,new,Companies/I-N/Lindum Group.md,
+Greater Lincolnshire RDSC,Lone Star Analysis,matched,Companies/I-N/Lone Star Analysis Ltd.md,
+Greater Lincolnshire RDSC,Maber Architects,new,Companies/I-N/Maber.md,"Registered entity taken as Maber Associates Limited (02007082), registered at Maber's Nottingham head office address."
+Greater Lincolnshire RDSC,MASS,new,Companies/I-N/MASS.md,Subsidiary of Cohort plc with its own page; the Cohort group page only mentions it. Located at its Lincoln office; head office is in St Neots.
+Greater Lincolnshire RDSC,Mercia Ventures,new,Companies/I-N/Mercia Ventures.md,"Mercia Ventures is a trading name of funds managed by Mercia Asset Management PLC subsidiaries; no single companies-house value set, located at the group registered office."
+Greater Lincolnshire RDSC,Mercury,new,Companies/I-N/Mercury EW.md,"Mercury EW Ltd (Mercury Electronic Warfare Limited, 06888455), not the same company as the existing Mercury Computer Systems page."
+Greater Lincolnshire RDSC,Messenger BCR Group,new,Companies/I-N/Messenger BCR.md,Same page as the South Central listing; both membership tags applied.
+Greater Lincolnshire RDSC,Micrometric Ltd,new,Companies/I-N/Micrometric.md,
+Greater Lincolnshire RDSC,Morson Praxis,matched,Companies/I-N/Morson Praxis.md,
+Greater Lincolnshire RDSC,Musketeer Solutions Ltd,matched,Companies/I-N/Musketeer Solutions Ltd.md,
+Greater Lincolnshire RDSC,Natwest Bank,new,Companies/I-N/NatWest.md,"Page written for National Westminster Bank plc (00929027), the entity named on natwest.com, not NatWest Group plc."
+Greater Lincolnshire RDSC,Netria.ai,new,Companies/I-N/Netria.md,
+Greater Lincolnshire RDSC,North Kesteven District Council,skipped,,Local authority; Tally lists no local government bodies.
+Greater Lincolnshire RDSC,Nortrak Ltd,new,Companies/I-N/Nortrak.md,
+Greater Lincolnshire RDSC,Novatech,matched,Companies/I-N/Novatech.md,
+Greater Lincolnshire RDSC,PA Consulting,matched,Companies/O-R/PA Consulting.md,
+Greater Lincolnshire RDSC,Pick Everard,new,Companies/O-R/Pick Everard.md,Part of Artelia Group; no Companies House number given because the operating entity could not be confirmed.
+Greater Lincolnshire RDSC,PLEXSYS Interface Products UK LTD,matched,Companies/O-R/PLEXSYS Interface Products UK Ltd.md,
+Greater Lincolnshire RDSC,Portakabin,new,Companies/O-R/Portakabin.md,
+Greater Lincolnshire RDSC,Pragmatics 3D Ltd,new,Companies/O-R/Pragmatics 3D.md,
+Greater Lincolnshire RDSC,Primetake Ltd,matched,Companies/O-R/Primetake.md,
+Greater Lincolnshire RDSC,Prospero Mediation & Training,new,Companies/O-R/Prospero Mediation & Training.md,No company registration found; located at town level (Retford) because the published address appears residential.
+Greater Lincolnshire RDSC,Quantexa,new,Companies/O-R/Quantexa.md,Size omitted because it was not confirmed from a source opened.
+Greater Lincolnshire RDSC,Recruit Me,new,Companies/O-R/RecruitME.md,"Matched to RecruitME (Grantham) Limited (10284152) by its Grantham address; a different company, RecruitME Ltd, has been dissolved."
+Greater Lincolnshire RDSC,RINA Tech UK Ltd,matched,Companies/O-R/RINA TECH UK LTD.md,
+Greater Lincolnshire RDSC,RMG Cyber Consulting Ltd,new,Companies/O-R/RMG Cyber Consulting.md,
+Greater Lincolnshire RDSC,Roboverse Reply UK,new,Companies/O-R/Roboverse Reply.md,"UK subsidiary Roboverse Reply Limited (16969095), kept separate from the existing Reply Ltd group page, as with Shield Reply."
+Greater Lincolnshire RDSC,Roxburgh EMC,new,Companies/O-R/Roxburgh EMC.md,Roxburgh EMC is a division of Alpha 3 Manufacturing Limited (01065925); that number is used and the page covers the division.
+Greater Lincolnshire RDSC,Sagentia Aviation,matched,Companies/S-T/Sagentia Aviation.md,"Matched to the Sagentia Aviation page, not Sagentia Defence."
+Greater Lincolnshire RDSC,Scampton Holdings Ltd,new,Companies/S-T/Scampton Holdings.md,No address on its website; located at its Hungerford registered office although its activity is the RAF Scampton site in Lincolnshire.
+Greater Lincolnshire RDSC,Shield Space,matched,Companies/S-T/Shield Space Ltd.md,
+Greater Lincolnshire RDSC,Shift Key Cyber,new,Companies/S-T/Shift Key Cyber.md,
+Greater Lincolnshire RDSC,Sirius Analysis Ltd,matched,Companies/S-T/Sirius Analysis.md,
+Greater Lincolnshire RDSC,SMS Aero,new,Companies/S-T/SMS Aero.md,Trading name of Affinity Capital Works Limited (09805034).
+Greater Lincolnshire RDSC,South Kesteven District Council,skipped,,Local authority; Tally lists no local government bodies.
+Greater Lincolnshire RDSC,SRC UK,matched,Companies/S-T/SRC UK Ltd.md,
+Greater Lincolnshire RDSC,Stirling Defence,skipped,,"Does not appear to be operating: the website does not load, and Companies House shows Stirling Defence Limited (09582063) with overdue accounts and an active proposal to strike off."
+Greater Lincolnshire RDSC,SynMax UK Ltd,matched,Companies/S-T/SynMax UK Ltd.md,
+Greater Lincolnshire RDSC,Team Lincolnshire,skipped,,"Trade body, cluster or business network; Tally records membership of such bodies as a tag rather than listing the body as a company."
+Greater Lincolnshire RDSC,TECOSIM Ltd,new,Companies/S-T/TECOSIM UK.md,
+Greater Lincolnshire RDSC,Teledyne Defence & Space,matched,Companies/S-T/Teledyne Defence & Space.md,
+Greater Lincolnshire RDSC,TG Simulation Ltd,new,Companies/S-T/TG Simulation.md,
+Greater Lincolnshire RDSC,The Armour Group of Companies Ltd,new,Companies/S-T/The Armour Group.md,Company renamed The Armour Group (Management) Limited in September 2025.
+Greater Lincolnshire RDSC,The Excellence Partnership,new,Companies/S-T/The Excellence Partnership.md,"Website publishes no address, so the Companies House registered office in Beverley was used."
+Greater Lincolnshire RDSC,Thornton-Firkin LLP,new,Companies/S-T/Thornton-Firkin.md,Located at its Lincoln office; registered office is in Birmingham.
+Greater Lincolnshire RDSC,Tilbury Douglas,new,Companies/S-T/Tilbury Douglas.md,Page uses Tilbury Douglas Construction Limited (00303359) and Exeter trading address; registered office in London.
+Greater Lincolnshire RDSC,Wartsila SLS,new,Companies/U-Z/Wärtsilä UK.md,"Listing points to wartsila.com and names the Shaft Line Solutions unit; no separate UK SLS entity or Lincolnshire site is published, so the page covers Wärtsilä UK Limited (01004816), the group's UK company."
+Greater Lincolnshire RDSC,West Lindsey District Council,skipped,,Local authority; Tally lists no local government bodies.
+Greater Lincolnshire RDSC,Willmott Dixon Construction,new,Companies/U-Z/Willmott Dixon.md,"Page covers the Willmott Dixon group at its Letchworth head office, with Willmott Dixon Construction Limited (00768173) as the Companies House entry."
+Greater Lincolnshire RDSC,YMD Boon,new,Companies/U-Z/YMD Boon.md,Placed at its Lincoln office; registered office in Market Harborough.

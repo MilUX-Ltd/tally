@@ -23,6 +23,7 @@ tags:
   - cyber
   - size-micro
   - type-startup
+  - mbr-scrdsc
 ---
 
 # Evrmind

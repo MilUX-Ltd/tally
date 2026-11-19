@@ -25,6 +25,7 @@ tags:
   - type-manufacturer
   - owned-uk
   - mbr-ads
+  - mbr-scrdsc
 ---
 
 # Kraken Technology Group

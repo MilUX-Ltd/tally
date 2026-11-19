@@ -25,6 +25,7 @@ tags:
   - type-sme
   - type-manufacturer
   - mbr-ads
+  - mbr-scrdsc
 ---
 
 # Evolve Dynamics

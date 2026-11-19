@@ -26,6 +26,7 @@ tags:
   - accr-as9100
   - accr-iso9001
   - accr-joscar
+  - mbr-scrdsc
 ---
 
 # ITEL Electronics Limited

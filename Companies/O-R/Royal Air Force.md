@@ -26,6 +26,8 @@ tags:
   - training/instruction
   - space
   - manufacturing
+  - mbr-scrdsc
+  - mbr-glrdsc
 ---
 
 # Royal Air Force

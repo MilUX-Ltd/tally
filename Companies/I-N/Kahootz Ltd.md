@@ -18,6 +18,7 @@ tags:
   - data
   - accr-iso27001
   - fw-gcloud
+  - mbr-glrdsc
 ---
 
 # Kahootz Ltd

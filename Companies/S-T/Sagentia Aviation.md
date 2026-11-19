@@ -17,6 +17,7 @@ tags:
   - accr-iso27001
   - accr-ce-plus
   - accr-joscar
+  - mbr-glrdsc
 ---
 
 # Sagentia Aviation

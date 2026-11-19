@@ -15,7 +15,6 @@ tags:
   - type-sme
   - type-manufacturer
   - mbr-ads
-  - mbr-scrdsc
 ---
 # Force Development
 > South Coast engineering and manufacturing SME specialising in bespoke mobile infrastructure, ballistic protection and vehicle modifications for defence and security.

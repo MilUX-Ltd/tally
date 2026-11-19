@@ -18,6 +18,7 @@ tags:
   - data/analytics
   - software
   - type-consultancy
+  - mbr-glrdsc
 ---
 
 # Lone Star Analysis Ltd

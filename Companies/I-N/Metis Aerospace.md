@@ -21,6 +21,7 @@ tags:
   - type-sme
   - accr-iso9001
   - accr-ce-plus
+  - mbr-glrdsc
 ---
 
 # Metis Aerospace Limited

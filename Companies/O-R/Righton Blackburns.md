@@ -17,6 +17,7 @@ tags:
   - maritime
   - type-manufacturer
   - owned-uk
+  - mbr-scrdsc
 ---
 
 # Righton Blackburns

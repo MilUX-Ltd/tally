@@ -20,6 +20,7 @@ tags:
   - type-consultancy
   - type-integrator
   - owned-foreign
+  - mbr-glrdsc
 ---
 
 # RINA TECH UK LTD
