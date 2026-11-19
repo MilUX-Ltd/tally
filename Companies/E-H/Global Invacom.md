@@ -9,6 +9,10 @@ uk-region: South East
 founded: 1993
 size: medium
 sources-verified: 2026-07-04
+postcode: CT2 7FG
+lat: 51.29211
+lon: 1.06465
+location-source: companies-house
 tags:
   - defence
   - space

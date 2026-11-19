@@ -8,6 +8,9 @@ founded: 2023
 size: micro
 headcount: 16
 sources-verified: 2026-07-03
+lat: 51.45313
+lon: -2.60098
+location-source: town
 tags:
   - defence
   - mbr-ads

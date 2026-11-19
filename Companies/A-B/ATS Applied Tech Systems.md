@@ -10,6 +10,10 @@ founded: 1991
 size: medium
 headcount: 51-200
 sources-verified: 2026-07-03
+postcode: CV11 5TS
+lat: 52.51757
+lon: -1.4676
+location-source: companies-house
 tags:
   - defence
   - air

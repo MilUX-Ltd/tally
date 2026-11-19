@@ -6,6 +6,12 @@ linkedin: https://uk.linkedin.com/company/i3secureuk
 hq: United Kingdom
 size: small
 sources-verified: 2026-07-05
+companies-house: "SC655454"
+postcode: G74 4JW
+lat: 55.76586
+lon: -4.17719
+location-source: companies-house
+location-note: registered office of the company with this exact name on the register
 tags:
   - defence
   - cyber

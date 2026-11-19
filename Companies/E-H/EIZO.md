@@ -10,6 +10,10 @@ founded: 1968
 size: large
 headcount: 2400
 sources-verified: 2026-07-04
+postcode: SL5 9FE
+lat: 51.40538
+lon: -0.67823
+location-source: companies-house
 tags:
   - defence
   - hardware

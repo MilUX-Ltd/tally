@@ -5,6 +5,9 @@ website: https://www.westek.co.uk
 hq: Melksham, United Kingdom
 uk-region: South West
 sources-verified: 2026-07-01
+lat: 51.37285
+lon: -2.1382
+location-source: town
 tags:
   - defence
   - mbr-ads

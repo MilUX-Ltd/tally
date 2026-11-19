@@ -7,6 +7,7 @@ uk-region: Overseas
 founded: 2025
 size: small
 sources-verified: 2026-07-03
+country: United States
 tags:
   - defence
   - autonomy

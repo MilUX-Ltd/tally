@@ -7,6 +7,9 @@ uk-region: South West
 founded: 2004
 size: micro
 sources-verified: 2026-07-04
+lat: 51.90073
+lon: -2.07669
+location-source: town
 tags:
   - defence
   - sensors

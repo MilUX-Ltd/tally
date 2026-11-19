@@ -7,6 +7,9 @@ uk-region: West Midlands
 size: medium
 headcount: "over 425 (group, UK and USA)"
 sources-verified: 2026-07-03
+lat: 52.30693
+lon: -1.94152
+location-source: town
 tags:
   - defence
   - mbr-ads

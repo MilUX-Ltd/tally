@@ -9,6 +9,10 @@ uk-region: South East
 founded: 2008
 size: micro
 sources-verified: 2026-07-03
+postcode: GU9 9QT
+lat: 51.22194
+lon: -0.78582
+location-source: companies-house
 tags:
   - defence
   - sensors

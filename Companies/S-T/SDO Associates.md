@@ -8,6 +8,10 @@ uk-region: South West
 founded: 2022
 size: micro
 sources-verified: 2026-07-16
+postcode: SN2 2PN
+lat: 51.57341
+lon: -1.81138
+location-source: companies-house
 tags:
   - defence
   - consultancy

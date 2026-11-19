@@ -5,6 +5,9 @@ website: https://www.tannlin.com
 hq: Prestwick, United Kingdom
 uk-region: Scotland
 sources-verified: 2026-06-30
+lat: 55.49889
+lon: -4.61096
+location-source: town
 tags:
   - defence
   - mbr-ads

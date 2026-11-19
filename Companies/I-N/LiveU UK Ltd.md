@@ -5,6 +5,8 @@ website: https://www.liveu.tv
 hq: Tel Aviv, Israel
 uk-region: West Midlands
 sources-verified: 2026-07-04
+location-source: region
+location-note: UK location not published
 tags:
   - defence
   - mbr-ads

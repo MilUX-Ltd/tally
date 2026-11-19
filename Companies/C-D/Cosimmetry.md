@@ -9,6 +9,10 @@ uk-region: South East
 founded: 2022
 size: micro
 sources-verified: 2026-07-04
+postcode: PO19 1DP
+lat: 50.83323
+lon: -0.7798
+location-source: companies-house
 tags:
   - defence
   - ai

@@ -9,6 +9,10 @@ founded: 1933
 size: large
 headcount: 14000+
 sources-verified: 2026-07-05
+postcode: GU51 2UZ
+lat: 51.29825
+lon: -0.82893
+location-source: companies-house
 tags:
   - defence
   - mbr-ads

@@ -10,6 +10,10 @@ founded: 2011
 size: small
 headcount: 77
 sources-verified: 2026-07-04
+postcode: SN15 3RS
+lat: 51.44291
+lon: -2.07675
+location-source: companies-house
 tags:
   - defence
   - logistics

@@ -9,6 +9,10 @@ uk-region: South West
 founded: 2016
 size: small
 sources-verified: 2026-06-29
+postcode: GL54 3QR
+lat: 51.78907
+lon: -1.7731
+location-source: website
 tags:
   - defence
   - uas

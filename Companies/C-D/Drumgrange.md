@@ -10,6 +10,9 @@ founded: 1979
 size: medium
 headcount: 100-149
 sources-verified: 2026-07-04
+lat: 51.39218
+lon: -0.50369
+location-source: town
 tags:
   - defence
   - maritime

@@ -5,6 +5,9 @@ website: http://www.metisaerospace.com
 hq: Lincoln, UK
 uk-region: East Midlands
 sources-verified: 2026-07-05
+lat: 53.23484
+lon: -0.53844
+location-source: town
 tags:
   - defence
   - mbr-ads

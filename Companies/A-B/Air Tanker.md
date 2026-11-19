@@ -8,6 +8,8 @@ uk-region: South East
 founded: 2007
 size: large
 sources-verified: 2026-07-03
+location-source: region
+location-note: UK location not published
 tags:
   - defence
   - air

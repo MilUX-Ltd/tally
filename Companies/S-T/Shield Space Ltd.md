@@ -5,6 +5,9 @@ website: https://shieldspace.co.uk
 hq: Grantham, United Kingdom
 uk-region: East Midlands
 sources-verified: 2026-06-30
+lat: 52.91209
+lon: -0.64224
+location-source: town
 tags:
   - defence
   - mbr-ads

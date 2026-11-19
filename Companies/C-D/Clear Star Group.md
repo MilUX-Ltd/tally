@@ -9,6 +9,10 @@ uk-region: South East
 founded: 2023
 size: micro
 sources-verified: 2026-07-04
+postcode: OX16 9BE
+lat: 52.05258
+lon: -1.33402
+location-source: companies-house
 tags:
   - defence
   - training

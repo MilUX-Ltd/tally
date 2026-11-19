@@ -5,6 +5,8 @@ website: https://www.uplift360.tech
 hq: Luxembourg, Luxembourg
 uk-region: South West
 sources-verified: 2026-06-30
+location-source: region
+location-note: UK location not published
 tags:
   - defence
   - mbr-ads

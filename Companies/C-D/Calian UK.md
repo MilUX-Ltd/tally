@@ -9,6 +9,10 @@ uk-region: South East
 founded: 2004
 size: large
 sources-verified: 2026-07-04
+postcode: PO7 6XP
+lat: 50.89547
+lon: -1.07015
+location-source: companies-house
 tags:
   - defence
   - training

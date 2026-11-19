@@ -4,6 +4,12 @@ name: TMS Support Solutions Ltd
 website: https://www.tmsss.com
 hq: United Kingdom
 sources-verified: 2026-06-30
+companies-house: "04890733"
+postcode: NG31 7XT
+lat: 52.90136
+lon: -0.66271
+location-source: companies-house
+location-note: registered office of the company with this exact name on the register
 tags:
   - defence
   - mbr-ads

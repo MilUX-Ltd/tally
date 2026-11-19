@@ -5,6 +5,9 @@ website: https://www.produmax.co.uk
 hq: Baildon, UK
 uk-region: Yorkshire and The Humber
 sources-verified: 2026-07-05
+lat: 53.85341
+lon: -1.76631
+location-source: town
 tags:
   - defence
   - mbr-ads

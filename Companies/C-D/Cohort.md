@@ -10,6 +10,10 @@ founded: 2006
 size: large
 headcount: 1600
 sources-verified: 2026-07-04
+postcode: RG7 4SW
+lat: 51.43646
+lon: -1.06865
+location-source: companies-house
 tags:
   - defence
   - comms

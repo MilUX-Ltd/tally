@@ -9,6 +9,10 @@ uk-region: South West
 founded: 1996
 size: medium
 sources-verified: 2026-07-04
+postcode: G3 7YE
+lat: 55.86787
+lon: -4.27989
+location-source: companies-house
 tags:
   - defence
   - manufacturing

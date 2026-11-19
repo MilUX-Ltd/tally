@@ -5,6 +5,9 @@ website: http://www.runflatcbr.com
 hq: Sheffield, United Kingdom
 uk-region: Yorkshire and The Humber
 sources-verified: 2026-07-05
+lat: 53.38251
+lon: -1.46854
+location-source: town
 tags:
   - defence
   - mbr-ads

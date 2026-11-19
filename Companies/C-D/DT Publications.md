@@ -7,6 +7,10 @@ hq: Derby, United Kingdom
 uk-region: East Midlands
 size: micro
 sources-verified: 2026-07-04
+postcode: DE1 2RJ
+lat: 52.91698
+lon: -1.46697
+location-source: companies-house
 tags:
   - defence
   - software

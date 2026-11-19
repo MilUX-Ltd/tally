@@ -9,6 +9,10 @@ uk-region: South West
 founded: 1966
 size: small
 sources-verified: 2026-07-03
+postcode: WR3 8YB
+lat: 52.21882
+lon: -2.19475
+location-source: companies-house
 tags:
   - defence
   - land

@@ -5,6 +5,9 @@ website: http://www.sesys.co.uk
 hq: Petersfield, United Kingdom
 uk-region: South East
 sources-verified: 2026-06-30
+lat: 51.00395
+lon: -0.93771
+location-source: town
 tags:
   - defence
   - mbr-ads

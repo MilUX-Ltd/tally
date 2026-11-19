@@ -10,6 +10,10 @@ founded: 1898
 size: large
 headcount: 350
 sources-verified: 2026-07-05
+postcode: EH20 9SL
+lat: 55.87952
+lon: -3.1427
+location-source: companies-house
 tags:
   - defence
   - maritime

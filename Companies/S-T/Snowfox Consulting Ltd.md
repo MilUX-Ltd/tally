@@ -4,6 +4,9 @@ name: Snowfox Consulting Ltd
 hq: Droitwich Spa, United Kingdom
 uk-region: West Midlands
 sources-verified: 2026-06-30
+lat: 52.26809
+lon: -2.1457
+location-source: town
 tags:
   - defence
   - mbr-ads

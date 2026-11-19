@@ -8,6 +8,7 @@ uk-region: Overseas
 founded: 2005
 size: small
 sources-verified: 2026-06-29
+country: Canada
 tags:
   - defence
   - simulation

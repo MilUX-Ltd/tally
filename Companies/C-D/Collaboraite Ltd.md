@@ -9,6 +9,10 @@ uk-region: South West
 founded: 2021
 size: small
 sources-verified: 2026-07-04
+postcode: L2 3AB
+lat: 53.40772
+lon: -2.99079
+location-source: companies-house
 tags:
   - defence
   - ai

@@ -5,6 +5,9 @@ website: http://www.intelliconnectgroup.com
 hq: Corby, United Kingdom
 uk-region: East Midlands
 sources-verified: 2026-07-04
+lat: 52.48768
+lon: -0.7013
+location-source: town
 tags:
   - defence
   - mbr-ads

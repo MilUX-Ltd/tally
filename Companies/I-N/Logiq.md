@@ -6,6 +6,10 @@ companies-house: 11307972
 hq: Bradley Stoke, Bristol
 uk-region: South West
 sources-verified: 2026-07-04
+postcode: BS32 4RU
+lat: 51.54812
+lon: -2.5596
+location-source: companies-house
 tags:
   - defence
   - cyber

@@ -5,6 +5,9 @@ website: https://www.intelligent-energy.com
 hq: Loughborough, United Kingdom
 uk-region: East Midlands
 sources-verified: 2026-07-04
+lat: 52.7721
+lon: -1.20616
+location-source: town
 tags:
   - defence
   - mbr-ads

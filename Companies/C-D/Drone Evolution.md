@@ -9,6 +9,10 @@ uk-region: Wales
 founded: 2018
 size: micro
 sources-verified: 2026-07-04
+postcode: CF83 3ED
+lat: 51.57172
+lon: -3.20534
+location-source: companies-house
 tags:
   - defence
   - uas

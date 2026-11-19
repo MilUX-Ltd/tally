@@ -5,6 +5,9 @@ website: https://www.snubnose.io
 hq: Thrapston, United Kingdom
 uk-region: East Midlands
 sources-verified: 2026-06-30
+lat: 52.39698
+lon: -0.53804
+location-source: town
 tags:
   - defence
   - mbr-ads

@@ -9,6 +9,10 @@ uk-region: Northern Ireland
 founded: 2010
 size: small
 sources-verified: 2026-07-04
+postcode: BT41 4QE
+lat: 54.70133
+lon: -6.1822
+location-source: companies-house
 tags:
   - defence
   - manufacturing

@@ -10,6 +10,10 @@ founded: 2011
 size: micro
 headcount: 3
 sources-verified: 2026-07-04
+postcode: KT1 4AS
+lat: 51.41322
+lon: -0.3128
+location-source: companies-house
 tags:
   - defence
   - isr

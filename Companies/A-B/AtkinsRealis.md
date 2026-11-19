@@ -10,6 +10,10 @@ founded: 1961
 size: large
 headcount: 250+
 sources-verified: 2026-07-04
+postcode: KT18 5BW
+lat: 51.32498
+lon: -0.26652
+location-source: companies-house
 tags:
   - defence
   - maritime

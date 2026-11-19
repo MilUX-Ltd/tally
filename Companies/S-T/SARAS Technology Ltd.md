@@ -5,6 +5,9 @@ website: http://www.sarastech.co.uk
 hq: Leeds, United Kingdom
 uk-region: Yorkshire and The Humber
 sources-verified: 2026-06-30
+lat: 53.8007
+lon: -1.55026
+location-source: town
 tags:
   - defence
   - mbr-ads

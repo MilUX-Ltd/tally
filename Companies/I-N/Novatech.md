@@ -10,6 +10,10 @@ founded: 1991
 size: medium
 headcount: ~100
 sources-verified: 2026-07-05
+postcode: PO6 4PU
+lat: 50.84499
+lon: -1.11717
+location-source: companies-house
 tags:
   - defence
   - hardware

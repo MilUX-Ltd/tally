@@ -5,6 +5,12 @@ website: https://space4sight.com/
 linkedin: https://www.linkedin.com/company/space4sight/
 hq: United Kingdom
 sources-verified: 2026-06-29
+companies-house: "14286026"
+postcode: N1 7GU
+lat: 51.53074
+lon: -0.09371
+location-source: companies-house
+location-note: registered office of the company with this exact name on the register
 tags:
   - defence
   - space

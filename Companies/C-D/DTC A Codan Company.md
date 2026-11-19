@@ -8,6 +8,10 @@ hq: Whiteley, United Kingdom
 uk-region: South East
 size: medium
 sources-verified: 2026-07-04
+postcode: PO15 7AB
+lat: 50.87705
+lon: -1.2478
+location-source: companies-house
 tags:
   - defence
   - comms

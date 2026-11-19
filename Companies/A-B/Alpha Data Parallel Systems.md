@@ -9,6 +9,10 @@ uk-region: Scotland
 founded: 1993
 size: small
 sources-verified: 2026-07-03
+postcode: EH11 1DQ
+lat: 55.94051
+lon: -3.21944
+location-source: companies-house
 tags:
   - defence
   - hardware

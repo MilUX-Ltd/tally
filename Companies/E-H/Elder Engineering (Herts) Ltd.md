@@ -9,6 +9,10 @@ uk-region: East of England
 founded: 1980
 size: small
 sources-verified: 2026-07-16
+postcode: AL7 1LT
+lat: 51.80174
+lon: -0.18674
+location-source: companies-house
 tags:
   - defence
   - manufacturing

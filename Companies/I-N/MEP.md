@@ -7,6 +7,9 @@ hq: Aylesford, United Kingdom
 uk-region: South East
 founded: 1972
 sources-verified: 2026-07-05
+lat: 51.30362
+lon: 0.4816
+location-source: town
 tags:
   - defence
   - mbr-ads

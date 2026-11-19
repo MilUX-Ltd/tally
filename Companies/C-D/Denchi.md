@@ -9,6 +9,10 @@ uk-region: Scotland
 size: small
 headcount: 68
 sources-verified: 2026-07-04
+postcode: CB1 2GE
+lat: 52.19406
+lon: 0.13628
+location-source: companies-house
 tags:
   - defence
   - hardware

@@ -9,6 +9,10 @@ uk-region: London
 founded: 2019
 size: small
 sources-verified: 2026-07-03
+postcode: EC2V 6EE
+lat: 51.51364
+lon: -0.09173
+location-source: companies-house
 tags:
   - defence
   - size-small

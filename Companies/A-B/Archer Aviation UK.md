@@ -8,6 +8,10 @@ uk-region: South West
 founded: 2025
 size: small
 sources-verified: 2026-07-03
+postcode: EC4A 3BZ
+lat: 51.51597
+lon: -0.10783
+location-source: companies-house
 tags:
   - defence
   - air

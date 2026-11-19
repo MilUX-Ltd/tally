@@ -6,6 +6,8 @@ hq: South West, UK
 uk-region: South West
 founded: 2022
 sources-verified: 2026-07-05
+location-source: region
+location-note: UK location not published
 tags:
   - defence
   - comms

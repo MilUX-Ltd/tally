@@ -9,6 +9,10 @@ uk-region: South East
 founded: 1971
 size: small
 sources-verified: 2026-07-04
+postcode: PO15 5RL
+lat: 50.87009
+lon: -1.24371
+location-source: companies-house
 tags:
   - defence
   - land

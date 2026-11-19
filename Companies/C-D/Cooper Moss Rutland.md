@@ -9,6 +9,10 @@ uk-region: London
 founded: 2017
 size: small
 sources-verified: 2026-07-04
+postcode: WD17 1HP
+lat: 51.65977
+lon: -0.39749
+location-source: companies-house
 tags:
   - defence
   - data

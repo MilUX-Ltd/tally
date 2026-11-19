@@ -10,6 +10,10 @@ founded: 2025
 size: micro
 headcount: 2-10
 sources-verified: 2026-07-29
+postcode: N1 1SG
+lat: 51.54373
+lon: -0.10482
+location-source: companies-house
 tags:
   - defence
   - ai

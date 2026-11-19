@@ -10,6 +10,10 @@ founded: 2014
 size: medium
 headcount: 201-500
 sources-verified: 2026-07-04
+postcode: EC1V 9BW
+lat: 51.52503
+lon: -0.0913
+location-source: companies-house
 tags:
   - defence
   - ai

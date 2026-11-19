@@ -10,6 +10,10 @@ founded: 2014
 size: small
 headcount: ~63
 sources-verified: 2026-07-16
+postcode: BS16 7FR
+lat: 51.50087
+lon: -2.47757
+location-source: companies-house
 tags:
   - defence
   - consultancy

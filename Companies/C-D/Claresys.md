@@ -10,6 +10,10 @@ founded: 2008
 size: micro
 headcount: 8
 sources-verified: 2026-07-04
+postcode: OX14 4SD
+lat: 51.62455
+lon: -1.28441
+location-source: companies-house
 tags:
   - defence
   - optronics

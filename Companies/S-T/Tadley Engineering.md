@@ -5,6 +5,9 @@ website: http://www.tadleyengineering.co.uk
 hq: Tadley, United Kingdom
 uk-region: South East
 sources-verified: 2026-06-30
+lat: 51.35658
+lon: -1.14842
+location-source: town
 tags:
   - defence
   - mbr-ads

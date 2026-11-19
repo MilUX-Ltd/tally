@@ -8,6 +8,10 @@ uk-region: South West
 founded: 2022
 size: micro
 sources-verified: 2026-07-04
+postcode: PL7 2WY
+lat: 50.3919
+lon: -4.03231
+location-source: companies-house
 tags:
   - defence
   - manufacturing

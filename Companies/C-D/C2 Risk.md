@@ -7,6 +7,10 @@ companies-house: 09885860
 hq: United Kingdom
 size: small
 sources-verified: 2026-07-04
+postcode: ST4 4RJ
+lat: 52.98959
+lon: -2.18809
+location-source: companies-house
 tags:
   - defence
   - cyber

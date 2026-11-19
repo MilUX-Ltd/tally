@@ -10,6 +10,10 @@ founded: 2009
 size: small
 headcount: 135
 sources-verified: 2026-07-04
+postcode: B3 3AG
+lat: 52.48094
+lon: -1.90156
+location-source: companies-house
 tags:
   - defence
   - rf

@@ -9,6 +9,9 @@ founded: 2005
 size: medium
 headcount: 200+
 sources-verified: 2026-07-04
+lat: 51.0621
+lon: -0.3281
+location-source: town
 tags:
   - defence
   - sensors

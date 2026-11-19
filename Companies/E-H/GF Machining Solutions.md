@@ -7,6 +7,7 @@ hq: Biel/Bienne, Switzerland
 uk-region: Overseas
 size: large
 sources-verified: 2026-07-04
+country: Switzerland
 tags:
   - defence
   - manufacturing

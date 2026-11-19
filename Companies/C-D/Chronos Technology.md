@@ -9,6 +9,9 @@ founded: 1986
 size: small
 headcount: 33
 sources-verified: 2026-07-04
+lat: 51.84105
+lon: -2.57814
+location-source: town
 tags:
   - defence
   - sensors

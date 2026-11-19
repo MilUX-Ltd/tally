@@ -3,13 +3,18 @@ type: organisation
 name: Hiatus
 website: https://www.hiatus.digital
 linkedin: 
-companies-house: 
+companies-house: "03352452"
 hq: 
 uk-region:
 founded: 
 size: micro
 headcount: 
 sources-verified: 2026-07-04
+postcode: GU31 4AG
+lat: 51.00673
+lon: -0.93356
+location-source: companies-house
+location-note: registered office of the company with this exact name on the register
 tags:
   - defence
   - software

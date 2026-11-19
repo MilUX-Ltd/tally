@@ -6,6 +6,8 @@ hq: Santa Clara, United States
 uk-region: South East
 size: large
 sources-verified: 2026-07-05
+location-source: region
+location-note: UK location not published
 tags:
   - defence
   - size-large

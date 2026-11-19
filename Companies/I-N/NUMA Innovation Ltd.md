@@ -6,6 +6,9 @@ hq: Belfast, United Kingdom
 uk-region: Northern Ireland
 size: micro
 sources-verified: 2026-07-05
+lat: 54.59639
+lon: -5.93018
+location-source: town
 tags:
   - defence
   - size-micro

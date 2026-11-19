@@ -5,6 +5,9 @@ website: https://www.ipcmouldings.com
 hq: Carrickfergus, United Kingdom
 uk-region: Northern Ireland
 sources-verified: 2026-07-04
+lat: 54.71362
+lon: -5.80731
+location-source: town
 tags:
   - defence
   - mbr-ads

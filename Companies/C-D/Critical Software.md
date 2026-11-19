@@ -10,6 +10,10 @@ founded: 1998
 size: large
 headcount: 1400
 sources-verified: 2026-07-04
+postcode: SO14 3TJ
+lat: 50.89543
+lon: -1.39458
+location-source: companies-house
 tags:
   - defence
   - software

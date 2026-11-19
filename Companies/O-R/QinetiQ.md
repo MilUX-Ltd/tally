@@ -9,6 +9,10 @@ uk-region: South East
 size: large
 headcount: 8,000+
 sources-verified: 2026-07-05
+postcode: GU14 0LX
+lat: 51.27605
+lon: -0.76152
+location-source: companies-house
 tags:
   - defence
   - test-evaluation

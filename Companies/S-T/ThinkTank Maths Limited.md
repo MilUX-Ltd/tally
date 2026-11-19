@@ -6,6 +6,9 @@ hq: Edinburgh, United Kingdom
 uk-region: Scotland
 size: micro
 sources-verified: 2026-06-30
+lat: 55.95334
+lon: -3.18911
+location-source: town
 tags:
   - defence
   - mbr-ads

@@ -5,6 +5,9 @@ website: http://www.praetorianconnections.com
 hq: Bristol, United Kingdom
 uk-region: South West
 sources-verified: 2026-07-05
+lat: 51.45313
+lon: -2.60098
+location-source: town
 tags:
   - defence
   - mbr-ads

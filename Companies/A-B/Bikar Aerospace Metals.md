@@ -8,6 +8,10 @@ uk-region: South West
 founded: 2020
 size: small
 sources-verified: 2026-07-04
+postcode: BS34 5TA
+lat: 51.53081
+lon: -2.59339
+location-source: companies-house
 tags:
   - defence
   - manufacturing

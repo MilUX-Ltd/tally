@@ -9,6 +9,10 @@ uk-region: Wales
 founded: 1940
 size: small
 sources-verified: 2026-07-04
+postcode: LL77 7XA
+lat: 53.24939
+lon: -4.30235
+location-source: companies-house
 tags:
   - defence
   - land

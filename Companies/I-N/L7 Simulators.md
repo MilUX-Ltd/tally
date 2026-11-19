@@ -8,6 +8,7 @@ uk-region: Overseas
 founded: 2019
 size: small
 sources-verified: 2026-07-04
+country: Ukraine
 tags:
   - defence
   - simulation

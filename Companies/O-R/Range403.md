@@ -6,6 +6,8 @@ linkedin: https://www.linkedin.com/company/range403/
 founded: 2026
 size: micro
 sources-verified: 2026-07-05
+location-source: region
+location-note: UK location not published
 tags:
   - defence
   - cyber

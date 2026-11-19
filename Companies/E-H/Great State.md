@@ -7,6 +7,9 @@ hq: Bristol, UK
 uk-region: South West
 size: small
 sources-verified: 2026-07-04
+lat: 51.45313
+lon: -2.60098
+location-source: town
 tags:
   - defence
   - software

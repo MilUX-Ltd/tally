@@ -6,6 +6,9 @@ linkedin: https://www.linkedin.com/company/quanta-training-ltd/
 hq: Worcester, United Kingdom
 uk-region: West Midlands
 sources-verified: 2026-07-05
+lat: 52.19293
+lon: -2.22109
+location-source: town
 tags:
   - defence
   - mbr-ads

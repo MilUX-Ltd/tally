@@ -6,6 +6,9 @@ hq: Andover, United Kingdom
 uk-region: South East
 size: micro
 sources-verified: 2026-06-30
+lat: 51.2075
+lon: -1.47919
+location-source: town
 tags:
   - defence
   - mbr-ads

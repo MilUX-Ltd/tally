@@ -8,6 +8,10 @@ hq: Exton, Pennsylvania, United States
 uk-region: London
 size: large
 sources-verified: 2026-07-03
+postcode: EC2N 4BQ
+lat: 51.51415
+lon: -0.08349
+location-source: companies-house
 tags:
   - defence
   - software

@@ -9,6 +9,10 @@ uk-region: Scotland
 size: medium
 headcount: 50+
 sources-verified: 2026-07-04
+postcode: KY11 2YW
+lat: 56.03458
+lon: -3.43154
+location-source: companies-house
 tags:
   - defence
   - air

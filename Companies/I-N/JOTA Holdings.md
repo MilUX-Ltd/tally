@@ -6,6 +6,9 @@ hq: Tunbridge Wells, UK
 uk-region: South East
 founded: 2015
 sources-verified: 2026-07-04
+lat: 51.13715
+lon: 0.26734
+location-source: town
 tags:
   - defence
   - mbr-ads

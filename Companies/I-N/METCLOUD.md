@@ -9,6 +9,10 @@ uk-region: West Midlands
 founded: 1998
 size: small
 sources-verified: 2026-07-05
+postcode: B16 8PE
+lat: 52.47169
+lon: -1.92403
+location-source: companies-house
 tags:
   - defence
   - cyber

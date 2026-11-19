@@ -9,6 +9,10 @@ founded: 2020
 size: small
 headcount: 30+
 sources-verified: 2026-07-04
+postcode: HR2 8BG
+lat: 51.97739
+lon: -2.75809
+location-source: companies-house
 tags:
   - defence
   - cyber

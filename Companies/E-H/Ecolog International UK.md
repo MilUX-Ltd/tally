@@ -10,6 +10,10 @@ founded: 1999
 size: large
 headcount: 12000
 sources-verified: 2026-07-04
+postcode: EC4A 3AQ
+lat: 51.51597
+lon: -0.10851
+location-source: companies-house
 tags:
   - defence
   - logistics

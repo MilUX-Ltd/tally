@@ -9,6 +9,10 @@ uk-region: South East
 size: large
 headcount: 1400+
 sources-verified: 2026-07-04
+postcode: KT22 7NL
+lat: 51.30559
+lon: -0.34084
+location-source: companies-house
 tags:
   - defence
   - maritime

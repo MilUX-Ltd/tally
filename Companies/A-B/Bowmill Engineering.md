@@ -10,6 +10,10 @@ founded: 1970
 size: medium
 headcount: 175
 sources-verified: 2026-07-04
+postcode: BH17 0GG
+lat: 50.74288
+lon: -1.97422
+location-source: companies-house
 tags:
   - defence
   - air

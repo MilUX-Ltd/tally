@@ -5,6 +5,9 @@ website: https://www.zeroalphasolutions.com
 hq: Barry, United Kingdom
 uk-region: Wales
 sources-verified: 2026-07-01
+lat: 51.40651
+lon: -3.26669
+location-source: town
 tags:
   - defence
   - mbr-ads

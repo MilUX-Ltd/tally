@@ -8,6 +8,7 @@ companies-house: SC163213
 founded: 1996
 size: large
 sources-verified: 2026-07-03
+country: United States
 tags:
   - defence
   - air

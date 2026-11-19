@@ -10,6 +10,10 @@ founded: 1985
 size: large
 headcount: ~400
 sources-verified: 2026-07-03
+postcode: WA7 1TG
+lat: 53.35229
+lon: -2.671
+location-source: companies-house
 tags:
   - defence
   - air

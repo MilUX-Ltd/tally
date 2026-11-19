@@ -9,6 +9,10 @@ uk-region: West Midlands
 founded: 1987
 size: large
 sources-verified: 2026-07-04
+postcode: B45 9PZ
+lat: 52.39777
+lon: -2.01022
+location-source: website
 tags:
   - defence
   - logistics

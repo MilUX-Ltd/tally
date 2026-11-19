@@ -8,6 +8,8 @@ founded: 1937
 size: small
 headcount: ~100-130
 sources-verified: 2026-07-04
+location-source: region
+location-note: UK location not published
 tags:
   - defence
   - mbr-ads

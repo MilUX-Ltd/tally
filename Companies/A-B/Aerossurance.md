@@ -9,6 +9,10 @@ uk-region: Scotland
 founded: 2014
 size: micro
 sources-verified: 2026-07-03
+postcode: AB51 0JS
+lat: 57.31525
+lon: -2.3247
+location-source: companies-house
 tags:
   - defence
   - air

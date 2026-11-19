@@ -9,6 +9,10 @@ uk-region: East of England
 founded: 2023
 size: micro
 sources-verified: 2026-07-04
+postcode: SG6 3TA
+lat: 51.97586
+lon: -0.22982
+location-source: companies-house
 tags:
   - defence
   - size-micro

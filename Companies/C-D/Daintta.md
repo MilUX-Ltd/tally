@@ -9,6 +9,10 @@ uk-region: London
 founded: 2019
 size: small
 sources-verified: 2026-07-04
+postcode: CV8 1LY
+lat: 52.34968
+lon: -1.58333
+location-source: companies-house
 tags:
   - defence
   - data

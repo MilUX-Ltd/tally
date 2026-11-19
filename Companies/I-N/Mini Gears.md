@@ -6,6 +6,9 @@ hq: Stockport, United Kingdom
 uk-region: North West
 size: small
 sources-verified: 2026-07-05
+lat: 53.40802
+lon: -2.15896
+location-source: town
 tags:
   - defence
   - mbr-ads

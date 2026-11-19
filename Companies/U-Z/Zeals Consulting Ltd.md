@@ -5,6 +5,9 @@ website: https://www.zealsconsulting.com
 hq: Warminster, United Kingdom
 uk-region: South West
 sources-verified: 2026-07-01
+lat: 51.20492
+lon: -2.18119
+location-source: town
 tags:
   - defence
   - mbr-ads

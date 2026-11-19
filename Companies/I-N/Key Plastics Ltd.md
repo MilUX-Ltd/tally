@@ -8,6 +8,7 @@ uk-region: Overseas
 size: small
 headcount: ~34
 sources-verified: 2026-07-04
+country: Ireland
 tags:
   - defence
   - mbr-ads

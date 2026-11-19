@@ -9,6 +9,10 @@ founded: 1950
 size: large
 headcount: 250+
 sources-verified: 2026-07-03
+postcode: RG7 4PR
+lat: 51.36336
+lon: -1.14119
+location-source: companies-house
 tags:
   - defence
   - munitions

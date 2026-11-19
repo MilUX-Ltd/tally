@@ -6,6 +6,9 @@ hq: Cullompton, UK
 uk-region: South West
 size: small
 sources-verified: 2026-07-04
+lat: 50.8552
+lon: -3.39276
+location-source: town
 tags:
   - defence
   - manufacturing

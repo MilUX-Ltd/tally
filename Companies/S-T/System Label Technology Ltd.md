@@ -5,6 +5,7 @@ website: http://www.system-label.com
 hq: Roscommon, Ireland
 uk-region: Overseas
 sources-verified: 2026-06-30
+country: Ireland
 tags:
   - defence
   - mbr-ads

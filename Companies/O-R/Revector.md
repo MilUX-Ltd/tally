@@ -6,6 +6,9 @@ linkedin: https://www.linkedin.com/company/revector
 hq: Bath, United Kingdom
 uk-region: South West
 sources-verified: 2026-07-05
+lat: 51.3828
+lon: -2.35929
+location-source: town
 tags:
   - defence
   - mbr-ads

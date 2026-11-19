@@ -9,6 +9,10 @@ uk-region: North West
 founded: 1981
 size: small
 sources-verified: 2026-07-03
+postcode: M24 2HD
+lat: 53.55225
+lon: -2.1899
+location-source: companies-house
 tags:
   - defence
   - hardware

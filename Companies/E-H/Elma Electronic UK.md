@@ -9,6 +9,10 @@ uk-region: East of England
 founded: 1995
 size: medium
 sources-verified: 2026-07-04
+postcode: MK44 3BF
+lat: 52.12924
+lon: -0.41701
+location-source: companies-house
 tags:
   - defence
   - hardware

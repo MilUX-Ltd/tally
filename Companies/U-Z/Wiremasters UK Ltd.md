@@ -7,6 +7,10 @@ hq: Swindon, United Kingdom
 uk-region: South West
 size: small
 sources-verified: 2026-07-16
+postcode: SN3 1NG
+lat: 51.53739
+lon: -1.75811
+location-source: companies-house
 tags:
   - defence
   - hardware

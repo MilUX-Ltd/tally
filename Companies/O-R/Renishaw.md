@@ -10,6 +10,10 @@ founded: 1973
 size: large
 headcount: ~5000
 sources-verified: 2026-07-05
+postcode: GL12 8JR
+lat: 51.63492
+lon: -2.38066
+location-source: companies-house
 tags:
   - defence
   - manufacturing

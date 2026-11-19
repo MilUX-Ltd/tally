@@ -9,6 +9,10 @@ uk-region: London
 founded: 2020
 size: small
 sources-verified: 2026-07-03
+postcode: N1 7GU
+lat: 51.53074
+lon: -0.09371
+location-source: companies-house
 tags:
   - defence
   - ai

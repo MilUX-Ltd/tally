@@ -9,6 +9,10 @@ uk-region: North West
 founded: 1965
 size: small
 sources-verified: 2026-07-03
+postcode: SK9 3PW
+lat: 53.35031
+lon: -2.21075
+location-source: companies-house
 tags:
   - defence
   - air

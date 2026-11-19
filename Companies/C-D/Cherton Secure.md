@@ -9,6 +9,10 @@ uk-region: Northern Ireland
 founded: 2018
 size: small
 sources-verified: 2026-07-04
+postcode: BT4 2AW
+lat: 54.60116
+lon: -5.85765
+location-source: companies-house
 tags:
   - defence
   - cyber

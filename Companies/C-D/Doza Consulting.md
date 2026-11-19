@@ -9,6 +9,10 @@ uk-region: Yorkshire and The Humber
 founded: 2023
 size: micro
 sources-verified: 2026-07-04
+postcode: LS1 4JB
+lat: 53.79488
+lon: -1.54663
+location-source: companies-house
 tags:
   - defence
   - software

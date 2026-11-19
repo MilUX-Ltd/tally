@@ -9,6 +9,10 @@ uk-region: South East
 founded: 2008
 size: small
 sources-verified: 2026-07-03
+postcode: OX12 9FA
+lat: 51.6041
+lon: -1.44602
+location-source: companies-house
 tags:
   - defence
   - software

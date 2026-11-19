@@ -9,6 +9,10 @@ founded: 1990
 size: micro
 headcount: 2-10
 sources-verified: 2026-07-04
+postcode: SS5 4AD
+lat: 51.60321
+lon: 0.65563
+location-source: companies-house
 tags:
   - defence
   - manufacturing

@@ -5,6 +5,9 @@ website: https://www.ide-systems.com
 hq: Coalville, United Kingdom
 uk-region: East Midlands
 sources-verified: 2026-07-04
+lat: 52.7208
+lon: -1.36021
+location-source: town
 tags:
   - defence
   - mbr-ads

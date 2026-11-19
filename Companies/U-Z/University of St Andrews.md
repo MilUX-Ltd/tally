@@ -5,6 +5,9 @@ website: https://www.st-andrews.ac.uk
 hq: St Andrews, United Kingdom
 uk-region: Scotland
 sources-verified: 2026-06-30
+lat: 56.33941
+lon: -2.79503
+location-source: town
 tags:
   - defence
   - mbr-ads

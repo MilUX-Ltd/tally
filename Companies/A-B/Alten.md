@@ -9,6 +9,10 @@ uk-region: London
 founded: 2013
 size: large
 sources-verified: 2026-07-03
+postcode: EC1N 8TS
+lat: 51.51988
+lon: -0.10701
+location-source: companies-house
 tags:
   - defence
   - air

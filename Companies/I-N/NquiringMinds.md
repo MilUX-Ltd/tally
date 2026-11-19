@@ -10,6 +10,10 @@ founded: 2010
 size: small
 headcount: 11-50
 sources-verified: 2026-07-05
+postcode: SO16 7PT
+lat: 50.96251
+lon: -1.42453
+location-source: companies-house
 tags:
   - defence
   - cyber

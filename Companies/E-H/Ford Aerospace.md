@@ -9,6 +9,10 @@ founded: 1944
 size: small
 headcount: 95
 sources-verified: 2026-07-04
+postcode: NE33 5ST
+lat: 54.98553
+lon: -1.44735
+location-source: companies-house
 tags:
   - defence
   - manufacturing

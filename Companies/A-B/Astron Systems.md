@@ -8,6 +8,10 @@ uk-region: South East
 founded: 2019
 size: small
 sources-verified: 2026-07-16
+postcode: SK10 1JE
+lat: 53.25955
+lon: -2.12082
+location-source: companies-house
 tags:
   - defence
   - space

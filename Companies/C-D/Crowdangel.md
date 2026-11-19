@@ -5,6 +5,8 @@ website: https://crowdangel.co.uk
 uk-region: East of England
 size: micro
 sources-verified: 2026-07-16
+location-source: region
+location-note: UK location not published
 tags:
   - defence
   - software

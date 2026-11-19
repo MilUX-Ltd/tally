@@ -10,6 +10,10 @@ founded: 2018
 size: small
 headcount: 70+
 sources-verified: 2026-07-04
+postcode: GU2 7RF
+lat: 51.24165
+lon: -0.61254
+location-source: companies-house
 tags:
   - defence
   - software

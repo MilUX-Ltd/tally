@@ -9,6 +9,7 @@ founded: 1976
 size: large
 headcount: ~90,000 (global)
 sources-verified: 2026-07-04
+country: Canada
 tags:
   - defence
   - software

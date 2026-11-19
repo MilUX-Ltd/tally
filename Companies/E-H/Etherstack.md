@@ -9,6 +9,10 @@ uk-region: South East
 founded: 2012
 size: small
 sources-verified: 2026-07-04
+postcode: RG1 3BE
+lat: 51.45573
+lon: -0.96719
+location-source: companies-house
 tags:
   - defence
   - comms

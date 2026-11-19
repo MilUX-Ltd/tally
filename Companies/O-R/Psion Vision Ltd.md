@@ -9,6 +9,10 @@ uk-region: South East
 founded: 2008
 size: micro
 sources-verified: 2026-07-05
+postcode: PO13 9FU
+lat: 50.81257
+lon: -1.1945
+location-source: companies-house
 tags:
   - defence
   - simulation

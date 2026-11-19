@@ -9,6 +9,10 @@ uk-region: North West
 founded: 1971
 size: large
 sources-verified: 2026-07-04
+postcode: M40 5BJ
+lat: 53.50145
+lon: -2.19551
+location-source: companies-house
 tags:
   - defence
   - simulation

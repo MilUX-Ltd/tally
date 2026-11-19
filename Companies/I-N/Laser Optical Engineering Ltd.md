@@ -6,6 +6,9 @@ hq: East Midlands Airport, United Kingdom
 uk-region: East Midlands
 size: micro
 sources-verified: 2026-07-04
+lat: 52.82809
+lon: -1.33267
+location-source: town
 tags:
   - defence
   - size-micro

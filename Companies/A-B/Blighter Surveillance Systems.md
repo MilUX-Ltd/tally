@@ -9,6 +9,10 @@ uk-region: East of England
 size: small
 headcount: 30-40
 sources-verified: 2026-07-04
+postcode: CB10 1NY
+lat: 52.0605
+lon: 0.19463
+location-source: companies-house
 tags:
   - defence
   - radar

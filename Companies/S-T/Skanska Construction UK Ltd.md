@@ -6,6 +6,7 @@ hq: Stockholm, Sweden
 uk-region: Overseas
 size: large
 sources-verified: 2026-06-30
+country: Sweden
 tags:
   - defence
   - size-large

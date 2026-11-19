@@ -8,6 +8,10 @@ uk-region: Northern Ireland
 founded: 2003
 size: medium
 sources-verified: 2026-07-04
+postcode: BT75 0NE
+lat: 54.37445
+lon: -7.31551
+location-source: companies-house
 tags:
   - defence
   - manufacturing

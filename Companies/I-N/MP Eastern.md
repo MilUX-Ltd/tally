@@ -5,6 +5,9 @@ website: https://www.mpeastern.co.uk
 hq: Lowestoft, United Kingdom
 uk-region: East of England
 sources-verified: 2026-07-05
+lat: 52.47663
+lon: 1.75376
+location-source: town
 tags:
   - defence
   - mbr-ads

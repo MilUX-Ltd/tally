@@ -9,6 +9,10 @@ uk-region: Scotland
 founded: 2019
 size: micro
 sources-verified: 2026-07-04
+postcode: EH20 9TB
+lat: 55.88366
+lon: -3.15038
+location-source: companies-house
 tags:
   - uas
   - uas/platform

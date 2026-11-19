@@ -10,6 +10,10 @@ founded: 2008
 size: micro
 headcount: 4
 sources-verified: 2026-07-04
+postcode: CB4 2HY
+lat: 52.23482
+lon: 0.12953
+location-source: companies-house
 tags:
   - defence
   - sensors

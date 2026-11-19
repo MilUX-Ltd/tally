@@ -9,6 +9,10 @@ uk-region: South East
 founded: 1997
 size: small
 sources-verified: 2026-07-04
+postcode: RG7 2PQ
+lat: 51.36859
+lon: -1.11862
+location-source: companies-house
 tags:
   - defence
   - logistics

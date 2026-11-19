@@ -6,6 +6,9 @@ hq: Loanhead, United Kingdom
 uk-region: Scotland
 size: small
 sources-verified: 2026-06-30
+lat: 55.87776
+lon: -3.14826
+location-source: town
 tags:
   - defence
   - mbr-ads

@@ -9,6 +9,10 @@ uk-region: London
 founded: 1988
 size: medium
 sources-verified: 2026-07-04
+postcode: UB7 0LW
+lat: 51.49074
+lon: -0.48405
+location-source: companies-house
 tags:
   - defence
   - air

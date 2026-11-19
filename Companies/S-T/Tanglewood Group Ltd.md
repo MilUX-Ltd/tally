@@ -6,6 +6,9 @@ hq: Malvern, United Kingdom
 uk-region: West Midlands
 size: micro
 sources-verified: 2026-06-30
+lat: 52.11596
+lon: -2.3259
+location-source: town
 tags:
   - defence
   - mbr-ads

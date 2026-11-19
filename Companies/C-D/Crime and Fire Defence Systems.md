@@ -9,6 +9,10 @@ founded: 1994
 size: small
 headcount: 47
 sources-verified: 2026-07-04
+postcode: LE65 1NF
+lat: 52.74825
+lon: -1.45073
+location-source: companies-house
 tags:
   - defence
   - sensors

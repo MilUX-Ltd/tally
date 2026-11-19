@@ -10,6 +10,10 @@ founded: 1988
 size: small
 headcount: 1500
 sources-verified: 2026-07-04
+postcode: SO53 4DG
+lat: 50.98135
+lon: -1.38889
+location-source: companies-house
 tags:
   - defence
   - comms

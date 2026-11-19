@@ -9,6 +9,10 @@ founded: 1945
 size: small
 headcount: 50-100
 sources-verified: 2026-07-05
+postcode: CM20 2DH
+lat: 51.78735
+lon: 0.12415
+location-source: companies-house
 tags:
   - defence
   - mbr-ads

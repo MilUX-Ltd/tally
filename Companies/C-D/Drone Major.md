@@ -9,6 +9,10 @@ uk-region: London
 founded: 2016
 size: micro
 sources-verified: 2026-07-04
+postcode: W1S 4JL
+lat: 51.50818
+lon: -0.14143
+location-source: companies-house
 tags:
   - defence
   - uas

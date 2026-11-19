@@ -6,6 +6,9 @@ hq: East Kilbride, UK
 uk-region: Scotland
 founded: 1994
 sources-verified: 2026-07-05
+lat: 55.75807
+lon: -4.16605
+location-source: town
 tags:
   - defence
   - mbr-ads

@@ -9,6 +9,8 @@ founded: 2020
 size: medium
 headcount: 100+
 sources-verified: 2026-07-03
+location-source: region
+location-note: UK location not published
 tags:
   - defence
   - size-medium

@@ -9,6 +9,10 @@ uk-region: Northern Ireland
 founded: 1969
 size: small
 sources-verified: 2026-07-04
+postcode: BT46 5DR
+lat: 54.83596
+lon: -6.67915
+location-source: companies-house
 tags:
   - defence
   - land

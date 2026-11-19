@@ -9,6 +9,10 @@ uk-region: London
 founded: 2023
 size: micro
 sources-verified: 2026-07-04
+postcode: W1W 5PF
+lat: 51.52167
+lon: -0.1437
+location-source: companies-house
 tags:
   - defence
   - training

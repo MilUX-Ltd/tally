@@ -6,6 +6,9 @@ hq: Chelmsford, United Kingdom
 uk-region: East of England
 size: small
 sources-verified: 2026-07-16
+lat: 51.73453
+lon: 0.47305
+location-source: town
 tags:
   - defence
   - electronics

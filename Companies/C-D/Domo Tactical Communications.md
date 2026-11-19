@@ -10,6 +10,10 @@ founded: 1974
 size: small
 headcount: 140
 sources-verified: 2026-07-04
+postcode: PO15 7AB
+lat: 50.87705
+lon: -1.2478
+location-source: companies-house
 tags:
   - defence
   - comms

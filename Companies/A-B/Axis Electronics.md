@@ -8,6 +8,9 @@ uk-region: East of England
 founded: 1995
 size: medium
 sources-verified: 2026-07-04
+lat: 52.13638
+lon: -0.4675
+location-source: town
 tags:
   - defence
   - air

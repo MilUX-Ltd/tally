@@ -4,6 +4,12 @@ name: Aviation and Security Assistance (UK) Ltd
 hq: United Kingdom
 size: small
 sources-verified: 2026-07-04
+companies-house: "15909742"
+postcode: E1W 9US
+lat: 51.51902
+lon: -0.05811
+location-source: companies-house
+location-note: registered office of the company with this exact name on the register
 tags:
   - defence
   - air

@@ -8,6 +8,9 @@ uk-region: South East
 founded: 2020
 size: small
 sources-verified: 2026-07-16
+lat: 51.75198
+lon: -1.25765
+location-source: town
 tags:
   - defence
   - quantum

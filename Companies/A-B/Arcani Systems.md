@@ -9,6 +9,10 @@ uk-region: London
 founded: 2024
 size: micro
 sources-verified: 2026-07-03
+postcode: HP18 0XB
+lat: 51.84325
+lon: -0.97314
+location-source: companies-house
 tags:
   - defence
   - counter-uas

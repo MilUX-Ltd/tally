@@ -5,6 +5,9 @@ website: https://www.ukc.group
 hq: Latchingdon, UK
 uk-region: East of England
 sources-verified: 2026-06-30
+lat: 51.65978
+lon: 0.72481
+location-source: town
 tags:
   - defence
   - mbr-ads

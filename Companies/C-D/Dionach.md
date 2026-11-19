@@ -9,6 +9,10 @@ uk-region: South East
 founded: 2000
 size: small
 sources-verified: 2026-07-04
+postcode: OX4 2PG
+lat: 51.72968
+lon: -1.18489
+location-source: companies-house
 tags:
   - defence
   - cyber

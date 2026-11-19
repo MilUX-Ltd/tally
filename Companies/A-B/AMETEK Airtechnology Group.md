@@ -7,6 +7,9 @@ hq: Basingstoke, UK
 uk-region: South East
 size: large
 sources-verified: 2026-07-03
+lat: 51.26775
+lon: -1.08834
+location-source: town
 tags:
   - defence
   - air

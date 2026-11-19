@@ -6,6 +6,9 @@ hq: Preston, UK
 uk-region: North West
 size: micro
 sources-verified: 2026-07-05
+lat: 53.76055
+lon: -2.69853
+location-source: town
 tags:
   - defence
   - size-micro

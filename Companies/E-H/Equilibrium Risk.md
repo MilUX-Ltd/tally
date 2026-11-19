@@ -6,6 +6,9 @@ hq: Huddersfield, England
 uk-region: Yorkshire and The Humber
 size: micro
 sources-verified: 2026-07-16
+lat: 53.64428
+lon: -1.7822
+location-source: town
 tags:
   - defence
   - training

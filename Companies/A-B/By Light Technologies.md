@@ -8,6 +8,10 @@ uk-region: North West
 founded: 2024
 size: small
 sources-verified: 2026-07-04
+postcode: SK7 2DH
+lat: 53.35726
+lon: -2.16421
+location-source: companies-house
 tags:
   - defence
   - cyber

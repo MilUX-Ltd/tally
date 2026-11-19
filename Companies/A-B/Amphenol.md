@@ -8,6 +8,9 @@ uk-region: South East
 founded: 1963
 size: large
 sources-verified: 2026-07-03
+lat: 51.35848
+lon: 1.02465
+location-source: town
 tags:
   - defence
   - hardware

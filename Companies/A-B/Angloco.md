@@ -9,6 +9,10 @@ uk-region: Yorkshire and The Humber
 founded: 1965
 size: medium
 sources-verified: 2026-07-03
+postcode: WF17 5TA
+lat: 53.71048
+lon: -1.62425
+location-source: companies-house
 tags:
   - defence
   - land

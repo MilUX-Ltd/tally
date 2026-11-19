@@ -9,6 +9,10 @@ uk-region: London
 founded: 2019
 size: micro
 sources-verified: 2026-07-05
+postcode: SE1 7TY
+lat: 51.48944
+lon: -0.12337
+location-source: companies-house
 tags:
   - defence
   - mbr-ads

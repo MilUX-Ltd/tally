@@ -9,6 +9,10 @@ uk-region: South East
 founded: 2012
 size: small
 sources-verified: 2026-07-16
+postcode: SL1 1PG
+lat: 51.50836
+lon: -0.5953
+location-source: companies-house
 tags:
   - defence
   - data

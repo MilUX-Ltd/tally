@@ -5,6 +5,9 @@ website: https://newtonimpact.com
 hq: Oxfordshire, UK
 uk-region: South East
 sources-verified: 2026-07-05
+lat: 51.83333
+lon: -1.25
+location-source: town
 tags:
   - defence
   - mbr-ads

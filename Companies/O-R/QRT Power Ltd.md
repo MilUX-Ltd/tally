@@ -5,6 +5,9 @@ website: https://www.qrtpower.com
 hq: Crowborough, United Kingdom
 uk-region: South East
 sources-verified: 2026-07-05
+lat: 51.06059
+lon: 0.16168
+location-source: town
 tags:
   - defence
   - mbr-ads

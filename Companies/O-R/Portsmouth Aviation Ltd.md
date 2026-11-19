@@ -5,6 +5,9 @@ website: https://www.portav.com
 hq: Portsmouth, United Kingdom
 uk-region: South East
 sources-verified: 2026-07-05
+lat: 50.79685
+lon: -1.09117
+location-source: town
 tags:
   - defence
   - mbr-ads

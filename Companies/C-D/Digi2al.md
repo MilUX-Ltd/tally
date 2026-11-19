@@ -9,6 +9,10 @@ uk-region: South East
 founded: 2013
 size: small
 sources-verified: 2026-07-04
+postcode: BN3 2FA
+lat: 50.82701
+lon: -0.16296
+location-source: companies-house
 tags:
   - defence
   - software

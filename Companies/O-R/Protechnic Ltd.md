@@ -6,6 +6,9 @@ hq: Nailsea, UK
 uk-region: South West
 size: small
 sources-verified: 2026-07-05
+lat: 51.4333
+lon: -2.75834
+location-source: town
 tags:
   - defence
   - size-small

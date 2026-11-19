@@ -10,6 +10,10 @@ founded: 2024
 size: medium
 headcount: ~125
 sources-verified: 2026-07-04
+postcode: EC4Y 0HA
+lat: 51.51137
+lon: -0.10821
+location-source: companies-house
 tags:
   - defence
   - air

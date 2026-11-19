@@ -9,6 +9,10 @@ uk-region: London
 founded: 2002
 size: micro
 sources-verified: 2026-07-05
+postcode: EC1Y 8LZ
+lat: 51.52283
+lon: -0.09008
+location-source: companies-house
 tags:
   - defence
   - mbr-ads

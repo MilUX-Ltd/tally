@@ -5,6 +5,9 @@ website: http://www.lymingtonprecision.co.uk
 hq: Lymington, United Kingdom
 uk-region: South East
 sources-verified: 2026-07-04
+lat: 50.75829
+lon: -1.54204
+location-source: town
 tags:
   - defence
   - mbr-ads

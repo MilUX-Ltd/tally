@@ -10,6 +10,10 @@ founded: 2017
 size: large
 headcount: 115000
 sources-verified: 2026-07-04
+postcode: GU14 7BF
+lat: 51.28559
+lon: -0.76115
+location-source: companies-house
 tags:
   - defence
   - software

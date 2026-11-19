@@ -8,6 +8,7 @@ uk-region: Overseas
 founded: 2025
 size: small
 sources-verified: 2026-07-17
+country: Türkiye
 tags:
   - defence
   - hardware

@@ -8,6 +8,10 @@ uk-region: South West
 founded: 2010
 size: small
 sources-verified: 2026-07-05
+postcode: TQ4 7BB
+lat: 50.41394
+lon: -3.5846
+location-source: companies-house
 tags:
   - defence
   - mbr-ads

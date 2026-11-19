@@ -5,6 +5,9 @@ website: https://www.xcelo.co.uk
 hq: Somerset, United Kingdom
 uk-region: South West
 sources-verified: 2026-07-01
+lat: 51.16175
+lon: -3.07539
+location-source: town
 tags:
   - defence
   - mbr-ads

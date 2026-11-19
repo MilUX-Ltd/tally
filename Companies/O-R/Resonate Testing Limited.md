@@ -8,6 +8,10 @@ hq: Newry, United Kingdom
 uk-region: Northern Ireland
 founded: 2015
 sources-verified: 2026-07-05
+postcode: BT35 8XF
+lat: 54.16039
+lon: -6.34665
+location-source: companies-house
 tags:
   - defence
   - mbr-ads

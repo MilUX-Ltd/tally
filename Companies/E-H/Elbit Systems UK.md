@@ -10,6 +10,10 @@ founded: 2004
 size: large
 headcount: 680
 sources-verified: 2026-07-03
+postcode: BS34 6FF
+lat: 51.51909
+lon: -2.56314
+location-source: companies-house
 tags:
   - defence
   - uas

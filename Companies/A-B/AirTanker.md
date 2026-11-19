@@ -10,6 +10,10 @@ founded: 2007
 size: large
 headcount: ~702
 sources-verified: 2026-07-03
+postcode: OX18 3LX
+lat: 51.76231
+lon: -1.58166
+location-source: companies-house
 tags:
   - defence
   - air

@@ -7,6 +7,9 @@ hq: Shipley, UK
 uk-region: Yorkshire and The Humber
 size: medium
 sources-verified: 2026-06-29
+lat: 53.8339
+lon: -1.77862
+location-source: town
 tags:
   - defence
   - rf

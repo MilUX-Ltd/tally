@@ -10,6 +10,10 @@ founded: 2012
 size: small
 headcount: 50
 sources-verified: 2026-07-04
+postcode: BS1 4AX
+lat: 51.45282
+lon: -2.59643
+location-source: companies-house
 tags:
   - defence
   - software

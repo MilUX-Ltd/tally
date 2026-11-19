@@ -6,6 +6,9 @@ hq: Plymouth, United Kingdom
 uk-region: South West
 founded: 1986
 sources-verified: 2026-07-04
+lat: 50.37001
+lon: -4.14207
+location-source: town
 tags:
   - defence
   - mbr-ads

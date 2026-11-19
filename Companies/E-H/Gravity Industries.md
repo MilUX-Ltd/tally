@@ -9,6 +9,10 @@ uk-region: South West
 founded: 2017
 size: micro
 sources-verified: 2026-07-04
+postcode: SP2 8PU
+lat: 51.06728
+lon: -1.84424
+location-source: companies-house
 tags:
   - defence
   - autonomy

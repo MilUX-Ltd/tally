@@ -5,6 +5,9 @@ website: https://www.pacscieurope.com
 hq: Maidenhead, United Kingdom
 uk-region: South East
 sources-verified: 2026-07-03
+lat: 51.52275
+lon: -0.72021
+location-source: town
 tags:
   - defence
   - mbr-ads

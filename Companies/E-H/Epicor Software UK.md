@@ -10,6 +10,10 @@ founded: 1972
 size: large
 headcount: 6200
 sources-verified: 2026-07-04
+postcode: RG12 1PU
+lat: 51.41595
+lon: -0.76034
+location-source: companies-house
 tags:
   - defence
   - software

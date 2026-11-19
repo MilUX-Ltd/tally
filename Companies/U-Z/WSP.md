@@ -6,6 +6,8 @@ hq: Montreal, Canada
 uk-region: London
 size: large
 sources-verified: 2026-07-01
+location-source: region
+location-note: UK location not published
 tags:
   - defence
   - size-large

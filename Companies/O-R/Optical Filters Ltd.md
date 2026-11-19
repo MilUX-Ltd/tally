@@ -7,6 +7,10 @@ hq: Thame, United Kingdom
 uk-region: South East
 size: small
 sources-verified: 2026-07-16
+postcode: OX9 3XA
+lat: 51.73987
+lon: -0.969
+location-source: companies-house
 tags:
   - defence
   - optronics

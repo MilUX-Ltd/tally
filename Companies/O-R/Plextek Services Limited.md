@@ -4,6 +4,9 @@ name: Plextek Services Limited
 website: https://www.plextek.com
 hq: Great Chesterford, United Kingdom
 uk-region: East of England
+lat: 52.06519
+lon: 0.19911
+location-source: town
 tags:
   - defence
   - mbr-ads

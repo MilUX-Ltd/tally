@@ -9,6 +9,10 @@ uk-region: South East
 founded: 2010
 size: small
 sources-verified: 2026-07-05
+postcode: PO14 4AR
+lat: 50.84984
+lon: -1.23144
+location-source: companies-house
 tags:
   - defence
   - manufacturing

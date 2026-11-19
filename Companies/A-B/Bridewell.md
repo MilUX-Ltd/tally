@@ -9,6 +9,9 @@ founded: 2013
 size: large
 headcount: 300+
 sources-verified: 2026-07-04
+lat: 51.4538
+lon: -0.97376
+location-source: town
 tags:
   - defence
   - cyber

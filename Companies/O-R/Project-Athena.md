@@ -4,6 +4,8 @@ name: Project-Athena
 website: https://project-athena.co.uk
 size: micro
 sources-verified: 2026-07-05
+location-source: region
+location-note: UK location not published
 tags:
   - defence
   - uas

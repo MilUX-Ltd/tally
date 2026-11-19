@@ -5,6 +5,9 @@ website: https://www.smytec-ltd.com
 hq: Market Harborough, United Kingdom
 uk-region: East Midlands
 sources-verified: 2026-06-30
+lat: 52.47953
+lon: -0.92269
+location-source: town
 tags:
   - defence
   - mbr-ads

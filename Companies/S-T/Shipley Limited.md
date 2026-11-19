@@ -5,6 +5,9 @@ website: https://www.shipleywins.co.uk
 hq: Yeovil, United Kingdom
 uk-region: South West
 sources-verified: 2026-06-30
+lat: 50.94077
+lon: -2.63352
+location-source: town
 tags:
   - defence
   - mbr-ads

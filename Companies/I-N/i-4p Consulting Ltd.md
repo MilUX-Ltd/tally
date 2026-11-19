@@ -5,6 +5,9 @@ website: https://i-4p.com
 hq: Laddingford, United Kingdom
 uk-region: South East
 sources-verified: 2026-07-05
+lat: 51.20791
+lon: 0.41831
+location-source: town
 tags:
   - defence
   - mbr-ads

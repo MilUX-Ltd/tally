@@ -5,6 +5,8 @@ website: https://www.krakenrobotics.com
 hq: St. John's, Canada
 uk-region: Scotland
 sources-verified: 2026-07-04
+location-source: region
+location-note: UK location not published
 tags:
   - defence
   - mbr-ads

@@ -9,6 +9,10 @@ uk-region: South East
 founded: 1969
 size: small
 sources-verified: 2026-07-04
+postcode: GU12 4UH
+lat: 51.25469
+lon: -0.73671
+location-source: companies-house
 tags:
   - defence
   - manufacturing

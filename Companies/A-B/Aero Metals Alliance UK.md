@@ -10,6 +10,10 @@ founded: 2014
 size: medium
 headcount:
 sources-verified: 2026-07-03
+postcode: WS10 7WP
+lat: 52.54611
+lon: -2.03145
+location-source: companies-house
 tags:
   - defence
   - air

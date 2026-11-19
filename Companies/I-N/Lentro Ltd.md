@@ -7,6 +7,10 @@ hq: London, United Kingdom
 uk-region: London
 size: micro
 sources-verified: 2026-07-04
+postcode: W5 2JP
+lat: 51.52114
+lon: -0.30292
+location-source: companies-house
 tags:
   - defence
   - size-micro

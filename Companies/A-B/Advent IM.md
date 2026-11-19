@@ -10,6 +10,10 @@ founded: 2002
 size: small
 headcount:
 sources-verified: 2026-07-03
+postcode: B63 2QB
+lat: 52.46699
+lon: -2.10103
+location-source: companies-house
 tags:
   - defence
   - cyber

@@ -9,6 +9,10 @@ uk-region: South West
 founded: 1997
 size: small
 sources-verified: 2026-07-04
+postcode: SP1 3TB
+lat: 51.07335
+lon: -1.79665
+location-source: companies-house
 tags:
   - defence
   - size-small

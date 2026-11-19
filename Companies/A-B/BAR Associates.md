@@ -9,6 +9,10 @@ uk-region: South West
 founded: 2015
 size: micro
 sources-verified: 2026-07-04
+postcode: EX20 1HQ
+lat: 50.73867
+lon: -4.00383
+location-source: companies-house
 tags:
   - defence
   - type-consultancy

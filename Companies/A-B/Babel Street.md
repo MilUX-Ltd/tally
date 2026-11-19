@@ -9,6 +9,10 @@ uk-region: London
 founded: 2009
 size: large
 sources-verified: 2026-07-04
+postcode: W1G 0PW
+lat: 51.51599
+lon: -0.14405
+location-source: companies-house
 tags:
   - defence
   - ai

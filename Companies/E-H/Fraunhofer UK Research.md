@@ -9,6 +9,10 @@ uk-region: Scotland
 founded: 2012
 size: small
 sources-verified: 2026-07-04
+postcode: G1 1RD
+lat: 55.86073
+lon: -4.24407
+location-source: companies-house
 tags:
   - defence
   - sensors

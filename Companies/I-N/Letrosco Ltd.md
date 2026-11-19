@@ -6,6 +6,10 @@ hq: Axbridge, United Kingdom
 uk-region: South West
 size: micro
 sources-verified: 2026-07-04
+postcode: BS26 2DL
+lat: 51.28721
+lon: -2.80746
+location-source: companies-house
 tags:
   - defence
   - size-micro

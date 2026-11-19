@@ -7,6 +7,10 @@ hq: Farnham, United Kingdom
 uk-region: Scotland
 founded: 2024
 sources-verified: 2026-07-04
+postcode: GU15 3SY
+lat: 51.33853
+lon: -0.74343
+location-source: companies-house
 tags:
   - defence
   - mbr-ads

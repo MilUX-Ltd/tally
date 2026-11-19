@@ -8,6 +8,10 @@ uk-region: West Midlands
 founded: 2021
 size: small
 sources-verified: 2026-07-16
+postcode: B1 3NJ
+lat: 52.48611
+lon: -1.90965
+location-source: companies-house
 tags:
   - defence
   - ai

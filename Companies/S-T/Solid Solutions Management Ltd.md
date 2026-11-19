@@ -5,6 +5,9 @@ website: https://www.solidsolutions.co.uk
 hq: Kenilworth, United Kingdom
 uk-region: West Midlands
 sources-verified: 2026-06-30
+lat: 52.34256
+lon: -1.5791
+location-source: town
 tags:
   - defence
   - mbr-ads

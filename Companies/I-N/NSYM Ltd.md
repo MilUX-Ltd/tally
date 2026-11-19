@@ -7,6 +7,9 @@ uk-region: West Midlands
 founded: 2025
 size: micro
 sources-verified: 2026-07-05
+lat: 53.02218
+lon: -2.17337
+location-source: town
 tags:
   - defence
   - size-micro

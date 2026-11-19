@@ -6,6 +6,9 @@ hq: Stirling, United Kingdom
 uk-region: Scotland
 size: micro
 sources-verified: 2026-07-05
+lat: 56.11546
+lon: -3.93416
+location-source: town
 tags:
   - defence
   - size-micro

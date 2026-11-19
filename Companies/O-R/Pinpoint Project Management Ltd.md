@@ -5,6 +5,9 @@ website: https://www.rivr.uk
 hq: Lydney, United Kingdom
 uk-region: South West
 sources-verified: 2026-07-05
+lat: 51.72635
+lon: -2.53121
+location-source: town
 tags:
   - defence
   - mbr-ads

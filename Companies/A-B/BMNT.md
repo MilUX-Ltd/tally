@@ -8,6 +8,10 @@ hq: London, United Kingdom
 uk-region: London
 size: small
 sources-verified: 2026-07-04
+postcode: WC2A 1QS
+lat: 51.51749
+lon: -0.11292
+location-source: companies-house
 tags:
   - defence
   - ai

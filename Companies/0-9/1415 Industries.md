@@ -5,6 +5,8 @@ linkedin: https://www.linkedin.com/company/107442049
 uk-region: South West
 founded: 2025
 sources-verified: 2026-07-03
+location-source: region
+location-note: UK location not published
 tags:
   - defence
   - comms

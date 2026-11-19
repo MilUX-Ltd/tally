@@ -5,6 +5,8 @@ website: https://www.xonaspace.com
 hq: San Mateo, United States
 uk-region: Scotland
 sources-verified: 2026-07-01
+location-source: region
+location-note: UK location not published
 tags:
   - defence
   - mbr-ads

@@ -10,6 +10,10 @@ founded: 2007
 size: small
 headcount: ~31
 sources-verified: 2026-07-04
+postcode: GU14 0LX
+lat: 51.27605
+lon: -0.76152
+location-source: companies-house
 tags:
   - defence
   - cyber

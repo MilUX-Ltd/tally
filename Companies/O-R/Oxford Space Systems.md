@@ -9,6 +9,9 @@ founded: 2013
 size: medium
 headcount: 100+
 sources-verified: 2026-07-16
+lat: 51.59885
+lon: -1.29204
+location-source: town
 tags:
   - defence
   - space

@@ -8,6 +8,9 @@ founded: 1920
 size: medium
 headcount: 201-500
 sources-verified: 2026-07-05
+lat: 53.64428
+lon: -1.7822
+location-source: town
 tags:
   - defence
   - mbr-ads

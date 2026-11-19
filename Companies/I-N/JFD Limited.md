@@ -5,6 +5,9 @@ website: https://www.jfdglobal.com
 hq: Glasgow, UK
 uk-region: Scotland
 sources-verified: 2026-07-04
+lat: 55.86363
+lon: -4.23688
+location-source: town
 tags:
   - defence
   - mbr-ads

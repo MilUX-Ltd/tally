@@ -10,6 +10,10 @@ founded: 2007
 size: small
 headcount: ~16
 sources-verified: 2026-07-04
+postcode: SG8 0SS
+lat: 52.0711
+lon: -0.08203
+location-source: companies-house
 tags:
   - defence
   - sensors

@@ -8,6 +8,10 @@ uk-region: Northern Ireland
 founded: 2005
 size: small
 sources-verified: 2026-07-04
+postcode: BT28 2ST
+lat: 54.50095
+lon: -6.10463
+location-source: companies-house
 tags:
   - defence
   - air

@@ -9,6 +9,10 @@ uk-region: London
 founded: 2023
 size: small
 sources-verified: 2026-07-04
+postcode: W1W 8BD
+lat: 51.5172
+lon: -0.13974
+location-source: companies-house
 tags:
   - defence
   - simulation

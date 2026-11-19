@@ -7,6 +7,10 @@ hq: Cheadle Hulme, United Kingdom
 uk-region: North West
 size: small
 sources-verified: 2026-07-03
+postcode: SK8 7BS
+lat: 53.37488
+lon: -2.18667
+location-source: companies-house
 tags:
   - defence
   - type-consultancy

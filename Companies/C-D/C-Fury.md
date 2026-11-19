@@ -9,6 +9,10 @@ uk-region: West Midlands
 founded: 2001
 size: micro
 sources-verified: 2026-07-04
+postcode: SY5 6DL
+lat: 52.63241
+lon: -2.59949
+location-source: companies-house
 tags:
   - defence
   - maritime

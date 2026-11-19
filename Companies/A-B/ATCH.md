@@ -9,6 +9,10 @@ uk-region: South West
 founded: 2022
 size: micro
 sources-verified: 2026-07-03
+postcode: BH23 3PY
+lat: 50.73984
+lon: -1.74692
+location-source: companies-house
 tags:
   - defence
   - cyber

@@ -5,6 +5,9 @@ website: http://www.veripos.com
 hq: Aberdeen, United Kingdom
 uk-region: Scotland
 sources-verified: 2026-07-01
+lat: 57.14985
+lon: -2.09376
+location-source: town
 tags:
   - defence
   - mbr-ads

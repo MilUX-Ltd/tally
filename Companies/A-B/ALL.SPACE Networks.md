@@ -9,6 +9,10 @@ uk-region: South East
 founded: 2013
 size: medium
 sources-verified: 2026-07-03
+postcode: RG6 1RB
+lat: 51.46238
+lon: -0.92445
+location-source: companies-house
 tags:
   - defence
   - space

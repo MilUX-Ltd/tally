@@ -9,6 +9,10 @@ uk-region: South East
 founded: 2018
 size: small
 sources-verified: 2026-07-04
+postcode: GU1 1UJ
+lat: 51.24148
+lon: -0.56173
+location-source: companies-house
 tags:
   - defence
   - space

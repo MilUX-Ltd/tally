@@ -8,6 +8,10 @@ uk-region: South East
 founded: 1986
 size: small
 sources-verified: 2026-07-04
+postcode: SO51 7JF
+lat: 51.00812
+lon: -1.48559
+location-source: companies-house
 tags:
   - defence
   - hardware

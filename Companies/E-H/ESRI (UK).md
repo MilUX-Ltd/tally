@@ -10,6 +10,10 @@ founded: 1976
 size: large
 headcount: 400
 sources-verified: 2026-07-04
+postcode: HP21 7QG
+lat: 51.8133
+lon: -0.80885
+location-source: website
 tags:
   - defence
   - gis

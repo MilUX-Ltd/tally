@@ -9,6 +9,10 @@ uk-region: South West
 founded: 1975
 size: medium
 sources-verified: 2026-07-03
+postcode: LS1 4DL
+lat: 53.79615
+lon: -1.55076
+location-source: companies-house
 tags:
   - defence
   - counter-uas

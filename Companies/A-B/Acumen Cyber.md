@@ -9,6 +9,10 @@ uk-region: Scotland
 founded: 2023
 size: small
 sources-verified: 2026-07-03
+postcode: G40 4DS
+lat: 55.84199
+lon: -4.22111
+location-source: companies-house
 tags:
   - defence
   - cyber

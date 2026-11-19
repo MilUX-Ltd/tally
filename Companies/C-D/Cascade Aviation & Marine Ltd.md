@@ -6,6 +6,9 @@ hq: Leicester, England
 uk-region: East Midlands
 size: micro
 sources-verified: 2026-07-16
+lat: 52.63361
+lon: -1.13346
+location-source: town
 tags:
   - defence
   - land

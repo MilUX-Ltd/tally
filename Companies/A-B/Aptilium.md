@@ -9,6 +9,10 @@ uk-region: South East
 founded: 2019
 size: micro
 sources-verified: 2026-07-03
+postcode: RH14 0QQ
+lat: 51.03421
+lon: -0.55451
+location-source: companies-house
 tags:
   - defence
   - manufacturing

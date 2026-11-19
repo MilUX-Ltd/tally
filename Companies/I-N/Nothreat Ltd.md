@@ -6,6 +6,9 @@ hq: London, United Kingdom
 uk-region: London
 size: small
 sources-verified: 2026-07-16
+lat: 51.50741
+lon: -0.12772
+location-source: town
 tags:
   - defence
   - cyber

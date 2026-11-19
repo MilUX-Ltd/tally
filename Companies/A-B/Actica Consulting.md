@@ -10,6 +10,10 @@ founded: 1997
 size: medium
 headcount: ~224
 sources-verified: 2026-07-03
+postcode: GU2 7RF
+lat: 51.24165
+lon: -0.61254
+location-source: companies-house
 tags:
   - defence
   - cyber

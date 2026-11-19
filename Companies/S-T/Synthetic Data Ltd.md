@@ -2,6 +2,12 @@
 type: organisation
 name: Synthetic Data Ltd
 sources-verified: 2026-06-29
+companies-house: "10968850"
+postcode: PO21 4DF
+lat: 50.77885
+lon: -0.7175
+location-source: companies-house
+location-note: registered office of the company with this exact name on the register
 tags:
   - defence
   - data

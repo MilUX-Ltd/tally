@@ -9,6 +9,10 @@ uk-region: East Midlands
 founded: 2010
 size: micro
 sources-verified: 2026-07-04
+postcode: DE6 5JP
+lat: 52.91012
+lon: -1.61735
+location-source: companies-house
 tags:
   - defence
   - munitions

@@ -5,6 +5,9 @@ website: https://www.pirancomposites.com
 hq: Newquay, United Kingdom
 uk-region: South West
 sources-verified: 2026-07-05
+lat: 50.4136
+lon: -5.08215
+location-source: town
 tags:
   - defence
   - mbr-ads

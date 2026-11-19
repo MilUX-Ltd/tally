@@ -8,6 +8,7 @@ uk-region: Overseas
 founded: 1999
 size: small
 sources-verified: 2026-07-03
+country: Ireland
 tags:
   - defence
   - air

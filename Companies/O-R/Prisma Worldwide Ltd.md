@@ -8,6 +8,10 @@ hq: Cobham, UK
 uk-region: South East
 founded: 2016
 sources-verified: 2026-07-05
+postcode: RH5 5NB
+lat: 51.12545
+lon: -0.38018
+location-source: companies-house
 tags:
   - defence
   - mbr-ads

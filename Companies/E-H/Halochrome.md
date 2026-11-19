@@ -8,6 +8,10 @@ hq: Bath
 uk-region: South West
 founded: 2020
 sources-verified: 2026-07-04
+postcode: BA1 1LB
+lat: 51.38049
+lon: -2.35691
+location-source: companies-house
 tags:
   - defence
   - cyber

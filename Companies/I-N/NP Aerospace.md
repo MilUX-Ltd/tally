@@ -10,6 +10,10 @@ founded: 1926
 size: large
 headcount: ~350
 sources-verified: 2026-07-05
+postcode: CV6 5AQ
+lat: 52.42662
+lon: -1.50114
+location-source: companies-house
 tags:
   - defence
   - land

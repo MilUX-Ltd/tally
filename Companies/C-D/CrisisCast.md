@@ -9,6 +9,10 @@ uk-region: London
 founded: 2013
 size: micro
 sources-verified: 2026-07-04
+postcode: TN32 5RA
+lat: 50.99284
+lon: 0.53496
+location-source: companies-house
 tags:
   - defence
   - training

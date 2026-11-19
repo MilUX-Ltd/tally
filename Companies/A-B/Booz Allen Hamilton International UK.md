@@ -9,6 +9,10 @@ uk-region: East of England
 founded: 2000
 size: large
 sources-verified: 2026-07-04
+postcode: PE29 6FN
+lat: 52.33689
+lon: -0.2071
+location-source: companies-house
 tags:
   - defence
   - cyber

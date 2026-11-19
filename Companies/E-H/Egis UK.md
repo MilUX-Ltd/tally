@@ -10,6 +10,10 @@ founded: 1970
 size: large
 headcount: 1000
 sources-verified: 2026-07-03
+postcode: SE1 8QH
+lat: 51.50165
+lon: -0.10583
+location-source: companies-house
 tags:
   - defence
   - manufacturing

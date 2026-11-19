@@ -5,6 +5,9 @@ website: https://www.amdaris.com
 hq: Bristol
 uk-region: South West
 sources-verified: 2026-07-03
+lat: 51.45313
+lon: -2.60098
+location-source: town
 tags:
   - defence
   - software

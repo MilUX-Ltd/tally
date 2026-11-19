@@ -10,6 +10,10 @@ founded: 2014
 size: small
 headcount: 48
 sources-verified: 2026-07-04
+postcode: EX10 0PD
+lat: 50.70915
+lon: -3.17615
+location-source: companies-house
 tags:
   - defence
   - uas

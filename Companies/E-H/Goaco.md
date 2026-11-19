@@ -7,6 +7,10 @@ hq: United Kingdom
 founded: 2010
 size: small
 sources-verified: 2026-07-04
+postcode: DA2 6QD
+lat: 51.45566
+lon: 0.24881
+location-source: website
 tags:
   - defence
   - cyber

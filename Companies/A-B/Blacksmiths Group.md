@@ -9,6 +9,10 @@ uk-region: South West
 founded: 2015
 size: small
 sources-verified: 2026-07-04
+postcode: GL50 3PN
+lat: 51.90048
+lon: -2.07869
+location-source: companies-house
 tags:
   - defence
   - cyber

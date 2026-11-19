@@ -7,6 +7,9 @@ hq: Downton, United Kingdom
 uk-region: South West
 founded: 2013
 sources-verified: 2026-07-05
+lat: 50.99279
+lon: -1.74189
+location-source: town
 tags:
   - defence
   - mbr-ads

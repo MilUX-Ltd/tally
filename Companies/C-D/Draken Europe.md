@@ -9,6 +9,10 @@ uk-region: South West
 founded: 1985
 size: large
 sources-verified: 2026-07-04
+postcode: BH23 6NE
+lat: 50.78494
+lon: -1.83609
+location-source: companies-house
 tags:
   - defence
   - air

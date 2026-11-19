@@ -4,6 +4,8 @@ name: Lionbridge
 website: https://www.lionbridge.com
 size: large
 sources-verified: 2026-07-04
+location-source: region
+location-note: UK location not published
 tags:
   - defence
   - training

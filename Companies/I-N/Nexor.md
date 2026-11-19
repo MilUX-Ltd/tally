@@ -8,6 +8,10 @@ hq: Nottingham, United Kingdom
 uk-region: East Midlands
 size: small
 sources-verified: 2026-07-05
+postcode: NG2 1AE
+lat: 52.94112
+lon: -1.16656
+location-source: companies-house
 tags:
   - defence
   - cyber

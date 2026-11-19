@@ -9,6 +9,9 @@ founded: 2008
 size: medium
 headcount: "797 (February 2026)"
 sources-verified: 2026-07-04
+lat: 51.50222
+lon: -0.12784
+location-source: town
 tags:
   - defence
   - cyber

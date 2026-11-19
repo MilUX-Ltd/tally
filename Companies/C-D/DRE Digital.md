@@ -9,6 +9,10 @@ uk-region: South East
 founded: 2012
 size: micro
 sources-verified: 2026-07-04
+postcode: SO21 1SB
+lat: 50.99764
+lon: -1.32099
+location-source: companies-house
 tags:
   - defence
   - data

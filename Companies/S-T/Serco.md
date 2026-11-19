@@ -8,6 +8,9 @@ uk-region: South East
 founded: 1929
 size: large
 sources-verified: 2026-06-29
+lat: 51.28247
+lon: -0.96254
+location-source: town
 tags:
   - defence
   - logistics

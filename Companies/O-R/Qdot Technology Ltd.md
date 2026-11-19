@@ -7,6 +7,9 @@ uk-region: South East
 founded: 2020
 size: small
 sources-verified: 2026-07-16
+lat: 51.82172
+lon: -1.28849
+location-source: town
 tags:
   - defence
   - manufacturing

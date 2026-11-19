@@ -5,6 +5,9 @@ website: https://www.isode.com
 hq: Hampton, United Kingdom
 uk-region: South East
 sources-verified: 2026-07-04
+lat: 51.36842
+lon: 1.1036
+location-source: town
 tags:
   - defence
   - mbr-ads

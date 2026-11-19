@@ -10,6 +10,7 @@ founded: 1948
 size: large
 headcount: ~60000
 sources-verified: 2026-07-04
+country: Italy
 tags:
   - defence
   - air

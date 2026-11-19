@@ -5,6 +5,8 @@ website: https://www.standardaero.com
 hq: Scottsdale, United States
 uk-region: South East
 sources-verified: 2026-07-01
+location-source: region
+location-note: UK location not published
 tags:
   - defence
   - mbr-ads

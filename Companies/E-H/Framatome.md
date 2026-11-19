@@ -10,6 +10,10 @@ founded: 2015
 size: large
 headcount: 350
 sources-verified: 2026-07-04
+postcode: BS11 8AR
+lat: 51.5143
+lon: -2.68888
+location-source: companies-house
 tags:
   - defence
   - space

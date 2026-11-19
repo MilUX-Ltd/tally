@@ -9,6 +9,10 @@ uk-region: South East
 founded: 2000
 size: micro
 sources-verified: 2026-07-04
+postcode: PO16 8YE
+lat: 50.84895
+lon: -1.15728
+location-source: companies-house
 tags:
   - defence
   - maritime

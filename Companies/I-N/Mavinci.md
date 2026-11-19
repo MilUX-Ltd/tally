@@ -8,6 +8,10 @@ uk-region: East of England
 founded: 2019
 size: small
 sources-verified: 2026-07-16
+postcode: CB4 0WG
+lat: 52.23432
+lon: 0.13986
+location-source: companies-house
 tags:
   - defence
   - software

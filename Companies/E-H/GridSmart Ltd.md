@@ -7,6 +7,10 @@ hq: Exeter, UK
 uk-region: South West
 size: micro
 sources-verified: 2026-07-04
+postcode: EX2 8PW
+lat: 50.69931
+lon: -3.52392
+location-source: companies-house
 tags:
   - defence
   - isr

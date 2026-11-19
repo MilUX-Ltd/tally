@@ -9,6 +9,10 @@ uk-region: South East
 founded: 2005
 size: small
 sources-verified: 2026-07-04
+postcode: HP5 3HB
+lat: 51.71326
+lon: -0.60979
+location-source: companies-house
 tags:
   - defence
   - land

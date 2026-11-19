@@ -10,6 +10,10 @@ founded: 2005
 size: medium
 headcount: 173
 sources-verified: 2026-07-03
+postcode: MK9 1FH
+lat: 52.03275
+lon: -0.77038
+location-source: companies-house
 tags:
   - defence
   - ai

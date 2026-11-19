@@ -10,6 +10,10 @@ founded: 2004
 size: large
 headcount: 2000
 sources-verified: 2026-07-04
+postcode: GU32 3FQ
+lat: 51.0072
+lon: -0.93454
+location-source: companies-house
 tags:
   - defence
   - maritime

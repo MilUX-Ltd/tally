@@ -5,6 +5,9 @@ website: https://terraglobalsolutions.com
 hq: Oxford, United Kingdom
 uk-region: South East
 sources-verified: 2026-06-30
+lat: 51.75198
+lon: -1.25765
+location-source: town
 tags:
   - defence
   - mbr-ads

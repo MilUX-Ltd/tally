@@ -10,6 +10,7 @@ founded: 2000
 size: large
 headcount: ~83000
 sources-verified: 2026-06-29
+country: France
 tags:
   - defence
   - air

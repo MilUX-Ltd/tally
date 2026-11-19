@@ -10,6 +10,10 @@ founded: 2021
 size: small
 headcount: 21-50
 sources-verified: 2026-07-04
+postcode: AL3 4PQ
+lat: 51.75199
+lon: -0.34258
+location-source: companies-house
 tags:
   - defence
   - ai

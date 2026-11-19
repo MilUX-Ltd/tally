@@ -10,6 +10,10 @@ founded: 2009
 size: large
 headcount: ~1,000 (UK)
 sources-verified: 2026-07-03
+postcode: EC3V 9DU
+lat: 51.51282
+lon: -0.08619
+location-source: companies-house
 tags:
   - defence
   - software

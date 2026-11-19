@@ -8,6 +8,10 @@ uk-region: South West
 founded: 2019
 size: small
 sources-verified: 2026-07-04
+postcode: GL52 6HS
+lat: 51.88896
+lon: -2.05378
+location-source: companies-house
 tags:
   - defence
   - cyber

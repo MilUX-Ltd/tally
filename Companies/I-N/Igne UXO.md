@@ -9,6 +9,10 @@ uk-region: West Midlands
 founded: 2023
 size: medium
 sources-verified: 2026-07-04
+postcode: HR9 7US
+lat: 51.92832
+lon: -2.57026
+location-source: companies-house
 tags:
   - defence
   - munitions

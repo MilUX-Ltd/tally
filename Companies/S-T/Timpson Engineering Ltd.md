@@ -6,6 +6,9 @@ hq: Stanford in the Vale, United Kingdom
 uk-region: South East
 size: micro
 sources-verified: 2026-07-16
+lat: 51.63909
+lon: -1.5058
+location-source: town
 tags:
   - defence
   - manufacturing

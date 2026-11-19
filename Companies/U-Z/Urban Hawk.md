@@ -9,6 +9,10 @@ uk-region: South West
 founded: 2017
 size: micro
 sources-verified: 2026-06-29
+postcode: BS3 5ND
+lat: 51.43541
+lon: -2.60256
+location-source: companies-house
 tags:
   - defence
   - simulation

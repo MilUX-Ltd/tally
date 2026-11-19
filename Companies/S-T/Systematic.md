@@ -8,6 +8,7 @@ uk-region: Overseas
 founded: 1985
 size: large
 sources-verified: 2026-06-29
+country: Denmark
 tags:
   - defence
   - c2

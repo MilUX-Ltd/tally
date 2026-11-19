@@ -4,6 +4,8 @@ name: Verity Advisory Services Ltd
 hq: Northern Ireland, United Kingdom
 uk-region: Northern Ireland
 sources-verified: 2026-07-01
+location-source: region
+location-note: UK location not published
 tags:
   - defence
   - mbr-ads

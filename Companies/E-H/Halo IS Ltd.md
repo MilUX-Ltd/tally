@@ -8,6 +8,10 @@ uk-region: Yorkshire and The Humber
 founded: 2019
 size: small
 sources-verified: 2026-07-04
+postcode: LS10 2JA
+lat: 53.77898
+lon: -1.53533
+location-source: companies-house
 tags:
   - defence
   - mbr-ads

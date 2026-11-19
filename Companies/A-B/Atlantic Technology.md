@@ -10,6 +10,10 @@ founded: 2016
 size: micro
 headcount: ~6
 sources-verified: 2026-07-04
+postcode: GU7 1XW
+lat: 51.18584
+lon: -0.60494
+location-source: companies-house
 tags:
   - defence
   - cyber

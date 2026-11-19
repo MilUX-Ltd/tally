@@ -10,6 +10,10 @@ founded: 1951
 size: medium
 headcount: 120
 sources-verified: 2026-07-04
+postcode: G45 9SZ
+lat: 55.80283
+lon: -4.25254
+location-source: companies-house
 tags:
   - defence
   - manufacturing

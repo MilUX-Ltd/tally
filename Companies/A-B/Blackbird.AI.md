@@ -10,6 +10,7 @@ founded: 2017
 size: small
 headcount: 51-200
 sources-verified: 2026-07-04
+country: United States
 tags:
   - defence
   - ai

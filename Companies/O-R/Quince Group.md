@@ -9,6 +9,10 @@ uk-region: South East
 founded: 2021
 size: micro
 sources-verified: 2026-07-16
+postcode: OX28 4GE
+lat: 51.7763
+lon: -1.49575
+location-source: companies-house
 tags:
   - defence
   - consultancy

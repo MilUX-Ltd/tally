@@ -5,6 +5,9 @@ website: http://www.somerfordassociates.com
 hq: Cirencester, UK
 uk-region: South West
 sources-verified: 2026-07-03
+lat: 51.717
+lon: -1.96838
+location-source: town
 tags:
   - defence
   - cyber

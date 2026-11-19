@@ -8,6 +8,10 @@ uk-region: South East
 founded: 2000
 size: micro
 sources-verified: 2026-07-04
+postcode: GU21 7SA
+lat: 51.31272
+lon: -0.59301
+location-source: companies-house
 tags:
   - defence
   - sensors

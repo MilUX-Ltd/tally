@@ -9,6 +9,10 @@ uk-region: London
 founded: 2010
 size: small
 sources-verified: 2026-07-04
+postcode: E1W 1AJ
+lat: 51.50813
+lon: -0.07073
+location-source: companies-house
 tags:
   - defence
   - software

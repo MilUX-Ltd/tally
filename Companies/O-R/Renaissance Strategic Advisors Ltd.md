@@ -7,6 +7,10 @@ hq: Washington DC, United States
 uk-region: London
 founded: 2011
 sources-verified: 2026-07-05
+postcode: SW1Y 5ES
+lat: 51.50565
+lon: -0.13617
+location-source: companies-house
 tags:
   - defence
   - mbr-ads

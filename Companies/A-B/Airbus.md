@@ -10,6 +10,10 @@ founded: 2014
 size: large
 headcount: 2,600+ across Stevenage and Portsmouth
 sources-verified: 2026-07-03
+postcode: SG1 2AS
+lat: 51.90104
+lon: -0.21202
+location-source: companies-house
 tags:
   - defence
   - space

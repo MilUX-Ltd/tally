@@ -9,6 +9,10 @@ uk-region: London
 founded: 2019
 size: micro
 sources-verified: 2026-07-04
+postcode: NW9 8ES
+lat: 51.56841
+lon: -0.26497
+location-source: companies-house
 tags:
   - defence
   - uas

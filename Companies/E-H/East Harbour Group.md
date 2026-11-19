@@ -9,6 +9,10 @@ uk-region: East of England
 founded: 2017
 size: micro
 sources-verified: 2026-07-04
+postcode: CO4 9QS
+lat: 51.92081
+lon: 0.92973
+location-source: companies-house
 tags:
   - defence
   - munitions

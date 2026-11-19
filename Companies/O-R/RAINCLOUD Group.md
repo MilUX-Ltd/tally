@@ -9,6 +9,7 @@ founded: 2021
 size: small
 headcount: 11-50
 sources-verified: 2026-07-05
+country: United States
 tags:
   - defence
   - data

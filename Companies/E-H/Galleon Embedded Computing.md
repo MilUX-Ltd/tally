@@ -9,6 +9,10 @@ founded: 2009
 size: small
 headcount: 40-50
 sources-verified: 2026-07-04
+postcode: N21 1HS
+lat: 51.63371
+lon: -0.10334
+location-source: companies-house
 tags:
   - defence
   - hardware

@@ -10,6 +10,10 @@ founded: 2015
 size: small
 headcount: 
 sources-verified: 2026-07-04
+postcode: HR6 0LA
+lat: 52.21485
+lon: -2.7322
+location-source: companies-house
 tags:
   - defence
   - cyber

@@ -6,6 +6,9 @@ hq: Didcot, England
 uk-region: South East
 size: micro
 sources-verified: 2026-07-16
+lat: 51.60638
+lon: -1.24264
+location-source: town
 tags:
   - defence
   - software

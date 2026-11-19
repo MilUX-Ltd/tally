@@ -6,6 +6,9 @@ hq: Nottingham, United Kingdom
 uk-region: East Midlands
 size: micro
 sources-verified: 2026-06-30
+lat: 52.9562
+lon: -1.1512
+location-source: town
 tags:
   - defence
   - size-micro

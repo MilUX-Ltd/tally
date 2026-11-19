@@ -8,6 +8,10 @@ uk-region: Wales
 founded: 2017
 size: micro
 sources-verified: 2026-07-04
+postcode: SA31 3AL
+lat: 51.85659
+lon: -4.31255
+location-source: companies-house
 tags:
   - defence
   - training

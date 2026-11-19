@@ -5,6 +5,9 @@ website: https://utcaerospacesystems.com/
 hq: Plymouth, United Kingdom
 uk-region: South West
 sources-verified: 2026-06-30
+lat: 50.37001
+lon: -4.14207
+location-source: town
 tags:
   - defence
   - mbr-ads

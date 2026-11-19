@@ -9,6 +9,10 @@ uk-region: South West
 founded: 1938
 size: medium
 sources-verified: 2026-07-04
+postcode: BS5 7UH
+lat: 51.46939
+lon: -2.54108
+location-source: companies-house
 tags:
   - defence
   - air

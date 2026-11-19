@@ -5,6 +5,8 @@ website: https://nortal.com
 hq: Tallinn, Estonia
 uk-region: London
 sources-verified: 2026-07-05
+location-source: region
+location-note: UK location not published
 tags:
   - defence
   - mbr-ads

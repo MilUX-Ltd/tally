@@ -5,6 +5,9 @@ website: http://www.rhe.co.uk
 hq: St Neots, United Kingdom
 uk-region: East of England
 sources-verified: 2026-07-05
+lat: 52.22758
+lon: -0.27038
+location-source: town
 tags:
   - defence
   - mbr-ads

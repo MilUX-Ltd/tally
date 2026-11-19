@@ -10,6 +10,10 @@ founded: 2020
 size: micro
 headcount: 4
 sources-verified: 2026-07-03
+postcode: HR1 1EG
+lat: 52.06359
+lon: -2.71054
+location-source: companies-house
 tags:
   - defence
   - comms

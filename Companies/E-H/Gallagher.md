@@ -10,6 +10,10 @@ founded: 1938
 size: large
 headcount: 1300
 sources-verified: 2026-07-04
+postcode: CV34 6XZ
+lat: 52.26365
+lon: -1.60848
+location-source: companies-house
 tags:
   - defence
   - cyber

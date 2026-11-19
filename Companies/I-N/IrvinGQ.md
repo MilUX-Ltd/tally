@@ -5,6 +5,9 @@ website: https://www.irvingq.com
 hq: Bridgend, United Kingdom
 uk-region: Wales
 sources-verified: 2026-07-04
+lat: 51.5078
+lon: -3.57814
+location-source: town
 tags:
   - defence
   - mbr-ads

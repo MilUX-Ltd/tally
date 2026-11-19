@@ -8,6 +8,10 @@ uk-region: London
 founded: 2025
 size: micro
 sources-verified: 2026-07-04
+postcode: EC2A 4NA
+lat: 51.52516
+lon: -0.08378
+location-source: companies-house
 tags:
   - defence
   - cyber

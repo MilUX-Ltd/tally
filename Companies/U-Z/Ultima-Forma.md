@@ -8,6 +8,10 @@ hq: Tadley, United Kingdom
 uk-region: South East
 size: small
 sources-verified: 2026-07-16
+postcode: RG26 5DL
+lat: 51.31536
+lon: -1.0696
+location-source: companies-house
 tags:
   - defence
   - manufacturing

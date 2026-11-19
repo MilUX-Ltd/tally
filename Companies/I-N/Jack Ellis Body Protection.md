@@ -5,6 +5,9 @@ website: https://www.jackellis.co.uk
 hq: Kirriemuir, United Kingdom
 uk-region: Scotland
 sources-verified: 2026-07-04
+lat: 56.67312
+lon: -3.00447
+location-source: town
 tags:
   - defence
   - mbr-ads

@@ -10,6 +10,10 @@ founded: 1987
 size: medium
 headcount: 110+
 sources-verified: 2026-06-29
+postcode: BS16 1FJ
+lat: 51.50095
+lon: -2.54113
+location-source: companies-house
 tags:
   - defence
   - air

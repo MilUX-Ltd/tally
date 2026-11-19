@@ -9,6 +9,10 @@ uk-region: South East
 founded: 2019
 size: small
 sources-verified: 2026-07-04
+postcode: OX14 4RY
+lat: 51.62124
+lon: -1.29396
+location-source: companies-house
 tags:
   - defence
   - mbr-ads

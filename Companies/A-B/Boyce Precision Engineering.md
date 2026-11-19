@@ -10,6 +10,10 @@ founded: 2006
 size: small
 headcount: 27
 sources-verified: 2026-07-04
+postcode: BT63 5GA
+lat: 54.45743
+lon: -6.41459
+location-source: companies-house
 tags:
   - defence
   - air

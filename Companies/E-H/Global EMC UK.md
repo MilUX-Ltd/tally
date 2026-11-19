@@ -8,6 +8,10 @@ hq: Kirkby-in-Ashfield, United Kingdom
 uk-region: East Midlands
 size: small
 sources-verified: 2026-07-04
+postcode: CV34 4EW
+lat: 52.28151
+lon: -1.58645
+location-source: companies-house
 tags:
   - defence
   - manufacturing

@@ -10,6 +10,10 @@ founded: 2009
 size: small
 headcount: 30+
 sources-verified: 2026-07-03
+postcode: FY4 2DP
+lat: 53.77715
+lon: -3.03504
+location-source: companies-house
 tags:
   - defence
   - air

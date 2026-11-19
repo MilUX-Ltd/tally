@@ -5,6 +5,9 @@ website: https://www.u-tacs.co.uk
 hq: Leicester, UK
 uk-region: East Midlands
 sources-verified: 2026-06-30
+lat: 52.63361
+lon: -1.13346
+location-source: town
 tags:
   - defence
   - mbr-ads

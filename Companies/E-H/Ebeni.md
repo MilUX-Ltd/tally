@@ -10,6 +10,10 @@ founded: 2004
 size: small
 headcount: 74
 sources-verified: 2026-07-04
+postcode: SN13 8AA
+lat: 51.41491
+lon: -2.25668
+location-source: companies-house
 tags:
   - defence
   - air

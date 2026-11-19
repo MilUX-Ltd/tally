@@ -9,6 +9,10 @@ uk-region: South East
 founded: 2021
 size: small
 sources-verified: 2026-07-03
+postcode: SO50 4SR
+lat: 50.974
+lon: -1.35139
+location-source: companies-house
 tags:
   - defence
   - quantum

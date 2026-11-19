@@ -7,6 +7,9 @@ uk-region: Wales
 founded: 2021
 size: micro
 sources-verified: 2026-07-03
+lat: 51.6196
+lon: -3.94592
+location-source: town
 tags:
   - defence
   - air

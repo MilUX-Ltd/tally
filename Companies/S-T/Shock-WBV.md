@@ -5,6 +5,9 @@ website: https://shock-wbv.com
 hq: Warsash, United Kingdom
 uk-region: South East
 sources-verified: 2026-06-30
+lat: 50.85315
+lon: -1.29637
+location-source: town
 tags:
   - defence
   - mbr-ads

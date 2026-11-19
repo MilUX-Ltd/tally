@@ -7,6 +7,10 @@ hq: Eynsham, United Kingdom
 uk-region: South East
 size: medium
 sources-verified: 2026-07-16
+postcode: OX29 4GF
+lat: 51.78274
+lon: -1.38671
+location-source: companies-house
 tags:
   - defence
   - manufacturing

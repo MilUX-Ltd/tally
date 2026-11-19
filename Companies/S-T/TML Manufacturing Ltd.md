@@ -6,6 +6,9 @@ hq: Weymouth, United Kingdom
 uk-region: South West
 size: small
 sources-verified: 2026-06-30
+lat: 50.60699
+lon: -2.45554
+location-source: town
 tags:
   - defence
   - mbr-ads

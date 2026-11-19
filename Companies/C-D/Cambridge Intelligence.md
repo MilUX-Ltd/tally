@@ -9,6 +9,10 @@ uk-region: East of England
 founded: 2011
 size: medium
 sources-verified: 2026-07-04
+postcode: CB2 1JP
+lat: 52.19773
+lon: 0.12832
+location-source: companies-house
 tags:
   - defence
   - software

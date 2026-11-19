@@ -7,6 +7,10 @@ hq: Latchingdon, England
 uk-region: East of England
 size: small
 sources-verified: 2026-07-04
+postcode: CM3 6HB
+lat: 51.66446
+lon: 0.72944
+location-source: companies-house
 tags:
   - defence
   - hardware

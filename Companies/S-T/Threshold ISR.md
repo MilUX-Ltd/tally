@@ -8,6 +8,10 @@ uk-region: East of England
 founded: 2024
 size: micro
 sources-verified: 2026-06-29
+postcode: IP27 9EQ
+lat: 52.41254
+lon: 0.52869
+location-source: companies-house
 tags:
   - defence
   - isr

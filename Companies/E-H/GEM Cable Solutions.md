@@ -8,6 +8,10 @@ hq: St Albans, United Kingdom
 uk-region: East of England
 size: small
 sources-verified: 2026-07-04
+postcode: AL4 9LP
+lat: 51.77045
+lon: -0.31888
+location-source: companies-house
 tags:
   - defence
   - hardware

@@ -7,6 +7,9 @@ hq: Basildon, United Kingdom
 uk-region: East of England
 size: small
 sources-verified: 2026-07-14
+lat: 51.57024
+lon: 0.45836
+location-source: town
 tags:
   - defence
   - simulation

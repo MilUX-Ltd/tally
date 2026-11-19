@@ -9,6 +9,9 @@ founded: 1956
 size: medium
 headcount: ~65
 sources-verified: 2026-07-04
+lat: 50.4713
+lon: -4.71756
+location-source: town
 tags:
   - defence
   - rf

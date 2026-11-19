@@ -9,6 +9,7 @@ founded: 2023
 size: large
 headcount: 500+
 sources-verified: 2026-07-05
+country: France
 tags:
   - defence
   - ai

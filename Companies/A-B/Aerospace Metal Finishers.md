@@ -9,6 +9,10 @@ founded: 2002
 size: small
 headcount: 11
 sources-verified: 2026-07-03
+postcode: BT42 3AE
+lat: 54.85826
+lon: -6.27645
+location-source: companies-house
 tags:
   - defence
   - manufacturing

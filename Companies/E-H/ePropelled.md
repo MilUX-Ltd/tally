@@ -10,6 +10,10 @@ founded: 2018
 size: small
 headcount: 80
 sources-verified: 2026-07-04
+postcode: CV4 7EZ
+lat: 52.38701
+lon: -1.55809
+location-source: companies-house
 tags:
   - defence
   - uas

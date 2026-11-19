@@ -9,6 +9,10 @@ uk-region: South East
 founded: 2023
 size: micro
 sources-verified: 2026-07-04
+postcode: GU9 7UG
+lat: 51.21744
+lon: -0.79136
+location-source: companies-house
 tags:
   - defence
   - test-evaluation

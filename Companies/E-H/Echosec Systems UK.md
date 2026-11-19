@@ -10,6 +10,10 @@ founded: 2015
 size: small
 headcount: 11-50
 sources-verified: 2026-07-04
+postcode: WA14 2DT
+lat: 53.38416
+lon: -2.35191
+location-source: companies-house
 tags:
   - defence
   - isr

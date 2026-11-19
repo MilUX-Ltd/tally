@@ -9,6 +9,10 @@ uk-region: North West
 size: large
 headcount: 6,000+ in the UK
 sources-verified: 2026-07-03
+postcode: WA3 6XF
+lat: 53.42258
+lon: -2.52436
+location-source: companies-house
 tags:
   - defence
   - logistics

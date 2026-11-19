@@ -10,6 +10,10 @@ founded: 2007
 size: medium
 headcount: 129
 sources-verified: 2026-07-04
+postcode: WV9 5GB
+lat: 52.6322
+lon: -2.13859
+location-source: companies-house
 tags:
   - defence
   - test-evaluation

@@ -9,6 +9,10 @@ uk-region: Wales
 founded: 2017
 size: micro
 sources-verified: 2026-07-05
+postcode: NP12 4AB
+lat: 51.68254
+lon: -3.18246
+location-source: companies-house
 tags:
   - defence
   - cyber

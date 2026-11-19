@@ -8,6 +8,7 @@ uk-region: Overseas
 founded: 1991
 size: large
 sources-verified: 2026-07-03
+country: India
 tags:
   - defence
   - size-large

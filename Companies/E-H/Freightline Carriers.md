@@ -9,6 +9,10 @@ uk-region: West Midlands
 founded: 2015
 size: small
 sources-verified: 2026-07-04
+postcode: CV34 6RZ
+lat: 52.27512
+lon: -1.55081
+location-source: companies-house
 tags:
   - defence
   - logistics

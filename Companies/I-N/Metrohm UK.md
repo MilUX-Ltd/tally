@@ -5,6 +5,9 @@ website: http://www.metrohm.co.uk
 hq: Runcorn, UK
 uk-region: North West
 sources-verified: 2026-07-05
+lat: 53.34171
+lon: -2.7313
+location-source: town
 tags:
   - defence
   - mbr-ads

@@ -7,6 +7,10 @@ companies-house: 04544886
 hq: London, United Kingdom
 uk-region: London
 sources-verified: 2026-07-05
+postcode: NW10 6QD
+lat: 51.5292
+lon: -0.25996
+location-source: companies-house
 tags:
   - defence
   - mbr-ads

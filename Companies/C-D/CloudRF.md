@@ -8,6 +8,9 @@ uk-region: South West
 founded: 2012
 size: micro
 sources-verified: 2026-07-04
+lat: 51.86455
+lon: -2.24693
+location-source: town
 tags:
   - defence
   - rf

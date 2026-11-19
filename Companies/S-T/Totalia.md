@@ -6,6 +6,10 @@ companies-house: "09810544"
 hq: Cheltenham, Gloucestershire
 uk-region: South West
 sources-verified: 2026-06-30
+postcode: GL51 6TU
+lat: 51.898
+lon: -2.15888
+location-source: companies-house
 tags:
   - defence
   - comms

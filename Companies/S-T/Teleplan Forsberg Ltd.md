@@ -5,6 +5,9 @@ website: http://www.teleplanforsberg.com
 hq: Heysham, United Kingdom
 uk-region: North West
 sources-verified: 2026-06-30
+lat: 54.04813
+lon: -2.89223
+location-source: town
 tags:
   - defence
   - mbr-ads

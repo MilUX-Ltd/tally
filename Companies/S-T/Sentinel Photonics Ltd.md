@@ -4,6 +4,9 @@ name: Sentinel Photonics Ltd
 hq: Porton Down, United Kingdom
 uk-region: South West
 sources-verified: 2026-06-30
+lat: 51.11651
+lon: -1.69512
+location-source: town
 tags:
   - defence
   - mbr-ads

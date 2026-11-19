@@ -6,6 +6,9 @@ hq: Newcastle upon Tyne, United Kingdom
 uk-region: North East
 size: medium
 sources-verified: 2026-06-30
+lat: 54.97801
+lon: -1.61019
+location-source: town
 tags:
   - defence
   - size-medium

@@ -5,6 +5,9 @@ website: https://www.valentapps.co.uk
 hq: Willenhall, United Kingdom
 uk-region: West Midlands
 sources-verified: 2026-06-30
+lat: 52.58314
+lon: -2.05433
+location-source: town
 tags:
   - defence
   - mbr-ads

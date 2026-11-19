@@ -9,6 +9,10 @@ uk-region: East of England
 founded: 2014
 size: micro
 sources-verified: 2026-07-03
+postcode: EN11 8UR
+lat: 51.76209
+lon: -0.01126
+location-source: companies-house
 tags:
   - defence
   - ai

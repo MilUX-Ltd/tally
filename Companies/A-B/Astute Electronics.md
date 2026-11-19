@@ -9,6 +9,10 @@ uk-region: East of England
 founded: 1988
 size: medium
 sources-verified: 2026-07-04
+postcode: SG1 2EF
+lat: 51.90836
+lon: -0.2197
+location-source: companies-house
 tags:
   - defence
   - hardware

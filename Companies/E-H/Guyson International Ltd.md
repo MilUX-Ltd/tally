@@ -7,6 +7,9 @@ hq: Skipton, United Kingdom
 uk-region: Yorkshire and The Humber
 size: medium
 sources-verified: 2026-07-04
+lat: 53.96021
+lon: -2.01767
+location-source: town
 tags:
   - defence
   - manufacturing

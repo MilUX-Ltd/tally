@@ -9,6 +9,10 @@ uk-region: South West
 founded: 1997
 size: small
 sources-verified: 2026-07-05
+postcode: SN6 8TY
+lat: 51.6146
+lon: -1.64481
+location-source: companies-house
 tags:
   - defence
   - cyber

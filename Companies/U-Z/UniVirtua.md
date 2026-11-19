@@ -4,6 +4,12 @@ name: UniVirtua
 website: https://www.univirtua.com
 hq: United Kingdom
 sources-verified: 2026-06-30
+companies-house: "03927114"
+postcode: KT20 6DP
+lat: 51.30691
+lon: -0.2158
+location-source: companies-house
+location-note: registered office of the company with this exact name on the register
 tags:
   - defence
   - mbr-ads

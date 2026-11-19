@@ -5,6 +5,9 @@ website: http://www.novelengc.com
 hq: Nailsworth, UK
 uk-region: South West
 sources-verified: 2026-07-05
+lat: 51.69386
+lon: -2.22022
+location-source: town
 tags:
   - defence
   - mbr-ads

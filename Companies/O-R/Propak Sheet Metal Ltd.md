@@ -5,6 +5,9 @@ website: https://www.propak.co.uk
 hq: Stevenage, UK
 uk-region: East of England
 sources-verified: 2026-07-05
+lat: 51.90167
+lon: -0.20272
+location-source: town
 tags:
   - defence
   - mbr-ads

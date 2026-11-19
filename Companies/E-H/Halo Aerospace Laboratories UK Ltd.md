@@ -8,6 +8,10 @@ uk-region: North West
 founded: 2008
 size: small
 sources-verified: 2026-07-04
+postcode: LA4 5HR
+lat: 54.07412
+lon: -2.86251
+location-source: companies-house
 tags:
   - defence
   - air

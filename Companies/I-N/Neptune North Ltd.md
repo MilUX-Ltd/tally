@@ -9,6 +9,10 @@ uk-region: North East
 founded: 2024
 size: medium
 sources-verified: 2026-07-05
+postcode: NE1 6QF
+lat: 54.9722
+lon: -1.60985
+location-source: companies-house
 tags:
   - defence
   - mbr-ads

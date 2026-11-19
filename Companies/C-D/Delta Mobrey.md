@@ -10,6 +10,10 @@ founded: 2005
 size: small
 headcount: 51-200
 sources-verified: 2026-07-04
+postcode: GU16 7PL
+lat: 51.31686
+lon: -0.75165
+location-source: companies-house
 tags:
   - defence
   - sensors

@@ -8,6 +8,10 @@ hq: London, United Kingdom
 uk-region: London
 size: large
 sources-verified: 2026-07-04
+postcode: EC4R 9AT
+lat: 51.51047
+lon: -0.08705
+location-source: companies-house
 tags:
   - defence
   - cyber

@@ -8,6 +8,7 @@ uk-region: Overseas
 founded: 2000
 size: medium
 sources-verified: 2026-07-03
+country: Sweden
 tags:
   - defence
   - software

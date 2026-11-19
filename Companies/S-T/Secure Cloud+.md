@@ -9,6 +9,10 @@ uk-region: West Midlands
 founded: 2012
 size: medium
 sources-verified: 2026-07-16
+postcode: ST1 5SH
+lat: 53.02759
+lon: -2.19596
+location-source: companies-house
 tags:
   - defence
   - cyber

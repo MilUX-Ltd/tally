@@ -9,6 +9,10 @@ uk-region: South East
 founded: 2022
 size: small
 sources-verified: 2026-07-03
+postcode: PO6 3RU
+lat: 50.85734
+lon: -1.09954
+location-source: companies-house
 tags:
   - defence
   - maritime

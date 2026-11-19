@@ -9,6 +9,10 @@ uk-region: East Midlands
 founded: 2009
 size: small
 sources-verified: 2026-07-04
+postcode: NG23 5JR
+lat: 53.00382
+lon: -0.7618
+location-source: companies-house
 tags:
   - defence
   - ew

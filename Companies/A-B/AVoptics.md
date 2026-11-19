@@ -9,6 +9,10 @@ uk-region: South West
 founded: 2005
 size: small
 sources-verified: 2026-07-03
+postcode: BA22 8HS
+lat: 50.95232
+lon: -2.68113
+location-source: companies-house
 tags:
   - defence
   - optronics

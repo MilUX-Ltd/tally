@@ -7,6 +7,10 @@ uk-region: South East
 founded: 2013
 size: micro
 sources-verified: 2026-07-04
+postcode: RG29 1LU
+lat: 51.25339
+lon: -0.94131
+location-source: companies-house
 tags:
   - defence
   - size-micro

@@ -6,6 +6,9 @@ hq: Chesterfield, United Kingdom
 uk-region: East Midlands
 size: medium
 sources-verified: 2026-07-04
+lat: 53.23633
+lon: -1.42921
+location-source: town
 tags:
   - defence
   - manufacturing

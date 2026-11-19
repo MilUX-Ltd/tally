@@ -8,6 +8,8 @@ founded: 2017
 size: medium
 headcount: 51-200
 sources-verified: 2026-07-04
+location-source: region
+location-note: UK location not published
 tags:
   - defence
   - ai

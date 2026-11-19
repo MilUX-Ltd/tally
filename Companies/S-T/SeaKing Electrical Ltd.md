@@ -5,6 +5,9 @@ website: https://www.seakinggroup.co.uk
 hq: Birkenhead, UK
 uk-region: North West
 sources-verified: 2026-06-30
+lat: 53.39385
+lon: -3.01449
+location-source: town
 tags:
   - defence
   - mbr-ads

@@ -9,6 +9,10 @@ founded: 2022
 size: micro
 headcount: under 10
 sources-verified: 2026-07-04
+postcode: AB12 3LE
+lat: 57.11543
+lon: -2.07864
+location-source: companies-house
 tags:
   - defence
   - mbr-ads

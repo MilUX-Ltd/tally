@@ -9,6 +9,10 @@ uk-region: East Midlands
 founded: 1975
 size: small
 sources-verified: 2026-07-04
+postcode: NN8 2QG
+lat: 52.29332
+lon: -0.69083
+location-source: companies-house
 tags:
   - defence
   - manufacturing

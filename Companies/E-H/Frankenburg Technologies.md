@@ -9,6 +9,10 @@ uk-region: London
 founded: 2024
 size: small
 sources-verified: 2026-07-04
+postcode: EC4M 9DQ
+lat: 51.51355
+lon: -0.0939
+location-source: companies-house
 tags:
   - defence
   - munitions

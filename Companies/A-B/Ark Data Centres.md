@@ -10,6 +10,10 @@ founded: 2005
 size: medium
 headcount: 51-200
 sources-verified: 2026-07-03
+postcode: SN13 9GB
+lat: 51.41882
+lon: -2.21475
+location-source: companies-house
 tags:
   - defence
   - data

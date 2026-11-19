@@ -8,6 +8,7 @@ uk-region: Overseas
 founded: 2015
 sources-verified: 2026-07-04
 size: large
+country: United States
 tags:
   - defence
   - space

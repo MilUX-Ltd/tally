@@ -5,6 +5,9 @@ website: https://meta.aero/mmd/
 hq: Malvern, UK
 uk-region: West Midlands
 sources-verified: 2026-07-05
+lat: 52.11596
+lon: -2.3259
+location-source: town
 tags:
   - defence
   - mbr-ads

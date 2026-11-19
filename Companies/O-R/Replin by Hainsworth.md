@@ -6,6 +6,9 @@ founded: 1945
 hq: Pudsey, United Kingdom
 uk-region: Yorkshire and The Humber
 sources-verified: 2026-07-05
+lat: 53.79663
+lon: -1.66297
+location-source: town
 tags:
   - defence
   - mbr-ads

@@ -5,6 +5,9 @@ website: https://www.openworksengineering.com
 hq: Prudhoe, United Kingdom
 uk-region: North East
 sources-verified: 2026-07-05
+lat: 54.96122
+lon: -1.85317
+location-source: town
 tags:
   - defence
   - mbr-ads

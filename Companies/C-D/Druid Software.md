@@ -9,6 +9,10 @@ uk-region: Northern Ireland
 founded: 2000
 size: small
 sources-verified: 2026-07-04
+postcode: BT1 3BG
+lat: 54.60662
+lon: -5.9192
+location-source: companies-house
 tags:
   - defence
   - comms

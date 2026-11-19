@@ -10,6 +10,10 @@ founded: 2023
 size: micro
 headcount: 5
 sources-verified: 2026-07-03
+postcode: KT24 6QX
+lat: 51.27841
+lon: -0.43525
+location-source: companies-house
 tags:
   - defence
   - data

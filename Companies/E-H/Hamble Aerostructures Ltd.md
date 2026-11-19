@@ -7,6 +7,9 @@ uk-region: South East
 founded: 1936
 size: large
 sources-verified: 2026-07-04
+lat: 50.85898
+lon: -1.31817
+location-source: town
 tags:
   - defence
   - air

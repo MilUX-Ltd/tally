@@ -9,6 +9,10 @@ uk-region: South East
 founded: 2014
 size: micro
 sources-verified: 2026-07-04
+postcode: TN27 0JS
+lat: 51.21347
+lon: 0.78755
+location-source: companies-house
 tags:
   - defence
   - cyber

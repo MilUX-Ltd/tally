@@ -8,6 +8,10 @@ hq: Christchurch, England
 uk-region: South West
 size: small
 sources-verified: 2026-07-03
+postcode: BH23 6NW
+lat: 50.78508
+lon: -1.84972
+location-source: companies-house
 tags:
   - defence
   - air

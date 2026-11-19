@@ -10,6 +10,10 @@ founded: 2011
 size: small
 headcount: 40-50
 sources-verified: 2026-07-04
+postcode: CB2 9LG
+lat: 52.17331
+lon: 0.10809
+location-source: companies-house
 tags:
   - defence
   - software

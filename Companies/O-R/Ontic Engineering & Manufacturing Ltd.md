@@ -6,6 +6,9 @@ hq: Cheltenham, United Kingdom
 uk-region: South West
 size: large
 sources-verified: 2026-07-05
+lat: 51.90073
+lon: -2.07669
+location-source: town
 tags:
   - defence
   - mbr-ads

@@ -10,6 +10,10 @@ founded: 2012
 size: medium
 headcount: ~51
 sources-verified: 2026-07-05
+postcode: G2 6LU
+lat: 55.86126
+lon: -4.25903
+location-source: companies-house
 tags:
   - defence
   - comms

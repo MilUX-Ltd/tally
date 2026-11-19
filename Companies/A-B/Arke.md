@@ -9,6 +9,10 @@ uk-region: South West
 founded: 2006
 size: small
 sources-verified: 2026-07-04
+postcode: BA13 4NA
+lat: 51.28014
+lon: -2.17888
+location-source: companies-house
 tags:
   - defence
   - simulation

@@ -10,6 +10,10 @@ founded: 2003
 size: small
 headcount: ~25
 sources-verified: 2026-07-04
+postcode: EC3V 9DU
+lat: 51.51282
+lon: -0.08619
+location-source: companies-house
 tags:
   - defence
   - rf

@@ -6,6 +6,9 @@ hq: Portland, United Kingdom
 uk-region: South West
 size: small
 sources-verified: 2026-07-04
+lat: 51.1291
+lon: -2.75316
+location-source: town
 tags:
   - defence
   - air

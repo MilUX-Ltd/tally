@@ -7,6 +7,10 @@ hq: United Kingdom
 founded: 1993
 size: small
 sources-verified: 2026-07-04
+postcode: TW17 8EB
+lat: 51.39859
+lon: -0.44259
+location-source: website
 tags:
   - defence
   - logistics

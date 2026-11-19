@@ -5,6 +5,9 @@ website: https://www.roxelgroup.com
 hq: Kidderminster, United Kingdom
 uk-region: West Midlands
 sources-verified: 2026-07-05
+lat: 52.3882
+lon: -2.24923
+location-source: town
 tags:
   - defence
   - mbr-ads

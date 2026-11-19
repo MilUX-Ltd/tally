@@ -10,6 +10,10 @@ founded: 1985
 size: medium
 headcount: 160-180
 sources-verified: 2026-07-04
+postcode: OX29 4GF
+lat: 51.78274
+lon: -1.38671
+location-source: companies-house
 tags:
   - defence
   - size-medium

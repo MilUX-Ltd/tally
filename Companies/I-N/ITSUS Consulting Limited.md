@@ -8,6 +8,10 @@ hq: Cardiff, United Kingdom
 uk-region: Wales
 founded: 2008
 sources-verified: 2026-07-04
+postcode: CF14 5GH
+lat: 51.5252
+lon: -3.1909
+location-source: companies-house
 tags:
   - defence
   - mbr-ads

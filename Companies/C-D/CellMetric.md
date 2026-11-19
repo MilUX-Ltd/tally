@@ -9,6 +9,10 @@ uk-region: East of England
 founded: 2005
 size: micro
 sources-verified: 2026-07-04
+postcode: SG19 3SH
+lat: 52.14379
+lon: -0.13301
+location-source: companies-house
 tags:
   - defence
   - rf

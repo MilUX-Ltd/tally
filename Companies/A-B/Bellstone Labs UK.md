@@ -7,6 +7,10 @@ uk-region: London
 founded: 2024
 size: micro
 sources-verified: 2026-07-03
+postcode: EC1V 2NX
+lat: 51.5273
+lon: -0.08889
+location-source: companies-house
 tags:
   - defence
   - munitions

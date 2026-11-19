@@ -10,6 +10,10 @@ founded: 1938
 size: medium
 headcount: 550
 sources-verified: 2026-07-04
+postcode: BA2 5RR
+lat: 51.35848
+lon: -2.36969
+location-source: companies-house
 tags:
   - defence
   - manufacturing

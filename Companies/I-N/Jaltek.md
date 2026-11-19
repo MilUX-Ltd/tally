@@ -9,6 +9,10 @@ uk-region: East of England
 founded: 1988
 size: small
 sources-verified: 2026-07-04
+postcode: LU3 3HP
+lat: 51.92068
+lon: -0.4764
+location-source: companies-house
 tags:
   - defence
   - manufacturing

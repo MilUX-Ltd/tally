@@ -9,6 +9,10 @@ uk-region: East Midlands
 founded: 2002
 size: micro
 sources-verified: 2026-07-04
+postcode: LE11 1QJ
+lat: 52.78258
+lon: -1.20309
+location-source: companies-house
 tags:
   - defence
   - robotics

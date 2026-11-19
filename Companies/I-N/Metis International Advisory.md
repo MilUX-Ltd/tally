@@ -5,6 +5,9 @@ website: http://www.metisintl.com
 hq: Nottingham, UK
 uk-region: East Midlands
 sources-verified: 2026-07-05
+lat: 52.9562
+lon: -1.1512
+location-source: town
 tags:
   - defence
   - mbr-ads

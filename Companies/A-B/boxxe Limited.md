@@ -10,6 +10,10 @@ founded: 1987
 size: medium
 headcount: 350
 sources-verified: 2026-07-04
+postcode: YO31 7RE
+lat: 53.96408
+lon: -1.07151
+location-source: companies-house
 tags:
   - defence
   - cyber

@@ -5,6 +5,9 @@ website: https://www.mkctraining.com
 hq: Chatham, United Kingdom
 uk-region: South East
 sources-verified: 2026-07-05
+lat: 51.38491
+lon: 0.52552
+location-source: town
 tags:
   - defence
   - mbr-ads

@@ -9,6 +9,10 @@ uk-region: South East
 founded: 2023
 size: micro
 sources-verified: 2026-07-16
+postcode: OX29 8LT
+lat: 51.82617
+lon: -1.39657
+location-source: companies-house
 tags:
   - defence
   - uas

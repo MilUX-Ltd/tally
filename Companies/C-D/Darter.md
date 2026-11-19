@@ -9,6 +9,10 @@ uk-region: South East
 founded: 2019
 size: micro
 sources-verified: 2026-07-04
+postcode: EC2A 4NE
+lat: 51.52562
+lon: -0.0836
+location-source: companies-house
 tags:
   - defence
   - data

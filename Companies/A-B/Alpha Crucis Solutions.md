@@ -7,6 +7,10 @@ uk-region: South West
 founded: 2019
 size: micro
 sources-verified: 2026-07-03
+postcode: BS32 4UB
+lat: 51.54112
+lon: -2.56718
+location-source: companies-house
 tags:
   - defence
   - air

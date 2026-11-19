@@ -5,6 +5,8 @@ website: https://www.safran-engineering.com
 hq: Paris, France
 uk-region: South West
 sources-verified: 2026-06-30
+location-source: region
+location-note: UK location not published
 tags:
   - defence
   - mbr-ads

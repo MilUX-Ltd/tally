@@ -8,6 +8,10 @@ uk-region: West Midlands
 founded: 2018
 size: micro
 sources-verified: 2026-07-04
+postcode: B75 5BY
+lat: 52.58774
+lon: -1.82262
+location-source: companies-house
 tags:
   - defence
   - cyber

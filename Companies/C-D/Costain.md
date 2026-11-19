@@ -8,6 +8,9 @@ hq: Maidenhead, United Kingdom
 uk-region: South East
 size: large
 sources-verified: 2026-07-04
+lat: 51.52275
+lon: -0.72021
+location-source: town
 tags:
   - defence
   - logistics

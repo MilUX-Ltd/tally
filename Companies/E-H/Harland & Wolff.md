@@ -8,6 +8,9 @@ uk-region: Northern Ireland
 founded: 1861
 size: large
 sources-verified: 2026-07-04
+lat: 54.59639
+lon: -5.93018
+location-source: town
 tags:
   - defence
   - maritime

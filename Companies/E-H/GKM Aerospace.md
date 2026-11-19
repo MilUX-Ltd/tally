@@ -10,6 +10,10 @@ founded: 1979
 size: small
 headcount: 35+
 sources-verified: 2026-07-04
+postcode: CM6 1UU
+lat: 51.87282
+lon: 0.36247
+location-source: companies-house
 tags:
   - defence
   - manufacturing

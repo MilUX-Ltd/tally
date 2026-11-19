@@ -10,6 +10,10 @@ founded: 1955
 size: large
 headcount: 80000
 sources-verified: 2026-07-04
+postcode: RG41 5TP
+lat: 51.43681
+lon: -0.88364
+location-source: companies-house
 tags:
   - defence
   - air

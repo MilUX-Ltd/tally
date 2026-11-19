@@ -9,6 +9,10 @@ uk-region: West Midlands
 founded: 2018
 size: small
 sources-verified: 2026-07-04
+postcode: SO51 9DL
+lat: 50.98318
+lon: -1.46375
+location-source: companies-house
 tags:
   - defence
   - manufacturing

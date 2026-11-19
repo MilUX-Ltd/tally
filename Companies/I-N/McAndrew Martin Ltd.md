@@ -7,6 +7,10 @@ hq: Portsmouth, United Kingdom
 uk-region: South East
 size: small
 sources-verified: 2026-07-16
+postcode: PO6 3TH
+lat: 50.84495
+lon: -1.08157
+location-source: companies-house
 tags:
   - defence
   - cyber

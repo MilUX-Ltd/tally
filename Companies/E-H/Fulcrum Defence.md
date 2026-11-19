@@ -8,6 +8,10 @@ uk-region: Wales
 founded: 2020
 size: micro
 sources-verified: 2026-07-04
+postcode: NP25 5JB
+lat: 51.80725
+lon: -2.72849
+location-source: companies-house
 tags:
   - defence
   - hardware

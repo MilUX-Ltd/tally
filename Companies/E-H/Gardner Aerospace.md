@@ -9,6 +9,10 @@ uk-region: East Midlands
 size: large
 headcount: 2000
 sources-verified: 2026-07-04
+postcode: DE24 8ZF
+lat: 52.89065
+lon: -1.47173
+location-source: companies-house
 tags:
   - defence
   - air

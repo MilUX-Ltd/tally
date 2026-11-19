@@ -5,6 +5,9 @@ website: https://www.nitronica.com
 hq: Ballynahinch, United Kingdom
 uk-region: Northern Ireland
 sources-verified: 2026-07-05
+lat: 54.4026
+lon: -5.89602
+location-source: town
 tags:
   - defence
   - mbr-ads

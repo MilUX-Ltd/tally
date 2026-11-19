@@ -10,6 +10,10 @@ founded: 1989
 size: medium
 headcount: ~94
 sources-verified: 2026-06-29
+postcode: DT11 9LQ
+lat: 50.85203
+lon: -2.15959
+location-source: website
 tags:
   - defence
   - cyber

@@ -10,6 +10,10 @@ founded: 2019
 size: small
 headcount: 11-50
 sources-verified: 2026-07-04
+postcode: GL3 4AH
+lat: 51.84713
+lon: -2.1781
+location-source: companies-house
 tags:
   - defence
   - cyber

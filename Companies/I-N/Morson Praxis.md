@@ -7,6 +7,10 @@ companies-house: 01457298
 hq: Salford, United Kingdom
 uk-region: North West
 sources-verified: 2026-07-05
+postcode: M50 1RD
+lat: 53.48069
+lon: -2.3285
+location-source: companies-house
 tags:
   - defence
   - mbr-ads

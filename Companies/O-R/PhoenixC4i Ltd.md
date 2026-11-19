@@ -5,6 +5,9 @@ website: https://www.phoenixc4i.com
 hq: Gloucester, United Kingdom
 uk-region: South West
 sources-verified: 2026-07-05
+lat: 51.86455
+lon: -2.24693
+location-source: town
 tags:
   - defence
   - mbr-ads

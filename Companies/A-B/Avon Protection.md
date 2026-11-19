@@ -8,6 +8,10 @@ hq: Melksham, UK
 uk-region: South West
 size: large
 sources-verified: 2026-07-04
+postcode: SN12 6NB
+lat: 51.35376
+lon: -2.14013
+location-source: companies-house
 tags:
   - defence
   - cbrn

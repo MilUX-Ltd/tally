@@ -7,6 +7,9 @@ uk-region: South West
 founded: 2017
 size: micro
 sources-verified: 2026-07-05
+lat: 50.46883
+lon: -3.53141
+location-source: town
 tags:
   - defence
   - size-micro

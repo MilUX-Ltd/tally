@@ -6,6 +6,9 @@ hq: Hexham, United Kingdom
 uk-region: North East
 founded: 2001
 sources-verified: 2026-07-05
+lat: 54.97178
+lon: -2.10093
+location-source: town
 tags:
   - defence
   - mbr-ads

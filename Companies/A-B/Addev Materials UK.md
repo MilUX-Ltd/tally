@@ -10,6 +10,10 @@ founded: 2006
 size: large
 headcount: 700+ (group)
 sources-verified: 2026-07-03
+postcode: EX2 7XE
+lat: 50.71511
+lon: -3.48208
+location-source: companies-house
 tags:
   - defence
   - air

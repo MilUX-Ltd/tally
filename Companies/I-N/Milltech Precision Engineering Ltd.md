@@ -8,6 +8,9 @@ founded: 1993
 size: small
 headcount: ~50
 sources-verified: 2026-07-05
+lat: 52.62856
+lon: 1.2924
+location-source: town
 tags:
   - defence
   - mbr-ads

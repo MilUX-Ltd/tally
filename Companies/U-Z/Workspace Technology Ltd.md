@@ -5,6 +5,9 @@ website: https://www.workspace-technology.com
 hq: Sutton Coldfield, United Kingdom
 uk-region: West Midlands
 sources-verified: 2026-07-01
+lat: 52.56231
+lon: -1.82398
+location-source: town
 tags:
   - defence
   - mbr-ads

@@ -6,6 +6,9 @@ hq: Swindon, England
 uk-region: South West
 size: small
 sources-verified: 2026-07-16
+lat: 51.56153
+lon: -1.78546
+location-source: town
 tags:
   - defence
   - manufacturing

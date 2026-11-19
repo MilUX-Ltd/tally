@@ -9,6 +9,8 @@ founded: 1993
 size: large
 headcount: 3000
 sources-verified: 2026-06-30
+location-source: region
+location-note: UK location not published
 tags:
   - defence
   - manufacturing

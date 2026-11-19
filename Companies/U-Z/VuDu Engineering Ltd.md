@@ -5,6 +5,9 @@ website: https://www.vuduengineering.co.uk
 hq: Washingborough, United Kingdom
 uk-region: East Midlands
 sources-verified: 2026-07-01
+lat: 53.22317
+lon: -0.47471
+location-source: town
 tags:
   - defence
   - mbr-ads

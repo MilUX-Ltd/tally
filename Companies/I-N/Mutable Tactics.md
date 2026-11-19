@@ -7,6 +7,10 @@ hq: London, UK
 uk-region: London
 founded: 2024
 sources-verified: 2026-07-05
+postcode: EC2A 4NE
+lat: 51.52562
+lon: -0.0836
+location-source: website
 tags:
   - defence
   - autonomy

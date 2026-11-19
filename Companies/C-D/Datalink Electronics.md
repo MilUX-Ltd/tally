@@ -10,6 +10,10 @@ founded: 1983
 size: small
 headcount: 38-50
 sources-verified: 2026-07-04
+postcode: LE11 5XS
+lat: 52.78218
+lon: -1.21299
+location-source: companies-house
 tags:
   - defence
   - hardware

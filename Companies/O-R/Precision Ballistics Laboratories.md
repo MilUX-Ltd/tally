@@ -6,6 +6,9 @@ hq: Shrivenham, United Kingdom
 uk-region: South East
 size: small
 sources-verified: 2026-07-16
+lat: 51.59844
+lon: -1.65503
+location-source: town
 tags:
   - defence
   - test-evaluation

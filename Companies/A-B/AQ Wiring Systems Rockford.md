@@ -10,6 +10,10 @@ founded: 1978
 size: medium
 headcount: 112
 sources-verified: 2026-07-03
+postcode: S80 3HA
+lat: 53.31359
+lon: -1.14689
+location-source: companies-house
 tags:
   - defence
   - air

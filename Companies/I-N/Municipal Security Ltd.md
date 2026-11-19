@@ -6,6 +6,9 @@ hq: Haywards Heath, United Kingdom
 uk-region: South East
 size: micro
 sources-verified: 2026-07-05
+lat: 50.99594
+lon: -0.10056
+location-source: town
 tags:
   - defence
   - size-micro

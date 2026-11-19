@@ -10,6 +10,10 @@ founded: 2023
 size: micro
 headcount: 2
 sources-verified: 2026-07-08
+postcode: CT10 2HX
+lat: 51.35602
+lon: 1.41846
+location-source: companies-house
 tags:
   - defence
   - consultancy

@@ -8,6 +8,10 @@ hq: United Kingdom
 founded: 1984
 size: large
 sources-verified: 2026-07-04
+postcode: EC4M 9AF
+lat: 51.51362
+lon: -0.09595
+location-source: companies-house
 tags:
   - defence
   - software

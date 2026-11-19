@@ -10,6 +10,10 @@ founded: 2025
 size: micro
 headcount: 2-20
 sources-verified: 2026-07-04
+postcode: EC4M 7AU
+lat: 51.5149
+lon: -0.10251
+location-source: companies-house
 tags:
   - defence
   - data

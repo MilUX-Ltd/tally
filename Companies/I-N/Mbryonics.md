@@ -5,6 +5,7 @@ website: https://mbryonics.com
 hq: Galway, Ireland
 uk-region: Overseas
 sources-verified: 2026-07-05
+country: Ireland
 tags:
   - defence
   - mbr-ads

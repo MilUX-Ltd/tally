@@ -9,6 +9,10 @@ uk-region: South East
 founded: 1987
 size: medium
 sources-verified: 2026-07-04
+postcode: RG25 3BD
+lat: 51.229
+lon: -1.21165
+location-source: companies-house
 tags:
   - defence
   - sensors

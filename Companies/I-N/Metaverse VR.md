@@ -2,6 +2,12 @@
 type: organisation
 name: Metaverse VR
 sources-verified: 2026-07-05
+companies-house: "13684068"
+postcode: PO6 3RU
+lat: 50.85734
+lon: -1.09954
+location-source: companies-house
+location-note: registered office of the company with this exact name on the register
 tags:
   - defence
   - training

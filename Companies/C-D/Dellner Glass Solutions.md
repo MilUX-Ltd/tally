@@ -10,6 +10,10 @@ founded: 2021
 size: medium
 headcount: 51-200
 sources-verified: 2026-07-04
+postcode: B79 7TL
+lat: 52.63708
+lon: -1.71359
+location-source: companies-house
 tags:
   - defence
   - land

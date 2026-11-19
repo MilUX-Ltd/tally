@@ -9,6 +9,10 @@ uk-region: London
 founded: 2012
 size: small
 sources-verified: 2026-07-04
+postcode: NW8 0DL
+lat: 51.54053
+lon: -0.17909
+location-source: companies-house
 tags:
   - defence
   - logistics

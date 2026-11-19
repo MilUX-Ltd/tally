@@ -5,6 +5,9 @@ website: http://www.stratecuity.com
 hq: Salisbury, United Kingdom
 uk-region: South West
 sources-verified: 2026-06-30
+lat: 51.07037
+lon: -1.79643
+location-source: town
 tags:
   - defence
   - mbr-ads

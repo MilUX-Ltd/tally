@@ -8,6 +8,10 @@ hq: Eynsham, United Kingdom
 uk-region: South East
 size: medium
 sources-verified: 2026-07-03
+postcode: OX5 1PF
+lat: 51.81777
+lon: -1.30666
+location-source: companies-house
 tags:
   - defence
   - sensors

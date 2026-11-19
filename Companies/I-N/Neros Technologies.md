@@ -8,6 +8,7 @@ uk-region: Overseas
 founded: 2023
 size: medium
 sources-verified: 2026-07-05
+country: United States
 tags:
   - defence
   - uas

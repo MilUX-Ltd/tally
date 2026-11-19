@@ -5,6 +5,9 @@ website: https://www.u-cd.co.uk
 hq: Basingstoke, United Kingdom
 uk-region: South East
 sources-verified: 2026-06-30
+lat: 51.26775
+lon: -1.08834
+location-source: town
 tags:
   - defence
   - mbr-ads

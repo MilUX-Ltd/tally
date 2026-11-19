@@ -10,6 +10,10 @@ founded: 2017
 size: large
 headcount: 700+
 sources-verified: 2026-06-29
+postcode: RG17 0EY
+lat: 51.4193
+lon: -1.5151
+location-source: companies-house
 tags:
   - defence
   - services

@@ -5,6 +5,9 @@ website: https://www.sea.co.uk
 hq: Frome, UK
 uk-region: South West
 sources-verified: 2026-06-30
+lat: 51.23104
+lon: -2.32177
+location-source: town
 tags:
   - defence
   - mbr-ads

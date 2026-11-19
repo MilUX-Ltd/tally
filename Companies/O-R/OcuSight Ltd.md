@@ -7,6 +7,9 @@ uk-region: Wales
 sources-verified: 2026-07-05
 founded: 2023
 size: micro
+lat: 53.25786
+lon: -3.4457
+location-source: town
 tags:
   - defence
   - mbr-ads

@@ -9,6 +9,10 @@ uk-region: London
 founded: 2011
 size: medium
 sources-verified: 2026-07-04
+postcode: EC4R 1AG
+lat: 51.51028
+lon: -0.09301
+location-source: companies-house
 tags:
   - defence
   - data

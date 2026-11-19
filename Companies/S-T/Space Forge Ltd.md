@@ -6,6 +6,9 @@ hq: Cardiff, United Kingdom
 uk-region: Wales
 size: small
 sources-verified: 2026-06-30
+lat: 51.48
+lon: -3.17686
+location-source: town
 tags:
   - defence
   - size-small

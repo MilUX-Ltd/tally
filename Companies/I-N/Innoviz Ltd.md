@@ -5,6 +5,9 @@ website: https://innovizl.com
 hq: Cranfield, United Kingdom
 uk-region: East of England
 sources-verified: 2026-07-04
+lat: 52.06902
+lon: -0.60793
+location-source: town
 tags:
   - defence
   - mbr-ads

@@ -7,6 +7,10 @@ hq: Kilkeel, United Kingdom
 uk-region: Northern Ireland
 founded: 1989
 sources-verified: 2026-07-05
+postcode: BT34 4ZR
+lat: 54.08013
+lon: -5.98299
+location-source: companies-house
 tags:
   - defence
   - mbr-ads

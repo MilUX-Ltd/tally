@@ -5,6 +5,9 @@ website: https://www.marshalladvancedcomposites.com
 hq: Kirkbymoorside, UK
 uk-region: Yorkshire and The Humber
 sources-verified: 2026-07-05
+lat: 54.26951
+lon: -0.93119
+location-source: town
 tags:
   - defence
   - mbr-ads

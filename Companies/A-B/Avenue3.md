@@ -9,6 +9,10 @@ uk-region: Yorkshire and The Humber
 founded: 2020
 size: micro
 sources-verified: 2026-07-04
+postcode: LS1 2RY
+lat: 53.79745
+lon: -1.55162
+location-source: companies-house
 tags:
   - defence
   - data

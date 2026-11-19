@@ -9,6 +9,10 @@ uk-region: West Midlands
 founded: 2008
 size: micro
 sources-verified: 2026-07-04
+postcode: HR2 6FE
+lat: 52.03855
+lon: -2.68616
+location-source: companies-house
 tags:
   - defence
   - training

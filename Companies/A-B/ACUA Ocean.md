@@ -9,6 +9,10 @@ uk-region: South West
 founded: 2020
 size: micro
 sources-verified: 2026-07-03
+postcode: PL9 9RQ
+lat: 50.35698
+lon: -4.11345
+location-source: companies-house
 tags:
   - defence
   - maritime

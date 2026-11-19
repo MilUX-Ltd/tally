@@ -9,6 +9,10 @@ uk-region: West Midlands
 founded: 2020
 size: micro
 sources-verified: 2026-07-04
+postcode: B62 8DY
+lat: 52.45959
+lon: -2.03134
+location-source: companies-house
 tags:
   - defence
   - comms

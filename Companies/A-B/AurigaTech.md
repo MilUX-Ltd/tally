@@ -8,6 +8,10 @@ uk-region: South East
 founded: 2025
 size: micro
 sources-verified: 2026-07-16
+postcode: OX27 8BL
+lat: 51.91843
+lon: -1.16038
+location-source: companies-house
 tags:
   - defence
   - ai

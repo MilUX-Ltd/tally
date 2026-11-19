@@ -8,6 +8,10 @@ hq: Oxford, England
 uk-region: South East
 size: small
 sources-verified: 2026-07-16
+postcode: OX2 0ES
+lat: 51.74815
+lon: -1.27376
+location-source: companies-house
 tags:
   - defence
   - space

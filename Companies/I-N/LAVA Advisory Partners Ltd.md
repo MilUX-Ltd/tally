@@ -7,6 +7,9 @@ uk-region: London
 size: small
 headcount: 18
 sources-verified: 2026-08-10
+lat: 51.50741
+lon: -0.12772
+location-source: town
 tags:
   - defence
   - size-small

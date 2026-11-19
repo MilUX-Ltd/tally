@@ -8,6 +8,10 @@ uk-region: South East
 founded: 2011
 size: micro
 sources-verified: 2026-07-04
+postcode: SO53 4AR
+lat: 50.9781
+lon: -1.39019
+location-source: companies-house
 tags:
   - defence
   - sensors

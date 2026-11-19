@@ -9,6 +9,10 @@ uk-region: South West
 founded: 2012
 size: small
 sources-verified: 2026-07-05
+postcode: BS37 6JX
+lat: 51.53857
+lon: -2.4025
+location-source: companies-house
 tags:
   - defence
   - mbr-ads

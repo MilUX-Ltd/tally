@@ -10,6 +10,10 @@ founded: 2002
 size: small
 headcount: 32
 sources-verified: 2026-07-04
+postcode: GL20 7HH
+lat: 52.02942
+lon: -2.10813
+location-source: companies-house
 tags:
   - defence
   - manufacturing

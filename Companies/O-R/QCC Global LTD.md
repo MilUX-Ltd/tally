@@ -5,6 +5,9 @@ website: https://www.qccglobal.com
 hq: Midsomer Norton, United Kingdom
 uk-region: South West
 sources-verified: 2026-07-05
+lat: 51.28561
+lon: -2.48286
+location-source: town
 tags:
   - defence
   - mbr-ads

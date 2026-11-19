@@ -5,6 +5,9 @@ website: https://www.skyliftuav.co.uk
 hq: Syston, United Kingdom
 uk-region: East Midlands
 sources-verified: 2026-06-30
+lat: 52.69921
+lon: -1.07281
+location-source: town
 tags:
   - defence
   - mbr-ads

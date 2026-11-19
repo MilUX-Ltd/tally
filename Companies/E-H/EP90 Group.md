@@ -9,6 +9,10 @@ uk-region: South West
 founded: 2015
 size: micro
 sources-verified: 2026-07-04
+postcode: DT2 8GB
+lat: 50.68021
+lon: -2.25607
+location-source: companies-house
 tags:
   - defence
   - cyber

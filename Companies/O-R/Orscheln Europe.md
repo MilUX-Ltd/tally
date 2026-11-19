@@ -6,6 +6,8 @@ linkedin: https://www.linkedin.com/company/orscheln-products-llc
 hq: Rugby, UK
 uk-region: East Midlands
 sources-verified: 2026-07-05
+location-source: region
+location-note: UK location not published
 tags:
   - defence
   - mbr-ads

@@ -9,6 +9,10 @@ uk-region: Wales
 founded: 1979
 size: medium
 sources-verified: 2026-07-04
+postcode: DE72 3QJ
+lat: 52.87944
+lon: -1.336
+location-source: companies-house
 tags:
   - defence
   - manufacturing

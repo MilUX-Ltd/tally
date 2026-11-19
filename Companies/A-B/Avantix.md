@@ -9,6 +9,10 @@ uk-region: West Midlands
 founded: 2021
 size: micro
 sources-verified: 2026-07-04
+postcode: WR10 2QS
+lat: 52.12345
+lon: -2.00443
+location-source: companies-house
 tags:
   - defence
   - software

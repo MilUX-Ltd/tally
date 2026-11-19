@@ -9,6 +9,10 @@ uk-region: Wales
 founded: 2006
 size: micro
 sources-verified: 2026-07-05
+postcode: BS8 1BQ
+lat: 51.45602
+lon: -2.60868
+location-source: companies-house
 tags:
   - defence
   - mbr-ads

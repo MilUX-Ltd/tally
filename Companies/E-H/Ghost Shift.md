@@ -7,6 +7,10 @@ hq: UK
 founded: 2025
 size: small
 sources-verified: 2026-07-04
+postcode: BB3 0DG
+lat: 53.71517
+lon: -2.4765
+location-source: companies-house
 tags:
   - defence
   - cyber

@@ -10,6 +10,10 @@ founded: 1985
 size: large
 headcount: 1000+
 sources-verified: 2026-07-04
+postcode: WC1R 4PF
+lat: 51.51985
+lon: -0.11754
+location-source: companies-house
 tags:
   - defence
   - land

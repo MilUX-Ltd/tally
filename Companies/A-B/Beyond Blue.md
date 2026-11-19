@@ -9,6 +9,10 @@ uk-region: Scotland
 founded: 2019
 size: small
 sources-verified: 2026-07-04
+postcode: EH10 6LE
+lat: 55.9179
+lon: -3.20645
+location-source: companies-house
 tags:
   - defence
   - cyber

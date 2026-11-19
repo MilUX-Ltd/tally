@@ -9,6 +9,10 @@ uk-region: South East
 founded: 2021
 size: micro
 sources-verified: 2026-07-03
+postcode: PO16 8XT
+lat: 50.8595
+lon: -1.16446
+location-source: companies-house
 tags:
   - defence
   - hardware

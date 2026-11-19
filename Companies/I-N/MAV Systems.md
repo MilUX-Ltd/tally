@@ -7,6 +7,9 @@ hq: Eynsford, United Kingdom
 uk-region: South East
 founded: 2007
 sources-verified: 2026-07-05
+lat: 51.36869
+lon: 0.21353
+location-source: town
 tags:
   - defence
   - mbr-ads

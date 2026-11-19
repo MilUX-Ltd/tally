@@ -5,6 +5,9 @@ website: https://www.ovation.co.uk
 hq: Milton Common, UK
 uk-region: South East
 sources-verified: 2026-07-05
+lat: 51.7284
+lon: -1.06302
+location-source: town
 tags:
   - defence
   - mbr-ads

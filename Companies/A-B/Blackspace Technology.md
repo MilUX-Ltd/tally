@@ -8,6 +8,10 @@ hq: United Kingdom
 founded: 2018
 size: small
 sources-verified: 2026-07-04
+postcode: B1 2JB
+lat: 52.47771
+lon: -1.91333
+location-source: companies-house
 tags:
   - defence
   - software

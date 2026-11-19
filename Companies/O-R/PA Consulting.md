@@ -10,6 +10,10 @@ founded: 1943
 size: large
 headcount: 4000
 sources-verified: 2026-07-05
+postcode: SW1E 5DN
+lat: 51.49815
+lon: -0.1426
+location-source: companies-house
 tags:
   - defence
   - cyber

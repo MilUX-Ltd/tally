@@ -9,6 +9,10 @@ uk-region: South East
 founded: 2022
 size: small
 sources-verified: 2026-07-04
+postcode: GU46 6GD
+lat: 51.33058
+lon: -0.83544
+location-source: companies-house
 tags:
   - defence
   - maritime

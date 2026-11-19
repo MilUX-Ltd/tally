@@ -4,6 +4,10 @@ name: ZZAG AI
 website: https://www.zzag.ai
 hq: United Kingdom
 sources-verified: 2026-07-01
+postcode: SK7 2BE
+lat: 53.35856
+lon: -2.16781
+location-source: website
 tags:
   - defence
   - mbr-ads

@@ -7,6 +7,10 @@ uk-region: London
 companies-house: 05529842
 founded: 2005
 sources-verified: 2026-07-05
+postcode: GU21 7SA
+lat: 51.31272
+lon: -0.59301
+location-source: companies-house
 tags:
   - defence
   - mbr-ads

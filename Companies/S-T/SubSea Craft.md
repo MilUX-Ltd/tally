@@ -9,6 +9,10 @@ uk-region: South East
 founded: 2014
 size: medium
 sources-verified: 2026-06-29
+postcode: PO1 2JJ
+lat: 50.79163
+lon: -1.10669
+location-source: companies-house
 tags:
   - defence
   - maritime

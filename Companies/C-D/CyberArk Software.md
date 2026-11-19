@@ -7,6 +7,10 @@ hq: Petah Tikva, Israel
 uk-region: London
 founded: 2008
 size: large
+postcode: EC2N 4BQ
+lat: 51.51415
+lon: -0.08349
+location-source: companies-house
 tags:
   - defence
   - cyber

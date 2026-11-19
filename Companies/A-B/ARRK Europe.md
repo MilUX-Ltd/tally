@@ -8,6 +8,10 @@ uk-region: South West
 founded: 1997
 size: medium
 sources-verified: 2026-07-03
+postcode: CV11 4NG
+lat: 52.51168
+lon: -1.46474
+location-source: companies-house
 tags:
   - defence
   - air

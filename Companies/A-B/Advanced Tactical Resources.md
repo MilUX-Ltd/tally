@@ -10,6 +10,10 @@ founded: 2012
 size: micro
 headcount: 2-10
 sources-verified: 2026-07-03
+postcode: RG8 7RU
+lat: 51.51006
+lon: -1.05908
+location-source: companies-house
 tags:
   - defence
   - isr

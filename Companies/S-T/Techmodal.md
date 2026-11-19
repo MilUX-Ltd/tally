@@ -9,6 +9,9 @@ founded: 2005
 size: medium
 headcount: 150
 sources-verified: 2026-06-30
+lat: 51.45313
+lon: -2.60098
+location-source: town
 tags:
   - defence
   - data

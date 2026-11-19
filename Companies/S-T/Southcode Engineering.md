@@ -3,6 +3,8 @@ type: organisation
 name: Southcode Engineering
 website: https://southcode.co.uk
 sources-verified: 2026-06-29
+location-source: region
+location-note: UK location not published
 tags:
   - defence
   - software

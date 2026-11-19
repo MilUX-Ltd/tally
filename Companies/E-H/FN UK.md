@@ -8,6 +8,10 @@ uk-region: South East
 founded: 1987
 size: small
 sources-verified: 2026-07-04
+postcode: DA8 2HY
+lat: 51.47085
+lon: 0.18881
+location-source: companies-house
 tags:
   - defence
   - munitions

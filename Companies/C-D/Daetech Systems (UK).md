@@ -9,6 +9,10 @@ uk-region: North West
 founded: 2000
 size: micro
 sources-verified: 2026-07-04
+postcode: M28 7FG
+lat: 53.51542
+lon: -2.39405
+location-source: companies-house
 tags:
   - defence
   - isr

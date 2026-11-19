@@ -9,6 +9,10 @@ uk-region: South West
 founded: 2023
 size: micro
 sources-verified: 2026-07-04
+postcode: TQ13 9AE
+lat: 50.5943
+lon: -3.67415
+location-source: companies-house
 tags:
   - defence
   - mbr-ads

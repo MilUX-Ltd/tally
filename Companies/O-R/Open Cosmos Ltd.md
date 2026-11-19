@@ -5,6 +5,9 @@ website: https://open-cosmos.com
 hq: Didcot, United Kingdom
 uk-region: South East
 sources-verified: 2026-07-05
+lat: 51.60638
+lon: -1.24264
+location-source: town
 tags:
   - defence
   - mbr-ads

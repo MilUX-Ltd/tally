@@ -10,6 +10,10 @@ founded: 1986
 size: medium
 headcount: 300
 sources-verified: 2026-07-04
+postcode: BT74 4RL
+lat: 54.35576
+lon: -7.59612
+location-source: companies-house
 tags:
   - defence
   - hardware

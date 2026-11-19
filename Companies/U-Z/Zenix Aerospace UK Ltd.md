@@ -5,6 +5,9 @@ website: https://www.zenixaerospace.com
 hq: Earby, United Kingdom
 uk-region: North West
 sources-verified: 2026-07-01
+lat: 53.91654
+lon: -2.13983
+location-source: town
 tags:
   - defence
   - mbr-ads

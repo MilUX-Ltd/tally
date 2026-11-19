@@ -6,6 +6,10 @@ hq: Fareham, UK
 uk-region: South East
 companies-house: "05672024"
 sources-verified: 2026-07-04
+postcode: SO51 0ZN
+lat: 50.99934
+lon: -1.51975
+location-source: companies-house
 tags:
   - defence
   - mbr-ads

@@ -5,6 +5,9 @@ website: https://mobifon.co.uk/
 hq: Tamworth, United Kingdom
 uk-region: West Midlands
 sources-verified: 2026-07-05
+lat: 52.63343
+lon: -1.69245
+location-source: town
 tags:
   - defence
   - mbr-ads

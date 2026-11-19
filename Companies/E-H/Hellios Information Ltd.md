@@ -9,6 +9,10 @@ uk-region: South East
 founded: 2012
 size: medium
 sources-verified: 2026-07-16
+postcode: OX2 9PH
+lat: 51.73728
+lon: -1.31759
+location-source: companies-house
 tags:
   - defence
   - data

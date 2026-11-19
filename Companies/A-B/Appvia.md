@@ -8,6 +8,10 @@ uk-region: London
 founded: 2017
 size: medium
 sources-verified: 2026-07-03
+postcode: EC1A 9HA
+lat: 51.51987
+lon: -0.09873
+location-source: companies-house
 tags:
   - defence
   - cyber

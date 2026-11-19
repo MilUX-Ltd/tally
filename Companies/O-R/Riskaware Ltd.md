@@ -9,6 +9,10 @@ founded: 1999
 size: small
 headcount: 11-50
 sources-verified: 2026-07-05
+postcode: BS1 2NT
+lat: 51.45787
+lon: -2.59481
+location-source: companies-house
 tags:
   - defence
   - mbr-ads

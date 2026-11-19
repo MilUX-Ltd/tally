@@ -9,6 +9,10 @@ uk-region: South West
 founded: 2021
 size: micro
 sources-verified: 2026-07-04
+postcode: BH14 0HU
+lat: 50.72373
+lon: -1.95809
+location-source: companies-house
 tags:
   - defence
   - software

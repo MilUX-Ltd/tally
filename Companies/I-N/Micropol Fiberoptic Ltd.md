@@ -5,6 +5,8 @@ website: http://www.micropol.com/en
 hq: Stockholm, Sweden
 uk-region: London
 sources-verified: 2026-07-05
+location-source: region
+location-note: UK location not published
 tags:
   - defence
   - mbr-ads

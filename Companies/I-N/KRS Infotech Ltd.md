@@ -8,6 +8,10 @@ uk-region: East of England
 founded: 2013
 size: small
 sources-verified: 2026-08-01
+postcode: CO3 3DA
+lat: 51.88573
+lon: 0.89473
+location-source: companies-house
 tags:
   - defence
   - software

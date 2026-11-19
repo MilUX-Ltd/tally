@@ -5,6 +5,9 @@ website: http://www.venetzaero.com
 hq: Chichester, United Kingdom
 uk-region: South East
 sources-verified: 2026-07-01
+lat: 50.8365
+lon: -0.77902
+location-source: town
 tags:
   - defence
   - mbr-ads

@@ -5,6 +5,9 @@ website: https://www.springfortengineering.com
 hq: Portadown, United Kingdom
 uk-region: Northern Ireland
 sources-verified: 2026-06-30
+lat: 54.42531
+lon: -6.44485
+location-source: town
 tags:
   - defence
   - mbr-ads

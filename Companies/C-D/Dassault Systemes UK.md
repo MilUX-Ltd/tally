@@ -9,6 +9,10 @@ founded: 1981
 size: large
 headcount: ~26000
 sources-verified: 2026-07-04
+postcode: CV34 5AH
+lat: 52.29259
+lon: -1.60431
+location-source: companies-house
 tags:
   - defence
   - air

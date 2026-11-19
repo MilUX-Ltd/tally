@@ -9,6 +9,10 @@ uk-region: East Midlands
 founded: 2006
 size: medium
 sources-verified: 2026-07-03
+postcode: NG34 8GJ
+lat: 53.00877
+lon: -0.39553
+location-source: companies-house
 tags:
   - defence
   - manufacturing

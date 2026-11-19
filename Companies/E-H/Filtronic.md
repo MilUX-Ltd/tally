@@ -10,6 +10,10 @@ founded: 1977
 size: small
 headcount: 175
 sources-verified: 2026-07-04
+postcode: TS21 3FR
+lat: 54.67247
+lon: -1.45594
+location-source: companies-house
 tags:
   - defence
   - rf

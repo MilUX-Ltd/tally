@@ -10,6 +10,10 @@ founded: 2023
 size: micro
 headcount: "3"
 sources-verified: 2026-07-04
+postcode: G3 7PR
+lat: 55.86644
+lon: -4.27522
+location-source: companies-house
 tags:
   - defence
   - counter-uas

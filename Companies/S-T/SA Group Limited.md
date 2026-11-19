@@ -7,6 +7,10 @@ hq: Trowbridge, England
 uk-region: South West
 size: medium
 sources-verified: 2026-07-16
+postcode: BA14 0XB
+lat: 51.30219
+lon: -2.19917
+location-source: companies-house
 tags:
   - defence
   - cyber

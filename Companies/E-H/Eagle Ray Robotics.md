@@ -9,6 +9,10 @@ uk-region: Scotland
 founded: 2023
 size: micro
 sources-verified: 2026-07-04
+postcode: EH2 4AN
+lat: 55.95092
+lon: -3.20577
+location-source: companies-house
 tags:
   - defence
   - autonomy

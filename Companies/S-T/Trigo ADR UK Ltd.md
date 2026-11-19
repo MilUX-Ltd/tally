@@ -6,6 +6,8 @@ hq: Paris, France
 uk-region: West Midlands
 size: large
 sources-verified: 2026-06-30
+location-source: region
+location-note: UK location not published
 tags:
   - defence
   - size-large

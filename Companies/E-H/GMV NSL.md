@@ -8,6 +8,10 @@ uk-region: East Midlands
 founded: 1998
 size: small
 sources-verified: 2026-07-16
+postcode: NG7 2TU
+lat: 52.95116
+lon: -1.18334
+location-source: companies-house
 tags:
   - defence
   - space

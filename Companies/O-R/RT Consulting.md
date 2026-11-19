@@ -3,6 +3,12 @@ type: organisation
 name: RT Consulting
 website: https://www.rtc.co.uk
 sources-verified: 2026-07-05
+companies-house: "10539548"
+postcode: IP28 7DE
+lat: 52.35341
+lon: 0.50075
+location-source: companies-house
+location-note: registered office of the company with this exact name on the register
 tags:
   - defence
   - cyber

@@ -6,6 +6,9 @@ linkedin: https://www.linkedin.com/company/public.io/
 hq: London
 uk-region: London
 sources-verified: 2026-07-03
+lat: 51.50741
+lon: -0.12772
+location-source: town
 tags:
   - defence
   - training

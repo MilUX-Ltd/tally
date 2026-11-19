@@ -8,6 +8,9 @@ uk-region: London
 size: large
 headcount: ~2000 (global)
 sources-verified: 2026-06-29
+lat: 51.52748
+lon: -0.35234
+location-source: town
 tags:
   - defence
   - maritime

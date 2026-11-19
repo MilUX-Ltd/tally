@@ -5,6 +5,9 @@ website: https://www.leafieldcases.com
 hq: Corsham, United Kingdom
 uk-region: South West
 sources-verified: 2026-07-04
+lat: 51.43393
+lon: -2.18449
+location-source: town
 tags:
   - defence
   - mbr-ads

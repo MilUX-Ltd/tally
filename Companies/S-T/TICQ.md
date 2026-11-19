@@ -6,6 +6,9 @@ hq: Bath, UK
 uk-region: South West
 founded: 2025
 sources-verified: 2026-06-30
+lat: 51.3828
+lon: -2.35929
+location-source: town
 tags:
   - defence
   - training

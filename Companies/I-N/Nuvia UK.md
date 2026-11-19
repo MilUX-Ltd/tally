@@ -6,6 +6,9 @@ hq: Warrington, United Kingdom
 uk-region: North West
 size: large
 sources-verified: 2026-07-16
+lat: 53.38957
+lon: -2.5909
+location-source: town
 tags:
   - defence
   - services

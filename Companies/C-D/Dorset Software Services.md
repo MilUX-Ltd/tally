@@ -10,6 +10,10 @@ founded: 1987
 size: small
 headcount: ~100
 sources-verified: 2026-07-04
+postcode: BH15 4AF
+lat: 50.71106
+lon: -1.99443
+location-source: companies-house
 tags:
   - defence
   - software

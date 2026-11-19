@@ -8,6 +8,10 @@ uk-region: Wales
 founded: 2022
 size: small
 sources-verified: 2026-07-04
+postcode: CF46 5BJ
+lat: 51.66284
+lon: -3.30768
+location-source: companies-house
 tags:
   - defence
   - software

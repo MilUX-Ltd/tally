@@ -5,6 +5,9 @@ website: https://syos-aerospace.com/
 hq: Fareham, United Kingdom
 uk-region: South East
 sources-verified: 2026-06-30
+lat: 50.85235
+lon: -1.17591
+location-source: town
 tags:
   - defence
   - mbr-ads

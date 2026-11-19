@@ -6,6 +6,7 @@ hq: Arlington, United States
 uk-region: Overseas
 size: large
 sources-verified: 2026-07-05
+country: United States
 tags:
   - defence
   - size-large

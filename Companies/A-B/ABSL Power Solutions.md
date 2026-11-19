@@ -9,6 +9,10 @@ uk-region: South East
 founded: 1993
 size: medium
 sources-verified: 2026-07-03
+postcode: OX14 3ED
+lat: 51.65776
+lon: -1.22866
+location-source: companies-house
 tags:
   - defence
   - size-medium

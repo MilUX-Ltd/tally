@@ -7,6 +7,9 @@ uk-region: South East
 founded: 1964
 companies-house: 806716
 sources-verified: 2026-07-03
+lat: 51.62876
+lon: -0.74946
+location-source: town
 tags:
   - defence
   - mbr-ads

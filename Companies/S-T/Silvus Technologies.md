@@ -8,6 +8,7 @@ uk-region: Overseas
 founded: 2004
 size: medium
 sources-verified: 2026-06-29
+country: United States
 tags:
   - defence
   - comms

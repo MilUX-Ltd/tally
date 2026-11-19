@@ -9,6 +9,10 @@ uk-region: South West
 founded: 2001
 size: small
 sources-verified: 2026-06-29
+postcode: BH23 6NW
+lat: 50.78508
+lon: -1.84972
+location-source: companies-house
 tags:
   - defence
   - test-evaluation

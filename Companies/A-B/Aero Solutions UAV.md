@@ -8,6 +8,10 @@ uk-region: East of England
 founded: 2023
 size: micro
 sources-verified: 2026-07-03
+postcode: SG4 7DP
+lat: 51.94494
+lon: -0.1436
+location-source: companies-house
 tags:
   - defence
   - uas

@@ -9,6 +9,10 @@ uk-region: South West
 founded: 1986
 size: small
 sources-verified: 2026-07-03
+postcode: DT11 7GH
+lat: 50.86693
+lon: -2.15918
+location-source: companies-house
 tags:
   - defence
   - test-evaluation

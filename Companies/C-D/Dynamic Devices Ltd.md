@@ -10,6 +10,10 @@ founded: 2004
 size: micro
 headcount: 1
 sources-verified: 2026-07-04
+postcode: L3 8HL
+lat: 53.41054
+lon: -2.97002
+location-source: companies-house
 tags:
   - defence
   - comms

@@ -9,6 +9,10 @@ uk-region: South West
 founded: 2023
 size: micro
 sources-verified: 2026-07-04
+postcode: BA12 9AY
+lat: 51.20504
+lon: -2.18116
+location-source: companies-house
 tags:
   - defence
   - software

@@ -5,6 +5,9 @@ website: http://www.guardian-service.co.uk
 hq: Northwich, United Kingdom
 uk-region: North West
 sources-verified: 2026-06-30
+lat: 53.2607
+lon: -2.51196
+location-source: town
 tags:
   - defence
   - mbr-ads

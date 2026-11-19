@@ -8,6 +8,10 @@ hq: Norwich, United Kingdom
 uk-region: East of England
 size: medium
 sources-verified: 2026-07-05
+postcode: NR7 9AY
+lat: 52.6475
+lon: 1.32605
+location-source: companies-house
 tags:
   - defence
   - maritime

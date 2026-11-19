@@ -5,6 +5,9 @@ website: https://vikela.tech
 hq: Belfast, United Kingdom
 uk-region: Northern Ireland
 sources-verified: 2026-07-01
+lat: 54.59639
+lon: -5.93018
+location-source: town
 tags:
   - defence
   - mbr-ads

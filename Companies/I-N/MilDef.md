@@ -9,6 +9,7 @@ founded: 1997
 size: large
 headcount: 514
 sources-verified: 2026-07-05
+country: Sweden
 tags:
   - defence
   - hardware

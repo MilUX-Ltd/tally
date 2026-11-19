@@ -6,6 +6,7 @@ hq: Austin, Texas, USA
 uk-region: Overseas
 founded: 2021
 sources-verified: 2026-07-05
+country: United States
 tags:
   - defence
   - comms

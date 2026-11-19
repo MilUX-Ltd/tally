@@ -8,6 +8,10 @@ uk-region: South East
 founded: 2023
 size: micro
 sources-verified: 2026-07-16
+postcode: HP9 2HN
+lat: 51.60212
+lon: -0.63602
+location-source: companies-house
 tags:
   - defence
   - cyber

@@ -10,6 +10,10 @@ founded: 2023
 size: small
 headcount: 55
 sources-verified: 2026-07-04
+postcode: WC2B 5AD
+lat: 51.51493
+lon: -0.12214
+location-source: companies-house
 tags:
   - defence
   - ew

@@ -10,6 +10,10 @@ founded: 2013
 size: small
 headcount: 72
 sources-verified: 2026-07-04
+postcode: OX28 4BE
+lat: 51.78087
+lon: -1.48138
+location-source: companies-house
 tags:
   - defence
   - cyber

@@ -9,6 +9,10 @@ uk-region: North East
 founded: 1942
 size: small
 sources-verified: 2026-07-04
+postcode: DH8 6SZ
+lat: 54.8631
+lon: -1.82155
+location-source: companies-house
 tags:
   - defence
   - air

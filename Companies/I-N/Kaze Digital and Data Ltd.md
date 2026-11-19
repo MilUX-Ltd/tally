@@ -9,6 +9,10 @@ uk-region: South West
 founded: 2019
 size: micro
 sources-verified: 2026-07-04
+postcode: GL52 8PX
+lat: 51.95304
+lon: -2.05589
+location-source: companies-house
 tags:
   - defence
   - mbr-ads

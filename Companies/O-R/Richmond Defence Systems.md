@@ -4,6 +4,9 @@ name: Richmond Defence Systems
 website: https://www.richmond-dfs.com
 hq: North Lopham, Norfolk, United Kingdom
 sources-verified: 2026-07-05
+lat: 52.40782
+lon: 0.99204
+location-source: town
 tags:
   - defence
   - mbr-ads

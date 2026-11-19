@@ -8,6 +8,10 @@ uk-region: South East
 founded: 2007
 size: small
 sources-verified: 2026-07-03
+postcode: BN3 2DL
+lat: 50.82809
+lon: -0.1749
+location-source: companies-house
 tags:
   - defence
   - sensors

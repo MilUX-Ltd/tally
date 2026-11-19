@@ -8,6 +8,10 @@ uk-region: South West
 founded: 2021
 size: micro
 sources-verified: 2026-07-05
+postcode: DT2 8ZB
+lat: 50.68153
+lon: -2.25652
+location-source: companies-house
 tags:
   - defence
   - uas

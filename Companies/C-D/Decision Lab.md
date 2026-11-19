@@ -10,6 +10,10 @@ founded: 2011
 size: small
 headcount: 13
 sources-verified: 2026-07-04
+postcode: LE11 1QJ
+lat: 52.78258
+lon: -1.20309
+location-source: companies-house
 tags:
   - defence
   - ai

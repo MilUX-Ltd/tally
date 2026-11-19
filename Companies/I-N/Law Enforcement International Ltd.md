@@ -7,6 +7,10 @@ uk-region: East of England
 founded: 1987
 size: micro
 sources-verified: 2026-07-04
+postcode: EC3M 7AT
+lat: 51.5122
+lon: -0.08257
+location-source: companies-house
 tags:
   - defence
   - mbr-ads

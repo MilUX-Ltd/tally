@@ -10,6 +10,10 @@ founded: 2000
 size: large
 headcount: 1300
 sources-verified: 2026-07-04
+postcode: SW1Y 5AU
+lat: 51.50796
+lon: -0.13075
+location-source: companies-house
 tags:
   - defence
   - logistics

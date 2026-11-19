@@ -5,6 +5,7 @@ website: https://www.innalabs.com
 hq: Dublin, Ireland
 uk-region: Overseas
 sources-verified: 2026-07-04
+country: Ireland
 tags:
   - defence
   - mbr-ads

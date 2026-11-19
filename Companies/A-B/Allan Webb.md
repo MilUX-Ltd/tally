@@ -9,6 +9,10 @@ uk-region: South West
 founded: 1983
 size: large
 sources-verified: 2026-06-29
+postcode: GL10 3RF
+lat: 51.74557
+lon: -2.30207
+location-source: companies-house
 tags:
   - defence
   - logistics

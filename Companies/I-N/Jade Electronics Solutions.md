@@ -9,6 +9,10 @@ uk-region: South West
 founded: 2022
 size: micro
 sources-verified: 2026-07-04
+postcode: EX5 2QB
+lat: 50.75494
+lon: -3.35641
+location-source: companies-house
 tags:
   - defence
   - electronics

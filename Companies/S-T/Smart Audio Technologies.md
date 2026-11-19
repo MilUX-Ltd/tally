@@ -3,6 +3,12 @@ type: organisation
 name: Smart Audio Technologies
 website: https://smartaudiotechnologies.com
 sources-verified: 2026-06-30
+companies-house: "11088278"
+postcode: N1 7GU
+lat: 51.53074
+lon: -0.09371
+location-source: companies-house
+location-note: registered office of the company with this exact name on the register
 tags:
   - defence
   - mbr-ads

@@ -9,6 +9,10 @@ uk-region: London
 founded: 2016
 size: small
 sources-verified: 2026-07-04
+postcode: EC4A 1AN
+lat: 51.5167
+lon: -0.10792
+location-source: companies-house
 tags:
   - defence
   - space

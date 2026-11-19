@@ -7,6 +7,10 @@ uk-region: London
 founded: 2025
 size: micro
 sources-verified: 2026-07-03
+postcode: W2 2PE
+lat: 51.5153
+lon: -0.16645
+location-source: companies-house
 tags:
   - defence
   - space

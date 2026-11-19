@@ -8,6 +8,9 @@ uk-region: London
 size: micro
 headcount: 2-10
 sources-verified: 2026-07-03
+lat: 51.50741
+lon: -0.12772
+location-source: town
 tags:
   - defence
   - ai

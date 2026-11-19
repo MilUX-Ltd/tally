@@ -5,6 +5,8 @@ website: https://www.lunasaspace.com
 hq: Paris, France
 uk-region: London
 sources-verified: 2026-07-04
+location-source: region
+location-note: UK location not published
 tags:
   - defence
   - mbr-ads

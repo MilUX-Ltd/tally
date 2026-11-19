@@ -8,6 +8,10 @@ uk-region: East of England
 founded: 2010
 size: micro
 sources-verified: 2026-07-03
+postcode: MK45 4FD
+lat: 52.0075
+lon: -0.42308
+location-source: companies-house
 tags:
   - defence
   - hardware

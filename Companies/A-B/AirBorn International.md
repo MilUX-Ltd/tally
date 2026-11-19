@@ -10,6 +10,10 @@ founded: 1999
 size: medium
 headcount: 50+
 sources-verified: 2026-07-03
+postcode: TN8 6HL
+lat: 51.20659
+lon: 0.06102
+location-source: companies-house
 tags:
   - defence
   - hardware

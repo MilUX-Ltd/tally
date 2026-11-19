@@ -7,6 +7,10 @@ uk-region: London
 founded: 2014
 size: micro
 sources-verified: 2026-07-05
+postcode: WC2H 9JQ
+lat: 51.5149
+lon: -0.12362
+location-source: companies-house
 tags:
   - defence
   - mbr-ads

@@ -6,6 +6,9 @@ hq: Huntingdon, United Kingdom
 uk-region: East of England
 size: small
 sources-verified: 2026-07-16
+lat: 52.33051
+lon: -0.18435
+location-source: town
 tags:
   - defence
   - electronics

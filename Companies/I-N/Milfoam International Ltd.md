@@ -7,6 +7,10 @@ hq: Wembley, United Kingdom
 uk-region: London
 founded: 2000
 sources-verified: 2026-07-05
+postcode: HA0 1BA
+lat: 51.53858
+lon: -0.30462
+location-source: companies-house
 tags:
   - defence
   - mbr-ads

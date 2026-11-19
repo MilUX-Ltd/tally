@@ -9,6 +9,10 @@ uk-region: North West
 founded: 1986
 size: small
 sources-verified: 2026-07-03
+postcode: PR1 2SP
+lat: 53.7653
+lon: -2.70338
+location-source: companies-house
 tags:
   - defence
   - manufacturing

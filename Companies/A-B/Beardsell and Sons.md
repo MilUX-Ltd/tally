@@ -8,6 +8,10 @@ uk-region: North West
 founded: 2018
 size: micro
 sources-verified: 2026-07-03
+postcode: CA15 8NT
+lat: 54.70711
+lon: -3.50551
+location-source: companies-house
 tags:
   - defence
   - land

@@ -5,6 +5,9 @@ website: http://www.verify-europe.com
 hq: Milton Keynes, United Kingdom
 uk-region: South East
 sources-verified: 2026-07-01
+lat: 52.04302
+lon: -0.75406
+location-source: town
 tags:
   - defence
   - mbr-ads

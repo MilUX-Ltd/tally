@@ -5,6 +5,9 @@ website: https://www.indigofitness.com
 hq: Nuneaton, United Kingdom
 uk-region: West Midlands
 sources-verified: 2026-07-04
+lat: 52.52214
+lon: -1.46773
+location-source: town
 tags:
   - defence
   - mbr-ads

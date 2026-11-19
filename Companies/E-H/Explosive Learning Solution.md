@@ -9,6 +9,10 @@ uk-region: South East
 founded: 2005
 size: small
 sources-verified: 2026-07-04
+postcode: OX11 0SG
+lat: 51.57716
+lon: -1.31208
+location-source: companies-house
 tags:
   - defence
   - training

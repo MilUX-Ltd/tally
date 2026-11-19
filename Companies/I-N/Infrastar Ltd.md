@@ -5,6 +5,9 @@ website: https://www.infrastar.co.uk
 hq: Quedgeley, United Kingdom
 uk-region: South West
 sources-verified: 2026-07-04
+lat: 51.82543
+lon: -2.28046
+location-source: town
 tags:
   - defence
   - mbr-ads

@@ -5,6 +5,8 @@ website: https://ukrspecsystems.com/
 hq: Kyiv, Ukraine
 uk-region: London
 sources-verified: 2026-06-30
+location-source: region
+location-note: UK location not published
 tags:
   - defence
   - mbr-ads

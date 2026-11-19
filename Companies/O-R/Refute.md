@@ -4,6 +4,12 @@ name: Refute
 website: https://refute.com/
 linkedin: https://www.linkedin.com/company/refute/
 sources-verified: 2026-07-05
+companies-house: "15624117"
+postcode: W1H 1DP
+lat: 51.52003
+lon: -0.16251
+location-source: companies-house
+location-note: registered office of the company with this exact name on the register
 tags:
   - defence
   - ai

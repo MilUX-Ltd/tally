@@ -8,6 +8,10 @@ uk-region: West Midlands
 founded: 1982
 size: medium
 sources-verified: 2026-07-04
+postcode: SY7 8DA
+lat: 52.45728
+lon: -2.83421
+location-source: companies-house
 tags:
   - defence
   - land

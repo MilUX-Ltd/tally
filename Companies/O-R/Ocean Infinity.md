@@ -10,6 +10,10 @@ founded: 2017
 size: large
 headcount: ~500
 sources-verified: 2026-07-05
+postcode: SO19 9UY
+lat: 50.89661
+lon: -1.38145
+location-source: companies-house
 tags:
   - defence
   - maritime

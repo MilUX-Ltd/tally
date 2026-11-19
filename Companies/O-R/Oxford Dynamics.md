@@ -9,6 +9,10 @@ uk-region: South East
 founded: 2020
 size: small
 sources-verified: 2026-07-05
+postcode: OX11 0QX
+lat: 51.57489
+lon: -1.3145
+location-source: companies-house
 tags:
   - defence
   - ai

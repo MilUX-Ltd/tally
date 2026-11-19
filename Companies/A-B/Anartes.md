@@ -8,6 +8,10 @@ uk-region: South West
 founded: 2022
 size: micro
 sources-verified: 2026-07-03
+postcode: EX4 3PL
+lat: 50.72577
+lon: -3.52906
+location-source: companies-house
 tags:
   - defence
   - uas

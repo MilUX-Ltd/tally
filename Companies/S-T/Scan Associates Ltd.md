@@ -5,6 +5,9 @@ website: https://www.scanassociates.co.uk
 hq: Loughton, United Kingdom
 uk-region: East of England
 sources-verified: 2026-06-30
+lat: 51.64671
+lon: 0.05441
+location-source: town
 tags:
   - defence
   - mbr-ads

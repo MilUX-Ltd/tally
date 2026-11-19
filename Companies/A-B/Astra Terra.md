@@ -10,6 +10,10 @@ founded: 2013
 size: micro
 headcount: 2-10
 sources-verified: 2026-07-04
+postcode: HA0 1HD
+lat: 51.53485
+lon: -0.2979
+location-source: companies-house
 tags:
   - defence
   - space

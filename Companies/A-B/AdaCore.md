@@ -9,6 +9,10 @@ uk-region: South West
 founded: 2018
 size: medium
 sources-verified: 2026-07-03
+postcode: BS1 4QP
+lat: 51.44977
+lon: -2.59549
+location-source: companies-house
 tags:
   - defence
   - software

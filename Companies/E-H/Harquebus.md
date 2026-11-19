@@ -6,6 +6,9 @@ hq: London, UK
 uk-region: London
 size: small
 sources-verified: 2026-07-04
+lat: 51.50741
+lon: -0.12772
+location-source: town
 tags:
   - defence
   - training

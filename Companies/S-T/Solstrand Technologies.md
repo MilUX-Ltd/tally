@@ -6,6 +6,9 @@ hq: High Wycombe, England
 uk-region: South East
 size: small
 sources-verified: 2026-07-16
+lat: 51.62876
+lon: -0.74946
+location-source: town
 tags:
   - defence
   - manufacturing

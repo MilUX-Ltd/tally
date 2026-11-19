@@ -10,6 +10,10 @@ founded: 2007
 size: medium
 headcount: 51-200
 sources-verified: 2026-07-04
+postcode: SP3 5AF
+lat: 51.10159
+lon: -2.05082
+location-source: companies-house
 tags:
   - defence
   - uas

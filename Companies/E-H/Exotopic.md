@@ -9,6 +9,10 @@ uk-region: London
 founded: 2014
 size: micro
 sources-verified: 2026-07-04
+postcode: SW8 1SZ
+lat: 51.48436
+lon: -0.12269
+location-source: companies-house
 tags:
   - defence
   - space

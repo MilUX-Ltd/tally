@@ -9,6 +9,10 @@ uk-region: South West
 founded: 2017
 size: micro
 sources-verified: 2026-07-04
+postcode: SN8 3AF
+lat: 51.35697
+lon: -1.67134
+location-source: companies-house
 tags:
   - defence
   - training

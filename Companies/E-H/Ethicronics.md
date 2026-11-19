@@ -10,6 +10,10 @@ founded: 2022
 size: micro
 headcount: 4
 sources-verified: 2026-07-04
+postcode: CB2 3QJ
+lat: 52.2048
+lon: 0.11929
+location-source: website
 tags:
   - defence
   - hardware

@@ -8,6 +8,10 @@ uk-region: South East
 founded: 2008
 size: micro
 sources-verified: 2026-07-03
+postcode: GU34 4AT
+lat: 51.14586
+lon: -1.02768
+location-source: companies-house
 tags:
   - defence
   - land

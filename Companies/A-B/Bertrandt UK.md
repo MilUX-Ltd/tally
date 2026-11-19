@@ -9,6 +9,10 @@ uk-region: West Midlands
 founded: 1995
 size: medium
 sources-verified: 2026-07-04
+postcode: B69 2DG
+lat: 52.50223
+lon: -2.02121
+location-source: companies-house
 tags:
   - defence
   - air

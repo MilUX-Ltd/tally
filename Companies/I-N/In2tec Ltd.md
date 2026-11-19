@@ -5,6 +5,9 @@ website: https://www.in2tec.com
 hq: Kettering, United Kingdom
 uk-region: East Midlands
 sources-verified: 2026-07-04
+lat: 52.39995
+lon: -0.72831
+location-source: town
 tags:
   - defence
   - mbr-ads

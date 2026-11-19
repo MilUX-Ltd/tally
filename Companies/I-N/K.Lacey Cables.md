@@ -8,6 +8,10 @@ hq: Littlehampton, United Kingdom
 uk-region: South East
 founded: 1970s
 sources-verified: 2026-07-04
+postcode: BN16 3LF
+lat: 50.818
+lon: -0.50677
+location-source: companies-house
 tags:
   - defence
   - mbr-ads

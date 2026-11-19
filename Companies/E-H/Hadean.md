@@ -9,6 +9,10 @@ uk-region: London
 founded: 2015
 size: medium
 sources-verified: 2026-07-04
+postcode: EC2A 2AP
+lat: 51.52169
+lon: -0.08163
+location-source: companies-house
 tags:
   - defence
   - ai

@@ -7,6 +7,12 @@ hq: United Kingdom
 size: micro
 founded: 2019
 sources-verified: 2026-07-05
+companies-house: "11937659"
+postcode: SP10 1LZ
+lat: 51.20869
+lon: -1.48051
+location-source: companies-house
+location-note: registered office of the company with this exact name on the register
 tags:
   - defence
   - human-factors

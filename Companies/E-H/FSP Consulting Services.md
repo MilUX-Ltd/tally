@@ -10,6 +10,10 @@ founded: 2011
 size: medium
 headcount: 400-450
 sources-verified: 2026-07-04
+postcode: RG6 1RB
+lat: 51.46238
+lon: -0.92445
+location-source: companies-house
 tags:
   - defence
   - cyber

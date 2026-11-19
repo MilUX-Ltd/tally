@@ -7,6 +7,10 @@ hq: London, United Kingdom
 uk-region: London
 size: small
 sources-verified: 2026-07-03
+postcode: LL30 2UU
+lat: 53.32362
+lon: -3.83074
+location-source: companies-house
 tags:
   - defence
   - type-consultancy

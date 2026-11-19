@@ -8,6 +8,7 @@ uk-region: Overseas
 founded: 2022
 size: medium
 sources-verified: 2026-06-29
+country: Ukraine
 tags:
   - defence
   - uas

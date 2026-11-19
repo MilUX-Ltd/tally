@@ -9,6 +9,10 @@ uk-region: London
 founded: 2022
 size: small
 sources-verified: 2026-07-04
+postcode: SE17 3AZ
+lat: 51.4909
+lon: -0.09942
+location-source: companies-house
 tags:
   - defence
   - mbr-ads

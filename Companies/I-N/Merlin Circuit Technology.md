@@ -5,6 +5,9 @@ website: https://www.merlinpcbgroup.com
 hq: Deeside, United Kingdom
 uk-region: North West
 sources-verified: 2026-07-05
+lat: 53.78177
+lon: -3.03383
+location-source: town
 tags:
   - defence
   - mbr-ads

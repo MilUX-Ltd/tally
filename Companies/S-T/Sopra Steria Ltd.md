@@ -7,6 +7,8 @@ uk-region: East of England
 size: large
 headcount: "c.7,000 (UK)"
 sources-verified: 2026-07-03
+location-source: region
+location-note: UK location not published
 tags:
   - defence
   - mbr-ads

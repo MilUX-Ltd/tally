@@ -10,6 +10,10 @@ founded: 2001
 size: small
 headcount: 11-50
 sources-verified: 2026-07-04
+postcode: LE13 0PB
+lat: 52.77024
+lon: -0.8917
+location-source: companies-house
 tags:
   - defence
   - sensors

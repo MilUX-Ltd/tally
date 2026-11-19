@@ -9,6 +9,7 @@ founded: 1978
 size: medium
 headcount: ~54
 sources-verified: 2026-07-03
+country: Ireland
 tags:
   - defence
   - air

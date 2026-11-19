@@ -5,6 +5,9 @@ website: https://www.silentsentinel.com
 hq: Stanstead Abbotts, United Kingdom
 uk-region: East of England
 sources-verified: 2026-06-30
+lat: 51.78848
+lon: 0.00993
+location-source: town
 tags:
   - defence
   - mbr-ads

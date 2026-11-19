@@ -9,6 +9,10 @@ uk-region: London
 founded: 2024
 size: small
 sources-verified: 2026-07-04
+postcode: SE1 5SZ
+lat: 51.49029
+lon: -0.0769
+location-source: companies-house
 tags:
   - defence
   - manufacturing

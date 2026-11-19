@@ -10,6 +10,10 @@ founded: 2010
 size: large
 headcount: 7000-9000
 sources-verified: 2026-07-04
+postcode: WC2E 7HA
+lat: 51.51098
+lon: -0.12189
+location-source: companies-house
 tags:
   - defence
   - test-evaluation
