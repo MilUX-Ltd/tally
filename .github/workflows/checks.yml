@@ -23,3 +23,5 @@ jobs:
           python-version: "3.12"
       - name: The gate
         run: python3 .github/scripts/check.py
+      - name: Acceptance tests
+        run: python3 -m unittest discover -s tests -t . -v
