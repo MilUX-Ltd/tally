@@ -34,9 +34,15 @@ class Locations(unittest.TestCase):
             cls.pages[path] = frontmatter(path.read_text(encoding="utf-8"))
 
     def test_every_uk_company_has_a_uk_point(self):
+        """Every UK company has a UK point, or is marked region-level with a note and no point."""
         bad = []
         for path, meta in self.pages.items():
             if meta.get("uk-region") == "Overseas":
+                continue
+            if meta.get("location-source") == "region":
+                # Approved amendment: a UK company whose town is not published is listed without a map point.
+                if meta.get("lat") or meta.get("lon") or not meta.get("location-note"):
+                    bad.append((path.name, "region source must have a note and no point"))
                 continue
             try:
                 lat, lon = float(meta.get("lat", "")), float(meta.get("lon", ""))
