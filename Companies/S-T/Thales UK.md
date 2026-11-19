@@ -11,6 +11,7 @@ sources-verified: 2026-11-19
 lat: 51.78469
 lon: -3.20817
 location-source: town
+location-note: placed at its Welsh site; headquarters in Reading
 tags:
   - defence
   - air

@@ -12,6 +12,7 @@ postcode: CF10 1FS
 lat: 51.47663
 lon: -3.18049
 location-source: website
+location-note: placed at its Cardiff office; headquarters in Nottingham
 tags:
   - defence
   - legal

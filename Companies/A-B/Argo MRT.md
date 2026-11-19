@@ -44,7 +44,7 @@ Argo MRT provides mobile and workshop repair of composite and metallic aircraft 
 
 ## Frameworks, accreditations and memberships
 
-- **Accreditations:** The company lists EASA 145.3256, UK Part 145.01427 and FAA FSLY857D approvals on its website and LinkedIn page.
+- **Accreditations:** The company lists aviation maintenance approvals on its website; their current status is held on the CAA, EASA and FAA registers.
 - **Memberships:** Defence Wales; Aerospace Wales Forum directory listing.
 
 ## Links
