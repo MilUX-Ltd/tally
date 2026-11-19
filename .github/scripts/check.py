@@ -148,7 +148,7 @@ def _value_problem(raw):
         inner = value[1:-1] if len(value) >= 2 and value[-1] == '"' else None
         if inner is None or '"' in inner:
             return "has broken double quotes"
-    if any(ord(c) < 0x20 for c in value):
+    if any(ord(c) < 0x20 or ord(c) == 0x7F for c in value):
         return "must not contain control characters"
     return None
 
@@ -237,7 +237,7 @@ def certification_check_problems(text, accreditations):
         register = check.get("register", "")
         if not 2 <= len(register) <= 80:
             problems.append(f"{label}: register must be 2 to 80 characters")
-        if "://" in register or "www." in register.lower() or any(ord(c) < 0x20 for c in register):
+        if "://" in register or "www." in register.lower() or any(ord(c) < 0x20 or ord(c) == 0x7F for c in register):
             problems.append(f"{label}: register must be plain text, without a link")
         if REGISTER_DENIED.search(register):
             problems.append(f"{label}: register must name the register only, without negative or status wording")
