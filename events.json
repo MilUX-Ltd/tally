@@ -77,16 +77,6 @@
   },
   {
    "audience": "public",
-   "cluster": "NERDSC",
-   "date": "2026-11-26",
-   "time": "1pm to 3pm",
-   "where": "Online",
-   "title": "Is your business one click from shutdown? Cyber workshop",
-   "summary": "Free two-hour online workshop for North East manufacturers on finding cyber gaps and getting ready for Cyber Essentials and DCC.",
-   "link": null
-  },
-  {
-   "audience": "public",
    "cluster": "WRDSC",
    "date": "2026-11-26",
    "time": "Afternoon",
@@ -167,31 +157,11 @@
    "link": "https://www.eastrdsc.co.uk/"
   },
   {
-   "audience": "public",
-   "cluster": "GLRDSC",
-   "date": "2026-12-10",
-   "time": "10:00 to 12:00",
-   "where": "Online",
-   "title": "Blue Light Solutions industry engagement session",
-   "summary": "An MOD digital commercial team sets out its Blue Light Solutions category strategy for police, security and guarding support. Firms new to defence are welcome.",
-   "link": null
-  },
-  {
    "audience": "members",
    "cluster": "WMRDSC",
    "date": "2027-01-19",
    "text": "Members' event: join the cluster for details",
    "link": "https://www.westmidsrdsc.co.uk/"
-  },
-  {
-   "audience": "public",
-   "cluster": "EMRDSC",
-   "date": "2027-01-20",
-   "time": null,
-   "where": "Safran, Wolverhampton",
-   "title": "Inside Safran: site visit",
-   "summary": "Visit to Safran's Wolverhampton site to hear from its senior leaders about its work and supply chain.",
-   "link": null
   },
   {
    "audience": "public",
@@ -202,16 +172,6 @@
    "title": "Technology SME Meet the Buyer Forum",
    "summary": "Government Commercial Agency forum where technology SMEs meet public sector buyers and hear about upcoming requirements. SMEs only.",
    "link": "https://lnkd.in/eHbNyXS5"
-  },
-  {
-   "audience": "public",
-   "cluster": "LRDSC",
-   "date": "2027-02-09",
-   "time": "9am to 1:15pm",
-   "where": "Central London",
-   "title": "Funding for Growth: from pre-revenue to scale in defence",
-   "summary": "Save the date. A bank-hosted morning on investment readiness, funding larger contracts, export finance and scaling. Agenda and booking to follow.",
-   "link": null
   },
   {
    "audience": "public",

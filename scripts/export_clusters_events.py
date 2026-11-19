@@ -9,7 +9,8 @@ clusters.json and events.json at the top of this repository. Run by the weekly r
 Standard library only. The export works by allow-list:
 
 - Only items of kind "event", dated on or after --today, for a known cluster.
-- Public events keep cluster, date, time, place, title, summary and link.
+- Public events keep cluster, date, time, place, title, summary and link. A public event
+  without a public http(s) link is left out, because it cannot be shown to be public.
 - Members-only events keep cluster and date only, and get a fixed line of text and the
   cluster's own website as their link. Nothing else from a members-only item is read.
   A members-only event for a cluster without a website is left out.
@@ -191,6 +192,8 @@ def build_events(items, clusters, today):
             if mentions_receipt(item) or not text(item.get("title")):
                 continue
             link = text(item.get("link"))
+            if not (link and SAFE_LINK.match(link)):
+                continue
             events.append({
                 "audience": "public",
                 "cluster": cluster,
@@ -199,7 +202,7 @@ def build_events(items, clusters, today):
                 "where": text(item.get("where")),
                 "title": text(item.get("title")),
                 "summary": text(item.get("summary")),
-                "link": link if link and SAFE_LINK.match(link) else None,
+                "link": link,
             })
     events.sort(key=lambda e: (e["date"], e["cluster"], e.get("title") or ""))
     return {"as_of": today, "events": events}
