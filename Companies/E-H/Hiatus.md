@@ -3,7 +3,7 @@ type: organisation
 name: Hiatus
 website: https://www.hiatus.digital
 linkedin: 
-companies-house: 
+companies-house: "03352452"
 hq: 
 uk-region:
 founded: 
