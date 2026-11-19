@@ -20,7 +20,6 @@ tags:
   - owned-uk
   - accr-ce
   - mbr-ads
-  - uas/multirotor
 ---
 
 # Drone Band Ltd
