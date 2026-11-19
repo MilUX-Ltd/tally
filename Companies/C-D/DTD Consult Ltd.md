@@ -8,6 +8,10 @@ uk-region: South East
 founded: 2015
 size: micro
 sources-verified: 2026-07-17
+postcode: CT13 9FF
+lat: 51.28776
+lon: 1.34438
+location-source: companies-house
 tags:
   - defence
   - consultancy

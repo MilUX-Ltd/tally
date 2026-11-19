@@ -6,6 +6,10 @@ hq: Cheltenham, United Kingdom
 uk-region: South West
 founded: 2021
 sources-verified: 2026-07-05
+postcode: GL52 2LY
+lat: 51.90076
+lon: -2.07278
+location-source: companies-house
 tags:
   - defence
   - mbr-ads

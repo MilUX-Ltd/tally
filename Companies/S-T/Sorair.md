@@ -6,6 +6,9 @@ hq: Aylesbury, England
 uk-region: South East
 size: micro
 sources-verified: 2026-07-16
+lat: 51.81711
+lon: -0.81066
+location-source: town
 tags:
   - defence
   - uas

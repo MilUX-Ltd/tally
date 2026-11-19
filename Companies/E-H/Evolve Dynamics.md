@@ -8,6 +8,10 @@ hq: Guildford, UK
 uk-region: South East
 size: medium
 sources-verified: 2026-07-04
+postcode: RH1 1RJ
+lat: 51.24034
+lon: -0.16808
+location-source: companies-house
 tags:
   - defence
   - uas

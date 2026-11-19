@@ -6,6 +6,9 @@ hq: Washington, D.C., United States
 uk-region: London
 size: large
 sources-verified: 2026-07-16
+lat: 54.8989
+lon: -1.53545
+location-source: town
 tags:
   - defence
   - isr

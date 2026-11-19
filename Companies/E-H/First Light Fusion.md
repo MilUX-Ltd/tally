@@ -10,6 +10,10 @@ founded: 2011
 size: medium
 headcount: ~84
 sources-verified: 2026-07-04
+postcode: OX5 1QU
+lat: 51.80421
+lon: -1.29964
+location-source: companies-house
 tags:
   - defence
   - sensors

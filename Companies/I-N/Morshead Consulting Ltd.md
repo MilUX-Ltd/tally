@@ -9,6 +9,10 @@ uk-region: South East
 founded: 2020
 size: micro
 sources-verified: 2026-07-05
+postcode: PO22 6AY
+lat: 50.79851
+lon: -0.63169
+location-source: companies-house
 tags:
   - defence
   - mbr-ads

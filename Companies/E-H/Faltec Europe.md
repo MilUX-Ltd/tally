@@ -10,6 +10,10 @@ founded: 1989
 size: medium
 headcount: 450
 sources-verified: 2026-07-04
+postcode: SR5 3FH
+lat: 54.92429
+lon: -1.47847
+location-source: companies-house
 tags:
   - defence
   - manufacturing

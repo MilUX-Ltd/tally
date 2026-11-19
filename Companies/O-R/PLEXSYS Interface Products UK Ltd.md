@@ -5,6 +5,9 @@ website: https://www.plexsys.com
 hq: Covington, United States
 uk-region: East Midlands
 sources-verified: 2026-07-05
+lat: 55.64073
+lon: -3.6289
+location-source: town
 tags:
   - defence
   - mbr-ads

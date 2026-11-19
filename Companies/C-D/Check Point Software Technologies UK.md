@@ -9,6 +9,10 @@ uk-region: London
 founded: 1996
 size: large
 sources-verified: 2026-07-04
+postcode: N3 1LQ
+lat: 51.60539
+lon: -0.19058
+location-source: companies-house
 tags:
   - cyber
   - cyber/threat-intel

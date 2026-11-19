@@ -9,6 +9,10 @@ uk-region: London
 founded: 2011
 size: medium
 sources-verified: 2026-07-04
+postcode: EC2V 7AN
+lat: 51.51636
+lon: -0.09445
+location-source: companies-house
 tags:
   - defence
   - logistics

@@ -6,6 +6,9 @@ hq: Stockton-on-Tees, United Kingdom
 uk-region: North East
 size: micro
 sources-verified: 2026-07-05
+lat: 54.56397
+lon: -1.31267
+location-source: town
 tags:
   - defence
   - mbr-ads

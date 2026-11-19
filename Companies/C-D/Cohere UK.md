@@ -10,6 +10,10 @@ founded: 2019
 size: large
 headcount: 800+
 sources-verified: 2026-07-04
+postcode: W1F 7JT
+lat: 51.51441
+lon: -0.13793
+location-source: companies-house
 tags:
   - defence
   - ai

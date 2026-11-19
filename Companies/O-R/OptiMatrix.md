@@ -5,6 +5,9 @@ website: https://www.optimatrix.co.uk
 hq: Hitchin, Hertfordshire
 uk-region: East of England
 sources-verified: 2026-07-05
+lat: 51.94951
+lon: -0.28007
+location-source: town
 tags:
   - defence
   - type-consultancy

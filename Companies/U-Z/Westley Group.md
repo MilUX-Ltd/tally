@@ -5,6 +5,9 @@ website: https://www.westleygroup.co.uk
 hq: Cradley Heath, United Kingdom
 uk-region: West Midlands
 sources-verified: 2026-07-01
+lat: 52.47213
+lon: -2.08216
+location-source: town
 tags:
   - defence
   - mbr-ads

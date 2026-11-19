@@ -9,6 +9,10 @@ uk-region: South East
 founded: 2003
 size: small
 sources-verified: 2026-07-04
+postcode: WC2A 2JR
+lat: 51.51445
+lon: -0.11177
+location-source: companies-house
 tags:
   - defence
   - cyber

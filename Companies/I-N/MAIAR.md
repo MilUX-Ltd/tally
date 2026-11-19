@@ -6,6 +6,9 @@ linkedin: https://uk.linkedin.com/company/maiar-ltd
 hq: Letchworth Garden City, United Kingdom
 uk-region: East of England
 sources-verified: 2026-07-05
+lat: 52.24
+lon: 0.41
+location-source: town
 tags:
   - defence
   - mbr-ads

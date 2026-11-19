@@ -10,6 +10,10 @@ founded: 2012
 size: small
 headcount: 29
 sources-verified: 2026-07-04
+postcode: SK9 5AR
+lat: 53.32611
+lon: -2.23553
+location-source: companies-house
 tags:
   - defence
   - cyber

@@ -10,6 +10,10 @@ founded: 1989
 size: small
 headcount: 11-50
 sources-verified: 2026-07-04
+postcode: GU46 6ET
+lat: 51.3314
+lon: -0.83436
+location-source: companies-house
 tags:
   - defence
   - air

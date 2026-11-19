@@ -8,6 +8,9 @@ uk-region: West Midlands
 founded: 2015
 size: small
 sources-verified: 2026-07-04
+lat: 52.47928
+lon: -1.90294
+location-source: town
 tags:
   - defence
   - data

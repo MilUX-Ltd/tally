@@ -8,6 +8,10 @@ uk-region: London
 founded: 2022
 size: micro
 sources-verified: 2026-07-05
+postcode: EC2A 4NE
+lat: 51.52562
+lon: -0.0836
+location-source: companies-house
 tags:
   - defence
   - mbr-ads

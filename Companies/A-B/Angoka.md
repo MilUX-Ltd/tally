@@ -10,6 +10,10 @@ founded: 2019
 size: small
 headcount: 20-30
 sources-verified: 2026-07-03
+postcode: BT7 3JH
+lat: 54.56755
+lon: -5.91552
+location-source: companies-house
 tags:
   - defence
   - cyber

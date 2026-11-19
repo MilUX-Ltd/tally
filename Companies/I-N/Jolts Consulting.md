@@ -6,6 +6,10 @@ linkedin: https://uk.linkedin.com/company/jolts-consulting-limited
 companies-house: 09414406
 size: small
 sources-verified: 2026-07-04
+postcode: SW19 2RR
+lat: 51.4109
+lon: -0.18505
+location-source: companies-house
 tags:
   - defence
   - training

@@ -5,6 +5,9 @@ website: https://www.nnl.co.uk
 hq: Warrington, United Kingdom
 uk-region: North West
 sources-verified: 2026-07-05
+lat: 53.38957
+lon: -2.5909
+location-source: town
 tags:
   - defence
   - mbr-ads

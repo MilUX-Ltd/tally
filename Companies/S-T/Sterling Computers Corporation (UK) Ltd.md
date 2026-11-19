@@ -5,6 +5,9 @@ website: https://sterling.com/uk/
 hq: South Dakota, United States
 uk-region: South East
 sources-verified: 2026-06-30
+lat: 51.27
+lon: -0.75
+location-source: town
 tags:
   - defence
   - mbr-ads

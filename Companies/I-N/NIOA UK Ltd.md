@@ -5,6 +5,9 @@ website: https://nioa.com.au
 hq: Brisbane, Australia
 uk-region: South West
 sources-verified: 2026-07-05
+lat: 50.96
+lon: -3.22
+location-source: town
 tags:
   - defence
   - mbr-ads

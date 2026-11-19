@@ -7,6 +7,9 @@ hq: Melbourne, FL, USA
 uk-region: London
 size: large
 sources-verified: 2026-07-04
+lat: 53.88754
+lon: -0.85901
+location-source: town
 tags:
   - defence
   - mbr-ads

@@ -5,6 +5,9 @@ website: https://www.wecuk.com
 hq: Cheadle Hulme, UK
 uk-region: North West
 sources-verified: 2026-07-01
+lat: 53.37582
+lon: -2.18839
+location-source: town
 tags:
   - defence
   - mbr-ads

@@ -4,6 +4,11 @@ name: Safeguard Engineering Ltd
 website: https://www.safeguardengineering.co.uk
 hq: United Kingdom
 sources-verified: 2026-06-30
+postcode: NP16 5TX
+lat: 51.64359
+lon: -2.69003
+location-source: companies-house
+location-note: matched by name
 tags:
   - defence
   - mbr-ads

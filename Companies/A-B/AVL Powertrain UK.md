@@ -9,6 +9,10 @@ uk-region: East of England
 founded: 2005
 size: medium
 sources-verified: 2026-07-03
+postcode: SS15 6LN
+lat: 51.57856
+lon: 0.40486
+location-source: companies-house
 tags:
   - defence
   - land

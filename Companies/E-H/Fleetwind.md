@@ -9,6 +9,10 @@ uk-region: South West
 founded: 2019
 size: micro
 sources-verified: 2026-07-04
+postcode: PL23 1PH
+lat: 50.32749
+lon: -4.6331
+location-source: companies-house
 tags:
   - defence
   - maritime

@@ -6,6 +6,9 @@ linkedin: https://uk.linkedin.com/company/nammo-westcott
 hq: Raufoss, Norway
 uk-region: South East
 sources-verified: 2026-07-05
+lat: 51.27
+lon: -0.75
+location-source: town
 tags:
   - defence
   - mbr-ads

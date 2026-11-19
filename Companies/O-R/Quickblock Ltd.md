@@ -5,6 +5,9 @@ website: https://www.quickblock.uk
 hq: Stirling, United Kingdom
 uk-region: Scotland
 sources-verified: 2026-07-05
+lat: 56.11546
+lon: -3.93416
+location-source: town
 tags:
   - defence
   - mbr-ads

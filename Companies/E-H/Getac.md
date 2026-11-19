@@ -8,6 +8,7 @@ uk-region: Overseas
 founded: 1989
 size: large
 sources-verified: 2026-07-04
+country: Taiwan
 tags:
   - defence
   - hardware

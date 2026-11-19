@@ -6,6 +6,9 @@ hq: Castle Donington, United Kingdom
 uk-region: East Midlands
 founded: 2007
 sources-verified: 2026-07-05
+lat: 52.84239
+lon: -1.33778
+location-source: town
 tags:
   - defence
   - mbr-ads

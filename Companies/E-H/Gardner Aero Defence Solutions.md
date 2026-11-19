@@ -8,6 +8,10 @@ uk-region: South East
 founded: 2015
 size: micro
 sources-verified: 2026-07-04
+postcode: MK18 5JE
+lat: 52.01649
+lon: -1.0015
+location-source: companies-house
 tags:
   - defence
   - air

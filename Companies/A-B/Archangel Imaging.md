@@ -6,6 +6,9 @@ hq: Oxford, England
 uk-region: South East
 size: small
 sources-verified: 2026-07-16
+lat: 53.07577
+lon: -2.18593
+location-source: town
 tags:
   - defence
   - ai

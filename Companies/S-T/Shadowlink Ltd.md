@@ -5,6 +5,9 @@ website: http://www.shadowlink.co.uk
 hq: Hawkesbury Upton, United Kingdom
 uk-region: South West
 sources-verified: 2026-06-30
+lat: 51.58089
+lon: -2.31925
+location-source: town
 tags:
   - defence
   - mbr-ads

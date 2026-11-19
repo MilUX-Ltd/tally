@@ -7,6 +7,9 @@ uk-region: Scotland
 founded: 1983
 size: small
 sources-verified: 2026-07-04
+lat: 56.11546
+lon: -3.93416
+location-source: town
 tags:
   - defence
   - manufacturing

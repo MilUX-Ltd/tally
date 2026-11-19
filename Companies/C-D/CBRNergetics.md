@@ -7,6 +7,10 @@ hq: Dorset, United Kingdom
 uk-region: South West
 size: small
 sources-verified: 2026-07-04
+postcode: BH2 6LA
+lat: 50.72313
+lon: -1.88238
+location-source: companies-house
 tags:
   - defence
   - munitions

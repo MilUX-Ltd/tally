@@ -6,6 +6,9 @@ hq: Godalming, United Kingdom
 uk-region: South East
 size: small
 sources-verified: 2026-06-30
+lat: 51.18549
+lon: -0.61416
+location-source: town
 tags:
   - defence
   - size-small

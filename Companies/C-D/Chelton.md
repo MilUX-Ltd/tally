@@ -9,6 +9,9 @@ founded: 1947
 size: large
 headcount: ~500
 sources-verified: 2026-07-04
+lat: 52.38305
+lon: -2.88515
+location-source: town
 tags:
   - defence
   - comms

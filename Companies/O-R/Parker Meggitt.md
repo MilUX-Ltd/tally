@@ -9,6 +9,9 @@ founded: 1948
 size: large
 headcount: 9000+
 sources-verified: 2026-07-05
+lat: 52.40771
+lon: -1.50686
+location-source: town
 tags:
   - defence
   - aerospace

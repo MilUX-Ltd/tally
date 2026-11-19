@@ -5,6 +5,9 @@ website: https://www.rdds.co.uk
 hq: Whitstable, United Kingdom
 uk-region: South East
 sources-verified: 2026-07-05
+lat: 51.35848
+lon: 1.02465
+location-source: town
 tags:
   - defence
   - mbr-ads

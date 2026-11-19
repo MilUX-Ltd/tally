@@ -9,6 +9,10 @@ uk-region: West Midlands
 founded: 2010
 size: small
 sources-verified: 2026-07-03
+postcode: SY6 6NJ
+lat: 52.58928
+lon: -2.79164
+location-source: companies-house
 tags:
   - defence
   - training

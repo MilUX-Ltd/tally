@@ -8,6 +8,10 @@ uk-region: Scotland
 founded: 1973
 size: small
 sources-verified: 2026-07-04
+postcode: FK13 6BP
+lat: 56.15162
+lon: -3.75083
+location-source: companies-house
 tags:
   - defence
   - logistics

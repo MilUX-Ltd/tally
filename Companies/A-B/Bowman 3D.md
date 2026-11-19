@@ -9,6 +9,10 @@ uk-region: South East
 founded: 1992
 size: small
 sources-verified: 2026-07-04
+postcode: OX14 1DZ
+lat: 51.67502
+lon: -1.3033
+location-source: companies-house
 tags:
   - defence
   - air

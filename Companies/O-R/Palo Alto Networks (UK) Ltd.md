@@ -7,6 +7,9 @@ uk-region: London
 founded: 2005
 size: large
 sources-verified: 2026-07-03
+lat: 51.5072
+lon: -0.1276
+location-source: town
 tags:
   - defence
   - mbr-ads

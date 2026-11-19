@@ -9,6 +9,10 @@ uk-region: South East
 founded: 1997
 size: large
 sources-verified: 2026-07-04
+postcode: EC2M 4YF
+lat: 51.51689
+lon: -0.07832
+location-source: companies-house
 tags:
   - defence
   - cyber

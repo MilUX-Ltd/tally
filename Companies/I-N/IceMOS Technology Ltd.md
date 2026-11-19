@@ -6,6 +6,9 @@ hq: Chandler, United States
 uk-region: Northern Ireland
 size: small
 sources-verified: 2026-07-04
+lat: 52.04144
+lon: -2.32699
+location-source: town
 tags:
   - defence
   - mbr-ads

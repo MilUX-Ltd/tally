@@ -9,6 +9,10 @@ uk-region: South East
 founded: 2015
 size: small
 sources-verified: 2026-07-03
+postcode: HP11 2AG
+lat: 51.62854
+lon: -0.74952
+location-source: companies-house
 tags:
   - defence
   - training

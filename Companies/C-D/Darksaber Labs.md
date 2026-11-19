@@ -9,6 +9,7 @@ founded: 2025
 size: micro
 headcount: ~9
 sources-verified: 2026-07-04
+country: United States
 tags:
   - defence
   - ew

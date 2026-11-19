@@ -5,6 +5,9 @@ website: https://utcaerospacesystems.com
 hq: United States
 uk-region: West Midlands
 sources-verified: 2026-06-30
+lat: 52.48
+lon: -1.9
+location-source: town
 tags:
   - defence
   - mbr-ads

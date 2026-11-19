@@ -5,6 +5,9 @@ website: https://smartir.co.uk
 hq: Sale
 uk-region: North West
 sources-verified: 2026-06-29
+lat: 53.42522
+lon: -2.32282
+location-source: town
 tags:
   - defence
   - sensors

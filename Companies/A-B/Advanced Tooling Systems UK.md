@@ -8,6 +8,10 @@ founded: 2002
 size: medium
 headcount: 75+
 sources-verified: 2026-07-03
+postcode: ME15 9XX
+lat: 51.23592
+lon: 0.55939
+location-source: companies-house
 tags:
   - defence
   - manufacturing

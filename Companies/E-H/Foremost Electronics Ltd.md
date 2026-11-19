@@ -6,6 +6,9 @@ hq: Essex, United Kingdom
 uk-region: East of England
 size: small
 sources-verified: 2026-07-16
+lat: 52.24
+lon: 0.41
+location-source: town
 tags:
   - defence
   - electronics

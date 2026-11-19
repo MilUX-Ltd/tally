@@ -5,6 +5,9 @@ website: https://xacom-projectcontrols.com
 hq: Preston, United Kingdom
 uk-region: North West
 sources-verified: 2026-07-01
+lat: 55.95707
+lon: -2.97697
+location-source: town
 tags:
   - defence
   - mbr-ads

@@ -5,6 +5,9 @@ website: https://www.xpisimulation.com
 hq: Chessington, United Kingdom
 uk-region: South East
 sources-verified: 2026-07-01
+lat: 51.35623
+lon: -0.3082
+location-source: town
 tags:
   - defence
   - mbr-ads

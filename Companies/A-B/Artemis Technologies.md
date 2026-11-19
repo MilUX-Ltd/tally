@@ -9,6 +9,10 @@ uk-region: Northern Ireland
 founded: 2017
 size: medium
 sources-verified: 2026-07-04
+postcode: SP1 2SB
+lat: 51.06631
+lon: -1.79338
+location-source: companies-house
 tags:
   - defence
   - maritime

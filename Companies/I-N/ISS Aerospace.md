@@ -5,6 +5,9 @@ website: https://www.issaerospace.com
 hq: Chieveley, United Kingdom
 uk-region: South East
 sources-verified: 2026-07-04
+lat: 51.46379
+lon: -1.31647
+location-source: town
 tags:
   - defence
   - mbr-ads

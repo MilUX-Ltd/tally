@@ -7,6 +7,10 @@ companies-house: 14137781
 hq: United Kingdom
 size: small
 sources-verified: 2026-07-04
+postcode: GL51 6TQ
+lat: 51.89896
+lon: -2.1563
+location-source: companies-house
 tags:
   - defence
   - software

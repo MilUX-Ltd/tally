@@ -7,6 +7,10 @@ hq: Oberkochen, Germany
 uk-region: West Midlands
 size: large
 sources-verified: 2026-07-04
+postcode: CB23 6DW
+lat: 52.22267
+lon: -0.07448
+location-source: companies-house
 tags:
   - defence
   - optronics

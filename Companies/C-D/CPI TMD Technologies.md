@@ -9,6 +9,10 @@ uk-region: London
 founded: 1969
 size: medium
 sources-verified: 2026-07-04
+postcode: UB3 1DQ
+lat: 51.50718
+lon: -0.43495
+location-source: companies-house
 tags:
   - defence
   - rf

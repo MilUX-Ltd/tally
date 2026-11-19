@@ -7,6 +7,10 @@ hq: Cambridge, United Kingdom
 uk-region: East of England
 size: micro
 sources-verified: 2026-07-04
+postcode: CB1 1BH
+lat: 52.20349
+lon: 0.13179
+location-source: companies-house
 tags:
   - defence
   - mbr-ads

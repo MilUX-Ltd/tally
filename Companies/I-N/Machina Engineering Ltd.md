@@ -5,6 +5,9 @@ website: http://www.machinaengineering.co.uk
 hq: Thirsk, United Kingdom
 uk-region: Yorkshire and The Humber
 sources-verified: 2026-07-05
+lat: 54.23247
+lon: -1.34285
+location-source: town
 tags:
   - defence
   - mbr-ads

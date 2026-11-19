@@ -10,6 +10,10 @@ founded: 2006
 size: medium
 headcount: 80+ permanent staff
 sources-verified: 2026-07-04
+postcode: BH15 1NX
+lat: 50.71731
+lon: -1.98331
+location-source: companies-house
 tags:
   - defence
   - cyber

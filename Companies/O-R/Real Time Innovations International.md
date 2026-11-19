@@ -5,6 +5,9 @@ website: https://www.rti.com
 hq: Sunnyvale, United States
 uk-region: East of England
 sources-verified: 2026-07-05
+lat: 52.24
+lon: 0.41
+location-source: town
 tags:
   - defence
   - mbr-ads

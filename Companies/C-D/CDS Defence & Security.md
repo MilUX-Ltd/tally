@@ -8,6 +8,10 @@ hq: Gloucester, United Kingdom
 uk-region: South West
 size: medium
 sources-verified: 2026-07-04
+postcode: GL51 8HE
+lat: 51.90196
+lon: -2.09616
+location-source: companies-house
 tags:
   - defence
   - cyber

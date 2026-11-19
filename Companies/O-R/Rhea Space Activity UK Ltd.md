@@ -5,6 +5,9 @@ website: https://www.rheaspaceactivity.com
 hq: Washington DC, United States
 uk-region: London
 sources-verified: 2026-07-05
+lat: 51.5072
+lon: -0.1276
+location-source: town
 tags:
   - defence
   - mbr-ads

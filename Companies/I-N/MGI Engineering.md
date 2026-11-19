@@ -8,6 +8,10 @@ hq: Witney, UK
 uk-region: South East
 founded: 2003
 sources-verified: 2026-07-05
+postcode: OX29 7EY
+lat: 51.79131
+lon: -1.51704
+location-source: companies-house
 tags:
   - defence
   - mbr-ads

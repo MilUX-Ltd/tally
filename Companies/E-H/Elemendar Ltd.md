@@ -10,6 +10,10 @@ founded: 2017
 size: small
 headcount: 11-50
 sources-verified: 2026-08-01
+postcode: EC2A 4NE
+lat: 51.52562
+lon: -0.0836
+location-source: companies-house
 tags:
   - defence
   - ai

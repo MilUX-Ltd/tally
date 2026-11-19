@@ -5,6 +5,9 @@ website: http://www.summit-engineering.co.uk
 hq: Solihull, United Kingdom
 uk-region: West Midlands
 sources-verified: 2026-06-30
+lat: 52.41275
+lon: -1.77755
+location-source: town
 tags:
   - defence
   - mbr-ads

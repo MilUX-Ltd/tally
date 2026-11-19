@@ -4,6 +4,11 @@ name: Penskar Limited
 website: https://penskar.co.uk
 hq: United Kingdom
 sources-verified: 2026-07-05
+postcode: SN4 9QB
+lat: 51.47482
+lon: -1.85711
+location-source: companies-house
+location-note: matched by name
 tags:
   - defence
   - mbr-ads

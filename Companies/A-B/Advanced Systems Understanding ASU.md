@@ -8,6 +8,10 @@ hq: United Kingdom
 founded: 2012
 size: small
 sources-verified: 2026-07-03
+postcode: SO15 2NP
+lat: 50.90993
+lon: -1.40865
+location-source: companies-house
 tags:
   - defence
   - simulation

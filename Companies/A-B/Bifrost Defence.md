@@ -8,6 +8,7 @@ uk-region: Overseas
 founded: 2025
 size: micro
 sources-verified: 2026-07-04
+country: Denmark
 tags:
   - defence
   - autonomy

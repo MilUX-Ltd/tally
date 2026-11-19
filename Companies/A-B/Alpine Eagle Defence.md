@@ -9,6 +9,7 @@ uk-region: Overseas
 founded: 2023
 size: small
 sources-verified: 2026-07-03
+country: Germany
 tags:
   - defence
   - counter-uas

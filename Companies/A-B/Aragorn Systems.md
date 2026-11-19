@@ -8,6 +8,10 @@ uk-region: East of England
 founded: 2023
 size: micro
 sources-verified: 2026-07-03
+postcode: SS3 9UR
+lat: 51.54042
+lon: 0.79792
+location-source: companies-house
 tags:
   - defence
   - cyber

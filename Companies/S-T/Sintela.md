@@ -9,6 +9,10 @@ uk-region: South West
 founded: 2017
 size: small
 sources-verified: 2026-06-29
+postcode: BS20 0DH
+lat: 51.48013
+lon: -2.68934
+location-source: companies-house
 tags:
   - defence
   - sensors

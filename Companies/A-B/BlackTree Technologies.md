@@ -9,6 +9,10 @@ uk-region: West Midlands
 founded: 2012
 size: small
 sources-verified: 2026-07-04
+postcode: WR1 1RU
+lat: 52.20234
+lon: -2.22684
+location-source: companies-house
 tags:
   - defence
   - comms

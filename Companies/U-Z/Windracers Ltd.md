@@ -5,6 +5,9 @@ website: https://www.windracers.com
 hq: Fareham, United Kingdom
 uk-region: South East
 sources-verified: 2026-07-01
+lat: 50.85235
+lon: -1.17591
+location-source: town
 tags:
   - defence
   - mbr-ads

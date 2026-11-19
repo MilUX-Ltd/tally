@@ -5,6 +5,9 @@ website: https://www.jumacommunications.com
 hq: Ashbourne, UK
 uk-region: East Midlands
 sources-verified: 2026-07-04
+lat: 53.01772
+lon: -1.73173
+location-source: town
 tags:
   - defence
   - mbr-ads

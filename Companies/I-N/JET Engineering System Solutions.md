@@ -5,6 +5,9 @@ website: https://www.jet-eng.com
 hq: Halesowen, UK
 uk-region: West Midlands
 sources-verified: 2026-07-04
+lat: 52.45341
+lon: -2.06091
+location-source: town
 tags:
   - defence
   - mbr-ads

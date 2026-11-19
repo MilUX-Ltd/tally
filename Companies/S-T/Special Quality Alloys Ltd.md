@@ -5,6 +5,9 @@ website: https://www.specialqualityalloys.com
 hq: Sheffield, United Kingdom
 uk-region: Yorkshire and The Humber
 sources-verified: 2026-06-30
+lat: 50.08598
+lon: -5.55519
+location-source: town
 tags:
   - defence
   - mbr-ads

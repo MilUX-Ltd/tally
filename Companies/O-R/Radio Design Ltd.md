@@ -6,6 +6,9 @@ hq: Shipley, United Kingdom
 uk-region: Yorkshire and The Humber
 size: micro
 sources-verified: 2026-07-05
+lat: 53.8339
+lon: -1.77862
+location-source: town
 tags:
   - defence
   - mbr-ads

@@ -5,6 +5,9 @@ website: https://www.recordedfuture.com
 hq: Boston, United States
 uk-region: London
 sources-verified: 2026-07-05
+lat: 52.97633
+lon: -0.02715
+location-source: town
 tags:
   - defence
   - mbr-ads

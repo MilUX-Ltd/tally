@@ -5,6 +5,9 @@ website: http://www.q-mass.co.uk
 hq: East Kilbride, UK
 uk-region: Scotland
 sources-verified: 2026-07-05
+lat: 55.75807
+lon: -4.16605
+location-source: town
 tags:
   - defence
   - mbr-ads

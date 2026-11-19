@@ -3,6 +3,11 @@ type: organisation
 name: Logan Risk
 website: https://www.loganrisk.com
 sources-verified: 2026-07-04
+postcode: EX1 3TN
+lat: 50.74811
+lon: -3.46353
+location-source: companies-house
+location-note: matched by name
 tags:
   - defence
   - cyber

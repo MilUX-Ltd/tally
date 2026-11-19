@@ -8,6 +8,10 @@ uk-region: West Midlands
 founded: 2007
 size: small
 sources-verified: 2026-07-03
+postcode: CV3 2SF
+lat: 52.39496
+lon: -1.44202
+location-source: companies-house
 tags:
   - defence
   - isr

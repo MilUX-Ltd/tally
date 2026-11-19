@@ -6,6 +6,9 @@ hq: Augsburg, Germany
 uk-region: South East
 size: large
 sources-verified: 2026-07-04
+lat: 51.27
+lon: -0.75
+location-source: town
 tags:
   - defence
   - size-large

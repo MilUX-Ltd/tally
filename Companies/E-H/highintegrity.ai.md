@@ -10,6 +10,9 @@ founded: 2019
 size: micro
 headcount: 
 sources-verified: 2026-07-04
+lat: 55.2763
+lon: -2.2644
+location-source: town
 tags:
   - defence
   - ai

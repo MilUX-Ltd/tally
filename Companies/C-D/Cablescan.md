@@ -9,6 +9,10 @@ uk-region: Yorkshire and The Humber
 founded: 2001
 size: small
 sources-verified: 2026-07-04
+postcode: CT5 3JF
+lat: 51.35776
+lon: 1.05773
+location-source: companies-house
 tags:
   - defence
   - manufacturing

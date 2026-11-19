@@ -5,6 +5,9 @@ website: https://www.phoenixs.co.uk
 hq: Pocklington, United Kingdom
 uk-region: Yorkshire and The Humber
 sources-verified: 2026-07-05
+lat: 53.93111
+lon: -0.77783
+location-source: town
 tags:
   - defence
   - mbr-ads

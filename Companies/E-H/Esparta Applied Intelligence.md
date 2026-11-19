@@ -9,6 +9,10 @@ uk-region: North West
 founded: 2021
 size: small
 sources-verified: 2026-07-04
+postcode: WA15 7PG
+lat: 53.3887
+lon: -2.3201
+location-source: website
 tags:
   - defence
   - data

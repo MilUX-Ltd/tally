@@ -8,6 +8,10 @@ hq: Maldon, UK
 uk-region: East of England
 size: micro
 sources-verified: 2026-07-04
+postcode: CM9 4XD
+lat: 51.73958
+lon: 0.68232
+location-source: companies-house
 tags:
   - defence
   - hardware

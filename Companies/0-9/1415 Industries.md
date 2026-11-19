@@ -5,6 +5,9 @@ linkedin: https://www.linkedin.com/company/107442049
 uk-region: South West
 founded: 2025
 sources-verified: 2026-07-03
+lat: 50.96
+lon: -3.22
+location-source: town
 tags:
   - defence
   - comms

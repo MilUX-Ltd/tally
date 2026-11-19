@@ -8,6 +8,10 @@ uk-region: South East
 founded: 2000
 size: large
 sources-verified: 2026-07-04
+postcode: TW18 3HR
+lat: 51.43139
+lon: -0.51792
+location-source: companies-house
 tags:
   - defence
   - logistics

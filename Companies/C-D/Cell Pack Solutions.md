@@ -10,6 +10,10 @@ founded: 1998
 size: small
 headcount: ~30
 sources-verified: 2026-07-04
+postcode: NE33 5BY
+lat: 54.98828
+lon: -1.44231
+location-source: companies-house
 tags:
   - defence
   - hardware

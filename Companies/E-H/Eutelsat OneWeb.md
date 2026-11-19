@@ -10,6 +10,10 @@ founded: 2023
 size: large
 headcount: 1700+
 sources-verified: 2026-07-04
+postcode: W12 7FQ
+lat: 51.51414
+lon: -0.2271
+location-source: companies-house
 tags:
   - defence
   - space

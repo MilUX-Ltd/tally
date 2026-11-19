@@ -8,6 +8,10 @@ uk-region: South West
 founded: 2025
 size: micro
 sources-verified: 2026-07-04
+postcode: SL7 3LX
+lat: 51.58984
+lon: -0.77361
+location-source: companies-house
 tags:
   - defence
   - software

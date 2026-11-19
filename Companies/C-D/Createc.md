@@ -10,6 +10,10 @@ founded: 2010
 size: small
 headcount: 60
 sources-verified: 2026-07-04
+postcode: CA13 0HT
+lat: 54.66738
+lon: -3.36603
+location-source: companies-house
 tags:
   - defence
   - ai

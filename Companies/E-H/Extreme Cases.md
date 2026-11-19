@@ -9,6 +9,10 @@ uk-region: South West
 founded: 2009
 size: micro
 sources-verified: 2026-07-04
+postcode: EX31 4TG
+lat: 51.12282
+lon: -3.93636
+location-source: companies-house
 tags:
   - defence
   - hardware

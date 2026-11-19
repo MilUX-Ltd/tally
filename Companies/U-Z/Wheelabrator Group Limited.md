@@ -5,6 +5,9 @@ website: https://www.wheelabratorgroup.com
 hq: Slough, United Kingdom
 uk-region: South East
 sources-verified: 2026-07-01
+lat: 52.26813
+lon: -3.02178
+location-source: town
 tags:
   - defence
   - mbr-ads

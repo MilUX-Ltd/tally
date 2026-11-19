@@ -7,6 +7,10 @@ hq: Limassol, Cyprus
 uk-region: Yorkshire and The Humber
 size: small
 sources-verified: 2026-07-04
+postcode: S1 2NS
+lat: 53.37756
+lon: -1.46788
+location-source: companies-house
 tags:
   - defence
   - cyber

@@ -5,6 +5,9 @@ website: https://www.supersharp.space
 hq: Cambridge, United Kingdom
 uk-region: East of England
 sources-verified: 2026-06-30
+lat: 52.76936
+lon: 1.24526
+location-source: town
 tags:
   - defence
   - mbr-ads

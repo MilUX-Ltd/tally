@@ -8,6 +8,7 @@ uk-region: Overseas
 founded: 2022
 size: medium
 sources-verified: 2026-07-05
+country: United States
 tags:
   - defence
   - software

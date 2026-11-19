@@ -9,6 +9,10 @@ uk-region: South West
 founded: 2013
 size: small
 sources-verified: 2026-07-05
+postcode: SP4 6EB
+lat: 51.10356
+lon: -1.77959
+location-source: companies-house
 tags:
   - defence
   - size-small

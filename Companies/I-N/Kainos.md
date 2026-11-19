@@ -10,6 +10,10 @@ founded: 1986
 size: large
 headcount: ~2900
 sources-verified: 2026-07-04
+postcode: BT7 1NT
+lat: 54.58698
+lon: -5.93392
+location-source: companies-house
 tags:
   - defence
   - software

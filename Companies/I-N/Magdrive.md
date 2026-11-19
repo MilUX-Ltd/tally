@@ -6,6 +6,9 @@ hq: Oxford, United Kingdom
 uk-region: South East
 founded: 2019
 sources-verified: 2026-07-05
+lat: 53.07577
+lon: -2.18593
+location-source: town
 tags:
   - defence
   - mbr-ads

@@ -9,6 +9,10 @@ uk-region: London
 founded: 2022
 size: micro
 sources-verified: 2026-07-04
+postcode: WC1N 3AX
+lat: 51.52058
+lon: -0.12219
+location-source: companies-house
 tags:
   - defence
   - ai

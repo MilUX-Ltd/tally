@@ -8,6 +8,10 @@ uk-region: South East
 founded: 2017
 size: small
 sources-verified: 2026-07-03
+postcode: GU15 3SY
+lat: 51.33853
+lon: -0.74343
+location-source: companies-house
 tags:
   - defence
   - space

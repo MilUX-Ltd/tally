@@ -8,6 +8,10 @@ uk-region: South East
 founded: 2022
 size: micro
 sources-verified: 2026-07-16
+postcode: HP6 6AA
+lat: 51.67776
+lon: -0.60343
+location-source: companies-house
 tags:
   - defence
   - software

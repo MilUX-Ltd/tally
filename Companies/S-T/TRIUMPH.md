@@ -9,6 +9,9 @@ founded: 1993
 size: large
 headcount: 3000
 sources-verified: 2026-06-30
+lat: 53.17576
+lon: -2.25298
+location-source: town
 tags:
   - defence
   - manufacturing

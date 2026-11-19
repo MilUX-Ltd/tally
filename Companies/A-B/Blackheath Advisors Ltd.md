@@ -2,6 +2,11 @@
 type: organisation
 name: Blackheath Advisors Ltd
 sources-verified: 2026-07-04
+postcode: BR7 6PL
+lat: 51.41507
+lon: 0.08669
+location-source: companies-house
+location-note: matched by name
 tags:
   - defence
   - type-consultancy

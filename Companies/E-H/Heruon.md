@@ -5,6 +5,9 @@ website: http://www.heruon.com
 hq: Bangor, United Kingdom
 uk-region: Northern Ireland
 sources-verified: 2026-07-04
+lat: 53.22796
+lon: -4.12821
+location-source: town
 tags:
   - defence
   - mbr-ads

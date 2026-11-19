@@ -8,6 +8,10 @@ uk-region: London
 founded: 2010
 size: small
 sources-verified: 2026-07-04
+postcode: EC2N 4AG
+lat: 51.51572
+lon: -0.0816
+location-source: companies-house
 tags:
   - defence
   - uas

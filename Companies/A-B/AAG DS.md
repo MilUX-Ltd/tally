@@ -9,6 +9,9 @@ founded: 2020
 size: medium
 headcount: 100+
 sources-verified: 2026-07-03
+lat: 51.27
+lon: -0.75
+location-source: town
 tags:
   - defence
   - size-medium

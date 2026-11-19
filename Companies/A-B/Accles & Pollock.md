@@ -9,6 +9,10 @@ uk-region: West Midlands
 founded: 1896
 size: small
 sources-verified: 2026-07-03
+postcode: CV31 3RG
+lat: 52.27622
+lon: -1.53813
+location-source: companies-house
 tags:
   - defence
   - size-small

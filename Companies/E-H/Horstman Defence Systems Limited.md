@@ -5,6 +5,9 @@ website: https://www.horstmangroup.com
 hq: Bath, United Kingdom
 uk-region: South West
 sources-verified: 2026-07-04
+lat: 51.3828
+lon: -2.35929
+location-source: town
 tags:
   - defence
   - mbr-ads

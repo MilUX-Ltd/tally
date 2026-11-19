@@ -4,6 +4,11 @@ name: Synoptix Ltd
 website: https://www.synoptix.co.uk
 hq: UK
 sources-verified: 2026-06-30
+postcode: BS16 1EJ
+lat: 51.50223
+lon: -2.54184
+location-source: companies-house
+location-note: matched by name
 tags:
   - defence
   - mbr-ads

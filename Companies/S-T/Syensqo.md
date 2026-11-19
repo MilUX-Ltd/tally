@@ -6,6 +6,9 @@ hq: Brussels, Belgium
 uk-region: Wales
 size: large
 sources-verified: 2026-06-30
+lat: 51.48
+lon: -3.18
+location-source: town
 tags:
   - defence
   - mbr-ads

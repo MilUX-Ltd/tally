@@ -9,6 +9,10 @@ uk-region: South West
 founded: 1980
 size: small
 sources-verified: 2026-07-04
+postcode: LA12 9BN
+lat: 54.19203
+lon: -3.08487
+location-source: companies-house
 tags:
   - defence
   - maritime

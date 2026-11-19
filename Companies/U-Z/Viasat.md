@@ -10,6 +10,7 @@ founded: 1986
 size: large
 headcount: ~6000
 sources-verified: 2026-06-29
+country: United States
 tags:
   - defence
   - space

@@ -5,6 +5,9 @@ website: https://www.maclennanassociates.com
 hq: Horsham, United Kingdom
 uk-region: South East
 sources-verified: 2026-07-05
+lat: 52.21925
+lon: -2.38973
+location-source: town
 tags:
   - defence
   - mbr-ads

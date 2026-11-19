@@ -9,6 +9,10 @@ uk-region: South East
 founded: 2017
 size: medium
 sources-verified: 2026-07-03
+postcode: OX11 0QQ
+lat: 51.58351
+lon: -1.31101
+location-source: companies-house
 tags:
   - defence
   - air

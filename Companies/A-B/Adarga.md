@@ -9,6 +9,10 @@ uk-region: London
 founded: 2016
 size: medium
 sources-verified: 2026-07-03
+postcode: SO53 3TG
+lat: 50.96751
+lon: -1.38321
+location-source: companies-house
 tags:
   - defence
   - ai

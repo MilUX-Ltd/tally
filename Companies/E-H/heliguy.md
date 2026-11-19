@@ -10,6 +10,10 @@ founded: 2006
 size: small
 headcount: 35+ staff
 sources-verified: 2026-07-04
+postcode: NE29 7SE
+lat: 55.00775
+lon: -1.49232
+location-source: companies-house
 tags:
   - defence
   - uas

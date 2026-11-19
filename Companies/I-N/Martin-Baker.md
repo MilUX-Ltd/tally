@@ -5,6 +5,9 @@ website: https://www.martin-baker.com
 hq: Denham, UK
 uk-region: South East
 sources-verified: 2026-07-05
+lat: 51.63064
+lon: -0.2229
+location-source: town
 tags:
   - defence
   - mbr-ads

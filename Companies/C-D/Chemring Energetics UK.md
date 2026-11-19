@@ -8,6 +8,10 @@ hq: Stevenston, United Kingdom
 uk-region: Scotland
 size: medium
 sources-verified: 2026-07-04
+postcode: KA20 3LN
+lat: 55.62618
+lon: -4.72628
+location-source: companies-house
 tags:
   - defence
   - munitions

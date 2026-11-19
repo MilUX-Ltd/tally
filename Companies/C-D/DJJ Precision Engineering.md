@@ -9,6 +9,10 @@ uk-region: Wales
 founded: 1976
 size: small
 sources-verified: 2026-07-04
+postcode: NP4 0DQ
+lat: 51.68438
+lon: -3.01605
+location-source: companies-house
 tags:
   - defence
   - manufacturing

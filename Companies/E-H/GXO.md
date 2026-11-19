@@ -6,6 +6,9 @@ hq: Greenwich, CT, United States
 uk-region: West Midlands
 size: large
 sources-verified: 2026-07-04
+lat: 53.05188
+lon: -1.3966
+location-source: town
 tags:
   - defence
   - logistics

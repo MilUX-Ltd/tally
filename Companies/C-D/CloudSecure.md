@@ -9,6 +9,10 @@ uk-region: East Midlands
 founded: 2019
 size: small
 sources-verified: 2026-07-04
+postcode: LE12 5SG
+lat: 52.79578
+lon: -1.14809
+location-source: companies-house
 tags:
   - defence
   - cyber

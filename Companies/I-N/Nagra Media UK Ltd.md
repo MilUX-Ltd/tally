@@ -8,6 +8,10 @@ hq: Cheseaux-sur-Lausanne, Switzerland
 uk-region: Wales
 founded: 2005
 sources-verified: 2026-07-05
+postcode: NP44 3UW
+lat: 51.63197
+lon: -3.01719
+location-source: companies-house
 tags:
   - defence
   - mbr-ads

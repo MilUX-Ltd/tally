@@ -7,6 +7,9 @@ hq: Harrow, United Kingdom
 uk-region: South East
 size: small
 sources-verified: 2026-07-05
+lat: 51.57077
+lon: -0.33948
+location-source: town
 tags:
   - defence
   - mbr-ads

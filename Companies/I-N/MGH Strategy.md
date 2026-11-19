@@ -5,6 +5,9 @@ website: http://www.mghstrategy.co.uk
 hq: Preston, UK
 uk-region: North West
 sources-verified: 2026-07-05
+lat: 55.95707
+lon: -2.97697
+location-source: town
 tags:
   - defence
   - mbr-ads

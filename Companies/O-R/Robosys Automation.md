@@ -9,6 +9,10 @@ uk-region: South East
 size: small
 headcount: ~17
 sources-verified: 2026-07-05
+postcode: SO31 4RF
+lat: 50.85787
+lon: -1.32631
+location-source: companies-house
 tags:
   - defence
   - autonomy

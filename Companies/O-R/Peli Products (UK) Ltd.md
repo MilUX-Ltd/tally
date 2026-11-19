@@ -5,6 +5,9 @@ website: https://www.peliproducts.co.uk
 hq: Glossop, United Kingdom
 uk-region: East Midlands
 sources-verified: 2026-07-05
+lat: 53.44329
+lon: -1.94888
+location-source: town
 tags:
   - defence
   - mbr-ads

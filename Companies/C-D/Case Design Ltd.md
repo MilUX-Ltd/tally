@@ -8,6 +8,10 @@ uk-region: South East
 founded: 1988
 size: small
 sources-verified: 2026-07-16
+postcode: SL8 5TD
+lat: 51.58004
+lon: -0.7131
+location-source: companies-house
 tags:
   - defence
   - manufacturing

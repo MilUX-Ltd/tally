@@ -4,6 +4,11 @@ name: Untrite
 website: https://untrite.com
 hq: United Kingdom
 sources-verified: 2026-06-30
+postcode: E1 5NJ
+lat: 51.51716
+lon: -0.06918
+location-source: companies-house
+location-note: matched by name
 tags:
   - defence
   - mbr-ads

@@ -7,6 +7,9 @@ hq: Daventry, United Kingdom
 uk-region: East Midlands
 size: small
 sources-verified: 2026-07-04
+lat: 52.25836
+lon: -1.1604
+location-source: town
 tags:
   - defence
   - data

@@ -8,6 +8,10 @@ uk-region: West Midlands
 founded: 1985
 size: large
 sources-verified: 2026-07-03
+postcode: GU14 7BF
+lat: 51.28559
+lon: -0.76115
+location-source: companies-house
 tags:
   - defence
   - simulation

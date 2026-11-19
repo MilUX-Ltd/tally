@@ -5,6 +5,9 @@ website: http://www.sellectronics.co.uk
 hq: Falmouth, United Kingdom
 uk-region: South West
 sources-verified: 2026-06-30
+lat: 50.15349
+lon: -5.07403
+location-source: town
 tags:
   - defence
   - mbr-ads

@@ -8,6 +8,10 @@ uk-region: Yorkshire and The Humber
 founded: 2006
 size: small
 sources-verified: 2026-07-04
+postcode: S26 5NU
+lat: 53.34532
+lon: -1.29685
+location-source: companies-house
 tags:
   - defence
   - air

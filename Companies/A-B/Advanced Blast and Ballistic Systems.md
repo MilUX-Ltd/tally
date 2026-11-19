@@ -9,6 +9,10 @@ founded: 2009
 size: micro
 headcount: ~5
 sources-verified: 2026-07-03
+postcode: SY11 3LT
+lat: 52.92462
+lon: -2.99713
+location-source: companies-house
 tags:
   - defence
   - land

@@ -9,6 +9,10 @@ uk-region: London
 founded: 2009
 size: large
 sources-verified: 2026-07-03
+postcode: EC2Y 5EB
+lat: 51.51729
+lon: -0.09603
+location-source: companies-house
 tags:
   - defence
   - comms

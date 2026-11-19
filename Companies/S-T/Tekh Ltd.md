@@ -6,6 +6,9 @@ hq: Bourne, United Kingdom
 uk-region: East Midlands
 size: micro
 sources-verified: 2026-06-30
+lat: 51.33546
+lon: -2.73984
+location-source: town
 tags:
   - defence
   - mbr-ads

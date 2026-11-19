@@ -9,6 +9,10 @@ uk-region: North West
 founded: 2016
 size: micro
 sources-verified: 2026-07-04
+postcode: M2 5LN
+lat: 53.47956
+lon: -2.2467
+location-source: companies-house
 tags:
   - defence
   - cyber

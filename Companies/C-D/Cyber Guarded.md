@@ -9,6 +9,10 @@ uk-region: South East
 founded: 2007
 size: small
 sources-verified: 2026-07-04
+postcode: KT23 3PB
+lat: 51.27945
+lon: -0.37523
+location-source: companies-house
 tags:
   - defence
   - cyber

@@ -5,6 +5,9 @@ website: https://www.ricardo.com
 hq: Shoreham-by-Sea, West Sussex, United Kingdom
 uk-region: South East
 sources-verified: 2026-07-05
+lat: 50.83313
+lon: -0.27312
+location-source: town
 tags:
   - defence
   - mbr-ads

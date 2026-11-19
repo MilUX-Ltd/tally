@@ -5,6 +5,9 @@ website: https://www.oasisairbridge.com
 hq: Salisbury, United Kingdom
 uk-region: South West
 sources-verified: 2026-07-05
+lat: 51.07037
+lon: -1.79643
+location-source: town
 tags:
   - defence
   - mbr-ads

@@ -10,6 +10,10 @@ founded: 1863
 size: large
 headcount: ~14500
 sources-verified: 2026-07-04
+postcode: DE24 9RE
+lat: 52.88658
+lon: -1.48505
+location-source: companies-house
 tags:
   - defence
   - air

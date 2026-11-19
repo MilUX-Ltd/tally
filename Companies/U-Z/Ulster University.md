@@ -6,6 +6,9 @@ hq: Newtownabbey, United Kingdom
 uk-region: Northern Ireland
 size: large
 sources-verified: 2026-06-30
+lat: 54.6
+lon: -5.93
+location-source: town
 tags:
   - defence
   - mbr-ads

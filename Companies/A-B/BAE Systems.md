@@ -9,6 +9,10 @@ uk-region: London
 size: large
 headcount: ~93,500 worldwide
 sources-verified: 2026-07-04
+postcode: SW1Y 5AD
+lat: 51.50593
+lon: -0.13396
+location-source: companies-house
 tags:
   - defence
   - air

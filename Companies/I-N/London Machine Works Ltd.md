@@ -6,6 +6,9 @@ linkedin: https://www.linkedin.com/company/london-machine-works/
 hq: Farnborough, Hampshire
 uk-region: South East
 sources-verified: 2026-07-04
+lat: 51.53538
+lon: -1.37539
+location-source: town
 tags:
   - defence
   - manufacturing

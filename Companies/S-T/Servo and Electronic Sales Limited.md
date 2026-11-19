@@ -5,6 +5,9 @@ website: http://www.servoconnectors.co.uk
 hq: Lydd, United Kingdom
 uk-region: South East
 sources-verified: 2026-06-30
+lat: 50.95084
+lon: 0.90642
+location-source: town
 tags:
   - defence
   - mbr-ads

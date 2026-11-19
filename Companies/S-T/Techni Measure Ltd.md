@@ -5,6 +5,9 @@ website: https://www.technimeasure.co.uk
 hq: Doncaster, United Kingdom
 uk-region: Yorkshire and The Humber
 sources-verified: 2026-06-30
+lat: 53.52272
+lon: -1.13235
+location-source: town
 tags:
   - defence
   - mbr-ads

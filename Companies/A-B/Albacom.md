@@ -9,6 +9,10 @@ uk-region: Scotland
 founded: 1989
 size: small
 sources-verified: 2026-07-03
+postcode: DD2 3SP
+lat: 56.48577
+lon: -3.02132
+location-source: companies-house
 tags:
   - defence
   - hardware

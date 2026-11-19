@@ -6,6 +6,9 @@ hq: Eastbourne, United Kingdom
 uk-region: South East
 size: micro
 sources-verified: 2026-07-04
+lat: 54.52323
+lon: -1.53092
+location-source: town
 tags:
   - defence
   - mbr-ads

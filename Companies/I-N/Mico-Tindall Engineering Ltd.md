@@ -5,6 +5,9 @@ website: https://www.mico-tindall.com
 hq: Oldham, United Kingdom
 uk-region: North West
 sources-verified: 2026-07-05
+lat: 53.54216
+lon: -2.11596
+location-source: town
 tags:
   - defence
   - mbr-ads

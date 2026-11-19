@@ -9,6 +9,10 @@ uk-region: South East
 founded: 2007
 size: micro
 sources-verified: 2026-07-05
+postcode: SO30 2FZ
+lat: 50.92262
+lon: -1.30824
+location-source: companies-house
 tags:
   - defence
   - size-micro

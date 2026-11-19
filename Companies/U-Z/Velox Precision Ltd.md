@@ -6,6 +6,9 @@ hq: Faringdon, United Kingdom
 uk-region: South East
 size: micro
 sources-verified: 2026-07-16
+lat: 51.65814
+lon: -1.58364
+location-source: town
 tags:
   - defence
   - manufacturing

@@ -8,6 +8,9 @@ uk-region: North West
 founded: 2007
 size: micro
 sources-verified: 2026-07-04
+lat: 53.38957
+lon: -2.5909
+location-source: town
 tags:
   - defence
   - software

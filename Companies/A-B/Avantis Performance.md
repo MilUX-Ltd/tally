@@ -8,6 +8,10 @@ uk-region: South West
 founded: 2023
 size: small
 sources-verified: 2026-07-04
+postcode: GL7 1US
+lat: 51.71388
+lon: -1.97421
+location-source: companies-house
 tags:
   - defence
   - data

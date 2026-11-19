@@ -10,6 +10,10 @@ founded: 1964
 size: small
 headcount: ~33
 sources-verified: 2026-07-04
+postcode: CM1 3UB
+lat: 51.72046
+lon: 0.45121
+location-source: companies-house
 tags:
   - defence
   - manufacturing

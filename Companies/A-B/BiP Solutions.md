@@ -9,6 +9,10 @@ uk-region: Scotland
 founded: 1984
 size: medium
 sources-verified: 2026-07-04
+postcode: G51 1DZ
+lat: 55.85693
+lon: -4.29497
+location-source: companies-house
 tags:
   - defence
   - data

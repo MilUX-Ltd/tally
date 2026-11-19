@@ -9,6 +9,10 @@ founded: 1991
 size: medium
 headcount: ~105 (Aberdeen)
 sources-verified: 2026-07-04
+postcode: AB23 8GW
+lat: 57.19127
+lon: -2.0767
+location-source: companies-house
 tags:
   - defence
   - mbr-ads

@@ -6,6 +6,9 @@ hq: Coventry, United Kingdom
 uk-region: West Midlands
 headcount: 500+
 sources-verified: 2026-07-05
+lat: 52.40771
+lon: -1.50686
+location-source: town
 tags:
   - defence
   - mbr-ads

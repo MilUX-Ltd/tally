@@ -8,6 +8,7 @@ uk-region: Overseas
 founded: 1997
 size: medium
 sources-verified: 2026-06-29
+country: Germany
 tags:
   - defence
   - sensors

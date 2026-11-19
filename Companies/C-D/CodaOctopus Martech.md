@@ -9,6 +9,10 @@ uk-region: South West
 founded: 1988
 size: small
 sources-verified: 2026-07-04
+postcode: DT5 1PY
+lat: 50.56823
+lon: -2.45581
+location-source: companies-house
 tags:
   - defence
   - maritime

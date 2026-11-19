@@ -7,6 +7,9 @@ hq: Davidson, NC, USA
 uk-region: South East
 size: large
 sources-verified: 2026-07-04
+lat: 55.96657
+lon: -3.27604
+location-source: town
 tags:
   - defence
   - hardware

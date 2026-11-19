@@ -5,6 +5,9 @@ website: https://www.tekmilitaryseating.com
 hq: Tunbridge Wells, United Kingdom
 uk-region: South East
 sources-verified: 2026-06-30
+lat: 51.13333
+lon: 0.26353
+location-source: town
 tags:
   - defence
   - mbr-ads

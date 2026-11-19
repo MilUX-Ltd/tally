@@ -10,6 +10,10 @@ founded: 1835
 size: large
 headcount: 2200
 sources-verified: 2026-07-04
+postcode: EC4R 3TT
+lat: 51.50969
+lon: -0.08852
+location-source: companies-house
 tags:
   - defence
   - space

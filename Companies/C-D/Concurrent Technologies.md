@@ -9,6 +9,10 @@ uk-region: East of England
 founded: 1985
 size: medium
 sources-verified: 2026-07-04
+postcode: CO4 9WN
+lat: 51.92167
+lon: 0.9241
+location-source: companies-house
 tags:
   - defence
   - hardware

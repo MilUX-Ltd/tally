@@ -5,6 +5,9 @@ website: https://www.jameswalker.biz
 hq: Crewe, United Kingdom
 uk-region: North West
 sources-verified: 2026-07-04
+lat: 53.09503
+lon: -2.44176
+location-source: town
 tags:
   - defence
   - mbr-ads

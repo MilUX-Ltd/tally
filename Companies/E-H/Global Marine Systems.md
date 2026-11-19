@@ -10,6 +10,10 @@ founded: 1999
 size: large
 headcount: 800
 sources-verified: 2026-07-04
+postcode: CM2 5PD
+lat: 51.7501
+lon: 0.51762
+location-source: companies-house
 tags:
   - defence
   - maritime

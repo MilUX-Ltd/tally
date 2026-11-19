@@ -10,6 +10,10 @@ founded: 2013
 size: small
 headcount: 15
 sources-verified: 2026-07-04
+postcode: BS1 6DZ
+lat: 51.45169
+lon: -2.58272
+location-source: companies-house
 tags:
   - defence
   - data

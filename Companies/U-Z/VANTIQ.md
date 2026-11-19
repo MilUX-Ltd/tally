@@ -7,6 +7,7 @@ uk-region: Overseas
 size: medium
 headcount: 125
 sources-verified: 2026-06-30
+country: United States
 tags:
   - defence
   - ai

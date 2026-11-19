@@ -10,6 +10,10 @@ founded: 1998
 size: small
 headcount: 13
 sources-verified: 2026-07-04
+postcode: SE1 9SG
+lat: 51.50496
+lon: -0.08762
+location-source: companies-house
 tags:
   - defence
   - cyber

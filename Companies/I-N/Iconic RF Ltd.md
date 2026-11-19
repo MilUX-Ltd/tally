@@ -6,6 +6,9 @@ hq: Belfast, United Kingdom
 uk-region: Northern Ireland
 founded: 2017
 sources-verified: 2026-07-04
+lat: 54.6
+lon: -5.93
+location-source: town
 tags:
   - defence
   - mbr-ads

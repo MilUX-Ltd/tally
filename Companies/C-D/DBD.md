@@ -10,6 +10,10 @@ founded: 1995
 size: medium
 headcount: 180-210
 sources-verified: 2026-07-04
+postcode: WA3 6GA
+lat: 53.42532
+lon: -2.52375
+location-source: companies-house
 tags:
   - defence
   - manufacturing

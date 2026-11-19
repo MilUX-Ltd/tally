@@ -8,6 +8,9 @@ uk-region: South West
 founded: 2001
 size: medium
 sources-verified: 2026-07-03
+lat: 50.72258
+lon: -3.5326
+location-source: town
 tags:
   - defence
   - logistics

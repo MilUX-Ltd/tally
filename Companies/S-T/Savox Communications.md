@@ -9,6 +9,7 @@ founded: 1982
 size: large
 headcount: ~300
 sources-verified: 2026-06-29
+country: Finland
 tags:
   - defence
   - comms

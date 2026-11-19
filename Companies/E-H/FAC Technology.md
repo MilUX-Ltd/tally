@@ -9,6 +9,10 @@ uk-region: London
 founded: 2011
 size: micro
 sources-verified: 2026-07-04
+postcode: EC2A 4DJ
+lat: 51.52259
+lon: -0.08507
+location-source: companies-house
 tags:
   - defence
   - manufacturing

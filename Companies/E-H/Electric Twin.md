@@ -10,6 +10,10 @@ founded: 2023
 size: small
 headcount: 18
 sources-verified: 2026-07-03
+postcode: W1T 1PB
+lat: 51.51686
+lon: -0.13502
+location-source: companies-house
 tags:
   - defence
   - ai

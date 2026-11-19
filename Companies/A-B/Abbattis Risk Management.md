@@ -7,6 +7,7 @@ hq: Zurich, Switzerland
 uk-region: Overseas
 size: micro
 sources-verified: 2026-07-03
+country: Switzerland
 tags:
   - defence
   - size-micro

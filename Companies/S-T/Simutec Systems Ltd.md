@@ -5,6 +5,9 @@ website: https://www.simutecsystems.com
 hq: Biggleswade, United Kingdom
 uk-region: East of England
 sources-verified: 2026-06-30
+lat: 52.08686
+lon: -0.26325
+location-source: town
 tags:
   - defence
   - mbr-ads

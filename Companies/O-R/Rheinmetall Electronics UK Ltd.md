@@ -5,6 +5,9 @@ website: https://www.rheinmetall.com
 hq: Newport, Isle of Wight, United Kingdom
 uk-region: South East
 sources-verified: 2026-07-05
+lat: 58.1953
+lon: -3.48861
+location-source: town
 tags:
   - defence
   - mbr-ads

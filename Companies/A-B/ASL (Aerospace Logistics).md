@@ -9,6 +9,10 @@ uk-region: South East
 founded: 1979
 size: medium
 sources-verified: 2026-07-03
+postcode: RH12 1DQ
+lat: 51.06214
+lon: -0.32439
+location-source: companies-house
 tags:
   - defence
   - air

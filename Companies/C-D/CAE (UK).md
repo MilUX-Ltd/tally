@@ -8,6 +8,10 @@ uk-region: South East
 founded: 1967
 size: large
 sources-verified: 2026-07-04
+postcode: RH15 9TW
+lat: 50.9529
+lon: -0.15629
+location-source: companies-house
 tags:
   - defence
   - simulation

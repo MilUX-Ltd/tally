@@ -9,6 +9,10 @@ uk-region: Wales
 founded: 1954
 size: micro
 sources-verified: 2026-07-04
+postcode: N12 9RU
+lat: 51.62201
+lon: -0.1753
+location-source: companies-house
 tags:
   - defence
   - munitions

@@ -3,6 +3,11 @@ type: organisation
 name: Sentinel Flight Services
 website: https://www.sentinelflight.com
 sources-verified: 2026-06-29
+postcode: NW11 8NA
+lat: 51.56912
+lon: -0.19534
+location-source: companies-house
+location-note: matched by name
 tags:
   - defence
   - uas

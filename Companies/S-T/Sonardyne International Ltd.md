@@ -6,6 +6,9 @@ hq: Yateley, UK
 uk-region: South East
 size: medium
 sources-verified: 2026-07-03
+lat: 51.34025
+lon: -0.81858
+location-source: town
 tags:
   - defence
   - mbr-ads

@@ -9,6 +9,10 @@ uk-region: South East
 size: large
 headcount: 2600
 sources-verified: 2026-07-04
+postcode: TW1 3QS
+lat: 51.44939
+lon: -0.32955
+location-source: companies-house
 tags:
   - defence
   - comms

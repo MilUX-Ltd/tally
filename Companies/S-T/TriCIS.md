@@ -6,6 +6,9 @@ hq: Farnborough, United Kingdom
 uk-region: South East
 size: small
 sources-verified: 2026-07-16
+lat: 51.53538
+lon: -1.37539
+location-source: town
 tags:
   - defence
   - cyber

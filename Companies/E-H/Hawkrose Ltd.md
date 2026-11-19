@@ -6,6 +6,9 @@ hq: Rossendale, United Kingdom
 uk-region: North West
 size: micro
 sources-verified: 2026-07-04
+lat: 53.48
+lon: -2.24
+location-source: town
 tags:
   - defence
   - data

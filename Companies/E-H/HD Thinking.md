@@ -5,6 +5,9 @@ hq: Cheltenham
 uk-region: South West
 size: micro
 sources-verified: 2026-07-04
+lat: 51.90073
+lon: -2.07669
+location-source: town
 tags:
   - defence
   - cyber

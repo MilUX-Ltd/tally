@@ -10,6 +10,10 @@ founded: 2005
 size: large
 headcount: 4200
 sources-verified: 2026-07-04
+postcode: SL6 4AY
+lat: 51.51331
+lon: -0.7418
+location-source: companies-house
 tags:
   - defence
   - software

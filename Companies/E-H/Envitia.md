@@ -9,6 +9,10 @@ uk-region: South East
 founded: 1989
 size: medium
 sources-verified: 2026-07-04
+postcode: RH12 5UX
+lat: 51.08085
+lon: -0.31792
+location-source: companies-house
 tags:
   - defence
   - gis

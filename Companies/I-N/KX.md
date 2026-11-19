@@ -5,6 +5,9 @@ website: https://kx.com/
 hq: Newry, United Kingdom
 uk-region: Northern Ireland
 sources-verified: 2026-07-03
+lat: 54.6
+lon: -5.93
+location-source: town
 tags:
   - defence
   - mbr-ads

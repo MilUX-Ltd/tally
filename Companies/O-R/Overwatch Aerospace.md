@@ -9,6 +9,10 @@ uk-region: West Midlands
 founded: 2020
 size: small
 sources-verified: 2026-07-16
+postcode: WV2 3AA
+lat: 52.57683
+lon: -2.12677
+location-source: companies-house
 tags:
   - defence
   - uas

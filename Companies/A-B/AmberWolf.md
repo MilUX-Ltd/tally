@@ -9,6 +9,10 @@ uk-region: Yorkshire and The Humber
 founded: 2021
 size: small
 sources-verified: 2026-07-03
+postcode: HG3 1GY
+lat: 53.97551
+lon: -1.56695
+location-source: companies-house
 tags:
   - defence
   - cyber

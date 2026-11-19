@@ -9,6 +9,10 @@ uk-region: South West
 founded: 2011
 size: small
 sources-verified: 2026-07-03
+postcode: BS32 4UD
+lat: 51.53881
+lon: -2.57402
+location-source: companies-house
 tags:
   - defence
   - hardware

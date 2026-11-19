@@ -10,6 +10,10 @@ founded: 1996
 size: medium
 headcount: 200-300
 sources-verified: 2026-07-04
+postcode: CB23 7FW
+lat: 52.21633
+lon: -0.02692
+location-source: companies-house
 tags:
   - hardware
   - test-evaluation

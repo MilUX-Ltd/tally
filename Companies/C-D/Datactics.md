@@ -10,6 +10,10 @@ founded: 1999
 size: small
 headcount: 48-74
 sources-verified: 2026-07-04
+postcode: W1W 5PF
+lat: 51.52167
+lon: -0.1437
+location-source: companies-house
 tags:
   - defence
   - data

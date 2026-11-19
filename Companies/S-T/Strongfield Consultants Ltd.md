@@ -5,6 +5,9 @@ website: http://www.strongfield.com
 hq: Wembley, United Kingdom
 uk-region: South East
 sources-verified: 2026-06-30
+lat: 51.5537
+lon: -0.29337
+location-source: town
 tags:
   - defence
   - mbr-ads

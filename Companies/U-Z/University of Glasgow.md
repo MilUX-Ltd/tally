@@ -5,6 +5,9 @@ website: https://www.gla.ac.uk/schools/engineering/aerospace
 hq: Glasgow, United Kingdom
 uk-region: Scotland
 sources-verified: 2026-06-30
+lat: 55.86363
+lon: -4.23688
+location-source: town
 tags:
   - defence
   - mbr-ads

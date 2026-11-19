@@ -6,6 +6,9 @@ linkedin: https://www.linkedin.com/company/research-innovations-incorporated
 hq: Alexandria, United States
 uk-region: London
 sources-verified: 2026-07-05
+lat: 55.98795
+lon: -4.58236
+location-source: town
 tags:
   - defence
   - mbr-ads

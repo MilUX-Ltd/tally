@@ -9,6 +9,10 @@ uk-region: South West
 founded: 1985
 size: small
 sources-verified: 2026-07-03
+postcode: BA14 0XG
+lat: 51.29886
+lon: -2.1964
+location-source: companies-house
 tags:
   - defence
   - munitions

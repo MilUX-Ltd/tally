@@ -9,6 +9,10 @@ uk-region: South West
 founded: 1997
 size: small
 sources-verified: 2026-07-04
+postcode: SN3 3RB
+lat: 51.55727
+lon: -1.73016
+location-source: companies-house
 tags:
   - defence
   - electronics

@@ -9,6 +9,10 @@ uk-region: South West
 founded: 1990
 size: medium
 sources-verified: 2026-07-03
+postcode: TQ12 6TQ
+lat: 50.57275
+lon: -3.65905
+location-source: companies-house
 tags:
   - defence
   - hardware

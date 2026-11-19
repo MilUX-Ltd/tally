@@ -7,6 +7,10 @@ hq: Oxford, England
 uk-region: South East
 size: small
 sources-verified: 2026-07-16
+postcode: GU15 3YY
+lat: 51.33248
+lon: -0.76908
+location-source: companies-house
 tags:
   - defence
   - ai

@@ -9,6 +9,10 @@ founded: 1967
 size: large
 headcount: ~2400
 sources-verified: 2026-07-05
+postcode: W1U 8EW
+lat: 51.5189
+lon: -0.15634
+location-source: companies-house
 tags:
   - defence
   - mbr-ads

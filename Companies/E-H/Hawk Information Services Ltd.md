@@ -6,6 +6,9 @@ hq: Moreton-in-Marsh, United Kingdom
 uk-region: South West
 size: micro
 sources-verified: 2026-07-04
+lat: 51.98997
+lon: -1.70324
+location-source: town
 tags:
   - defence
   - isr

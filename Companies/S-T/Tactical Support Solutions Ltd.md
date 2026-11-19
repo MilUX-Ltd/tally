@@ -5,6 +5,9 @@ website: http://www.tacticalsupportsolutions.co.uk
 hq: Farnborough, United Kingdom
 uk-region: South East
 sources-verified: 2026-06-30
+lat: 51.53538
+lon: -1.37539
+location-source: town
 tags:
   - defence
   - mbr-ads

@@ -9,6 +9,10 @@ uk-region: Yorkshire and The Humber
 founded: 2003
 size: small
 sources-verified: 2026-07-04
+postcode: S35 9TG
+lat: 53.44288
+lon: -1.45452
+location-source: companies-house
 tags:
   - defence
   - size-small

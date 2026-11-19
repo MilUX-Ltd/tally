@@ -9,6 +9,10 @@ uk-region: London
 founded: 2024
 size: micro
 sources-verified: 2026-07-04
+postcode: OX1 1JD
+lat: 51.75256
+lon: -1.26567
+location-source: companies-house
 tags:
   - defence
   - size-micro

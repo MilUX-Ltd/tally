@@ -9,6 +9,10 @@ uk-region: East of England
 founded: 2011
 size: small
 sources-verified: 2026-07-04
+postcode: RG2 6GF
+lat: 51.42315
+lon: -0.99411
+location-source: companies-house
 tags:
   - defence
   - radar

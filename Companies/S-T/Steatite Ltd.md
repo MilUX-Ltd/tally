@@ -5,6 +5,9 @@ website: https://www.steatite.co.uk
 hq: Redditch, UK
 uk-region: West Midlands
 sources-verified: 2026-06-30
+lat: 52.30693
+lon: -1.94152
+location-source: town
 tags:
   - defence
   - mbr-ads

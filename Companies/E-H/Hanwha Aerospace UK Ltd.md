@@ -8,6 +8,10 @@ uk-region: London
 founded: 2023
 size: large
 sources-verified: 2026-07-04
+postcode: EC1Y 0TH
+lat: 51.52384
+lon: -0.09607
+location-source: companies-house
 tags:
   - defence
   - land

@@ -10,6 +10,10 @@ founded: 2006
 size: small
 headcount: 70
 sources-verified: 2026-07-04
+postcode: GU3 3BW
+lat: 51.24963
+lon: -0.62015
+location-source: companies-house
 tags:
   - defence
   - data

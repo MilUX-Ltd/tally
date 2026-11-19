@@ -9,6 +9,10 @@ uk-region: South West
 founded: 2002
 size: small
 sources-verified: 2026-07-04
+postcode: EC2Y 8AT
+lat: 51.51954
+lon: -0.09125
+location-source: companies-house
 tags:
   - defence
   - manufacturing

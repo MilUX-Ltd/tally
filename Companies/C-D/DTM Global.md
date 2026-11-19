@@ -9,6 +9,10 @@ uk-region: South West
 founded: 2010
 size: micro
 sources-verified: 2026-07-04
+postcode: PL21 9EF
+lat: 50.38469
+lon: -3.97302
+location-source: companies-house
 tags:
   - defence
   - simulation

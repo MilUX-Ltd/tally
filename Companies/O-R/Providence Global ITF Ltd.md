@@ -6,6 +6,9 @@ hq: Hereford, UK
 uk-region: West Midlands
 size: micro
 sources-verified: 2026-07-05
+lat: 52.05598
+lon: -2.71755
+location-source: town
 tags:
   - defence
   - size-micro

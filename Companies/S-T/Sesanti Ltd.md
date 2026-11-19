@@ -5,6 +5,9 @@ website: http://www.sesanti.com
 hq: Weyhill, United Kingdom
 uk-region: South East
 sources-verified: 2026-06-30
+lat: 51.21768
+lon: -1.54633
+location-source: town
 tags:
   - defence
   - mbr-ads

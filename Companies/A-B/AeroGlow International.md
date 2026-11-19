@@ -9,6 +9,10 @@ uk-region: South West
 founded: 2014
 size: micro
 sources-verified: 2026-07-03
+postcode: SP2 7GL
+lat: 51.06668
+lon: -1.81494
+location-source: companies-house
 tags:
   - defence
   - land

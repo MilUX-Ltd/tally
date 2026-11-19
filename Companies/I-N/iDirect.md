@@ -9,6 +9,10 @@ uk-region: South East
 founded: 1994
 size: medium
 sources-verified: 2026-07-05
+postcode: MK9 2UB
+lat: 52.03922
+lon: -0.76097
+location-source: companies-house
 tags:
   - defence
   - mbr-ads

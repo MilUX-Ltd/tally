@@ -10,6 +10,10 @@ founded: 1961
 size: small
 headcount:
 sources-verified: 2026-07-03
+postcode: UB8 2FX
+lat: 51.54005
+lon: -0.4929
+location-source: companies-house
 tags:
   - defence
   - munitions

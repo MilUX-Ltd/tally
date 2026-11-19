@@ -9,6 +9,10 @@ uk-region: Scotland
 size: medium
 headcount: 80+
 sources-verified: 2026-07-04
+postcode: KY11 8GR
+lat: 56.04854
+lon: -3.42791
+location-source: companies-house
 tags:
   - defence
   - software

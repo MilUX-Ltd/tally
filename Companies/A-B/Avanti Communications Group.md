@@ -8,6 +8,10 @@ hq: London, United Kingdom
 uk-region: London
 size: medium
 sources-verified: 2026-07-04
+postcode: EC1A 4HD
+lat: 51.51747
+lon: -0.09751
+location-source: companies-house
 tags:
   - defence
   - comms

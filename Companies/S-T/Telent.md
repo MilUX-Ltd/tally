@@ -10,6 +10,10 @@ founded: 2006
 size: large
 headcount: ~2,500
 sources-verified: 2026-06-29
+postcode: SG1 2ST
+lat: 51.89884
+lon: -0.21317
+location-source: companies-house
 tags:
   - defence
   - comms

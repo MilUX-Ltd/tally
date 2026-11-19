@@ -9,6 +9,7 @@ founded: 2011
 size: medium
 headcount: 51-200
 sources-verified: 2026-06-29
+country: Luxembourg
 tags:
   - defence
   - isr

@@ -10,6 +10,10 @@ founded: 2010
 size: small
 headcount: 47
 sources-verified: 2026-07-04
+postcode: WA11 9FT
+lat: 53.47504
+lon: -2.66293
+location-source: companies-house
 tags:
   - defence
   - c2

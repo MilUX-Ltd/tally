@@ -9,6 +9,10 @@ uk-region: South East
 founded: 1973
 size: large
 sources-verified: 2026-07-04
+postcode: OX10 9RB
+lat: 51.59862
+lon: -1.1405
+location-source: companies-house
 tags:
   - defence
   - maritime

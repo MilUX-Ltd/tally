@@ -9,6 +9,9 @@ founded: 2013
 size: large
 headcount: 833
 sources-verified: 2026-07-04
+lat: 56.07117
+lon: -3.46385
+location-source: town
 tags:
   - defence
   - training

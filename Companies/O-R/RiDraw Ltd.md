@@ -5,6 +5,9 @@ website: https://www.ridraw.com
 hq: Barnet, Middlesex, United Kingdom
 uk-region: South East
 sources-verified: 2026-07-05
+lat: 51.64968
+lon: -0.17125
+location-source: town
 tags:
   - defence
   - mbr-ads

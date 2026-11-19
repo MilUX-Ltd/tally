@@ -9,6 +9,10 @@ uk-region: South East
 founded: 1978
 size: small
 sources-verified: 2026-07-04
+postcode: GU33 7BQ
+lat: 51.05031
+lon: -0.88053
+location-source: companies-house
 tags:
   - defence
   - air

@@ -10,6 +10,10 @@ founded: 1988
 size: medium
 headcount:
 sources-verified: 2026-07-03
+postcode: NG25 0ET
+lat: 53.08165
+lon: -0.94748
+location-source: companies-house
 tags:
   - defence
   - air

@@ -9,6 +9,10 @@ uk-region: South East
 founded: 2009
 size: small
 sources-verified: 2026-07-03
+postcode: RG1 1AZ
+lat: 51.45757
+lon: -0.9702
+location-source: companies-house
 tags:
   - defence
   - air

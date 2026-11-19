@@ -9,6 +9,7 @@ founded: 2018
 size: small
 headcount: 44
 sources-verified: 2026-07-03
+country: Australia
 tags:
   - defence
   - logistics

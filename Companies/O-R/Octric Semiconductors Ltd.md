@@ -8,6 +8,9 @@ sources-verified: 2026-07-05
 headcount: ~130
 size: small
 uk-region: North East
+lat: 54.61846
+lon: -1.57216
+location-source: town
 tags:
   - defence
   - mbr-ads

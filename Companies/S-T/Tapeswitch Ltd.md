@@ -5,6 +5,9 @@ website: https://www.tapeswitch.co.uk
 hq: Chorley, United Kingdom
 uk-region: North West
 sources-verified: 2026-06-30
+lat: 53.65433
+lon: -2.63281
+location-source: town
 tags:
   - defence
   - mbr-ads

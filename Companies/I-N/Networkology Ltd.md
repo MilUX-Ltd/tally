@@ -9,6 +9,10 @@ uk-region: South West
 founded: 2013
 size: small
 sources-verified: 2026-07-05
+postcode: SN15 3RS
+lat: 51.44291
+lon: -2.07675
+location-source: companies-house
 tags:
   - defence
   - mbr-ads

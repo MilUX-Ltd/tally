@@ -2,6 +2,11 @@
 type: organisation
 name: Metaverse VR
 sources-verified: 2026-07-05
+postcode: PO6 3RU
+lat: 50.85734
+lon: -1.09954
+location-source: companies-house
+location-note: matched by name
 tags:
   - defence
   - training

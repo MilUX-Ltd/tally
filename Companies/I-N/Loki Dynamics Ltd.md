@@ -7,6 +7,10 @@ uk-region: South West
 companies-house: 10270434
 size: micro
 sources-verified: 2026-07-04
+postcode: DT11 0BB
+lat: 50.81345
+lon: -2.26108
+location-source: companies-house
 tags:
   - defence
   - maritime

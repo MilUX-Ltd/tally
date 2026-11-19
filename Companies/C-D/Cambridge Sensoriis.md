@@ -9,6 +9,10 @@ uk-region: East of England
 founded: 2020
 size: micro
 sources-verified: 2026-07-04
+postcode: N1 7GU
+lat: 51.53074
+lon: -0.09371
+location-source: companies-house
 tags:
   - defence
   - sensors

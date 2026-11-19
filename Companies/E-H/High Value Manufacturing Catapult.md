@@ -7,6 +7,9 @@ hq: Birmingham, United Kingdom
 uk-region: West Midlands
 size: large
 sources-verified: 2026-07-04
+lat: 52.47928
+lon: -1.90294
+location-source: town
 tags:
   - defence
   - manufacturing

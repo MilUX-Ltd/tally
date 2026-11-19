@@ -9,6 +9,10 @@ uk-region: Scotland
 founded: 1895
 size: small
 sources-verified: 2026-07-04
+postcode: CR4 4HR
+lat: 51.38925
+lon: -0.16485
+location-source: companies-house
 tags:
   - defence
   - air

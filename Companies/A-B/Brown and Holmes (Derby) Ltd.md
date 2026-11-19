@@ -7,6 +7,9 @@ hq: Derby, England
 uk-region: East Midlands
 size: small
 sources-verified: 2026-07-16
+lat: 52.92469
+lon: -1.47805
+location-source: town
 tags:
   - defence
   - electronics

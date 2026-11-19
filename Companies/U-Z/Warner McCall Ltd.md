@@ -3,6 +3,11 @@ type: organisation
 name: Warner McCall Ltd
 website: https://www.warnermccall.co.uk
 sources-verified: 2026-07-01
+postcode: SN15 4RE
+lat: 51.50527
+lon: -2.08476
+location-source: companies-house
+location-note: matched by name
 tags:
   - defence
   - mbr-ads

@@ -10,6 +10,10 @@ founded: 1989
 size: large
 headcount: 10,000+
 sources-verified: 2026-07-04
+postcode: W1U 1QX
+lat: 51.51619
+lon: -0.14809
+location-source: companies-house
 tags:
   - defence
   - maritime

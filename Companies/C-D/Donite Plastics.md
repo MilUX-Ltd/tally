@@ -10,6 +10,10 @@ founded: 1981
 size: micro
 headcount: 11-50
 sources-verified: 2026-07-04
+postcode: BT24 7DU
+lat: 54.46063
+lon: -5.82529
+location-source: companies-house
 tags:
   - defence
   - manufacturing

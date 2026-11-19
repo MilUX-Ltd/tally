@@ -9,6 +9,10 @@ uk-region: South East
 founded: 1985
 size: medium
 sources-verified: 2026-07-04
+postcode: PO15 5SH
+lat: 50.87002
+lon: -1.25945
+location-source: companies-house
 tags:
   - defence
   - hardware

@@ -5,6 +5,9 @@ website: https://www.hydegroup.com
 hq: Dukinfield, United Kingdom
 uk-region: North West
 sources-verified: 2026-07-04
+lat: 53.47702
+lon: -2.08193
+location-source: town
 tags:
   - defence
   - mbr-ads

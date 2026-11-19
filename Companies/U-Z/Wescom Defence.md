@@ -5,6 +5,9 @@ website: https://www.wescomdefence.com
 hq: Draycott, UK
 uk-region: East Midlands
 sources-verified: 2026-07-01
+lat: 50.99244
+lon: -2.6444
+location-source: town
 tags:
   - defence
   - mbr-ads

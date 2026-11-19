@@ -5,6 +5,9 @@ website: https://www.mda.space
 hq: Brampton, Canada
 uk-region: South East
 sources-verified: 2026-07-05
+lat: 53.23344
+lon: -1.45032
+location-source: town
 tags:
   - defence
   - mbr-ads

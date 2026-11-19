@@ -10,6 +10,10 @@ founded: 1979
 size: small
 headcount: 125
 sources-verified: 2026-07-04
+postcode: CM13 3LR
+lat: 51.57686
+lon: 0.3579
+location-source: companies-house
 tags:
   - defence
   - air

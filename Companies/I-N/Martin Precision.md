@@ -5,6 +5,9 @@ website: https://www.martin-precision.co.uk
 hq: Lanark, UK
 uk-region: Scotland
 sources-verified: 2026-07-05
+lat: 55.67382
+lon: -3.77588
+location-source: town
 tags:
   - defence
   - mbr-ads

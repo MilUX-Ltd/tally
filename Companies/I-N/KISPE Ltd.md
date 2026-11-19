@@ -8,6 +8,9 @@ uk-region: South East
 founded: 2016
 size: micro
 sources-verified: 2026-07-03
+lat: 51.53538
+lon: -1.37539
+location-source: town
 tags:
   - defence
   - mbr-ads

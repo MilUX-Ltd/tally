@@ -5,6 +5,9 @@ website: https://www.palentec.com
 hq: Newbury, United Kingdom
 uk-region: South East
 sources-verified: 2026-07-03
+lat: 51.25023
+lon: -2.4329
+location-source: town
 tags:
   - defence
   - mbr-ads

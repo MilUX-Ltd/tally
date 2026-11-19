@@ -9,6 +9,10 @@ uk-region: North East
 founded: 2013
 size: small
 sources-verified: 2026-07-04
+postcode: SY6 6NJ
+lat: 52.58928
+lon: -2.79164
+location-source: companies-house
 tags:
   - defence
   - hardware

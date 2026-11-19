@@ -5,6 +5,9 @@ website: https://www.infra-pp.com
 hq: Birkenhead, United Kingdom
 uk-region: North West
 sources-verified: 2026-07-04
+lat: 53.39385
+lon: -3.01449
+location-source: town
 tags:
   - defence
   - mbr-ads

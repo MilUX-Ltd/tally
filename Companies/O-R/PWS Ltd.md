@@ -5,6 +5,9 @@ website: http://www.pwsltd.co.uk
 hq: Wimborne, UK
 uk-region: South West
 sources-verified: 2026-07-03
+lat: 50.79944
+lon: -1.98775
+location-source: town
 tags:
   - defence
   - mbr-ads

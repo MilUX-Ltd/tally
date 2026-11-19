@@ -9,6 +9,10 @@ uk-region: South West
 founded: 2015
 size: micro
 sources-verified: 2026-07-03
+postcode: GL51 3AU
+lat: 51.88908
+lon: -2.10042
+location-source: companies-house
 tags:
   - defence
   - comms

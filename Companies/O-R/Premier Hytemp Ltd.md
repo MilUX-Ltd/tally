@@ -5,6 +5,9 @@ website: http://www.premierhytemp.com
 hq: Kirknewton, United Kingdom
 uk-region: Scotland
 sources-verified: 2026-07-05
+lat: 55.88737
+lon: -3.42012
+location-source: town
 tags:
   - defence
   - mbr-ads

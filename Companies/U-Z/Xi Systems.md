@@ -9,6 +9,10 @@ founded: 2010
 size: small
 headcount: 25
 sources-verified: 2026-06-30
+postcode: TA11 6SB
+lat: 51.05922
+lon: -2.74812
+location-source: companies-house
 tags:
   - defence
   - software

@@ -8,6 +8,10 @@ hq: Brighton, England
 uk-region: South East
 size: micro
 sources-verified: 2026-07-04
+postcode: BN1 9SB
+lat: 50.86436
+lon: -0.0828
+location-source: companies-house
 tags:
   - defence
   - simulation

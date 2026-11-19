@@ -9,6 +9,10 @@ uk-region: London
 founded: 2023
 size: micro
 sources-verified: 2026-07-05
+postcode: EC3V 3NG
+lat: 51.51328
+lon: -0.0861
+location-source: companies-house
 tags:
   - defence
   - isr

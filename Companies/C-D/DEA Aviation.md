@@ -10,6 +10,10 @@ founded: 2006
 size: medium
 headcount: 200-230
 sources-verified: 2026-07-04
+postcode: DN22 0QL
+lat: 53.27433
+lon: -0.96402
+location-source: companies-house
 tags:
   - defence
   - isr

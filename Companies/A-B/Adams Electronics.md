@@ -8,6 +8,10 @@ uk-region: South East
 founded: 1965
 size: micro
 sources-verified: 2026-07-03
+postcode: TN6 1HG
+lat: 51.05212
+lon: 0.15933
+location-source: companies-house
 tags:
   - defence
   - sensors

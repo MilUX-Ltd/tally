@@ -9,6 +9,10 @@ uk-region: East of England
 founded: 2012
 size: micro
 sources-verified: 2026-07-04
+postcode: WD6 4PJ
+lat: 51.65671
+lon: -0.28074
+location-source: companies-house
 tags:
   - defence
   - logistics

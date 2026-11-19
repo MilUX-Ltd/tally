@@ -5,6 +5,9 @@ website: https://www.petards.com
 hq: Gateshead, United Kingdom
 uk-region: North East
 sources-verified: 2026-07-05
+lat: 54.95991
+lon: -1.60495
+location-source: town
 tags:
   - defence
   - mbr-ads

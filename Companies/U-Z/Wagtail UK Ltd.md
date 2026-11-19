@@ -5,6 +5,9 @@ website: https://www.wagtailuk.com
 hq: Holywell, UK
 uk-region: Wales
 sources-verified: 2026-07-01
+lat: 52.06659
+lon: -2.91565
+location-source: town
 tags:
   - defence
   - mbr-ads

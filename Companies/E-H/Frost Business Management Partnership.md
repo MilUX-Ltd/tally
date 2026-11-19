@@ -9,6 +9,10 @@ uk-region: South West
 founded: 2023
 size: micro
 sources-verified: 2026-07-04
+postcode: BS20 7FJ
+lat: 51.48398
+lon: -2.75033
+location-source: companies-house
 tags:
   - defence
   - size-micro

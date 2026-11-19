@@ -6,6 +6,9 @@ hq: Bridgnorth, United Kingdom
 uk-region: West Midlands
 size: medium
 sources-verified: 2026-07-04
+lat: 52.53584
+lon: -2.41982
+location-source: town
 tags:
   - defence
   - manufacturing

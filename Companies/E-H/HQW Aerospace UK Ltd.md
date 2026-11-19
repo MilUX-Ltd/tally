@@ -7,6 +7,10 @@ hq: Plymouth, United Kingdom
 uk-region: South West
 size: medium
 sources-verified: 2026-07-04
+postcode: PL6 7LH
+lat: 50.41955
+lon: -4.09198
+location-source: companies-house
 tags:
   - defence
   - mbr-ads

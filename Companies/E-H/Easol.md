@@ -10,6 +10,10 @@ founded: 2020
 size: micro
 headcount: 8
 sources-verified: 2026-07-04
+postcode: PO12 1BS
+lat: 50.79533
+lon: -1.11868
+location-source: companies-house
 tags:
   - defence
   - software

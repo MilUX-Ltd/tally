@@ -9,6 +9,10 @@ uk-region: South East
 founded: 2011
 size: small
 sources-verified: 2026-07-04
+postcode: PO16 8XT
+lat: 50.8595
+lon: -1.16446
+location-source: companies-house
 tags:
   - defence
   - data

@@ -10,6 +10,10 @@ founded: 2020
 size: small
 headcount: 15
 sources-verified: 2026-07-04
+postcode: WF10 2EU
+lat: 53.74402
+lon: -1.36359
+location-source: companies-house
 tags:
   - defence
   - uas

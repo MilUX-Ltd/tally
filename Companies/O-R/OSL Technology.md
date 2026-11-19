@@ -5,6 +5,9 @@ website: https://www.operationalsolutions.co.uk
 hq: Padworth Common, UK
 uk-region: South East
 sources-verified: 2026-07-05
+lat: 51.37911
+lon: -1.1113
+location-source: town
 tags:
   - defence
   - mbr-ads

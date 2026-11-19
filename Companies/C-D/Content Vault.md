@@ -4,6 +4,11 @@ name: Content Vault
 website: https://contentvault.media
 hq: United Kingdom
 sources-verified: 2026-07-04
+postcode: EC2Y 9DT
+lat: 51.51794
+lon: -0.09015
+location-source: companies-house
+location-note: matched by name
 tags:
   - defence
   - cyber

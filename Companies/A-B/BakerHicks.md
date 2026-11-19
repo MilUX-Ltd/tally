@@ -10,6 +10,10 @@ founded: 1957
 size: large
 headcount: ~1300
 sources-verified: 2026-07-04
+postcode: W1W 8AJ
+lat: 51.51611
+lon: -0.13991
+location-source: companies-house
 tags:
   - defence
   - simulation

@@ -5,6 +5,9 @@ website: https://www.tods.co.uk
 hq: Portland, United Kingdom
 uk-region: South West
 sources-verified: 2026-06-30
+lat: 51.1291
+lon: -2.75316
+location-source: town
 tags:
   - defence
   - mbr-ads

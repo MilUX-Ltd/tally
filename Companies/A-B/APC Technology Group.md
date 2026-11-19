@@ -9,6 +9,10 @@ uk-region: South East
 founded: 1982
 size: medium
 sources-verified: 2026-07-03
+postcode: ME1 3QR
+lat: 51.35792
+lon: 0.50025
+location-source: companies-house
 tags:
   - defence
   - rf

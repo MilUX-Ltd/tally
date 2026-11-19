@@ -8,6 +8,10 @@ hq: Westcott, England
 uk-region: South East
 size: micro
 sources-verified: 2026-07-16
+postcode: M29 7NW
+lat: 53.50568
+lon: -2.44617
+location-source: companies-house
 tags:
   - defence
   - air

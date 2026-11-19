@@ -5,6 +5,9 @@ website: http://www.strategic-shipping.com
 hq: Colnbrook, United Kingdom
 uk-region: South East
 sources-verified: 2026-06-30
+lat: 51.48445
+lon: -0.52811
+location-source: town
 tags:
   - defence
   - mbr-ads

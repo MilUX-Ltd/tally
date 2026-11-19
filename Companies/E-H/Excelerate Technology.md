@@ -10,6 +10,10 @@ founded: 2001
 size: small
 headcount: 39
 sources-verified: 2026-07-04
+postcode: CF3 0LW
+lat: 51.53093
+lon: -3.08799
+location-source: companies-house
 tags:
   - defence
   - comms

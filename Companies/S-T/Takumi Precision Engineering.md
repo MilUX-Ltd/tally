@@ -6,6 +6,7 @@ hq: Limerick, Ireland
 uk-region: Overseas
 size: small
 sources-verified: 2026-06-30
+country: Ireland
 tags:
   - defence
   - mbr-ads

@@ -10,6 +10,10 @@ founded: 2016
 size: small
 headcount: 11-50
 sources-verified: 2026-07-03
+postcode: SP5 3HT
+lat: 51.03422
+lon: -1.72006
+location-source: companies-house
 tags:
   - defence
   - hardware

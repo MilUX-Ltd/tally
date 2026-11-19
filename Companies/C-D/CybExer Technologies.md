@@ -9,6 +9,7 @@ founded: 2016
 size: medium
 headcount: ~60
 sources-verified: 2026-07-04
+country: Estonia
 tags:
   - defence
   - cyber

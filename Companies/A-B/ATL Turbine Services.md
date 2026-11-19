@@ -9,6 +9,9 @@ founded: 2008
 size: medium
 headcount: ~78
 sources-verified: 2026-07-03
+lat: 56.45841
+lon: -2.97367
+location-source: town
 tags:
   - defence
   - air

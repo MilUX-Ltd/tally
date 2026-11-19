@@ -9,6 +9,9 @@ founded: 1990
 size: small
 headcount: 31
 sources-verified: 2026-07-05
+lat: 51.21893
+lon: -1.78158
+location-source: town
 tags:
   - defence
   - simulation

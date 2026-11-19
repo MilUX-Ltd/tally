@@ -6,6 +6,9 @@ hq: Helston, UK
 uk-region: South West
 size: small
 sources-verified: 2026-07-04
+lat: 50.10093
+lon: -5.27447
+location-source: town
 tags:
   - defence
   - space

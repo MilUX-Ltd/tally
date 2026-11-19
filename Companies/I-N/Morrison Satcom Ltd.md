@@ -8,6 +8,10 @@ uk-region: North East
 founded: 2018
 size: micro
 sources-verified: 2026-07-05
+postcode: TS17 0FB
+lat: 54.51041
+lon: -1.31838
+location-source: companies-house
 tags:
   - defence
   - mbr-ads

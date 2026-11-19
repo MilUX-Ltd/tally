@@ -9,6 +9,10 @@ uk-region: South West
 founded: 2014
 size: micro
 sources-verified: 2026-07-04
+postcode: BS37 7LF
+lat: 51.55367
+lon: -2.40987
+location-source: companies-house
 tags:
   - defence
   - size-micro

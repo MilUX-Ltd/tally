@@ -9,6 +9,10 @@ uk-region: South East
 founded: 2020
 size: micro
 sources-verified: 2026-07-03
+postcode: OX15 5RE
+lat: 52.03325
+lon: -1.48191
+location-source: companies-house
 tags:
   - defence
   - training

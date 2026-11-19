@@ -5,6 +5,9 @@ website: https://www.livewire.co.uk
 hq: Leatherhead, UK
 uk-region: South East
 sources-verified: 2026-07-04
+lat: 51.29616
+lon: -0.33112
+location-source: town
 tags:
   - defence
   - mbr-ads

@@ -5,6 +5,9 @@ website: https://www.thorntontomasetti.com
 hq: Dalgety Bay, United Kingdom
 uk-region: Scotland
 sources-verified: 2026-06-30
+lat: 56.03836
+lon: -3.35727
+location-source: town
 tags:
   - defence
   - mbr-ads

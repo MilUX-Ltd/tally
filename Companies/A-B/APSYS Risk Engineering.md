@@ -8,6 +8,10 @@ uk-region: South West
 founded: 2011
 size: medium
 sources-verified: 2026-07-03
+postcode: NP10 8FZ
+lat: 51.55875
+lon: -3.04171
+location-source: companies-house
 tags:
   - defence
   - air

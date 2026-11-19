@@ -8,6 +8,9 @@ uk-region: South West
 size: small
 headcount: 37
 sources-verified: 2026-06-30
+lat: 50.66101
+lon: -2.27432
+location-source: town
 tags:
   - defence
   - cyber

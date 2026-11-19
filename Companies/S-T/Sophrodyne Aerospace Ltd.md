@@ -7,6 +7,9 @@ uk-region: Scotland
 founded: 2015
 size: micro
 sources-verified: 2026-07-03
+lat: 55.86363
+lon: -4.23688
+location-source: town
 tags:
   - defence
   - mbr-ads

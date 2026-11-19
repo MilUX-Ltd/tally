@@ -5,6 +5,9 @@ website: https://www.malstrom.co.uk
 hq: Warminster, United Kingdom
 uk-region: South West
 sources-verified: 2026-07-05
+lat: 51.20492
+lon: -2.18119
+location-source: town
 tags:
   - defence
   - mbr-ads

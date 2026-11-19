@@ -9,6 +9,10 @@ uk-region: South West
 founded: 2008
 size: micro
 sources-verified: 2026-07-04
+postcode: SN4 7RN
+lat: 51.49983
+lon: -1.87145
+location-source: companies-house
 tags:
   - defence
   - space

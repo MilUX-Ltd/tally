@@ -7,6 +7,10 @@ companies-house: "13778362"
 hq: Hitchin, Hertfordshire
 uk-region: East of England
 sources-verified: 2026-07-05
+postcode: SG4 0TY
+lat: 51.9678
+lon: -0.26602
+location-source: companies-house
 tags:
   - defence
   - cyber

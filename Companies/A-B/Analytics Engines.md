@@ -10,6 +10,10 @@ founded: 2008
 size: small
 headcount: ~20
 sources-verified: 2026-07-03
+postcode: BT9 5DJ
+lat: 54.57949
+lon: -5.93778
+location-source: companies-house
 tags:
   - defence
   - ai

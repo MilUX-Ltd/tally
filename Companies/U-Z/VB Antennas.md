@@ -10,6 +10,10 @@ founded: 2008
 size: small
 headcount: ~16
 sources-verified: 2026-07-09
+postcode: IP31 3AJ
+lat: 52.31096
+lon: 0.92392
+location-source: companies-house
 tags:
   - defence
   - rf

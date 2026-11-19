@@ -5,6 +5,7 @@ website: https://dasionpayload.com
 hq: Shenzhen, China
 uk-region: Overseas
 sources-verified: 2026-08-27
+country: China
 tags:
   - defence
   - uas

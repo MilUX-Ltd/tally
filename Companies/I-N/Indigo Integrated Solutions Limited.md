@@ -6,6 +6,9 @@ founded: 2010
 hq: Poole, United Kingdom
 uk-region: South West
 sources-verified: 2026-07-04
+lat: 50.98935
+lon: -3.21552
+location-source: town
 tags:
   - defence
   - mbr-ads

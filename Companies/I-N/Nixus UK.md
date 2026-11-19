@@ -10,6 +10,9 @@ founded:
 size: small
 headcount: 
 sources-verified: 2026-07-13
+lat: 52.15565
+lon: 1.05004
+location-source: town
 tags:
   - defence
   - manufacturing

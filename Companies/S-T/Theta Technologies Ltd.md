@@ -5,6 +5,9 @@ website: https://www.thetaNDT.com
 hq: Exeter, United Kingdom
 uk-region: South West
 sources-verified: 2026-06-30
+lat: 50.72258
+lon: -3.5326
+location-source: town
 tags:
   - defence
   - mbr-ads

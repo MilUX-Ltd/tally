@@ -9,6 +9,10 @@ uk-region: East of England
 founded: 1970
 size: medium
 sources-verified: 2026-07-05
+postcode: GL20 8NA
+lat: 51.99836
+lon: -2.11619
+location-source: companies-house
 tags:
   - defence
   - comms

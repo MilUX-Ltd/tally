@@ -9,6 +9,10 @@ uk-region: South West
 founded: 2014
 size: small
 sources-verified: 2026-07-04
+postcode: BH4 8DT
+lat: 50.72106
+lon: -1.90167
+location-source: companies-house
 tags:
   - defence
   - land

@@ -10,6 +10,10 @@ founded: 2021
 size: small
 headcount: 10-49
 sources-verified: 2026-07-04
+postcode: E1 1LX
+lat: 51.51272
+lon: -0.06689
+location-source: companies-house
 tags:
   - defence
   - space

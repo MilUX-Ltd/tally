@@ -5,6 +5,9 @@ website: https://www.vindo.technology
 hq: Stone, United Kingdom
 uk-region: West Midlands
 sources-verified: 2026-07-01
+lat: 52.37363
+lon: -2.20945
+location-source: town
 tags:
   - defence
   - mbr-ads

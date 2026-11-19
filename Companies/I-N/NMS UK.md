@@ -6,6 +6,9 @@ linkedin: https://www.linkedin.com/company/nurol-makina-uk/
 hq: Royal Leamington Spa, United Kingdom
 uk-region: West Midlands
 sources-verified: 2026-07-05
+lat: 52.29196
+lon: -1.53581
+location-source: town
 tags:
   - defence
   - mbr-ads

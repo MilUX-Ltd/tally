@@ -9,6 +9,10 @@ uk-region:
 founded: 1988
 size: small
 sources-verified: 2026-07-04
+postcode: SP4 7SD
+lat: 51.17392
+lon: -1.76181
+location-source: companies-house
 tags:
   - defence
   - gis

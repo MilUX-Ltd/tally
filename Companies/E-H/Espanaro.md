@@ -9,6 +9,10 @@ uk-region: Wales
 founded: 2020
 size: small
 sources-verified: 2026-07-04
+postcode: CF10 3AG
+lat: 51.48297
+lon: -3.17753
+location-source: companies-house
 tags:
   - defence
   - cyber

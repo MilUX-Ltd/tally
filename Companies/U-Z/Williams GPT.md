@@ -7,6 +7,9 @@ uk-region: South East
 founded: 2024
 size: small
 sources-verified: 2026-07-16
+lat: 51.89361
+lon: -0.66621
+location-source: town
 tags:
   - defence
   - ai

@@ -5,6 +5,9 @@ website: https://www.thornsds.co.uk
 hq: Alton, United Kingdom
 uk-region: South East
 sources-verified: 2026-06-30
+lat: 51.21893
+lon: -1.78158
+location-source: town
 tags:
   - defence
   - mbr-ads

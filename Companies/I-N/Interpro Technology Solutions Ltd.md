@@ -10,6 +10,10 @@ founded: 2005
 size: small
 headcount: 11-50
 sources-verified: 2026-07-04
+postcode: PO16 8XT
+lat: 50.8595
+lon: -1.16446
+location-source: companies-house
 tags:
   - defence
   - mbr-ads

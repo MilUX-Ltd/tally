@@ -5,6 +5,9 @@ website: https://www.stealthpath.com
 hq: London, UK
 uk-region: London
 sources-verified: 2026-06-30
+lat: 51.50741
+lon: -0.12772
+location-source: town
 tags:
   - defence
   - mbr-ads

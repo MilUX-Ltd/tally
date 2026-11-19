@@ -8,6 +8,10 @@ uk-region: South West
 founded: 1976
 size: large
 sources-verified: 2026-07-04
+postcode: SW1H 0EX
+lat: 51.49813
+lon: -0.13259
+location-source: companies-house
 tags:
   - defence
   - air

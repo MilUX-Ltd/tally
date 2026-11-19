@@ -10,6 +10,10 @@ founded: 1978
 size: small
 headcount: ~50
 sources-verified: 2026-07-04
+postcode: PO15 6LD
+lat: 50.86187
+lon: -1.21063
+location-source: companies-house
 tags:
   - defence
   - maritime

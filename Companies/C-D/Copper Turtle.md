@@ -9,6 +9,10 @@ uk-region: South West
 founded: 2017
 size: micro
 sources-verified: 2026-07-04
+postcode: BH14 8UF
+lat: 50.72385
+lon: -1.94932
+location-source: companies-house
 tags:
   - defence
   - type-consultancy

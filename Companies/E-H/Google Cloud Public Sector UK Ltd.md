@@ -6,6 +6,9 @@ hq: Mountain View, USA
 uk-region: London
 size: large
 sources-verified: 2026-07-04
+lat: 54.51395
+lon: -3.15734
+location-source: town
 tags:
   - defence
   - cyber

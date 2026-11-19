@@ -7,6 +7,9 @@ hq: Manchester, United Kingdom
 uk-region: North West
 founded: 2012
 sources-verified: 2026-07-04
+lat: 53.47894
+lon: -2.24528
+location-source: town
 tags:
   - defence
   - mbr-ads

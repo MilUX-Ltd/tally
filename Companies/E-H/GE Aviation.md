@@ -9,6 +9,10 @@ uk-region: South West
 size: large
 headcount: 2000+
 sources-verified: 2026-07-04
+postcode: GL52 8SF
+lat: 51.93614
+lon: -2.06629
+location-source: companies-house
 tags:
   - defence
   - air

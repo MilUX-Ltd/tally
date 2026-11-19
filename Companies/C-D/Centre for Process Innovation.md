@@ -10,6 +10,10 @@ founded: 2004
 size: medium
 headcount: 450
 sources-verified: 2026-07-04
+postcode: TS10 4RF
+lat: 54.57614
+lon: -1.1016
+location-source: companies-house
 tags:
   - defence
   - manufacturing

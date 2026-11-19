@@ -5,6 +5,9 @@ website: https://www.utac.com
 hq: United Kingdom
 uk-region: East of England
 sources-verified: 2026-06-30
+lat: 52.24
+lon: 0.41
+location-source: town
 tags:
   - defence
   - mbr-ads

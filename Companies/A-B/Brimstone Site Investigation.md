@@ -9,6 +9,10 @@ uk-region: South East
 founded: 2016
 size: small
 sources-verified: 2026-07-04
+postcode: ME5 9FD
+lat: 51.34759
+lon: 0.50743
+location-source: companies-house
 tags:
   - defence
   - size-small

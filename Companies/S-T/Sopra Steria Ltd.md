@@ -7,6 +7,9 @@ uk-region: East of England
 size: large
 headcount: "c.7,000 (UK)"
 sources-verified: 2026-07-03
+lat: 52.24
+lon: 0.41
+location-source: town
 tags:
   - defence
   - mbr-ads

@@ -8,6 +8,10 @@ uk-region: West Midlands
 founded: 2019
 size: micro
 sources-verified: 2026-07-05
+postcode: DT1 2PJ
+lat: 50.71701
+lon: -2.44835
+location-source: companies-house
 tags:
   - defence
   - mbr-ads

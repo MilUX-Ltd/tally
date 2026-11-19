@@ -5,6 +5,9 @@ website: http://premier-ssl.com
 hq: Ilford, United Kingdom
 uk-region: East of England
 sources-verified: 2026-07-05
+lat: 50.95425
+lon: -2.90714
+location-source: town
 tags:
   - defence
   - mbr-ads

@@ -9,6 +9,10 @@ uk-region: West Midlands
 founded: 2004
 size: small
 sources-verified: 2026-07-04
+postcode: WR1 1EE
+lat: 52.19585
+lon: -2.22285
+location-source: companies-house
 tags:
   - defence
   - mbr-ads

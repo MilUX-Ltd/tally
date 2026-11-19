@@ -3,6 +3,11 @@ type: organisation
 name: Steller Systems
 hq: United Kingdom
 sources-verified: 2026-06-30
+postcode: B3 3BD
+lat: 52.48029
+lon: -1.90156
+location-source: companies-house
+location-note: matched by name
 tags:
   - defence
   - mbr-ads

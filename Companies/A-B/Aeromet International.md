@@ -9,6 +9,10 @@ uk-region: West Midlands
 founded: 1982
 size: medium
 sources-verified: 2026-07-03
+postcode: WR3 8UA
+lat: 52.21567
+lon: -2.19753
+location-source: companies-house
 tags:
   - defence
   - manufacturing

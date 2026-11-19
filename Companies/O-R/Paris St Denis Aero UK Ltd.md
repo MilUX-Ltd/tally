@@ -5,6 +5,9 @@ website: https://www.psdaero.com
 hq: Paris, France
 uk-region: North West
 sources-verified: 2026-07-05
+lat: 53.48
+lon: -2.24
+location-source: town
 tags:
   - defence
   - mbr-ads

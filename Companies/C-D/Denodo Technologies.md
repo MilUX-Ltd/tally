@@ -10,6 +10,10 @@ founded: 1999
 size: large
 headcount: 764
 sources-verified: 2026-07-04
+postcode: EC4A 3TW
+lat: 51.51554
+lon: -0.10838
+location-source: companies-house
 tags:
   - defence
   - data

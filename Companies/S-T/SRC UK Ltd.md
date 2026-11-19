@@ -5,6 +5,9 @@ website: https://www.srcuk.com
 hq: Syracuse, United States
 uk-region: East Midlands
 sources-verified: 2026-06-30
+lat: 52.83
+lon: -1.33
+location-source: town
 tags:
   - defence
   - mbr-ads

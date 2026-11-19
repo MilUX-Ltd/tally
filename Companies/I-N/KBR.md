@@ -7,6 +7,9 @@ hq: Houston, United States
 uk-region: South East
 size: large
 sources-verified: 2026-07-03
+lat: 55.8702
+lon: -4.54867
+location-source: town
 tags:
   - defence
   - size-large

@@ -5,6 +5,9 @@ website: https://www.sbr.aero
 hq: Waterlooville, United Kingdom
 uk-region: South East
 sources-verified: 2026-06-30
+lat: 50.87925
+lon: -1.03223
+location-source: town
 tags:
   - defence
   - mbr-ads

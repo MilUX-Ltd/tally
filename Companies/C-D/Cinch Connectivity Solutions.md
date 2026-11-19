@@ -8,6 +8,10 @@ hq: Lombard, United States
 uk-region: East of England
 size: medium
 sources-verified: 2026-07-04
+postcode: CM1 2UP
+lat: 51.72945
+lon: 0.45477
+location-source: companies-house
 tags:
   - defence
   - air

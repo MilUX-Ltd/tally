@@ -9,6 +9,10 @@ uk-region: South East
 founded: 2005
 size: medium
 sources-verified: 2026-07-03
+postcode: GU51 3TW
+lat: 51.28954
+lon: -0.82991
+location-source: companies-house
 tags:
   - defence
   - cyber

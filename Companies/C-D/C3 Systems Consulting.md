@@ -8,6 +8,10 @@ uk-region: South West
 founded: 2009
 size: micro
 sources-verified: 2026-07-04
+postcode: PO15 7AG
+lat: 50.87614
+lon: -1.24173
+location-source: companies-house
 tags:
   - defence
   - cyber

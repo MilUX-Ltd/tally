@@ -9,6 +9,10 @@ founded: 1921
 size: large
 headcount: 700
 sources-verified: 2026-07-04
+postcode: BT3 9ED
+lat: 54.62721
+lon: -5.87514
+location-source: companies-house
 tags:
   - defence
   - maritime

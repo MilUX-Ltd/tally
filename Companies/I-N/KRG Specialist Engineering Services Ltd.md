@@ -5,6 +5,9 @@ website: http://www.krg-engservices.com
 hq: Coatbridge, Scotland
 uk-region: Scotland
 sources-verified: 2026-07-03
+lat: 55.86236
+lon: -4.02914
+location-source: town
 tags:
   - defence
   - mbr-ads

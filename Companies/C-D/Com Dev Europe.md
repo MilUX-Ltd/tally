@@ -8,6 +8,10 @@ uk-region: South East
 founded: 1984
 size: large
 sources-verified: 2026-07-04
+postcode: B98 9HJ
+lat: 52.31802
+lon: -1.89123
+location-source: companies-house
 tags:
   - defence
   - space

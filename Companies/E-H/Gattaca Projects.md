@@ -8,6 +8,10 @@ uk-region: South East
 founded: 1997
 size: small
 sources-verified: 2026-07-04
+postcode: PO15 7AF
+lat: 50.87575
+lon: -1.24355
+location-source: companies-house
 tags:
   - defence
   - manufacturing

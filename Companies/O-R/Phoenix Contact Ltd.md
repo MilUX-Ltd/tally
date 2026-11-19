@@ -5,6 +5,9 @@ website: https://www.phoenixcontact.co.uk
 hq: Blomberg, Germany
 uk-region: West Midlands
 sources-verified: 2026-07-05
+lat: 52.48
+lon: -1.9
+location-source: town
 tags:
   - defence
   - mbr-ads

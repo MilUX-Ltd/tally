@@ -9,6 +9,10 @@ uk-region: South East
 founded: 2011
 size: micro
 sources-verified: 2026-07-16
+postcode: SP11 0BA
+lat: 51.27313
+lon: -1.44233
+location-source: companies-house
 tags:
   - defence
   - space

@@ -8,6 +8,10 @@ hq: Bristol, UK
 uk-region: South West
 size: micro
 sources-verified: 2026-06-29
+postcode: BS16 7FR
+lat: 51.50087
+lon: -2.47757
+location-source: companies-house
 tags:
   - defence
   - simulation

@@ -5,6 +5,9 @@ website: http://www.sysware-europe.com
 hq: St Neots, United Kingdom
 uk-region: East of England
 sources-verified: 2026-06-30
+lat: 52.22788
+lon: -0.26938
+location-source: town
 tags:
   - defence
   - mbr-ads

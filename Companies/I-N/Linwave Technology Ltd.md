@@ -5,6 +5,9 @@ website: https://www.linwave.co.uk
 hq: Lincoln, UK
 uk-region: East Midlands
 sources-verified: 2026-07-04
+lat: 53.23484
+lon: -0.53844
+location-source: town
 tags:
   - defence
   - mbr-ads

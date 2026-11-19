@@ -6,6 +6,9 @@ hq: Burnley, United Kingdom
 uk-region: North West
 size: large
 sources-verified: 2026-06-30
+lat: 53.78752
+lon: -2.24439
+location-source: town
 tags:
   - defence
   - mbr-ads

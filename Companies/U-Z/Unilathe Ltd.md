@@ -5,6 +5,9 @@ website: https://www.unilathe.co.uk
 hq: Stoke-on-Trent, United Kingdom
 uk-region: West Midlands
 sources-verified: 2026-06-30
+lat: 53.02218
+lon: -2.17337
+location-source: town
 tags:
   - defence
   - mbr-ads

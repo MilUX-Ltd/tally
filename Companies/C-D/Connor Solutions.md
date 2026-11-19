@@ -9,6 +9,10 @@ uk-region: North East
 size: medium
 headcount: 54
 sources-verified: 2026-07-04
+postcode: DH4 5NL
+lat: 54.83348
+lon: -1.49051
+location-source: companies-house
 tags:
   - defence
   - air

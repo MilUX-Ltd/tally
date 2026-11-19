@@ -8,6 +8,10 @@ uk-region: West Midlands
 founded: 1996
 size: small
 sources-verified: 2026-07-03
+postcode: TF3 3AL
+lat: 52.66823
+lon: -2.42129
+location-source: companies-house
 tags:
   - defence
   - manufacturing

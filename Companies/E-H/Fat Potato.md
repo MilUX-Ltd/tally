@@ -10,6 +10,10 @@ founded: 2016
 size: small
 headcount: 20
 sources-verified: 2026-07-04
+postcode: GL50 3AT
+lat: 51.89661
+lon: -2.08396
+location-source: companies-house
 tags:
   - defence
   - software

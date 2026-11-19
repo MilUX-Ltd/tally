@@ -7,6 +7,10 @@ companies-house: 15247291
 hq: London
 uk-region: London
 sources-verified: 2026-07-03
+postcode: WA14 1PF
+lat: 53.38718
+lon: -2.35296
+location-source: companies-house
 tags:
   - defence
   - logistics

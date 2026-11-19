@@ -9,6 +9,10 @@ uk-region: South East
 founded: 2006
 size: small
 sources-verified: 2026-07-04
+postcode: OX14 1RL
+lat: 51.67356
+lon: -1.30548
+location-source: companies-house
 tags:
   - defence
   - manufacturing

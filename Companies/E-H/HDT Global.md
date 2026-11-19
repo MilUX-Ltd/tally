@@ -9,6 +9,7 @@ founded: 1937
 size: large
 headcount: 501-1000
 sources-verified: 2026-07-04
+country: United States
 tags:
   - defence
   - robotics

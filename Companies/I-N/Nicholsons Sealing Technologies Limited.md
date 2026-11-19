@@ -5,6 +5,9 @@ website: https://www.nicholsons.co.uk
 hq: Stanley, UK
 uk-region: North East
 sources-verified: 2026-07-05
+lat: 53.71044
+lon: -1.47779
+location-source: town
 tags:
   - defence
   - mbr-ads

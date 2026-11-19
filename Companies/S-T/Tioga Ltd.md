@@ -5,6 +5,9 @@ website: https://www.tioga.co.uk
 hq: Derby, United Kingdom
 uk-region: East Midlands
 sources-verified: 2026-06-30
+lat: 52.92469
+lon: -1.47805
+location-source: town
 tags:
   - defence
   - mbr-ads

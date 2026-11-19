@@ -3,6 +3,11 @@ type: organisation
 name: Vysiion
 website: https://www.vysiion.co.uk
 sources-verified: 2026-06-30
+postcode: E1 8EU
+lat: 51.51307
+lon: -0.07028
+location-source: companies-house
+location-note: matched by name
 tags:
   - defence
   - cyber

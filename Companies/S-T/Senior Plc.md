@@ -6,6 +6,9 @@ hq: Rickmansworth, United Kingdom
 uk-region: East of England
 size: large
 sources-verified: 2026-06-30
+lat: 51.63884
+lon: -0.46918
+location-source: town
 tags:
   - defence
   - mbr-ads

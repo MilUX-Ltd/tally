@@ -5,6 +5,9 @@ website: https://www.ultra-pcs.com/
 hq: Cheltenham, Gloucestershire
 uk-region: South West
 sources-verified: 2026-06-30
+lat: 51.90073
+lon: -2.07669
+location-source: town
 tags:
   - defence
   - hardware

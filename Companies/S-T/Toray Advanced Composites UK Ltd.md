@@ -5,6 +5,9 @@ website: https://www.toraytac.com
 hq: Ehime, Japan
 uk-region: East Midlands
 sources-verified: 2026-06-30
+lat: 52.83
+lon: -1.33
+location-source: town
 tags:
   - defence
   - mbr-ads

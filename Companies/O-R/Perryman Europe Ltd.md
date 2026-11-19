@@ -5,6 +5,9 @@ website: https://www.perrymanco.com
 hq: Houston, United States
 uk-region: London
 sources-verified: 2026-07-05
+lat: 55.8702
+lon: -4.54867
+location-source: town
 tags:
   - defence
   - mbr-ads

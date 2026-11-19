@@ -6,6 +6,9 @@ hq: Welshpool, United Kingdom
 uk-region: Wales
 size: small
 sources-verified: 2026-07-04
+lat: 52.66063
+lon: -3.14971
+location-source: town
 tags:
   - defence
   - sensors

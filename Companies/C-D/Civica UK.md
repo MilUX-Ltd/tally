@@ -10,6 +10,10 @@ founded: 1982
 size: large
 headcount: 5000+
 sources-verified: 2026-07-04
+postcode: SE1 9LQ
+lat: 51.50738
+lon: -0.10662
+location-source: companies-house
 tags:
   - defence
   - software

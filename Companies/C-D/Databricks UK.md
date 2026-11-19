@@ -10,6 +10,10 @@ founded: 2013
 size: large
 headcount: ~500
 sources-verified: 2026-07-04
+postcode: W1T 2JG
+lat: 51.51865
+lon: -0.13382
+location-source: companies-house
 tags:
   - defence
   - data

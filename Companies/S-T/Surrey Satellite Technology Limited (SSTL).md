@@ -5,6 +5,9 @@ website: https://www.sstl.co.uk
 hq: Guildford, United Kingdom
 uk-region: South East
 sources-verified: 2026-06-30
+lat: 51.74465
+lon: -4.91131
+location-source: town
 tags:
   - defence
   - mbr-ads

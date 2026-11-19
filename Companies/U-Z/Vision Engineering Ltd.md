@@ -5,6 +5,9 @@ website: https://www.visioneng.com
 hq: Woking, United Kingdom
 uk-region: South East
 sources-verified: 2026-07-01
+lat: 51.31835
+lon: -0.55813
+location-source: town
 tags:
   - defence
   - mbr-ads

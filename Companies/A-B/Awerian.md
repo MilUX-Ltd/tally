@@ -10,6 +10,10 @@ founded: 2021
 size: medium
 headcount: 31
 sources-verified: 2026-07-04
+postcode: SG8 6HQ
+lat: 52.09064
+lon: 0.02172
+location-source: companies-house
 tags:
   - defence
   - cyber

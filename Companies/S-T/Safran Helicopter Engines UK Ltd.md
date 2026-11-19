@@ -5,6 +5,9 @@ website: https://www.turbomeca.co.uk
 hq: Bordes, France
 uk-region: South East
 sources-verified: 2026-06-30
+lat: 52.33269
+lon: -1.94861
+location-source: town
 tags:
   - defence
   - mbr-ads

@@ -5,6 +5,9 @@ website: https://hexagonpositioning.com
 hq: Calgary, Canada
 uk-region: Scotland
 sources-verified: 2026-07-05
+lat: 55.95
+lon: -3.19
+location-source: town
 tags:
   - defence
   - mbr-ads

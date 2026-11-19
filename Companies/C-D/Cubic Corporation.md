@@ -9,6 +9,7 @@ founded: 1949
 size: large
 headcount: ~6,000 worldwide
 sources-verified: 2026-07-04
+country: United States
 tags:
   - defence
   - training

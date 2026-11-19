@@ -9,6 +9,10 @@ uk-region: South West
 founded: 1997
 size: small
 sources-verified: 2026-07-03
+postcode: BS16 7FR
+lat: 51.50087
+lon: -2.47757
+location-source: companies-house
 tags:
   - defence
   - air

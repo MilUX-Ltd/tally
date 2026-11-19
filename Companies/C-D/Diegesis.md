@@ -9,6 +9,10 @@ uk-region: London
 founded: 2007
 size: micro
 sources-verified: 2026-07-04
+postcode: SW19 1RD
+lat: 51.41968
+lon: -0.20051
+location-source: companies-house
 tags:
   - defence
   - software

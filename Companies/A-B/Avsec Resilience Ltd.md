@@ -6,6 +6,9 @@ hq: Henley-on-Thames, England
 uk-region: South East
 size: micro
 sources-verified: 2026-07-16
+lat: 51.53755
+lon: -0.90463
+location-source: town
 tags:
   - defence
   - training

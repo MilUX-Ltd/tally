@@ -9,6 +9,10 @@ uk-region: South East
 founded: 2020
 size: micro
 sources-verified: 2026-07-04
+postcode: UB9 5NJ
+lat: 51.58092
+lon: -0.49097
+location-source: companies-house
 tags:
   - defence
   - logistics

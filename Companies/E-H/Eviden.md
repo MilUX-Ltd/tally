@@ -8,6 +8,7 @@ uk-region: Overseas
 founded: 2023
 size: large
 sources-verified: 2026-07-04
+country: France
 tags:
   - defence
   - cyber

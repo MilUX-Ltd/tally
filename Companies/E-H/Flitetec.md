@@ -9,6 +9,10 @@ founded: 1985
 size: small
 headcount: 25-35
 sources-verified: 2026-07-04
+postcode: HP6 6HD
+lat: 51.67972
+lon: -0.59504
+location-source: companies-house
 tags:
   - defence
   - air

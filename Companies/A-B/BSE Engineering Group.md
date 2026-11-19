@@ -8,6 +8,10 @@ uk-region: East of England
 founded: 2024
 size: micro
 sources-verified: 2026-07-04
+postcode: B61 8ES
+lat: 52.33597
+lon: -2.05908
+location-source: companies-house
 tags:
   - defence
   - test-evaluation

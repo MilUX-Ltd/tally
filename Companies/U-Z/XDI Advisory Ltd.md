@@ -5,6 +5,9 @@ website: https://www.xdia.co.uk
 hq: Holywood, United Kingdom
 uk-region: Northern Ireland
 sources-verified: 2026-07-01
+lat: 55.10152
+lon: -3.64559
+location-source: town
 tags:
   - defence
   - mbr-ads

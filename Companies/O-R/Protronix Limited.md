@@ -6,6 +6,9 @@ hq: Bellshill, UK
 uk-region: Scotland
 size: small
 sources-verified: 2026-07-05
+lat: 55.81883
+lon: -4.02405
+location-source: town
 tags:
   - defence
   - size-small

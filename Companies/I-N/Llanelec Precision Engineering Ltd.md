@@ -9,6 +9,10 @@ uk-region: Wales
 founded: 1984
 size: small
 sources-verified: 2026-07-04
+postcode: SA10 7DR
+lat: 51.65815
+lon: -3.83293
+location-source: companies-house
 tags:
   - defence
   - mbr-ads

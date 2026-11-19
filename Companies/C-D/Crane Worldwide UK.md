@@ -10,6 +10,10 @@ founded: 2008
 size: large
 headcount: 3500
 sources-verified: 2026-07-04
+postcode: AB10 1HA
+lat: 57.14498
+lon: -2.11155
+location-source: companies-house
 tags:
   - defence
   - logistics

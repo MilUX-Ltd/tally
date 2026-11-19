@@ -10,6 +10,10 @@ founded: 1972
 size: small
 headcount: 95
 sources-verified: 2026-07-04
+postcode: BT20 3JH
+lat: 54.64994
+lon: -5.68394
+location-source: companies-house
 tags:
   - defence
   - manufacturing

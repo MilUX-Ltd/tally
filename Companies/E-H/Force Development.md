@@ -5,6 +5,9 @@ website: https://forcedevelopment.co.uk
 hq: Fareham, Hampshire
 uk-region: South East
 sources-verified: 2026-07-04
+lat: 50.85235
+lon: -1.17591
+location-source: town
 tags:
   - defence
   - land

@@ -5,6 +5,9 @@ website: https://www.kinectedsolutions.co.uk
 hq: Barnstaple, United Kingdom
 uk-region: South West
 sources-verified: 2026-07-04
+lat: 51.08108
+lon: -4.05838
+location-source: town
 tags:
   - defence
   - mbr-ads

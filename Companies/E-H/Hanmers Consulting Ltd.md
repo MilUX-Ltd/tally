@@ -8,6 +8,10 @@ uk-region: South West
 founded: 2015
 size: micro
 sources-verified: 2026-07-04
+postcode: SN4 8EF
+lat: 51.56165
+lon: -1.87797
+location-source: companies-house
 tags:
   - defence
   - mbr-ads

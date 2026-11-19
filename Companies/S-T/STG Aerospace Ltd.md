@@ -5,6 +5,9 @@ website: http://www.stgaerospace.com
 hq: Cwmbran, United Kingdom
 uk-region: Wales
 sources-verified: 2026-06-30
+lat: 51.64721
+lon: -3.02235
+location-source: town
 tags:
   - defence
   - mbr-ads

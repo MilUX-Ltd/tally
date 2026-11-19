@@ -10,6 +10,10 @@ founded: 1988
 size: small
 headcount:
 sources-verified: 2026-07-03
+postcode: KT10 8BL
+lat: 51.38061
+lon: -0.3751
+location-source: companies-house
 tags:
   - defence
   - logistics

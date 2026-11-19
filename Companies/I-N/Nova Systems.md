@@ -10,6 +10,10 @@ founded: 2000
 size: large
 headcount: 1000+
 sources-verified: 2026-07-05
+postcode: BS34 7PZ
+lat: 51.50858
+lon: -2.58036
+location-source: companies-house
 tags:
   - defence
   - test-evaluation

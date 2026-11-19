@@ -8,6 +8,10 @@ uk-region: Scotland
 founded: 2008
 size: small
 sources-verified: 2026-07-04
+postcode: IV30 8LR
+lat: 57.6588
+lon: -3.1771
+location-source: companies-house
 tags:
   - defence
   - air

@@ -6,6 +6,9 @@ hq: Harrow, United Kingdom
 uk-region: South East
 size: micro
 sources-verified: 2026-06-30
+lat: 51.57077
+lon: -0.33948
+location-source: town
 tags:
   - defence
   - size-micro

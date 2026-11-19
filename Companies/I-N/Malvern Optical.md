@@ -5,6 +5,9 @@ website: https://www.malvernoptical.co.uk
 hq: Throckmorton, United Kingdom
 uk-region: West Midlands
 sources-verified: 2026-07-05
+lat: 52.14513
+lon: -2.03004
+location-source: town
 tags:
   - defence
   - mbr-ads

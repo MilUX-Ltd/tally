@@ -8,6 +8,10 @@ hq: Kingston upon Thames
 uk-region: London
 founded: 2024
 sources-verified: 2026-07-05
+postcode: KT2 6PT
+lat: 51.41303
+lon: -0.2893
+location-source: companies-house
 tags:
   - defence
   - autonomy

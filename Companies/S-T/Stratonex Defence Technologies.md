@@ -9,6 +9,10 @@ uk-region: West Midlands
 founded: 2025
 size: micro
 sources-verified: 2026-07-16
+postcode: HR1 1HJ
+lat: 52.06732
+lon: -2.71274
+location-source: companies-house
 tags:
   - defence
   - services

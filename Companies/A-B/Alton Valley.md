@@ -10,6 +10,10 @@ founded: 2009
 size: medium
 headcount: 80+
 sources-verified: 2026-07-03
+postcode: DE24 8JY
+lat: 52.91233
+lon: -1.45228
+location-source: companies-house
 tags:
   - defence
   - cyber

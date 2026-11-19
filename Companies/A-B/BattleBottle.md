@@ -4,6 +4,11 @@ name: BattleBottle
 website: https://battlebottle.tech/
 size: micro
 sources-verified: 2026-07-04
+postcode: EC2A 4NA
+lat: 51.52516
+lon: -0.08378
+location-source: companies-house
+location-note: matched by name
 tags:
   - defence
   - ai

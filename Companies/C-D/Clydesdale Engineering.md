@@ -9,6 +9,10 @@ uk-region: West Midlands
 size: medium
 headcount: 240
 sources-verified: 2026-07-04
+postcode: CV31 3RG
+lat: 52.27622
+lon: -1.53813
+location-source: companies-house
 tags:
   - defence
   - maritime

@@ -8,6 +8,10 @@ uk-region: Yorkshire and The Humber
 founded: 2007
 size: small
 sources-verified: 2026-07-04
+postcode: HD1 1PA
+lat: 53.64844
+lon: -1.78155
+location-source: companies-house
 tags:
   - defence
   - manufacturing

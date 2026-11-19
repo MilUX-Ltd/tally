@@ -10,6 +10,10 @@ founded: 1998
 size: medium
 headcount: 158
 sources-verified: 2026-07-04
+postcode: EH22 3NU
+lat: 55.88344
+lon: -3.07997
+location-source: companies-house
 tags:
   - defence
   - c2

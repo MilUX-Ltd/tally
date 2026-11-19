@@ -8,6 +8,10 @@ hq: London, United Kingdom
 uk-region: London
 size: medium
 sources-verified: 2026-07-03
+postcode: EC4A 3BZ
+lat: 51.51597
+lon: -0.10783
+location-source: companies-house
 tags:
   - defence
   - autonomy

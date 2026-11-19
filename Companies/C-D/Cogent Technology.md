@@ -10,6 +10,10 @@ founded: 1984
 size: small
 headcount: 105
 sources-verified: 2026-07-04
+postcode: IP7 6RA
+lat: 52.08149
+lon: 0.92743
+location-source: companies-house
 tags:
   - defence
   - manufacturing

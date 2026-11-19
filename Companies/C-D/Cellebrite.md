@@ -8,6 +8,7 @@ uk-region: Overseas
 founded: 1999
 size: large
 sources-verified: 2026-07-04
+country: Israel
 tags:
   - defence
   - data

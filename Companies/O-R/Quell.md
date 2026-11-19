@@ -6,6 +6,9 @@ hq: Edinburgh, United Kingdom
 uk-region: Scotland
 size: small
 sources-verified: 2026-07-05
+lat: 55.95334
+lon: -3.18911
+location-source: town
 tags:
   - defence
   - size-small

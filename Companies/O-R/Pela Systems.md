@@ -8,6 +8,10 @@ hq: Westbury, Wiltshire, United Kingdom
 uk-region: South West
 size: micro
 sources-verified: 2026-07-05
+postcode: BA13 4HR
+lat: 51.26801
+lon: -2.19968
+location-source: companies-house
 tags:
   - defence
   - sensors

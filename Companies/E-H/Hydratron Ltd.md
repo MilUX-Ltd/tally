@@ -5,6 +5,9 @@ website: https://www.hydratron.com
 hq: North Shields, United Kingdom
 uk-region: North East
 sources-verified: 2026-07-04
+lat: 55.00888
+lon: -1.44296
+location-source: town
 tags:
   - defence
   - mbr-ads

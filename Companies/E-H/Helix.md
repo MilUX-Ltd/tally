@@ -7,6 +7,9 @@ hq: Milton Keynes, United Kingdom
 uk-region: South East
 size: small
 sources-verified: 2026-07-04
+lat: 52.04302
+lon: -0.75406
+location-source: town
 tags:
   - defence
   - air

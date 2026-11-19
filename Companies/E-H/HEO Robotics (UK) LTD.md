@@ -7,6 +7,9 @@ hq: Sydney, Australia
 uk-region: London
 size: small
 sources-verified: 2026-07-04
+lat: 53.10316
+lon: -2.41996
+location-source: town
 tags:
   - defence
   - space

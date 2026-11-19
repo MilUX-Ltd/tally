@@ -9,6 +9,9 @@ uk-region: London
 founded: 2022
 size: small
 sources-verified: 2026-06-29
+lat: 51.50741
+lon: -0.12772
+location-source: town
 tags:
   - defence
   - munitions

@@ -8,6 +8,10 @@ uk-region: South West
 founded: 2015
 size: micro
 sources-verified: 2026-07-04
+postcode: GL17 0DD
+lat: 51.86758
+lon: -2.48538
+location-source: companies-house
 tags:
   - defence
   - logistics

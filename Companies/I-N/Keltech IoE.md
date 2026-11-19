@@ -7,6 +7,7 @@ hq: Dublin, Ireland
 uk-region: Overseas
 size: small
 sources-verified: 2026-07-04
+country: Ireland
 tags:
   - defence
   - hardware

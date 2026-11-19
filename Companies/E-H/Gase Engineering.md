@@ -9,6 +9,9 @@ founded: 1964
 size: small
 headcount: 60
 sources-verified: 2026-07-04
+lat: 51.4561
+lon: 0.24675
+location-source: town
 tags:
   - defence
   - manufacturing

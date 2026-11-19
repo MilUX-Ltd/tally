@@ -6,6 +6,7 @@ linkedin: https://www.linkedin.com/company/xiphos-partners/
 hq: United States
 uk-region: Overseas
 sources-verified: 2026-06-30
+country: United States
 tags:
   - defence
   - simulation

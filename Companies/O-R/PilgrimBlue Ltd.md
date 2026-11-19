@@ -5,6 +5,9 @@ website: https://www.pilgrimblue.co.uk
 hq: Crook, United Kingdom
 uk-region: North East
 sources-verified: 2026-07-05
+lat: 54.34877
+lon: -2.82911
+location-source: town
 tags:
   - defence
   - mbr-ads

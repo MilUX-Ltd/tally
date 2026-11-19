@@ -5,6 +5,9 @@ website: https://www.windward.ai
 hq: Tel Aviv, Israel
 uk-region: London
 sources-verified: 2026-07-01
+lat: 51.5072
+lon: -0.1276
+location-source: town
 tags:
   - defence
   - mbr-ads

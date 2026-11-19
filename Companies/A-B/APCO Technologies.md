@@ -7,6 +7,7 @@ uk-region: Overseas
 founded: 1992
 size: large
 sources-verified: 2026-07-16
+country: Switzerland
 tags:
   - defence
   - space

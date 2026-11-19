@@ -6,6 +6,9 @@ linkedin: https://www.linkedin.com/company/motion-applied/
 hq: Surrey, UK
 uk-region: South East
 sources-verified: 2026-07-05
+lat: 51.27
+lon: -0.75
+location-source: town
 tags:
   - defence
   - sensors

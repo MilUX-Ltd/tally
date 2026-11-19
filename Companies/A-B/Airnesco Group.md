@@ -9,6 +9,10 @@ uk-region: South East
 founded: 1996
 size: micro
 sources-verified: 2026-07-03
+postcode: ME17 2AY
+lat: 51.20493
+lon: 0.68005
+location-source: companies-house
 tags:
   - defence
   - land

@@ -7,6 +7,7 @@ hq: Leesburg, Virginia, USA
 uk-region: Overseas
 founded: 2011
 sources-verified: 2026-06-29
+country: United States
 tags:
   - defence
   - training

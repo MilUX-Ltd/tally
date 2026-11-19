@@ -6,6 +6,9 @@ hq: Stafford, United Kingdom
 uk-region: West Midlands
 founded: 2000
 sources-verified: 2026-07-05
+lat: 52.8058
+lon: -2.11666
+location-source: town
 tags:
   - defence
   - mbr-ads

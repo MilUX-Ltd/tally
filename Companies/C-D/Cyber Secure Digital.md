@@ -7,6 +7,10 @@ hq: London, UK
 uk-region: London
 founded: 2021
 size: micro
+postcode: EC1V 2NX
+lat: 51.5273
+lon: -0.08889
+location-source: companies-house
 tags:
   - defence
   - cyber

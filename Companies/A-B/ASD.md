@@ -10,6 +10,10 @@ founded: 1978
 size: large
 headcount: 250+
 sources-verified: 2026-07-03
+postcode: LS10 1SD
+lat: 53.7672
+lon: -1.50411
+location-source: companies-house
 tags:
   - defence
   - manufacturing

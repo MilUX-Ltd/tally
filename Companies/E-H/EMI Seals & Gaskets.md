@@ -8,6 +8,10 @@ uk-region: South East
 founded: 2005
 size: micro
 sources-verified: 2026-07-04
+postcode: BH23 1QA
+lat: 50.73551
+lon: -1.77769
+location-source: companies-house
 tags:
   - defence
   - manufacturing

@@ -8,6 +8,9 @@ uk-region: East Midlands
 founded: 2016
 size: small
 sources-verified: 2026-07-04
+lat: 52.28896
+lon: -2.24161
+location-source: town
 tags:
   - defence
   - hardware

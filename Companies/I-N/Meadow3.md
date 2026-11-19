@@ -5,6 +5,9 @@ website: https://www.meadow3.co.uk
 hq: Llandysul, United Kingdom
 uk-region: Wales
 sources-verified: 2026-07-05
+lat: 52.04166
+lon: -4.30913
+location-source: town
 tags:
   - defence
   - mbr-ads

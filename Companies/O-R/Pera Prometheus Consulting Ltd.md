@@ -5,6 +5,9 @@ website: https://pera-prometheus.com
 hq: Hull, United Kingdom
 uk-region: Yorkshire and The Humber
 sources-verified: 2026-07-05
+lat: 53.85897
+lon: -0.40474
+location-source: town
 tags:
   - defence
   - mbr-ads

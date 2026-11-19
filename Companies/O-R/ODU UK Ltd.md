@@ -9,6 +9,10 @@ uk-region: North West
 founded: 1998
 size: micro
 sources-verified: 2026-07-05
+postcode: LE11 1JR
+lat: 52.77838
+lon: -1.19979
+location-source: companies-house
 tags:
   - defence
   - mbr-ads

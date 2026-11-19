@@ -10,6 +10,10 @@ founded: 1954
 size: medium
 headcount: 600-700
 sources-verified: 2026-07-04
+postcode: PO7 7YH
+lat: 50.88557
+lon: -1.04247
+location-source: companies-house
 tags:
   - defence
   - hardware

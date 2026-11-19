@@ -6,6 +6,9 @@ hq: Tokyo, Japan
 uk-region: London
 size: large
 sources-verified: 2026-06-30
+lat: 51.5072
+lon: -0.1276
+location-source: town
 tags:
   - defence
   - size-large

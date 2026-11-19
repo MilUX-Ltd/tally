@@ -5,6 +5,9 @@ website: https://www.nemco.co.uk
 hq: Stevenage, United Kingdom
 uk-region: East of England
 sources-verified: 2026-07-05
+lat: 51.90234
+lon: -0.2008
+location-source: town
 tags:
   - defence
   - mbr-ads

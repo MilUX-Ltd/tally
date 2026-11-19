@@ -9,6 +9,10 @@ uk-region: South East
 founded: 2020
 size: small
 sources-verified: 2026-07-04
+postcode: SW15 2SH
+lat: 51.46066
+lon: -0.21555
+location-source: companies-house
 tags:
   - defence
   - maritime

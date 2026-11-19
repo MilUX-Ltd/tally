@@ -6,6 +6,9 @@ hq: Letchworth Garden City, UK
 uk-region: East of England
 founded: 1987
 sources-verified: 2026-07-03
+lat: 52.24
+lon: 0.41
+location-source: town
 tags:
   - defence
   - mbr-ads

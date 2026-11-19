@@ -5,6 +5,9 @@ website: http://www.pqshield.com
 hq: Oxford, United Kingdom
 uk-region: South East
 sources-verified: 2026-07-05
+lat: 53.07577
+lon: -2.18593
+location-source: town
 tags:
   - defence
   - mbr-ads

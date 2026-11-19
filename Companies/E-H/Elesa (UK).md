@@ -9,6 +9,10 @@ uk-region: East Midlands
 founded: 1991
 size: small
 sources-verified: 2026-07-04
+postcode: LN4 3HX
+lat: 53.1396
+lon: -0.38993
+location-source: companies-house
 tags:
   - defence
   - hardware

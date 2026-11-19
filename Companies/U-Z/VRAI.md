@@ -7,6 +7,7 @@ hq: Dublin, Ireland
 uk-region: Overseas
 founded: 2017
 sources-verified: 2026-06-30
+country: Ireland
 tags:
   - defence
   - simulation

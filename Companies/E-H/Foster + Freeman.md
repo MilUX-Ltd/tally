@@ -10,6 +10,10 @@ founded: 1978
 size: small
 headcount: 77
 sources-verified: 2026-07-04
+postcode: WR11 1TD
+lat: 52.07422
+lon: -1.93654
+location-source: companies-house
 tags:
   - defence
   - sensors

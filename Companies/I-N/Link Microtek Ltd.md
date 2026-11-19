@@ -5,6 +5,9 @@ website: https://www.linkmicrotek.com
 hq: Basingstoke, UK
 uk-region: South East
 sources-verified: 2026-07-04
+lat: 51.26775
+lon: -1.08834
+location-source: town
 tags:
   - defence
   - mbr-ads

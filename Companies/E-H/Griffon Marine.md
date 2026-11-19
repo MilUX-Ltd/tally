@@ -8,6 +8,10 @@ hq: Southampton, United Kingdom
 uk-region: South East
 size: medium
 sources-verified: 2026-07-04
+postcode: SO19 7GA
+lat: 50.90064
+lon: -1.38159
+location-source: companies-house
 tags:
   - defence
   - maritime

@@ -5,6 +5,9 @@ website: https://www.hsmarston.co.uk
 hq: Wolverhampton, United Kingdom
 uk-region: West Midlands
 sources-verified: 2026-06-30
+lat: 52.5862
+lon: -2.12992
+location-source: town
 tags:
   - defence
   - mbr-ads

@@ -7,6 +7,10 @@ hq: Silverstone, England
 uk-region: East Midlands
 size: small
 sources-verified: 2026-07-16
+postcode: NN12 8FU
+lat: 52.07228
+lon: -1.02916
+location-source: companies-house
 tags:
   - defence
   - manufacturing

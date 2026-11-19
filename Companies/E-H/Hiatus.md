@@ -10,6 +10,11 @@ founded:
 size: micro
 headcount: 
 sources-verified: 2026-07-04
+postcode: GU31 4AG
+lat: 51.00673
+lon: -0.93356
+location-source: companies-house
+location-note: matched by name
 tags:
   - defence
   - software

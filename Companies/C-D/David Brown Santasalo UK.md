@@ -10,6 +10,10 @@ founded: 2008
 size: large
 headcount: 850-1000
 sources-verified: 2026-07-04
+postcode: HD4 5DD
+lat: 53.63352
+lon: -1.80112
+location-source: companies-house
 tags:
   - defence
   - land

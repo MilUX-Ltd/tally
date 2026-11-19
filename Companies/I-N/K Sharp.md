@@ -8,6 +8,10 @@ hq: Carmarthen, United Kingdom
 uk-region: Wales
 size: micro
 sources-verified: 2026-07-04
+postcode: SA17 5TE
+lat: 51.77182
+lon: -4.36423
+location-source: companies-house
 tags:
   - defence
   - human-factors

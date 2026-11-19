@@ -9,6 +9,10 @@ uk-region: London
 founded: 2018
 size: micro
 sources-verified: 2026-07-04
+postcode: E2 8DD
+lat: 51.52801
+lon: -0.07719
+location-source: companies-house
 tags:
   - defence
   - air

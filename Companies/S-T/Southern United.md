@@ -5,6 +5,9 @@ website: https://www.southernunited.co.uk
 hq: Portslade, United Kingdom
 uk-region: South East
 sources-verified: 2026-06-30
+lat: 50.84285
+lon: -0.22134
+location-source: town
 tags:
   - defence
   - mbr-ads

@@ -5,6 +5,9 @@ website: https://www.wilbourne.co.uk
 hq: Pinner, United Kingdom
 uk-region: South East
 sources-verified: 2026-07-01
+lat: 51.59382
+lon: -0.38215
+location-source: town
 tags:
   - defence
   - mbr-ads

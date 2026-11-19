@@ -9,6 +9,10 @@ uk-region: Northern Ireland
 founded: 1975
 size: medium
 sources-verified: 2026-07-04
+postcode: BT23 6JQ
+lat: 54.49866
+lon: -5.7828
+location-source: companies-house
 tags:
   - defence
   - air

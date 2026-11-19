@@ -8,6 +8,10 @@ hq: Portsmouth, United Kingdom
 uk-region: South East
 founded: 2012
 size: small
+postcode: PO1 4QJ
+lat: 50.80715
+lon: -1.08914
+location-source: companies-house
 tags:
   - defence
   - maritime

@@ -10,6 +10,10 @@ founded: 2013
 size: small
 headcount: 81
 sources-verified: 2026-07-04
+postcode: BT35 8RE
+lat: 54.14799
+lon: -6.38589
+location-source: companies-house
 tags:
   - defence
   - manufacturing

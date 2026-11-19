@@ -9,6 +9,10 @@ uk-region: London
 founded: 1952
 size: small
 sources-verified: 2026-07-04
+postcode: EC3V 3QQ
+lat: 51.51345
+lon: -0.08548
+location-source: companies-house
 tags:
   - defence
   - size-small

@@ -9,6 +9,10 @@ uk-region: South East
 founded: 1987
 size: small
 sources-verified: 2026-07-03
+postcode: GU3 1LU
+lat: 51.21019
+lon: -0.58572
+location-source: companies-house
 tags:
   - defence
   - optronics

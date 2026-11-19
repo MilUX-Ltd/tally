@@ -9,6 +9,10 @@ founded: 1954
 size: large
 headcount: 900+
 sources-verified: 2026-07-03
+postcode: AB21 0BQ
+lat: 57.19442
+lon: -2.21591
+location-source: companies-house
 tags:
   - defence
   - logistics

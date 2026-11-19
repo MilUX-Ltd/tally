@@ -8,6 +8,10 @@ companies-house: "11961662"
 founded: 2019
 size: small
 sources-verified: 2026-07-05
+postcode: GL51 8PL
+lat: 51.89963
+lon: -2.1
+location-source: companies-house
 tags:
   - defence
   - cyber

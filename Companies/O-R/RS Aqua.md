@@ -10,6 +10,10 @@ founded: 1982
 size: small
 headcount: ~20-24
 sources-verified: 2026-07-05
+postcode: GU9 8BB
+lat: 51.21242
+lon: -0.79038
+location-source: companies-house
 tags:
   - defence
   - maritime

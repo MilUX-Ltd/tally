@@ -5,6 +5,9 @@ website: https://www.prestwickaerospace.com/aerospace-capability/spirit-aerosyst
 hq: Prestwick, UK
 uk-region: Scotland
 sources-verified: 2026-07-05
+lat: 55.49889
+lon: -4.61096
+location-source: town
 tags:
   - defence
   - mbr-ads

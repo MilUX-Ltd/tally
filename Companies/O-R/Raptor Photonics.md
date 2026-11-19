@@ -10,6 +10,10 @@ founded: 2006
 size: small
 headcount: 11-50
 sources-verified: 2026-07-05
+postcode: BT40 2SF
+lat: 54.84156
+lon: -5.86039
+location-source: companies-house
 tags:
   - defence
   - sensors

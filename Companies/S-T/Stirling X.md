@@ -6,6 +6,10 @@ companies-house: "13610180"
 hq: London
 uk-region: London
 sources-verified: 2026-06-29
+postcode: W1U 3RY
+lat: 51.51575
+lon: -0.15336
+location-source: website
 tags:
   - defence
   - software

@@ -9,6 +9,10 @@ founded: 1862
 size: small
 headcount: 64
 sources-verified: 2026-07-04
+postcode: B19 2YU
+lat: 52.49416
+lon: -1.89966
+location-source: companies-house
 tags:
   - defence
   - manufacturing

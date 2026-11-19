@@ -6,6 +6,9 @@ hq: Uckfield, United Kingdom
 uk-region: South East
 size: large
 sources-verified: 2026-06-30
+lat: 50.96949
+lon: 0.09594
+location-source: town
 tags:
   - defence
   - size-large

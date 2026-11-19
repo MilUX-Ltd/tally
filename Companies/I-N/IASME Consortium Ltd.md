@@ -7,6 +7,10 @@ hq: Malvern, United Kingdom
 uk-region: West Midlands
 founded: 2012
 sources-verified: 2026-07-04
+postcode: WR13 6PL
+lat: 52.08855
+lon: -2.34169
+location-source: companies-house
 tags:
   - defence
   - mbr-ads

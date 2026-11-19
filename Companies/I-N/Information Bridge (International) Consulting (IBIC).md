@@ -6,6 +6,9 @@ uk-region: East Midlands
 founded: 2008
 size: micro
 sources-verified: 2026-07-04
+lat: 53.36706
+lon: -0.00394
+location-source: town
 tags:
   - defence
   - mbr-ads

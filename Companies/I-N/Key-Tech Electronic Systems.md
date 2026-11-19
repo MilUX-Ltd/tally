@@ -5,6 +5,9 @@ website: https://key-tech.co.uk
 hq: Kirkcaldy, United Kingdom
 uk-region: Scotland
 sources-verified: 2026-07-04
+lat: 56.10963
+lon: -3.16334
+location-source: town
 tags:
   - defence
   - mbr-ads

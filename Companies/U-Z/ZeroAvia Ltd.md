@@ -5,6 +5,9 @@ website: https://zeroavia.com
 hq: Cranfield, United Kingdom
 uk-region: South West
 sources-verified: 2026-07-01
+lat: 52.06963
+lon: -0.60775
+location-source: town
 tags:
   - defence
   - mbr-ads

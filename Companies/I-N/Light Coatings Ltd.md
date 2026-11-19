@@ -6,6 +6,9 @@ hq: Daresbury, UK
 uk-region: North West
 size: micro
 sources-verified: 2026-07-04
+lat: 53.33409
+lon: -2.63788
+location-source: town
 tags:
   - defence
   - size-micro

@@ -8,6 +8,10 @@ uk-region: South East
 founded: 1991
 size: small
 sources-verified: 2026-07-16
+postcode: RG7 2BD
+lat: 51.37289
+lon: -0.99792
+location-source: companies-house
 tags:
   - defence
   - electronics

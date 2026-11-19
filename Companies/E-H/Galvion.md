@@ -9,6 +9,10 @@ uk-region: London
 founded: 2003
 size: medium
 sources-verified: 2026-07-04
+postcode: SE1 2AU
+lat: 51.5044
+lon: -0.08037
+location-source: companies-house
 tags:
   - defence
   - land

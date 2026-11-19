@@ -10,6 +10,10 @@ founded: 2000
 size: medium
 headcount: 51-200
 sources-verified: 2026-06-29
+postcode: BN1 4ST
+lat: 50.83323
+lon: -0.13444
+location-source: companies-house
 tags:
   - defence
   - software

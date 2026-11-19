@@ -10,6 +10,10 @@ founded: 2011
 size: small
 headcount: 11-50
 sources-verified: 2026-07-04
+postcode: RH10 3LH
+lat: 51.13844
+lon: -0.10733
+location-source: companies-house
 tags:
   - defence
   - isr

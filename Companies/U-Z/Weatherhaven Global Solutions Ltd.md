@@ -3,6 +3,11 @@ type: organisation
 name: Weatherhaven Global Solutions Ltd
 website: https://www.weatherhaven.co.uk
 sources-verified: 2026-07-01
+postcode: HR2 6LR
+lat: 52.03563
+lon: -2.68887
+location-source: companies-house
+location-note: matched by name
 tags:
   - defence
   - mbr-ads

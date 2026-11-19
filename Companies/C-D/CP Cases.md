@@ -9,6 +9,10 @@ uk-region: London
 founded: 1971
 size: medium
 sources-verified: 2026-07-04
+postcode: TW7 6ER
+lat: 51.46513
+lon: -0.34495
+location-source: companies-house
 tags:
   - defence
   - hardware

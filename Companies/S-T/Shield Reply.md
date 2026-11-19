@@ -3,6 +3,11 @@ type: organisation
 name: Shield Reply
 website: https://shield.reply.com
 sources-verified: 2026-06-29
+postcode: SW1W 0EB
+lat: 51.49641
+lon: -0.14635
+location-source: companies-house
+location-note: matched by name
 tags:
   - defence
   - software

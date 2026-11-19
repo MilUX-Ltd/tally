@@ -8,6 +8,10 @@ hq: Birmingham, United Kingdom
 uk-region: West Midlands
 size: large
 sources-verified: 2026-07-04
+postcode: B4 6AT
+lat: 52.48381
+lon: -1.89593
+location-source: companies-house
 tags:
   - defence
   - air

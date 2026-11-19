@@ -7,6 +7,10 @@ hq: East Aurora, United States
 uk-region: South East
 founded: 1957
 sources-verified: 2026-07-05
+postcode: RG6 1AW
+lat: 51.4581
+lon: -0.93649
+location-source: companies-house
 tags:
   - defence
   - mbr-ads

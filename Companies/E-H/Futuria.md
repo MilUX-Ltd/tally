@@ -8,6 +8,10 @@ uk-region: South West
 founded: 2023
 size: micro
 sources-verified: 2026-07-04
+postcode: WC2H 9JQ
+lat: 51.5149
+lon: -0.12362
+location-source: companies-house
 tags:
   - defence
   - ai

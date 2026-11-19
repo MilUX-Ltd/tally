@@ -6,6 +6,7 @@ linkedin: https://www.linkedin.com/company/kongsberg-maritime
 hq: Kongsberg, Norway
 uk-region: Overseas
 sources-verified: 2026-07-04
+country: Norway
 tags:
   - defence
   - mbr-ads

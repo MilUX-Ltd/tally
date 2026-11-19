@@ -5,6 +5,9 @@ website: http://www.nasmythgroup.com
 hq: Rustington, United Kingdom
 uk-region: South East
 sources-verified: 2026-07-05
+lat: 50.81052
+lon: -0.50824
+location-source: town
 tags:
   - defence
   - mbr-ads

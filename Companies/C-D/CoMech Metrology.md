@@ -9,6 +9,10 @@ uk-region: East Midlands
 founded: 1985
 size: small
 sources-verified: 2026-07-04
+postcode: DE24 8JN
+lat: 52.91649
+lon: -1.45163
+location-source: companies-house
 tags:
   - defence
   - test-evaluation

@@ -9,6 +9,10 @@ uk-region: South East
 founded: 1977
 size: large
 sources-verified: 2026-07-04
+postcode: ME19 4AQ
+lat: 51.27466
+lon: 0.3948
+location-source: companies-house
 tags:
   - defence
   - sensors

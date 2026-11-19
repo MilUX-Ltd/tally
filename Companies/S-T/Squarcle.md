@@ -6,6 +6,10 @@ linkedin: https://www.linkedin.com/company/squarcleconsulting/
 founded: 2020
 size: medium
 sources-verified: 2026-06-29
+postcode: BS1 4ND
+lat: 51.44961
+lon: -2.59373
+location-source: website
 tags:
   - defence
   - data

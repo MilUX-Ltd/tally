@@ -7,6 +7,10 @@ uk-region: South East
 founded: 2009
 size: micro
 sources-verified: 2026-07-04
+postcode: KT21 2NZ
+lat: 51.30739
+lon: -0.30552
+location-source: companies-house
 tags:
   - defence
   - sensors

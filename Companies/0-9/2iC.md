@@ -9,6 +9,10 @@ uk-region: South East
 founded: 2010
 size: small
 sources-verified: 2026-07-03
+postcode: SO16 7NP
+lat: 50.96119
+lon: -1.42252
+location-source: companies-house
 tags:
   - defence
   - software

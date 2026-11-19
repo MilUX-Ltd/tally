@@ -5,6 +5,9 @@ website: https://www.networkinv.com
 hq: Calgary, Canada
 uk-region: West Midlands
 sources-verified: 2026-07-05
+lat: 52.48
+lon: -1.9
+location-source: town
 tags:
   - defence
   - mbr-ads

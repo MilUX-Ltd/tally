@@ -9,6 +9,10 @@ uk-region: Yorkshire and The Humber
 founded: 2003
 size: medium
 sources-verified: 2026-07-04
+postcode: BD17 7DU
+lat: 53.83619
+lon: -1.77343
+location-source: companies-house
 tags:
   - defence
   - software

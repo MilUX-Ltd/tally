@@ -5,6 +5,9 @@ website: https://www.quest-global.com
 hq: Singapore, Singapore
 uk-region: East Midlands
 sources-verified: 2026-07-05
+lat: 52.83
+lon: -1.33
+location-source: town
 tags:
   - defence
   - mbr-ads

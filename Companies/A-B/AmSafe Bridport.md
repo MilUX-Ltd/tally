@@ -8,6 +8,10 @@ hq: Bridport, United Kingdom
 uk-region: South West
 size: medium
 sources-verified: 2026-07-03
+postcode: DT6 3QU
+lat: 50.73476
+lon: -2.76051
+location-source: companies-house
 tags:
   - defence
   - manufacturing

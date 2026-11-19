@@ -6,6 +6,10 @@ companies-house: "02587032"
 hq: Bristol, United Kingdom
 uk-region: South West
 sources-verified: 2026-07-05
+postcode: WR5 2RY
+lat: 52.17573
+lon: -2.18763
+location-source: companies-house
 tags:
   - defence
   - software

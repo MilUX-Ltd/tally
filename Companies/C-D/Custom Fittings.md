@@ -9,6 +9,10 @@ uk-region: Yorkshire and The Humber
 founded: 1981
 size: small
 sources-verified: 2026-07-04
+postcode: LS1 4DL
+lat: 53.79615
+lon: -1.55076
+location-source: companies-house
 tags:
   - defence
   - manufacturing

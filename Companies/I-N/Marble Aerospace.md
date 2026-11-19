@@ -9,6 +9,10 @@ uk-region: South West
 founded: 2016
 size: micro
 sources-verified: 2026-07-05
+postcode: SN14 6LS
+lat: 51.48505
+lon: -2.1554
+location-source: companies-house
 tags:
   - defence
   - uas

@@ -3,6 +3,11 @@ type: organisation
 name: Vanguard Dynamic
 hq: United Kingdom
 sources-verified: 2026-06-30
+postcode: W1W 5PF
+lat: 51.52167
+lon: -0.1437
+location-source: companies-house
+location-note: matched by name
 tags:
   - defence
   - mbr-ads

@@ -5,6 +5,9 @@ website: https://www.technocover.co.uk
 hq: Welshpool, United Kingdom
 uk-region: Wales
 sources-verified: 2026-06-30
+lat: 52.66063
+lon: -3.14971
+location-source: town
 tags:
   - defence
   - mbr-ads

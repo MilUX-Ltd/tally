@@ -8,6 +8,9 @@ uk-region: East Midlands
 size: large
 headcount: 900+
 sources-verified: 2026-07-04
+lat: 52.83
+lon: -1.33
+location-source: town
 tags:
   - defence
   - manufacturing

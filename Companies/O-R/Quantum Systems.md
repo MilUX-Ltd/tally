@@ -9,6 +9,7 @@ founded: 2015
 size: large
 headcount: ~400
 sources-verified: 2026-07-05
+country: Germany
 tags:
   - defence
   - uas

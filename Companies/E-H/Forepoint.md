@@ -9,6 +9,10 @@ uk-region: North West
 founded: 1992
 size: small
 sources-verified: 2026-07-04
+postcode: PR5 6EF
+lat: 53.71835
+lon: -2.66762
+location-source: companies-house
 tags:
   - defence
   - size-small

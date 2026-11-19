@@ -8,6 +8,9 @@ founded: 2017
 size: medium
 headcount: 51-200
 sources-verified: 2026-07-04
+lat: 55.02485
+lon: -1.48619
+location-source: town
 tags:
   - defence
   - ai

@@ -5,6 +5,9 @@ website: https://www.sonic-comms.com
 hq: Birmingham, UK
 uk-region: West Midlands
 sources-verified: 2026-07-03
+lat: 52.47928
+lon: -1.90294
+location-source: town
 tags:
   - defence
   - mbr-ads

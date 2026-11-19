@@ -5,6 +5,9 @@ website: https://www.secomak.com
 hq: Elstree, United Kingdom
 uk-region: East of England
 sources-verified: 2026-07-01
+lat: 51.64393
+lon: -0.29883
+location-source: town
 tags:
   - defence
   - mbr-ads

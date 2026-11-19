@@ -2,6 +2,11 @@
 type: organisation
 name: SplashMaps
 sources-verified: 2026-06-29
+postcode: SO53 5QF
+lat: 51.00236
+lon: -1.3843
+location-source: companies-house
+location-note: matched by name
 tags:
   - defence
   - training

@@ -5,6 +5,9 @@ website: http://www.pusulait.com
 hq: Milton Keynes, UK
 uk-region: South East
 sources-verified: 2026-07-05
+lat: 52.04302
+lon: -0.75406
+location-source: town
 tags:
   - defence
   - mbr-ads

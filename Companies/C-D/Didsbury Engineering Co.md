@@ -10,6 +10,10 @@ founded: 1941
 size: small
 headcount: 33
 sources-verified: 2026-07-04
+postcode: SK9 3LP
+lat: 53.3488
+lon: -2.21129
+location-source: companies-house
 tags:
   - defence
   - manufacturing

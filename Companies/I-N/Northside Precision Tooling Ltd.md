@@ -5,6 +5,9 @@ website: http://www.northsideprecision.com
 hq: Glasgow, UK
 uk-region: Scotland
 sources-verified: 2026-07-05
+lat: 55.86363
+lon: -4.23688
+location-source: town
 tags:
   - defence
   - mbr-ads

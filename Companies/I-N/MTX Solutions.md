@@ -5,6 +5,9 @@ website: https://mtx.solutions
 hq: Daresbury, Warrington, Cheshire
 uk-region: North West
 sources-verified: 2026-07-05
+lat: 53.33409
+lon: -2.63788
+location-source: town
 tags:
   - defence
   - simulation

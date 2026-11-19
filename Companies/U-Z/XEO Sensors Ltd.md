@@ -5,6 +5,9 @@ website: https://www.xeosensors.co.uk
 hq: Brighton, United Kingdom
 uk-region: South East
 sources-verified: 2026-07-01
+lat: 50.82237
+lon: -0.13768
+location-source: town
 tags:
   - defence
   - mbr-ads

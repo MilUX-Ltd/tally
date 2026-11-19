@@ -10,6 +10,10 @@ founded: 2018
 size: small
 headcount: 44
 sources-verified: 2026-07-04
+postcode: MK16 9JS
+lat: 52.11617
+lon: -0.6107
+location-source: companies-house
 tags:
   - defence
   - cyber

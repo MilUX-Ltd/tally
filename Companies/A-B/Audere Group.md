@@ -10,6 +10,10 @@ founded: 2015
 size: small
 headcount: 30-50
 sources-verified: 2026-07-04
+postcode: SW1Y 6JE
+lat: 51.50832
+lon: -0.13677
+location-source: companies-house
 tags:
   - defence
   - isr

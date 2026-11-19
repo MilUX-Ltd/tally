@@ -9,6 +9,10 @@ uk-region: South West
 founded: 2009
 size: micro
 sources-verified: 2026-07-04
+postcode: GL19 3RF
+lat: 51.959
+lon: -2.30958
+location-source: companies-house
 tags:
   - defence
   - cyber

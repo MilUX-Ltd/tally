@@ -5,6 +5,9 @@ website: https://www.janes.com
 hq: Croydon, United Kingdom
 uk-region: London
 sources-verified: 2026-07-04
+lat: 52.12858
+lon: -0.07871
+location-source: town
 tags:
   - defence
   - mbr-ads

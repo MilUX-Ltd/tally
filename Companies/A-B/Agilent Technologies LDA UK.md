@@ -8,6 +8,10 @@ uk-region: North West
 founded: 2013
 size: large
 sources-verified: 2026-07-03
+postcode: SK8 3GR
+lat: 53.38089
+lon: -2.22263
+location-source: companies-house
 tags:
   - defence
   - sensors

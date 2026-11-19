@@ -5,6 +5,9 @@ website: https://www.spire.com
 hq: San Francisco, United States
 uk-region: Scotland
 sources-verified: 2026-06-30
+lat: 55.95
+lon: -3.19
+location-source: town
 tags:
   - defence
   - mbr-ads

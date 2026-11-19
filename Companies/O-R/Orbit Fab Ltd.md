@@ -5,6 +5,9 @@ website: https://www.orbitfab.com
 hq: Louisville, United States
 uk-region: South East
 sources-verified: 2026-07-05
+lat: 51.27
+lon: -0.75
+location-source: town
 tags:
   - defence
   - mbr-ads

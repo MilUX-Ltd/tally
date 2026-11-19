@@ -10,6 +10,10 @@ founded: 2020
 size: micro
 headcount: 2-10
 sources-verified: 2026-07-04
+postcode: G3 8EP
+lat: 55.86075
+lon: -4.27921
+location-source: companies-house
 tags:
   - defence
   - uas

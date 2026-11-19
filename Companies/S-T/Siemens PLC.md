@@ -6,6 +6,9 @@ hq: Munich, Germany
 uk-region: North West
 size: large
 sources-verified: 2026-06-30
+lat: 53.48
+lon: -2.24
+location-source: town
 tags:
   - defence
   - mbr-ads

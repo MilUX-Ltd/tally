@@ -7,6 +7,9 @@ hq: Wallingford, United Kingdom
 uk-region: South East
 size: small
 sources-verified: 2026-07-04
+lat: 51.60098
+lon: -1.12456
+location-source: town
 tags:
   - defence
   - mbr-ads

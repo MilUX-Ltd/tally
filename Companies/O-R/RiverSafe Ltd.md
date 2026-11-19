@@ -9,6 +9,10 @@ founded: 2008
 size: small
 headcount: 51-200
 sources-verified: 2026-07-05
+postcode: EC4M 8AB
+lat: 51.51442
+lon: -0.09827
+location-source: companies-house
 tags:
   - defence
   - mbr-ads

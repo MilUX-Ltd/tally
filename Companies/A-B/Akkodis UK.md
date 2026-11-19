@@ -10,6 +10,10 @@ founded: 2010
 size: small
 headcount: ~116
 sources-verified: 2026-07-03
+postcode: E1 6DB
+lat: 51.5213
+lon: -0.07836
+location-source: companies-house
 tags:
   - defence
   - air

@@ -9,6 +9,10 @@ uk-region: London
 founded: 2018
 size: small
 sources-verified: 2026-07-04
+postcode: SW1H 0DB
+lat: 51.49998
+lon: -0.13345
+location-source: companies-house
 tags:
   - defence
   - cyber

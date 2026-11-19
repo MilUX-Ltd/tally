@@ -10,6 +10,10 @@ founded: 2016
 size: micro
 headcount: 30
 sources-verified: 2026-07-04
+postcode: CB22 5NE
+lat: 52.14932
+lon: 0.1397
+location-source: companies-house
 tags:
   - defence
   - sensors

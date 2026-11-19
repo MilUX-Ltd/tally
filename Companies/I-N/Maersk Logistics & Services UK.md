@@ -6,6 +6,9 @@ hq: Copenhagen, Denmark
 uk-region: East Midlands
 size: large
 sources-verified: 2026-07-05
+lat: 53.18521
+lon: -3.42078
+location-source: town
 tags:
   - defence
   - mbr-ads

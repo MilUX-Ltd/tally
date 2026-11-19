@@ -8,6 +8,10 @@ uk-region: East Midlands
 founded: 1975
 size: medium
 sources-verified: 2026-07-04
+postcode: NG18 5BY
+lat: 53.12812
+lon: -1.21609
+location-source: companies-house
 tags:
   - defence
   - hardware

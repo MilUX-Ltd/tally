@@ -8,6 +8,9 @@ uk-region: North East
 size: medium
 headcount: 150+
 sources-verified: 2026-07-04
+lat: 54.65259
+lon: -1.4517
+location-source: town
 tags:
   - defence
   - mbr-ads

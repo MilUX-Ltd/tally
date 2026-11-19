@@ -5,6 +5,9 @@ website: https://www.asb-group.com
 hq: Coatbridge, United Kingdom
 uk-region: Scotland
 sources-verified: 2026-07-05
+lat: 55.86236
+lon: -4.02914
+location-source: town
 tags:
   - defence
   - mbr-ads

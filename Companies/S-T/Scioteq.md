@@ -8,6 +8,7 @@ uk-region: Overseas
 founded: 2014
 size: medium
 sources-verified: 2026-06-29
+country: Belgium
 tags:
   - defence
   - air

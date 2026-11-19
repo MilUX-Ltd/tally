@@ -10,6 +10,10 @@ founded: 2013
 size: small
 headcount: 60
 sources-verified: 2026-07-04
+postcode: LN6 3QP
+lat: 53.20145
+lon: -0.61568
+location-source: companies-house
 tags:
   - defence
   - uas

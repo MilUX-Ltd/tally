@@ -10,6 +10,10 @@ founded: 1946
 size: large
 headcount: 2000+
 sources-verified: 2026-07-05
+postcode: CM17 9NA
+lat: 51.77141
+lon: 0.12898
+location-source: companies-house
 tags:
   - defence
   - munitions

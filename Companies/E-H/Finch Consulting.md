@@ -9,6 +9,10 @@ uk-region: East Midlands
 founded: 1992
 size: small
 sources-verified: 2026-07-04
+postcode: LE65 2AB
+lat: 52.75931
+lon: -1.48146
+location-source: companies-house
 tags:
   - defence
   - training

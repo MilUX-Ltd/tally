@@ -10,6 +10,10 @@ founded: 2001
 size: large
 headcount: 1059
 sources-verified: 2026-07-04
+postcode: NE1 6QF
+lat: 54.9722
+lon: -1.60985
+location-source: companies-house
 tags:
   - defence
   - size-large

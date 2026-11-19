@@ -9,6 +9,10 @@ uk-region: North East
 founded: 2018
 size: small
 sources-verified: 2026-07-04
+postcode: WS10 7WP
+lat: 52.54611
+lon: -2.03145
+location-source: companies-house
 tags:
   - defence
   - manufacturing

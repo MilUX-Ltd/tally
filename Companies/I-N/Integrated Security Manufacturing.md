@@ -8,6 +8,10 @@ hq: Crawley, United Kingdom
 uk-region: South East
 founded: 1988
 sources-verified: 2026-07-04
+postcode: RH10 9FZ
+lat: 51.13243
+lon: -0.17266
+location-source: companies-house
 tags:
   - defence
   - mbr-ads

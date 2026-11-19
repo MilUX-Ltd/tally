@@ -9,6 +9,10 @@ uk-region: South West
 founded: 2001
 size: small
 sources-verified: 2026-07-04
+postcode: SN15 1JW
+lat: 51.46155
+lon: -2.12024
+location-source: companies-house
 tags:
   - defence
   - software

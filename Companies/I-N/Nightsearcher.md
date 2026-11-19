@@ -9,6 +9,10 @@ uk-region: South East
 founded: 1989
 size: small
 sources-verified: 2026-07-05
+postcode: PO6 1TT
+lat: 50.84386
+lon: -1.03404
+location-source: companies-house
 tags:
   - defence
   - hardware

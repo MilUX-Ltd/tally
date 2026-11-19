@@ -10,6 +10,10 @@ founded: 1998
 size: small
 headcount: 32-50
 sources-verified: 2026-07-04
+postcode: BT28 2SU
+lat: 54.50487
+lon: -6.09986
+location-source: companies-house
 tags:
   - defence
   - manufacturing

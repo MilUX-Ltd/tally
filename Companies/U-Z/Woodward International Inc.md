@@ -5,6 +5,9 @@ website: https://www.woodward.com
 hq: Fort Collins, United States
 uk-region: Scotland
 sources-verified: 2026-07-01
+lat: 55.95
+lon: -3.19
+location-source: town
 tags:
   - defence
   - mbr-ads

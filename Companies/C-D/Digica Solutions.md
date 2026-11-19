@@ -9,6 +9,10 @@ uk-region: North West
 founded: 2009
 size: small
 sources-verified: 2026-07-04
+postcode: M33 7ZZ
+lat: 53.42433
+lon: -2.3232
+location-source: companies-house
 tags:
   - defence
   - ai

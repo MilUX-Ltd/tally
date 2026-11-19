@@ -6,6 +6,9 @@ hq: Woking, Surrey
 uk-region: South East
 founded: 1985
 sources-verified: 2026-07-05
+lat: 51.31835
+lon: -0.55813
+location-source: town
 tags:
   - defence
   - sensors

@@ -9,6 +9,10 @@ uk-region: South East
 founded: 2024
 size: micro
 sources-verified: 2026-07-03
+postcode: CT21 4HE
+lat: 51.0954
+lon: 1.06071
+location-source: companies-house
 tags:
   - defence
   - ai

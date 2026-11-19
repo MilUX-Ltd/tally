@@ -9,6 +9,10 @@ uk-region: South East
 founded: 2016
 size: micro
 sources-verified: 2026-07-05
+postcode: SO23 7DR
+lat: 51.06762
+lon: -1.31524
+location-source: companies-house
 tags:
   - defence
   - mbr-ads

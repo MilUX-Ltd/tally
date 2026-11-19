@@ -9,6 +9,10 @@ uk-region: North West
 founded: 1868
 size: small
 sources-verified: 2026-07-04
+postcode: M34 2QN
+lat: 53.44853
+lon: -2.13104
+location-source: companies-house
 tags:
   - defence
   - manufacturing

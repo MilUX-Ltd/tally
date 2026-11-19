@@ -5,6 +5,9 @@ website: https://www.optimise-engineering.co.uk
 hq: Sleaford, United Kingdom
 uk-region: East Midlands
 sources-verified: 2026-07-05
+lat: 51.13806
+lon: -0.85486
+location-source: town
 tags:
   - defence
   - mbr-ads

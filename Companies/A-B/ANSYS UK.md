@@ -9,6 +9,10 @@ uk-region: Yorkshire and The Humber
 founded: 1970
 size: large
 sources-verified: 2026-07-03
+postcode: S1 2JE
+lat: 53.37936
+lon: -1.46933
+location-source: companies-house
 tags:
   - defence
   - air

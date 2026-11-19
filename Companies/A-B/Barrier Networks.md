@@ -10,6 +10,10 @@ founded: 2006
 size: small
 headcount: 10-49
 sources-verified: 2026-07-04
+postcode: G2 1BP
+lat: 55.86209
+lon: -4.25323
+location-source: companies-house
 tags:
   - defence
   - cyber

@@ -6,6 +6,9 @@ hq: Kiel, Germany
 uk-region: South West
 size: medium
 sources-verified: 2026-06-30
+lat: 56.49636
+lon: -5.41072
+location-source: town
 tags:
   - defence
   - mbr-ads

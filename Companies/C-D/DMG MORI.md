@@ -9,6 +9,10 @@ uk-region: West Midlands
 founded: 1971
 size: large
 sources-verified: 2026-07-04
+postcode: CV3 4PE
+lat: 52.36415
+lon: -1.46808
+location-source: companies-house
 tags:
   - defence
   - manufacturing

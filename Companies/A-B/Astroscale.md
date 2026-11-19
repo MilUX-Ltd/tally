@@ -10,6 +10,10 @@ founded: 2017
 size: large
 headcount: 250+
 sources-verified: 2026-07-04
+postcode: OX11 0DF
+lat: 51.58032
+lon: -1.31296
+location-source: companies-house
 tags:
   - defence
   - space

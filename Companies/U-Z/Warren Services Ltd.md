@@ -5,6 +5,9 @@ website: https://www.warrenservices.co.uk
 hq: Thetford, UK
 uk-region: East of England
 sources-verified: 2026-07-01
+lat: 52.41353
+lon: 0.75051
+location-source: town
 tags:
   - defence
   - mbr-ads

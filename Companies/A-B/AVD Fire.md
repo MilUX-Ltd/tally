@@ -9,6 +9,10 @@ uk-region: West Midlands
 founded: 2023
 size: small
 sources-verified: 2026-07-03
+postcode: ST1 3NR
+lat: 53.02138
+lon: -2.15984
+location-source: companies-house
 tags:
   - defence
   - hardware

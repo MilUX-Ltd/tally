@@ -10,6 +10,10 @@ founded: 2019
 size: medium
 headcount: 100
 sources-verified: 2026-07-04
+postcode: DE74 2US
+lat: 52.85391
+lon: -1.34245
+location-source: companies-house
 tags:
   - defence
   - manufacturing

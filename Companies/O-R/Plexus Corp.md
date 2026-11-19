@@ -9,6 +9,7 @@ founded: 1979
 size: large
 headcount: ~20000
 sources-verified: 2026-07-05
+country: United States
 tags:
   - defence
   - air

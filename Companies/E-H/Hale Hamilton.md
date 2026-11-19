@@ -9,6 +9,10 @@ uk-region: London
 founded: 1947
 size: medium
 sources-verified: 2026-07-04
+postcode: UB8 2AF
+lat: 51.53766
+lon: -0.48321
+location-source: companies-house
 tags:
   - defence
   - maritime

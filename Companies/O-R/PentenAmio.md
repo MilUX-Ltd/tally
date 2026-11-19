@@ -5,6 +5,9 @@ website: https://www.pentenamio.com
 hq: Tewkesbury, United Kingdom
 uk-region: South West
 sources-verified: 2026-07-05
+lat: 51.99245
+lon: -2.15758
+location-source: town
 tags:
   - defence
   - mbr-ads

@@ -6,6 +6,9 @@ hq: Hinckley, United Kingdom
 uk-region: East Midlands
 headcount: ~65
 sources-verified: 2026-07-05
+lat: 52.54105
+lon: -1.37384
+location-source: town
 tags:
   - defence
   - mbr-ads

@@ -9,6 +9,10 @@ uk-region: East of England
 founded: 2015
 size: micro
 sources-verified: 2026-07-04
+postcode: CB22 4QH
+lat: 52.09592
+lon: 0.12866
+location-source: companies-house
 tags:
   - defence
   - isr

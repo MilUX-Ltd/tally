@@ -7,6 +7,7 @@ hq: San Francisco, United States
 uk-region: Overseas
 size: small
 sources-verified: 2026-07-04
+country: United States
 tags:
   - defence
   - gis

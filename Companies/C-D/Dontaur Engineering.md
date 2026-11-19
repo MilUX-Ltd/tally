@@ -9,6 +9,10 @@ uk-region: Northern Ireland
 founded: 1976
 size: large
 sources-verified: 2026-07-04
+postcode: BT42 3AZ
+lat: 54.85687
+lon: -6.27467
+location-source: companies-house
 tags:
   - defence
   - manufacturing

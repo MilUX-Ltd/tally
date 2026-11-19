@@ -5,6 +5,9 @@ website: https://www.hybridairvehicles.com
 hq: Bedford, United Kingdom
 uk-region: East of England
 sources-verified: 2026-07-04
+lat: 53.49561
+lon: -2.49629
+location-source: town
 tags:
   - defence
   - mbr-ads

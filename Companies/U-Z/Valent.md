@@ -6,6 +6,11 @@ linkedin: https://www.linkedin.com/company/valent-projects/
 hq: United Kingdom
 founded: 2019
 sources-verified: 2026-06-30
+postcode: M33 3FN
+lat: 53.41409
+lon: -2.3108
+location-source: companies-house
+location-note: matched by name
 tags:
   - defence
   - ai

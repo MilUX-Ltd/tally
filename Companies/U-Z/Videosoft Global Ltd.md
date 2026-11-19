@@ -8,6 +8,10 @@ hq: London, England
 uk-region: London
 size: small
 sources-verified: 2026-07-16
+postcode: HP9 1NB
+lat: 51.60138
+lon: -0.63851
+location-source: companies-house
 tags:
   - defence
   - software

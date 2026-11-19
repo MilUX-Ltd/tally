@@ -10,6 +10,10 @@ founded: 2007
 size: small
 headcount: 27
 sources-verified: 2026-07-04
+postcode: BT1 5HB
+lat: 54.59717
+lon: -5.92841
+location-source: companies-house
 tags:
   - defence
   - cyber

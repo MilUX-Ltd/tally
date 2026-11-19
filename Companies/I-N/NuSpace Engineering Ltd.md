@@ -6,6 +6,9 @@ hq: Reading, United Kingdom
 uk-region: South East
 size: micro
 sources-verified: 2026-07-05
+lat: 51.4538
+lon: -0.97376
+location-source: town
 tags:
   - defence
   - size-micro

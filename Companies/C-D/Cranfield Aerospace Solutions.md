@@ -7,6 +7,9 @@ hq: Cranfield, UK
 uk-region: East of England
 size: medium
 sources-verified: 2026-07-04
+lat: 52.06963
+lon: -0.60775
+location-source: town
 tags:
   - defence
   - air

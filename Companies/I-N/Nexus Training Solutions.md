@@ -7,6 +7,7 @@ hq: Australia
 uk-region: Overseas
 founded: 
 sources-verified: 2026-07-05
+country: Australia
 tags:
   - defence
   - training

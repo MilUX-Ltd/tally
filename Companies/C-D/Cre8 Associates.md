@@ -10,6 +10,10 @@ founded: 2004
 size: micro
 headcount: 1-10
 sources-verified: 2026-07-04
+postcode: LE14 2QS
+lat: 52.6831
+lon: -0.89157
+location-source: companies-house
 tags:
   - defence
   - rf

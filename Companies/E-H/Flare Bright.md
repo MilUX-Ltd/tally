@@ -10,6 +10,10 @@ founded: 2015
 size: small
 headcount: 10-30
 sources-verified: 2026-07-04
+postcode: HP18 0XB
+lat: 51.84325
+lon: -0.97314
+location-source: companies-house
 tags:
   - defence
   - uas

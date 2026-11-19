@@ -6,6 +6,9 @@ uk-region: South West
 size: micro
 founded: 2010
 sources-verified: 2026-07-04
+lat: 50.96
+lon: -3.22
+location-source: town
 tags:
   - defence
   - mbr-ads

@@ -5,6 +5,9 @@ website: https://www.mrcy.com
 hq: Andover, United States
 uk-region: South East
 sources-verified: 2026-07-05
+lat: 51.2075
+lon: -1.47919
+location-source: town
 tags:
   - defence
   - mbr-ads

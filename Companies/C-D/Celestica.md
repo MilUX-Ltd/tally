@@ -10,6 +10,10 @@ founded: 1994
 size: large
 headcount: 29000+ (global group)
 sources-verified: 2026-07-04
+postcode: M2 3DE
+lat: 53.47744
+lon: -2.24317
+location-source: companies-house
 tags:
   - defence
   - air

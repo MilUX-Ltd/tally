@@ -8,6 +8,10 @@ uk-region: London
 founded: 2001
 size: small
 sources-verified: 2026-07-03
+postcode: SE1 9SG
+lat: 51.50496
+lon: -0.08762
+location-source: companies-house
 tags:
   - defence
   - logistics

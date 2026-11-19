@@ -2,6 +2,10 @@
 type: organisation
 name: Wingman AI
 sources-verified: 2026-07-01
+postcode: WC2R 0EX
+lat: 51.51053
+lon: -0.12087
+location-source: companies-house
 tags:
   - defence
   - mbr-ads

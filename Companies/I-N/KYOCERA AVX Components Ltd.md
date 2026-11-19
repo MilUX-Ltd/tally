@@ -6,6 +6,9 @@ hq: Kyoto, Japan
 uk-region: South East
 size: large
 sources-verified: 2026-07-03
+lat: 51.27
+lon: -0.75
+location-source: town
 tags:
   - defence
   - mbr-ads

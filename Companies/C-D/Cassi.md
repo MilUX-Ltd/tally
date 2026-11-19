@@ -7,6 +7,10 @@ companies-house: "16014808"
 hq: United Kingdom
 size: micro
 sources-verified: 2026-07-04
+postcode: WC2B 6AH
+lat: 51.51704
+lon: -0.11945
+location-source: companies-house
 tags:
   - defence
   - ai

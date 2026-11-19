@@ -5,6 +5,9 @@ website: https://www.vestguard.co.uk
 hq: Colchester, United Kingdom
 uk-region: East of England
 sources-verified: 2026-07-01
+lat: 51.88971
+lon: 0.89935
+location-source: town
 tags:
   - defence
   - mbr-ads

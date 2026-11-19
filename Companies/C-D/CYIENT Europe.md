@@ -10,6 +10,10 @@ founded: 1991
 size: large
 headcount: 1053
 sources-verified: 2026-07-04
+postcode: RG1 1AX
+lat: 51.45841
+lon: -0.96972
+location-source: companies-house
 tags:
   - defence
   - air

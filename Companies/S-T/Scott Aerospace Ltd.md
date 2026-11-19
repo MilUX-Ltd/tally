@@ -5,6 +5,9 @@ website: https://www.scottaero.co.uk
 hq: Bristol, United Kingdom
 uk-region: South West
 sources-verified: 2026-06-30
+lat: 51.45313
+lon: -2.60098
+location-source: town
 tags:
   - defence
   - mbr-ads

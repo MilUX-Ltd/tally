@@ -6,6 +6,9 @@ hq: Staverton, UK
 uk-region: South West
 size: micro
 sources-verified: 2026-07-05
+lat: 51.91008
+lon: -2.15861
+location-source: town
 tags:
   - defence
   - size-micro

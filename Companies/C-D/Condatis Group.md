@@ -9,6 +9,10 @@ uk-region: Scotland
 founded: 2013
 size: medium
 sources-verified: 2026-07-04
+postcode: SW1H 0DB
+lat: 51.49998
+lon: -0.13345
+location-source: companies-house
 tags:
   - defence
   - cyber

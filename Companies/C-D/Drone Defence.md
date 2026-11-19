@@ -9,6 +9,10 @@ uk-region: East Midlands
 founded: 2017
 size: small
 sources-verified: 2026-07-04
+postcode: DN22 7GY
+lat: 53.31546
+lon: -0.95169
+location-source: companies-house
 tags:
   - defence
   - counter-uas

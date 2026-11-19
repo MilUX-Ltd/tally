@@ -10,6 +10,10 @@ founded: 2005
 size: medium
 headcount: 550
 sources-verified: 2026-07-03
+postcode: SO30 2AF
+lat: 50.91914
+lon: -1.29156
+location-source: companies-house
 tags:
   - defence
   - software

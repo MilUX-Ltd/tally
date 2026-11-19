@@ -5,6 +5,9 @@ website: https://www.qioptiq.com
 hq: St Asaph, United Kingdom
 uk-region: Wales
 sources-verified: 2026-07-05
+lat: 53.25786
+lon: -3.4457
+location-source: town
 tags:
   - defence
   - mbr-ads

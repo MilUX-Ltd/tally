@@ -10,6 +10,10 @@ founded: 2011
 size: micro
 headcount: 4
 sources-verified: 2026-07-04
+postcode: DT1 2PJ
+lat: 50.71701
+lon: -2.44835
+location-source: companies-house
 tags:
   - defence
   - maritime

@@ -9,6 +9,10 @@ uk-region: London
 founded: 2011
 size: small
 sources-verified: 2026-07-04
+postcode: EC4N 6EU
+lat: 51.51109
+lon: -0.08818
+location-source: companies-house
 tags:
   - defence
   - sensors

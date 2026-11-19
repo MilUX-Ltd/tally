@@ -6,6 +6,9 @@ hq: Atlanta, United States
 uk-region: West Midlands
 size: large
 sources-verified: 2026-07-04
+lat: 52.48
+lon: -1.9
+location-source: town
 tags:
   - defence
   - mbr-ads

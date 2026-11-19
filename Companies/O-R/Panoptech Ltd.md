@@ -7,6 +7,10 @@ uk-region: West Midlands
 founded: 2000
 companies-house: 04356907
 sources-verified: 2026-07-03
+postcode: DE56 2BW
+lat: 53.05437
+lon: -1.44862
+location-source: companies-house
 tags:
   - defence
   - mbr-ads

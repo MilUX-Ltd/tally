@@ -9,6 +9,10 @@ uk-region: South West
 founded: 2020
 size: small
 sources-verified: 2026-07-16
+postcode: TA2 6HY
+lat: 51.02576
+lon: -3.10837
+location-source: companies-house
 tags:
   - defence
   - manufacturing

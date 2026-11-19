@@ -5,6 +5,9 @@ website: https://www.materialise.com
 hq: Leuven, Belgium
 uk-region: Yorkshire and The Humber
 sources-verified: 2026-07-05
+lat: 53.8
+lon: -1.55
+location-source: town
 tags:
   - defence
   - mbr-ads

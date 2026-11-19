@@ -10,6 +10,9 @@ founded:
 size: small
 headcount: 
 sources-verified: 2026-07-04
+lat: 51.27
+lon: -0.75
+location-source: town
 tags:
   - defence
   - training

@@ -10,6 +10,10 @@ founded: 1985
 size: medium
 headcount: 11-50
 sources-verified: 2026-07-04
+postcode: BT42 3JL
+lat: 54.80884
+lon: -6.22466
+location-source: companies-house
 tags:
   - defence
   - land

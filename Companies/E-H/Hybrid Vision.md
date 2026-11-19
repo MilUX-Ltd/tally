@@ -3,6 +3,11 @@ type: organisation
 name: Hybrid Vision
 website: https://www.hybridvision.co.uk
 sources-verified: 2026-07-04
+postcode: BH4 9DN
+lat: 50.72232
+lon: -1.9007
+location-source: companies-house
+location-note: matched by name
 tags:
   - defence
   - mbr-ads

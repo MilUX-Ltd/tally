@@ -7,6 +7,9 @@ hq: Glossop, United Kingdom
 uk-region: North West
 size: small
 sources-verified: 2026-07-03
+lat: 53.44329
+lon: -1.94888
+location-source: town
 tags:
   - defence
   - air

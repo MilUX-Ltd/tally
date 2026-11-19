@@ -10,6 +10,10 @@ founded: 2016
 size: micro
 headcount: 8
 sources-verified: 2026-07-04
+postcode: GL17 0QZ
+lat: 51.86368
+lon: -2.4583
+location-source: companies-house
 tags:
   - defence
   - comms

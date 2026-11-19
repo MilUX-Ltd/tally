@@ -5,6 +5,9 @@ website: https://www.xrcrobotics.co.uk
 hq: Datchet, United Kingdom
 uk-region: South East
 sources-verified: 2026-07-01
+lat: 51.48398
+lon: -0.57852
+location-source: town
 tags:
   - defence
   - mbr-ads

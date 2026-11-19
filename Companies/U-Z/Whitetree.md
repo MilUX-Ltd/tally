@@ -5,6 +5,9 @@ website: https://whitetree.co.uk
 hq: Wells, Somerset
 uk-region: South West
 sources-verified: 2026-06-30
+lat: 51.20864
+lon: -2.64717
+location-source: town
 tags:
   - defence
   - simulation

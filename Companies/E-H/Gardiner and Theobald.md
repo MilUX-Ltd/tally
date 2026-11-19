@@ -8,6 +8,10 @@ uk-region: London
 size: large
 headcount: 1800-2000
 sources-verified: 2026-07-04
+postcode: WC1E 7BD
+lat: 51.51927
+lon: -0.13227
+location-source: companies-house
 tags:
   - defence
   - space

@@ -10,6 +10,10 @@ founded: 2012
 size: small
 headcount: 17
 sources-verified: 2026-07-04
+postcode: BR7 6TH
+lat: 51.42513
+lon: 0.06789
+location-source: companies-house
 tags:
   - defence
   - software

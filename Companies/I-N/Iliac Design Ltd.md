@@ -6,6 +6,10 @@ companies-house: 03671988
 hq: Fareham, United Kingdom
 uk-region: South East
 sources-verified: 2026-07-04
+postcode: PO16 0EN
+lat: 50.85274
+lon: -1.18586
+location-source: companies-house
 tags:
   - defence
   - mbr-ads

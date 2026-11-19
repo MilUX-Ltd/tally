@@ -9,6 +9,10 @@ uk-region: Wales
 founded: 1993
 size: micro
 sources-verified: 2026-07-04
+postcode: LL11 3AA
+lat: 53.05908
+lon: -3.16532
+location-source: companies-house
 tags:
   - defence
   - hardware

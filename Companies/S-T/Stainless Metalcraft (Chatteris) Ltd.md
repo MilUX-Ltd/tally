@@ -5,6 +5,9 @@ website: https://www.metalcraft.co.uk
 hq: Chatteris, UK
 uk-region: East of England
 sources-verified: 2026-06-30
+lat: 52.45727
+lon: 0.04768
+location-source: town
 tags:
   - defence
   - mbr-ads

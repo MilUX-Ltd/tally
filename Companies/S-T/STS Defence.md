@@ -9,6 +9,10 @@ uk-region: South East
 size: medium
 headcount: ~150
 sources-verified: 2026-06-29
+postcode: PO12 1AF
+lat: 50.79592
+lon: -1.11877
+location-source: companies-house
 tags:
   - defence
   - comms

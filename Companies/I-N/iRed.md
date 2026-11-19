@@ -5,6 +5,9 @@ website: https://ired.co.uk
 hq: Emsworth, United Kingdom
 uk-region: South East
 sources-verified: 2026-07-05
+lat: 50.84808
+lon: -0.9371
+location-source: town
 tags:
   - defence
   - mbr-ads

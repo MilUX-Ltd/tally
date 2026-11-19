@@ -4,6 +4,11 @@ name: ISHelp.co.uk Ltd
 website: https://ishelp.co.uk
 hq: United Kingdom
 sources-verified: 2026-07-04
+postcode: EX2 8PW
+lat: 50.69931
+lon: -3.52392
+location-source: companies-house
+location-note: matched by name
 tags:
   - defence
   - mbr-ads

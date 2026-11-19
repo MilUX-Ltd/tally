@@ -5,6 +5,9 @@ website: https://www.pinnacleatlas.com
 hq: Addingham, United Kingdom
 uk-region: Yorkshire and The Humber
 sources-verified: 2026-07-05
+lat: 53.944
+lon: -1.88276
+location-source: town
 tags:
   - defence
   - mbr-ads

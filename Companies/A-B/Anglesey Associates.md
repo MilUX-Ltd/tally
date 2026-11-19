@@ -10,6 +10,10 @@ founded: 2022
 size: micro
 headcount: <10
 sources-verified: 2026-07-03
+postcode: WC2H 9JQ
+lat: 51.5149
+lon: -0.12362
+location-source: companies-house
 tags:
   - defence
   - space

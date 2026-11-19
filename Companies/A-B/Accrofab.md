@@ -9,6 +9,10 @@ uk-region: West Midlands
 founded: 2018
 size: small
 sources-verified: 2026-07-03
+postcode: B49 6EH
+lat: 52.22621
+lon: -1.86235
+location-source: companies-house
 tags:
   - defence
   - size-small

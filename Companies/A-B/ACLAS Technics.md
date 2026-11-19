@@ -9,6 +9,10 @@ uk-region: Scotland
 founded: 2002
 size: small
 sources-verified: 2026-07-03
+postcode: EH54 8SH
+lat: 55.89617
+lon: -3.57937
+location-source: companies-house
 tags:
   - defence
   - size-small

@@ -10,6 +10,10 @@ founded: 2018
 size: micro
 headcount: ~22
 sources-verified: 2026-07-04
+postcode: BT33 0LN
+lat: 54.22437
+lon: -5.88249
+location-source: companies-house
 tags:
   - defence
   - manufacturing

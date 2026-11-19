@@ -6,6 +6,10 @@ companies-house: "03847202"
 hq: London, United Kingdom
 uk-region: London
 sources-verified: 2026-07-05
+postcode: SW1W 0EB
+lat: 51.49641
+lon: -0.14635
+location-source: companies-house
 tags:
   - defence
   - mbr-ads

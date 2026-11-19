@@ -5,6 +5,9 @@ website: https://www.sirius-digital.co.uk
 hq: Portsmouth
 uk-region: South East
 sources-verified: 2026-06-29
+lat: 53.73195
+lon: -2.1511
+location-source: town
 tags:
   - defence
   - software

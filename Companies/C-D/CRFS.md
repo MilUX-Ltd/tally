@@ -10,6 +10,10 @@ founded: 2007
 size: small
 headcount: 50-150
 sources-verified: 2026-07-04
+postcode: SW1E 5LB
+lat: 51.49678
+lon: -0.14349
+location-source: companies-house
 tags:
   - defence
   - rf

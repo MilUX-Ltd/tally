@@ -5,6 +5,9 @@ website: https://www.modini.co.uk
 hq: Pewsey, Wiltshire
 uk-region: South West
 sources-verified: 2026-07-05
+lat: 51.33928
+lon: -1.76508
+location-source: town
 tags:
   - defence
   - uas

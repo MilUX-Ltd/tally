@@ -7,6 +7,10 @@ hq: London, UK
 uk-region: London
 size: small
 sources-verified: 2026-07-04
+postcode: E16 2DQ
+lat: 51.50267
+lon: 0.04539
+location-source: companies-house
 tags:
   - defence
   - software

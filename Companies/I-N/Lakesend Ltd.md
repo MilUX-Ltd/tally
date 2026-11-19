@@ -6,6 +6,9 @@ hq: Wisbech, UK
 uk-region: East of England
 size: micro
 sources-verified: 2026-07-04
+lat: 52.66442
+lon: 0.16185
+location-source: town
 tags:
   - defence
   - mbr-ads

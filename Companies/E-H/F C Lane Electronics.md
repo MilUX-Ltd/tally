@@ -10,6 +10,10 @@ founded: 1966
 size: small
 headcount: 70
 sources-verified: 2026-07-04
+postcode: EC1M 6EE
+lat: 51.52064
+lon: -0.09853
+location-source: companies-house
 tags:
   - defence
   - hardware
