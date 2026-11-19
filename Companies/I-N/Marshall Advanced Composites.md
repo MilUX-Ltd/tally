@@ -13,6 +13,7 @@ tags:
   - type-manufacturer
   - type-sme
   - owned-uk
+  - composites
 ---
 
 # Marshall Advanced Composites

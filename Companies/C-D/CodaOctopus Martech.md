@@ -20,6 +20,7 @@ tags:
   - type-manufacturer
   - owned-foreign
   - mbr-ads
+  - test-equipment
 ---
 
 # CodaOctopus Martech

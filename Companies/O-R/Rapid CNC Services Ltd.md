@@ -15,6 +15,7 @@ tags:
   - type-manufacturer
   - type-sme
   - owned-uk
+  - precision-engineering
 ---
 
 # Rapid CNC Services Ltd

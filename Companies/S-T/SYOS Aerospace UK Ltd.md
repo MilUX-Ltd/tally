@@ -9,7 +9,6 @@ tags:
   - defence
   - mbr-ads
   - uas
-  - drones
   - autonomy
   - air
   - land

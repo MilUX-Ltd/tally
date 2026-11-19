@@ -20,6 +20,7 @@ tags:
   - type-sme
   - accr-iso9001
   - mbr-ads
+  - test-equipment
 ---
 
 # Copernicus Technology Ltd

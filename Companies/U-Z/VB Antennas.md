@@ -22,6 +22,7 @@ tags:
   - type-manufacturer
   - owned-uk
   - accr-iso9001
+  - uas/ground-control
 ---
 
 # VB Antennas

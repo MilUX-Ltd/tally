@@ -18,6 +18,7 @@ tags:
   - size-medium
   - type-prime
   - owned-foreign
+  - through-life-support
 ---
 
 # G3 Systems

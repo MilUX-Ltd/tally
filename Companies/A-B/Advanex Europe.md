@@ -21,6 +21,8 @@ tags:
   - owned-foreign
   - accr-iso9001
   - mbr-ads
+  - composites
+  - precision-engineering
 ---
 
 # Advanex Europe

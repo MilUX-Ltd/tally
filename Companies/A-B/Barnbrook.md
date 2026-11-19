@@ -25,6 +25,7 @@ tags:
   - accr-as9100
   - accr-ce
   - mbr-ads
+  - obsolescence
 ---
 
 # Barnbrook Systems Limited

@@ -16,7 +16,7 @@ tags:
   - sensors/eo-ir
   - optronics
   - isr
-  - drones
+  - uas
   - hardware
   - size-micro
   - type-sme

@@ -21,6 +21,8 @@ tags:
   - type-sme
   - size-micro
   - owned-uk
+  - project-management
+  - through-life-support
 ---
 
 # Callidus Roe

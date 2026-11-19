@@ -18,6 +18,7 @@ tags:
   - type-integrator
   - owned-foreign
   - mbr-ads
+  - through-life-support
 ---
 
 # Precision Technic Defence

@@ -21,6 +21,7 @@ tags:
   - accr-joscar
   - fw-dos
   - accr-ce-plus
+  - project-management
 ---
 
 # K Sharp

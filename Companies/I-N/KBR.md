@@ -18,6 +18,7 @@ tags:
   - logistics
   - manufacturing
   - training
+  - project-management
 ---
 
 # KBR

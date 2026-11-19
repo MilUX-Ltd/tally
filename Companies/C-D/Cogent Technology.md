@@ -17,6 +17,7 @@ tags:
   - type-manufacturer
   - type-sme
   - size-small
+  - pcbs
 ---
 
 # Cogent Technology

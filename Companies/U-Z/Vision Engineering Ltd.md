@@ -14,6 +14,7 @@ tags:
   - manufacturing
   - type-manufacturer
   - owned-uk
+  - advanced-manufacturing
 ---
 
 # Vision Engineering Ltd

@@ -12,6 +12,7 @@ tags:
   - hardware
   - type-sme
   - owned-uk
+  - advanced-manufacturing
 ---
 
 # Ionic Technologies International Ltd

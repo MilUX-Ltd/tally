@@ -11,14 +11,16 @@ tags:
   - counter-uas
   - counter-uas/detection
   - counter-uas/effector
+  - ew
   - ew/direction-finding
-  - drones
+  - uas
   - rf
   - sensors
   - hardware
   - type-manufacturer
   - owned-foreign
   - accr-iso9001
+  - design
 ---
 
 # MyDefence

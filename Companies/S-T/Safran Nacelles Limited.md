@@ -15,6 +15,7 @@ tags:
   - type-manufacturer
   - size-large
   - accr-iso9001
+  - metal-fabrication
 ---
 
 # Safran Nacelles Limited

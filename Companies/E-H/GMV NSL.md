@@ -17,7 +17,8 @@ tags:
   - isr
   - size-small
   - type-services
-  - owned-parent
+  - owned-group
+  - space/ground-systems
 ---
 
 # GMV NSL

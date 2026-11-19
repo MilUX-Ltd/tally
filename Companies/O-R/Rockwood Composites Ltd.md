@@ -15,6 +15,7 @@ tags:
   - air
   - type-manufacturer
   - owned-uk
+  - composites
 ---
 
 # Rockwood Composites Ltd

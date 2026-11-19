@@ -11,6 +11,8 @@ tags:
   - maritime
   - type-consultancy
   - owned-uk
+  - electrical-engineering
+  - project-management
 ---
 
 # Profundus Ltd

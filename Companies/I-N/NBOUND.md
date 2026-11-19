@@ -14,6 +14,7 @@ tags:
   - type-consultancy
   - size-micro
   - owned-foreign
+  - project-management
 ---
 # NBOUND
 > US defence advisory firm specialising in business development, defence acquisition strategy and programme management for dual-use startups, primes and academic institutions.

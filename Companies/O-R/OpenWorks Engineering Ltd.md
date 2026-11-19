@@ -11,7 +11,7 @@ tags:
   - counter-uas
   - counter-uas/detection
   - counter-uas/effector
-  - drones
+  - uas
   - sensors
   - sensors/eo-ir
   - sensors/radar

@@ -18,6 +18,7 @@ tags:
   - owned-foreign
   - accr-ce-plus
   - accr-iso9001
+  - composites
 ---
 
 # Krempel Industries Ltd

@@ -18,6 +18,7 @@ tags:
   - type-prime
   - owned-foreign
   - mbr-ads
+  - through-life-support
 ---
 
 # Boeing Defence UK

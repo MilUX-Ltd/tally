@@ -13,13 +13,14 @@ tags:
   - defence
   - counter-uas
   - counter-uas/effector
-  - drones
+  - uas
   - hardware
   - size-micro
   - type-startup
   - owned-uk
   - accr-ce
   - mbr-ads
+  - uas/multirotor
 ---
 
 # Drone Band Ltd

@@ -17,6 +17,9 @@ tags:
   - owned-uk
   - mbr-ads
   - accr-iso9001
+  - composites
+  - structural-engineering
+  - design
 ---
 
 # Solis Design Ltd

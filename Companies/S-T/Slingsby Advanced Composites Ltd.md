@@ -16,6 +16,7 @@ tags:
   - type-manufacturer
   - owned-uk
   - accr-iso9001
+  - composites
 ---
 
 # Slingsby Advanced Composites Ltd

@@ -19,6 +19,7 @@ tags:
   - type-manufacturer
   - owned-uk
   - mbr-ads
+  - mechanical-engineering
 ---
 
 # Cat's Whisker Technologies

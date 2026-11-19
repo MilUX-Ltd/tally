@@ -13,7 +13,6 @@ tags:
   - defence
   - uas
   - autonomy
-  - drones
   - consultancy
   - test-evaluation
   - size-micro

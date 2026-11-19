@@ -17,6 +17,7 @@ tags:
   - type-sme
   - type-manufacturer
   - owned-uk
+  - metal-fabrication
 sources-verified: 2026-07-05
 ---
 

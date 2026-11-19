@@ -17,8 +17,11 @@ tags:
   - size-small
   - type-sme
   - type-manufacturer
-  - fw-joscar
+  - accr-joscar
   - accr-iso14001
+  - pcbs
+  - mechanical-engineering
+  - through-life-support
 ---
 
 # Brown and Holmes (Derby) Ltd

@@ -13,7 +13,6 @@ tags:
   - land
   - services
   - size-small
-  - type-testing
 ---
 
 # Precision Ballistics Laboratories

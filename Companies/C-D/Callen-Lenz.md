@@ -14,7 +14,6 @@ tags:
   - defence
   - uas
   - uas/platform
-  - drones
   - autonomy
   - autonomy/navigation
   - autonomy/uxv-control
@@ -28,6 +27,7 @@ tags:
   - accr-iso9001
   - accr-ce-plus
   - mbr-ads
+  - uas/guidance
 ---
 
 # Callen-Lenz

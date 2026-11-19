@@ -30,6 +30,7 @@ tags:
   - type-manufacturer
   - owned-uk
   - mbr-ads
+  - obsolescence
 ---
 
 # Drumgrange Ltd

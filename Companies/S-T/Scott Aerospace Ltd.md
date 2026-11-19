@@ -12,6 +12,7 @@ tags:
   - type-integrator
   - type-sme
   - owned-uk
+  - project-management
 ---
 
 # Scott Aerospace Ltd

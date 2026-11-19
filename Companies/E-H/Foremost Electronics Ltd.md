@@ -15,6 +15,7 @@ tags:
   - size-small
   - type-distributor
   - accr-iso9001
+  - distribution
 ---
 
 # Foremost Electronics Ltd

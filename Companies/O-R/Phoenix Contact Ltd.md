@@ -12,6 +12,7 @@ tags:
   - manufacturing
   - type-manufacturer
   - owned-foreign
+  - pcbs
 ---
 
 # Phoenix Contact Ltd

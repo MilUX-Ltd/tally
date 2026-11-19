@@ -20,6 +20,7 @@ tags:
   - type-manufacturer
   - owned-foreign
   - listed
+  - composites
 ---
 
 # Parker Meggitt

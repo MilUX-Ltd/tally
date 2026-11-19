@@ -7,11 +7,11 @@ sources-verified: 2026-06-30
 tags:
   - defence
   - mbr-ads
-  - drones
   - uas
   - autonomy
   - air
   - type-sme
+  - uas/airframe
 ---
 
 # UAV Aerosystems

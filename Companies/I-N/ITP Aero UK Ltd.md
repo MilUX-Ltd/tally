@@ -17,6 +17,7 @@ tags:
   - owned-foreign
   - accr-iso9001
   - accr-iso14001
+  - metal-fabrication
 ---
 
 # ITP Aero UK Ltd

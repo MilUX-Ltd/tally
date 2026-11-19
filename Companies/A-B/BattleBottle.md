@@ -10,7 +10,6 @@ tags:
   - ai/decision-support
   - simulation
   - simulation/synthetic-environment
-  - drones
   - uas
   - training
   - data

@@ -15,6 +15,7 @@ tags:
   - ai/ml-analytics
   - type-academia
   - owned-uk
+  - advanced-manufacturing
 ---
 
 # Queen's University Belfast

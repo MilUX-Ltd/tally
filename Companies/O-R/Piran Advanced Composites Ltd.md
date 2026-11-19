@@ -14,6 +14,8 @@ tags:
   - hardware
   - type-manufacturer
   - type-sme
+  - composites
+  - precision-engineering
 ---
 
 # Piran Advanced Composites Ltd

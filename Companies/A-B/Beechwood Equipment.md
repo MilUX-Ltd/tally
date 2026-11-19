@@ -14,7 +14,6 @@ tags:
   - optronics
   - sensors
   - sensors/eo-ir
-  - drones
   - uas
   - uas/platform
   - robotics
@@ -25,6 +24,7 @@ tags:
   - accr-iso9001
   - accr-ce
   - mbr-ads
+  - through-life-support
 ---
 
 # Beechwood Equipment

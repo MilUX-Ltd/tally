@@ -15,6 +15,8 @@ tags:
   - type-investor
   - owned-uk
   - mbr-ads
+  - advanced-manufacturing
+  - finance
 ---
 
 # High Tor Capital Ltd

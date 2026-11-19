@@ -20,6 +20,8 @@ tags:
   - size-large
   - type-manufacturer
   - listed
+  - precision-engineering
+  - advanced-manufacturing
 ---
 
 # Renishaw plc

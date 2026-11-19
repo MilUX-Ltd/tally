@@ -12,7 +12,6 @@ tags:
   - mbr-ads
   - air
   - uas
-  - drones
   - simulation
   - type-consultancy
   - owned-uk

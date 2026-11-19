@@ -14,7 +14,7 @@ tags:
   - size-small
   - munitions
   - isr
-  - drones
+  - uas
   - type-sme
   - owned-uk
   - mbr-ads

@@ -11,7 +11,7 @@ tags:
   - defence
   - ai
   - autonomy
-  - drones
+  - uas
   - robotics
   - software
   - type-startup

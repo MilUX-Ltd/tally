@@ -16,6 +16,8 @@ tags:
   - owned-uk
   - accr-iso9001
   - accr-ce-plus
+  - precision-engineering
+  - advanced-manufacturing
 ---
 
 # Progressive Technology Ltd

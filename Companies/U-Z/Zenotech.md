@@ -14,7 +14,7 @@ tags:
   - software
   - data
   - air
-  - drones
+  - uas
   - size-micro
   - type-sme
   - owned-uk

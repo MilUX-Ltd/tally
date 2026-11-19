@@ -22,6 +22,8 @@ tags:
   - owned-uk
   - accr-iso9001
   - mbr-ads
+  - composites
+  - uas/parts
 ---
 
 # Brookhouse Aerospace

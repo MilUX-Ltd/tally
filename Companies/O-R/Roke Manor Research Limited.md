@@ -33,7 +33,6 @@ tags:
   - software
   - space
   - maritime
-  - drones
   - uas
   - data
   - gis

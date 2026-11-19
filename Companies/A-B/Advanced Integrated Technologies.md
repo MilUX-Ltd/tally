@@ -29,6 +29,8 @@ tags:
   - owned-uk
   - size-micro
   - mbr-ads
+  - uas/airframe
+  - uas/fixed-wing
 ---
 
 # Advanced Integrated Technologies

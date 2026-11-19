@@ -19,7 +19,7 @@ tags:
   - type-sme
   - type-consultancy
   - accr-iso9001
-  - accr-cyberessentials-plus
+  - accr-ce-plus
 ---
 
 # Smith Institute

@@ -18,6 +18,7 @@ tags:
   - owned-foreign
   - accr-iso9001
   - accr-ce-plus
+  - space/ground-systems
 ---
 
 # Spire Global UK Ltd

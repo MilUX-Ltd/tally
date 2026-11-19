@@ -10,7 +10,6 @@ founded: 2019
 size: micro
 sources-verified: 2026-07-04
 tags:
-  - drones
   - uas
   - uas/platform
   - logistics

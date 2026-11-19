@@ -21,6 +21,7 @@ tags:
   - owned-foreign
   - backed-pe
   - mbr-ads
+  - advanced-manufacturing
 ---
 
 # Ascent Aerospace

@@ -19,6 +19,7 @@ tags:
   - type-sme
   - owned-uk
   - mbr-ads
+  - advanced-manufacturing
 ---
 
 # Bowman 3D

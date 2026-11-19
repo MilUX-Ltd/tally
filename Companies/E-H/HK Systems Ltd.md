@@ -16,6 +16,8 @@ tags:
   - type-sme
   - owned-uk
   - size-micro
+  - obsolescence
+  - project-management
 ---
 
 # HK Systems Ltd

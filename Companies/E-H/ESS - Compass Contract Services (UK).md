@@ -18,6 +18,7 @@ tags:
   - owned-uk
   - listed
   - mbr-ads
+  - facilities-management
 ---
 
 # ESS - Compass Contract Services (UK)

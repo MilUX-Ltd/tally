@@ -17,6 +17,8 @@ tags:
   - size-small
   - type-consultancy
   - owned-foreign
+  - project-management
+  - through-life-support
 ---
 # K39 Consulting
 > Australian veteran-owned defence consultancy delivering strategic advisory across guided weapons, maritime sustainment, and programme delivery, with a UK presence from 2025.

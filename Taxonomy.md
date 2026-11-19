@@ -25,9 +25,11 @@ The directory filters on six facets only: **Capability, Size, Region, Framework,
 | `accr-iso13485` | ISO 13485 |
 | `accr-iso14001` | ISO 14001 |
 | `accr-iso27001` | ISO 27001 |
+| `accr-iso45001` | ISO 45001 |
 | `accr-joscar` | JOSCAR |
+| `accr-soc2` | SOC 2 |
 
-JOSCAR is an accreditation. Framework and membership `joscar` tags were merged into `accr-joscar`. `accr-cyber-essentials` and `accr-cyber-essentials-plus` were merged into `accr-ce` / `accr-ce-plus`. Removed as accreditation facets: Def Stan, ITAR, NCSC, NCSC Assured, SC21, CAA Approved.
+JOSCAR is an accreditation. Framework and membership `joscar` tags were merged into `accr-joscar`. `accr-cyber-essentials` and `accr-cyber-essentials-plus` were merged into `accr-ce` / `accr-ce-plus`. `accr-cyberessentials` and `accr-cyberessentials-plus` are also aliases of `accr-ce` / `accr-ce-plus`. Removed as accreditation facets: Def Stan, ITAR, NCSC, NCSC Assured, SC21, CAA Approved.
 
 ## Membership
 

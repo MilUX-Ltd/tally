@@ -12,6 +12,7 @@ tags:
   - hardware
   - type-manufacturer
   - owned-uk
+  - composites
 ---
 
 # Technical Composite Systems

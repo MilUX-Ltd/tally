@@ -22,6 +22,7 @@ tags:
   - accr-iso9001
   - accr-iso14001
   - mbr-ads
+  - plastics
 ---
 
 # Donite Plastics Ltd

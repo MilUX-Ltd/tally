@@ -14,6 +14,7 @@ tags:
   - type-prime
   - type-manufacturer
   - owned-foreign
+  - through-life-support
 ---
 
 # Moog Aircraft Group

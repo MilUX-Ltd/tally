@@ -17,6 +17,7 @@ tags:
   - type-manufacturer
   - owned-uk
   - mbr-ads
+  - inspection-certification
 ---
 
 # High Technology Sources Ltd

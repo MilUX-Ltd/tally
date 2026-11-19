@@ -14,6 +14,7 @@ tags:
   - services
   - consultancy
   - size-micro
+  - distribution
 ---
 
 # Stratonex Defence Technologies

@@ -23,6 +23,7 @@ tags:
   - accr-iso9001
   - accr-ce-plus
   - mbr-ads
+  - obsolescence
 ---
 
 # AQ Wiring Systems Rockford

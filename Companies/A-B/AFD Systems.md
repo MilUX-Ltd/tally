@@ -24,6 +24,7 @@ tags:
   - accr-ce
   - accr-joscar
   - mbr-ads
+  - advanced-manufacturing
 ---
 
 # AFD Systems

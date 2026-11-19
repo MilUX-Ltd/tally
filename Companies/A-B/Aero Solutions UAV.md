@@ -12,13 +12,13 @@ tags:
   - defence
   - uas
   - uas/platform
-  - drones
   - air
   - size-micro
   - type-sme
   - type-startup
   - owned-uk
   - mbr-ads
+  - uas/fixed-wing
 ---
 
 # Aero Solutions UAV Ltd

@@ -13,6 +13,7 @@ tags:
   - air
   - type-manufacturer
   - owned-uk
+  - plastics
 ---
 
 # Specialised Polymer Engineering Ltd

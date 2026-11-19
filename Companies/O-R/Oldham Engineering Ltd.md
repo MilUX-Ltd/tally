@@ -14,6 +14,9 @@ tags:
   - type-manufacturer
   - owned-uk
   - accr-iso9001
+  - metal-fabrication
+  - precision-engineering
+  - project-management
 ---
 
 # Oldham Engineering Ltd

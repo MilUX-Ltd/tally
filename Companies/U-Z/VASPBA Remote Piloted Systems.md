@@ -8,7 +8,6 @@ size: micro
 sources-verified: 2026-06-30
 tags:
   - defence
-  - drones
   - uas
   - training
   - type-sme

@@ -14,6 +14,8 @@ tags:
   - space
   - type-manufacturer
   - owned-foreign
+  - composites
+  - plastics
 ---
 
 # Toray Advanced Composites UK Ltd

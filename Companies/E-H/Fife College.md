@@ -18,6 +18,7 @@ tags:
   - type-academia
   - owned-uk
   - mbr-ads
+  - advanced-manufacturing
 ---
 
 # Fife College

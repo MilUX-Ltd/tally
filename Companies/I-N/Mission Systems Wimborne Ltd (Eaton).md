@@ -17,6 +17,7 @@ tags:
   - type-manufacturer
   - type-integrator
   - owned-foreign
+  - uas/fixed-wing
 ---
 
 # Mission Systems Wimborne Ltd (Eaton)

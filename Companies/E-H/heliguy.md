@@ -12,7 +12,6 @@ headcount: 35+ staff
 sources-verified: 2026-07-04
 tags:
   - defence
-  - drones
   - uas
   - training
   - training/instruction

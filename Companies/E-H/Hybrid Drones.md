@@ -14,7 +14,6 @@ tags:
   - uas
   - uas/platform
   - uas/payload
-  - drones
   - air
   - logistics
   - manufacturing

@@ -15,7 +15,7 @@ tags:
   - size-small
   - type-manufacturer
   - accr-iso9001
-  - accr-cyberessentials
+  - accr-ce
 ---
 
 # Printech Circuit Laboratories Ltd

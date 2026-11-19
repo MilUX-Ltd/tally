@@ -12,6 +12,8 @@ tags:
   - sensors
   - type-sme
   - owned-uk
+  - test-equipment
+  - inspection-certification
 ---
 
 # Theta Technologies Ltd

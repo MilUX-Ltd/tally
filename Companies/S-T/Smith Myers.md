@@ -19,6 +19,8 @@ tags:
   - owned-uk
   - accr-iso9001
   - accr-ce-plus
+  - uas
+  - uas/fixed-wing
 ---
 
 # Smith Myers

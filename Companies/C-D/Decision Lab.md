@@ -16,7 +16,7 @@ tags:
   - ai/decision-support
   - simulation
   - simulation/synthetic-environment
-  - drones
+  - uas
   - autonomy
   - autonomy/uxv-control
   - data

@@ -17,6 +17,7 @@ tags:
   - type-manufacturer
   - owned-foreign
   - accr-iso9001
+  - obsolescence
 ---
 
 # Rochester Electronics Ltd

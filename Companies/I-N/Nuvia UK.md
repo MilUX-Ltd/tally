@@ -13,7 +13,7 @@ tags:
   - integration
   - test-evaluation
   - size-large
-  - owned-vinci
+  - owned-foreign
   - type-large
 ---
 

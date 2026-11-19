@@ -10,6 +10,7 @@ tags:
   - mbr-ads
   - type-consultancy
   - owned-foreign
+  - finance
 ---
 
 # Seabury Securities (UK) Ltd

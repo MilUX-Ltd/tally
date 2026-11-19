@@ -17,7 +17,6 @@ tags:
   - counter-uas
   - counter-uas/detection
   - counter-uas/effector
-  - drones
   - autonomy
   - sensors
   - sensors/eo-ir
@@ -25,6 +24,8 @@ tags:
   - type-startup
   - owned-uk
   - mbr-ads
+  - uas/multirotor
+  - uas/fixed-wing
 ---
 
 # Gibson Robotics

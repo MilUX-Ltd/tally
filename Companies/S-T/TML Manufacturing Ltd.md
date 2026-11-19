@@ -17,6 +17,8 @@ tags:
   - accr-iso9001
   - accr-iso14001
   - accr-joscar
+  - metal-fabrication
+  - precision-engineering
 ---
 
 # TML Manufacturing Ltd

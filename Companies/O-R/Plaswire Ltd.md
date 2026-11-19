@@ -11,6 +11,7 @@ tags:
   - manufacturing
   - type-manufacturer
   - owned-uk
+  - composites
 ---
 
 # Plaswire Ltd

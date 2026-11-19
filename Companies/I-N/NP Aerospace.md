@@ -21,6 +21,7 @@ tags:
   - type-manufacturer
   - owned-uk
   - mbr-ads
+  - through-life-support
 ---
 
 # NP Aerospace

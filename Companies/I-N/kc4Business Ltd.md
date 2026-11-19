@@ -11,7 +11,6 @@ tags:
   - services
   - consultancy
   - size-micro
-  - type-micro
   - mbr-ads
 ---
 

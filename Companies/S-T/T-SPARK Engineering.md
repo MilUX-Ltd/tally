@@ -12,6 +12,7 @@ tags:
   - rf
   - hardware
   - owned-foreign
+  - pcbs
 ---
 # T-SPARK Engineering
 > Ukrainian electronics engineering company specialising in embedded systems, radar, RF and FPGA design for research institutions and OEMs, including NATO-aligned programmes.

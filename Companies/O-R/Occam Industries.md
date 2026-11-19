@@ -14,6 +14,8 @@ tags:
   - autonomy/uxv-control
   - uas
   - type-startup
+  - uas/guidance
+  - uas/airframe
 ---
 # Occam Industries
 > Early-stage London-based autonomy company building under the tagline "Autonomy Simplified".

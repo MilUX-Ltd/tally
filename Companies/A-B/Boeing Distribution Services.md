@@ -16,6 +16,7 @@ tags:
   - type-prime
   - owned-foreign
   - mbr-ads
+  - test-equipment
 ---
 
 # Boeing Distribution Services

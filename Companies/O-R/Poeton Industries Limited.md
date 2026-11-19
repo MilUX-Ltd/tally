@@ -15,6 +15,7 @@ tags:
   - owned-uk
   - accr-iso9001
   - accr-iso14001
+  - inspection-certification
 ---
 
 # Poeton Industries Limited

@@ -19,6 +19,7 @@ tags:
   - type-sme
   - owned-uk
   - mbr-ads
+  - design
 ---
 
 # Beechnet Systems

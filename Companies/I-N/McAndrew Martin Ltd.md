@@ -18,6 +18,7 @@ tags:
   - accr-ce-plus
   - accr-iso45001
   - type-sme
+  - electrical-engineering
 ---
 
 # McAndrew Martin Ltd

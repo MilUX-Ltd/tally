@@ -16,6 +16,7 @@ tags:
   - type-consultancy
   - owned-uk
   - mbr-ads
+  - design
 ---
 
 # Cundall Johnston & Partners LLP

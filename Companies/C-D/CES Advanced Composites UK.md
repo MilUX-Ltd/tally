@@ -22,6 +22,8 @@ tags:
   - owned-foreign
   - accr-iso9001
   - mbr-ads
+  - composites
+  - inspection-certification
 ---
 
 # CES Advanced Composites UK

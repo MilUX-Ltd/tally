@@ -11,6 +11,9 @@ tags:
   - manufacturing
   - type-academia
   - type-non-profit
+  - composites
+  - plastics
+  - advanced-manufacturing
 ---
 
 # NIACE

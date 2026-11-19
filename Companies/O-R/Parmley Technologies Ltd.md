@@ -15,6 +15,7 @@ tags:
   - owned-uk
   - accr-iso9001
   - accr-ce
+  - pcbs
 ---
 
 # Parmley Technologies Ltd

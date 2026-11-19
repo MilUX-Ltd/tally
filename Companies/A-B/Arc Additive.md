@@ -18,6 +18,7 @@ tags:
   - type-manufacturer
   - owned-uk
   - mbr-ads
+  - advanced-manufacturing
 ---
 
 # Arc Additive

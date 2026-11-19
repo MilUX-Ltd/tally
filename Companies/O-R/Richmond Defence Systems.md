@@ -12,6 +12,8 @@ tags:
   - land
   - type-manufacturer
   - owned-uk
+  - precision-engineering
+  - advanced-manufacturing
 ---
 
 # Richmond Defence Systems

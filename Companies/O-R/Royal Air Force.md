@@ -11,7 +11,6 @@ tags:
   - air
   - autonomy
   - autonomy/uxv-control
-  - drones
   - uas
   - uas/platform
   - counter-uas

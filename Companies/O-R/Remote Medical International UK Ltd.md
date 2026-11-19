@@ -12,6 +12,7 @@ tags:
   - logistics
   - type-consultancy
   - owned-foreign
+  - workforce
 ---
 
 # Remote Medical International UK Ltd

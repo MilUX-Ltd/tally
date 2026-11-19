@@ -22,6 +22,7 @@ tags:
   - type-sme
   - owned-uk
   - mbr-ads
+  - inspection-certification
 ---
 
 # Bowmill Engineering

@@ -12,6 +12,7 @@ tags:
   - manufacturing
   - type-manufacturer
   - owned-foreign
+  - advanced-manufacturing
 ---
 
 # Roxel Ltd

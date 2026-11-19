@@ -13,6 +13,7 @@ tags:
   - hardware
   - type-manufacturer
   - owned-uk
+  - precision-engineering
 ---
 
 # Produmax Limited

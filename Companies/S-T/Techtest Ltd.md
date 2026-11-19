@@ -16,6 +16,7 @@ tags:
   - owned-uk
   - accr-ce-plus
   - accr-iso9001
+  - test-equipment
 ---
 
 # Techtest Ltd

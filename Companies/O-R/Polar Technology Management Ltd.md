@@ -15,6 +15,8 @@ tags:
   - integration
   - size-medium
   - type-manufacturer
+  - composites
+  - advanced-manufacturing
 ---
 
 # Polar Technology Management Ltd

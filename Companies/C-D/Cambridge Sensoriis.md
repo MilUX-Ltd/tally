@@ -15,7 +15,6 @@ tags:
   - sensors/radar
   - rf
   - uas
-  - drones
   - isr
   - size-micro
   - type-startup

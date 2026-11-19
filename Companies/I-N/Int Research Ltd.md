@@ -16,6 +16,7 @@ tags:
   - training/instruction
   - type-sme
   - type-manufacturer
+  - design
 ---
 
 # Int Research Ltd

@@ -16,6 +16,7 @@ tags:
   - size-micro
   - type-consultancy
   - owned-uk
+  - inspection-certification
 ---
 
 # DTD Consult Ltd

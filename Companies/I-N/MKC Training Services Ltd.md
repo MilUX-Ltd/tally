@@ -13,6 +13,7 @@ tags:
   - training/instruction
   - type-consultancy
   - owned-uk
+  - project-management
 ---
 
 # MKC Training Services Ltd

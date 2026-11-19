@@ -10,7 +10,6 @@ size: medium
 sources-verified: 2026-07-05
 tags:
   - defence
-  - drones
   - uas
   - uas/platform
   - munitions
@@ -22,6 +21,7 @@ tags:
   - type-manufacturer
   - owned-foreign
   - backed-vc
+  - uas/ground-control
 ---
 
 # Neros Technologies

@@ -23,6 +23,7 @@ tags:
   - accr-joscar
   - accr-iso9001
   - mbr-ads
+  - obsolescence
 ---
 
 # CVC Components Limited

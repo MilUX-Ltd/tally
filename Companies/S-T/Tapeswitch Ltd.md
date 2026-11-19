@@ -12,6 +12,7 @@ tags:
   - hardware
   - air
   - type-manufacturer
+  - through-life-support
 ---
 
 # Tapeswitch Ltd

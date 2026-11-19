@@ -13,6 +13,7 @@ tags:
   - hardware
   - type-manufacturer
   - type-sme
+  - precision-engineering
 ---
 
 # Zenix Aerospace UK Ltd

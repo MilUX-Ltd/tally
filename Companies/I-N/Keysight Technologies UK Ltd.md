@@ -16,6 +16,7 @@ tags:
   - listed
   - accr-iso27001
   - accr-ce-plus
+  - test-equipment
 ---
 
 # Keysight Technologies UK Ltd

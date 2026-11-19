@@ -18,6 +18,7 @@ tags:
   - accr-iso9001
   - accr-iso14001
   - accr-ce-plus
+  - pcbs
 ---
 
 # Pandect Precision Components Ltd

@@ -17,6 +17,8 @@ tags:
   - owned-uk
   - accr-iso9001
   - accr-iso14001
+  - precision-engineering
+  - mechanical-engineering
 ---
 
 # Nasmyth Group Ltd

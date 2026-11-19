@@ -15,6 +15,7 @@ tags:
   - hardware
   - type-sme
   - owned-uk
+  - through-life-support
 ---
 
 # SEA

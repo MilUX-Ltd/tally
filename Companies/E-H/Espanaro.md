@@ -16,7 +16,7 @@ tags:
   - autonomy/uxv-control
   - c2
   - c2/integration
-  - drones
+  - uas
   - software
   - isr
   - size-small

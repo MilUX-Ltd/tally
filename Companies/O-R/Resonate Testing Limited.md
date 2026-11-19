@@ -17,6 +17,7 @@ tags:
   - type-manufacturer
   - owned-uk
   - accr-iso9001
+  - space/design-test
 ---
 
 # Resonate Testing Limited

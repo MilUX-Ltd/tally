@@ -13,6 +13,7 @@ tags:
   - type-manufacturer
   - owned-uk
   - accr-iso9001
+  - plastics
 ---
 
 # ICL Tech Ltd

@@ -8,7 +8,6 @@ sources-verified: 2026-06-30
 tags:
   - defence
   - mbr-ads
-  - drones
   - uas
   - manufacturing
   - hardware
@@ -20,6 +19,10 @@ tags:
   - accr-iso9001
   - accr-iso27001
   - accr-iso14001
+  - uas/parts
+  - uas/multirotor
+  - uas/fixed-wing
+  - through-life-support
 ---
 
 # Ukrspecsystems Ltd

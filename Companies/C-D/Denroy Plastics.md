@@ -21,6 +21,7 @@ tags:
   - owned-uk
   - accr-iso9001
   - mbr-ads
+  - plastics
 ---
 
 # Denroy Plastics Limited

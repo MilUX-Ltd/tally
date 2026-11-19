@@ -18,6 +18,7 @@ tags:
   - size-medium
   - type-consultancy
   - mbr-ads
+  - design
 ---
 
 # Consult Red

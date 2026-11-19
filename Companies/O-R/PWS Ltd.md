@@ -13,6 +13,7 @@ tags:
   - air
   - type-manufacturer
   - owned-uk
+  - metal-fabrication
 ---
 
 # PWS Ltd

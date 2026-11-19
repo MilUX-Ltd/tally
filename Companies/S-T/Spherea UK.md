@@ -20,6 +20,8 @@ tags:
   - type-sme
   - owned-foreign
   - accr-ce-plus
+  - test-equipment
+  - through-life-support
 ---
 
 # Spherea UK

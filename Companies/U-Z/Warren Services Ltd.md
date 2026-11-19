@@ -16,6 +16,8 @@ tags:
   - accr-iso9001
   - accr-iso14001
   - accr-joscar
+  - metal-fabrication
+  - precision-engineering
 ---
 
 # Warren Services Ltd

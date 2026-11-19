@@ -11,7 +11,6 @@ tags:
   - c2
   - cyber
   - quantum
-  - drones
   - uas
   - size-micro
   - type-startup

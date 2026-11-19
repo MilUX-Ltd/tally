@@ -15,6 +15,7 @@ tags:
   - type-manufacturer
   - owned-uk
   - accr-iso9001
+  - packaging
 ---
 
 # Protechnic Ltd

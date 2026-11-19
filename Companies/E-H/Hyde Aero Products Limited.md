@@ -16,6 +16,9 @@ tags:
   - owned-uk
   - accr-ce-plus
   - accr-iso9001
+  - metal-fabrication
+  - precision-engineering
+  - advanced-manufacturing
 ---
 
 # Hyde Aero Products Limited

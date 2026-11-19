@@ -18,6 +18,7 @@ tags:
   - accr-iso14001
   - accr-iso27001
   - accr-ce-plus
+  - metal-fabrication
 ---
 
 # SGS United Kingdom Ltd

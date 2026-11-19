@@ -14,6 +14,8 @@ tags:
   - type-sme
   - owned-uk
   - accr-iso9001
+  - metal-fabrication
+  - precision-engineering
 ---
 
 # Marlborough Engineering

@@ -17,6 +17,7 @@ tags:
   - accr-iso9001
   - accr-iso14001
   - owned-uk
+  - test-equipment
 ---
 
 # Spin UK Ltd

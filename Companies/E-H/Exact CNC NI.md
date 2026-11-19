@@ -21,6 +21,9 @@ tags:
   - accr-ce-plus
   - accr-iso9001
   - mbr-ads
+  - composites
+  - metal-fabrication
+  - precision-engineering
 ---
 
 # Exact CNC (NI) Ltd

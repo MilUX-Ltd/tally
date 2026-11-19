@@ -20,6 +20,8 @@ tags:
   - accr-iso9001
   - accr-ce
   - accr-joscar
+  - composites
+  - precision-engineering
 ---
 
 # MonsterCAM Composite Systems Ltd

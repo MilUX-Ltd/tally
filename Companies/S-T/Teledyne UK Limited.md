@@ -17,6 +17,7 @@ tags:
   - optronics
   - type-manufacturer
   - owned-foreign
+  - composites
 ---
 
 # Teledyne UK Limited

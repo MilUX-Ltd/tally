@@ -16,7 +16,6 @@ tags:
   - autonomy/swarming
   - uas
   - uas/platform
-  - drones
   - robotics
   - air
   - maritime
@@ -26,6 +25,7 @@ tags:
   - type-sme
   - owned-foreign
   - mbr-ads
+  - uas/fixed-wing
 ---
 
 # Blue Bear Systems Research

@@ -13,6 +13,8 @@ tags:
   - manufacturing
   - hardware
   - type-non-profit
+  - metal-fabrication
+  - inspection-certification
 ---
 
 # TWI Limited

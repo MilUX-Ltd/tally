@@ -11,7 +11,6 @@ sources-verified: 2026-07-03
 tags:
   - defence
   - autonomy
-  - drones
   - uas
   - uas/platform
   - ai

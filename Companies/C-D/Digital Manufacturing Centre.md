@@ -17,6 +17,7 @@ tags:
   - size-small
   - type-manufacturer
   - type-sme
+  - advanced-manufacturing
 ---
 
 # Digital Manufacturing Centre

@@ -15,7 +15,7 @@ tags:
   - data
   - services
   - size-micro
-  - accr-cyberessentials
+  - accr-ce
 ---
 
 # Stonesthro Ltd
