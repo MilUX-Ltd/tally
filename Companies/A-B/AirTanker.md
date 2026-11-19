@@ -18,6 +18,7 @@ tags:
   - defence
   - air
   - logistics
+  - training
   - size-large
   - type-prime
   - owned-foreign
@@ -30,7 +31,7 @@ tags:
 
 ## What they do
 
-AirTanker delivers and supports the Royal Air Force's fleet of 14 Airbus A330-200 Multi-Role Tanker Transport aircraft, designated Voyager in RAF service, under a 27-year Private Finance Initiative contract signed with the Ministry of Defence in 2008. AirTanker Services Limited operates and maintains the fleet, providing air-to-air refuelling, strategic air transport and aeromedical evacuation. The Voyager became fully operational as a tanker in 2013, replacing the VC10. AirTanker is delivered through a partnership of aviation and defence shareholders including Airbus, Babcock, Rolls-Royce and Thales.
+AirTanker delivers and supports the Royal Air Force's fleet of 14 Airbus A330-200 Multi-Role Tanker Transport aircraft, designated Voyager in RAF service, under a 27-year Private Finance Initiative contract signed with the Ministry of Defence in 2008. AirTanker Services Limited operates and maintains the fleet, providing air-to-air refuelling, strategic air transport and aeromedical evacuation. The Voyager became fully operational as a tanker in 2013, replacing the VC10. AirTanker is delivered through a partnership of aviation and defence shareholders including Airbus, Babcock, Rolls-Royce, Thales and Equitix Investment Management.
 
 ## Products and solutions
 
