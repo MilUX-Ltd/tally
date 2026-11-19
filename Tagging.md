@@ -11,6 +11,8 @@ How tags work in Tally. Tags carry the facets the search viewer filters on, so c
 
 ## Capability and domain (bare)
 
+Every capability belongs to one group (ten in all), based on the Defence Wales Capability Matrix 2026. The groups, the full list and the matrix mapping are in `Taxonomy.md`; `taxonomy.json` is the source of truth. Three slugs were merged and kept as aliases: `drones` is now `uas`, `manufacturer` is now `manufacturing`, `integrator` is now `integration`.
+
 `defence` always, plus what applies:
 
 `ai`, `cyber`, `drones`, `uas`, `counter-uas`, `comms`, `isr`, `c2`, `ew`, `autonomy`, `robotics`, `simulation`, `training`, `sensors`, `optronics`, `rf`, `space`, `maritime`, `land`, `air`, `logistics`, `munitions`, `data`, `software`, `hardware`, `manufacturing`, `gis`, `quantum`, `test-evaluation`, `human-factors`.
