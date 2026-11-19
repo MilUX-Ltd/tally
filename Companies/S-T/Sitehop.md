@@ -4,11 +4,12 @@ name: Sitehop
 website: https://sitehop.com
 hq: United Kingdom
 sources-verified: 2026-06-30
+companies-house: "13602589"
 postcode: WC1N 2EB
 lat: 51.52226
 lon: -0.11514
 location-source: companies-house
-location-note: matched by name
+location-note: registered office of the company with this exact name on the register
 tags:
   - defence
   - mbr-ads

@@ -14,7 +14,7 @@ postcode: GU31 4AG
 lat: 51.00673
 lon: -0.93356
 location-source: companies-house
-location-note: matched by name
+location-note: registered office of the company with this exact name on the register
 tags:
   - defence
   - software

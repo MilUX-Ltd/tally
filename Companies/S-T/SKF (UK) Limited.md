@@ -6,9 +6,8 @@ hq: Gothenburg, Sweden
 uk-region: South West
 size: large
 sources-verified: 2026-06-30
-lat: 50.96
-lon: -3.22
-location-source: town
+location-source: region
+location-note: UK location not published
 tags:
   - defence
   - size-large

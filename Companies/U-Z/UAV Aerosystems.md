@@ -4,8 +4,8 @@ name: UAV Aerosystems
 hq: Dorset, UK
 uk-region: South West
 sources-verified: 2026-06-30
-lat: 50.96
-lon: -3.22
+lat: 50.79684
+lon: -2.34473
 location-source: town
 tags:
   - defence

@@ -6,8 +6,8 @@ hq: Abingdon, England
 uk-region: South East
 size: medium
 sources-verified: 2026-07-16
-lat: 51.67014
-lon: -1.28098
+lat: 51.67148
+lon: -1.27797
 location-source: town
 tags:
   - defence

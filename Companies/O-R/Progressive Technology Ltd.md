@@ -6,8 +6,8 @@ hq: Newbury, UK
 uk-region: South East
 size: small
 sources-verified: 2026-07-05
-lat: 51.25023
-lon: -2.4329
+lat: 51.40027
+lon: -1.32305
 location-source: town
 tags:
   - defence

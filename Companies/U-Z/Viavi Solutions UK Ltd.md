@@ -5,9 +5,8 @@ website: https://www.viavisolutions.com
 hq: San Jose, United States
 uk-region: East of England
 sources-verified: 2026-07-01
-lat: 52.24
-lon: 0.41
-location-source: town
+location-source: region
+location-note: UK location not published
 tags:
   - defence
   - mbr-ads

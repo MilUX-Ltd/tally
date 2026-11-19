@@ -7,9 +7,8 @@ hq: United Kingdom
 uk-region: South West
 size: small
 sources-verified: 2026-07-03
-lat: 50.96
-lon: -3.22
-location-source: town
+location-source: region
+location-note: UK location not published
 tags:
   - defence
   - autonomy

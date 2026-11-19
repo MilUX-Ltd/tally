@@ -5,8 +5,8 @@ website: https://www.mdhdefence.com
 hq: Amesbury, United Kingdom
 uk-region: South West
 sources-verified: 2026-07-05
-lat: 51.32641
-lon: -2.49633
+lat: 51.1719
+lon: -1.78052
 location-source: town
 tags:
   - defence

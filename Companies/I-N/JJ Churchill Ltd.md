@@ -8,9 +8,8 @@ founded: 1937
 size: small
 headcount: ~100-130
 sources-verified: 2026-07-04
-lat: 52.62475
-lon: -1.40138
-location-source: town
+location-source: region
+location-note: UK location not published
 tags:
   - defence
   - mbr-ads

@@ -5,8 +5,8 @@ website: https://www.moyola.com
 hq: Magherafelt, United Kingdom
 uk-region: Northern Ireland
 sources-verified: 2026-07-05
-lat: 54.6
-lon: -5.93
+lat: 54.75448
+lon: -6.60781
 location-source: town
 tags:
   - defence

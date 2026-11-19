@@ -5,8 +5,8 @@ website: https://cobhammissionsystems.com
 hq: Wimborne, United Kingdom
 uk-region: South West
 sources-verified: 2026-07-05
-lat: 50.79944
-lon: -1.98775
+lat: 51.87886
+lon: -2.07702
 location-source: town
 tags:
   - defence

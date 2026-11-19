@@ -5,8 +5,8 @@ website: https://www.smiths-engineering.com
 hq: Ballymena, United Kingdom
 uk-region: Northern Ireland
 sources-verified: 2026-06-30
-lat: 54.6
-lon: -5.93
+lat: 54.8663
+lon: -6.27602
 location-source: town
 tags:
   - defence

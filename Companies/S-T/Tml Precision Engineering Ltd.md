@@ -5,8 +5,8 @@ website: https://www.tml.co.uk
 hq: Norwich, United Kingdom
 uk-region: East of England
 sources-verified: 2026-06-30
-lat: 52.62887
-lon: 1.29331
+lat: 52.62856
+lon: 1.2924
 location-source: town
 tags:
   - defence

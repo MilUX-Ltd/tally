@@ -5,8 +5,8 @@ website: https://wilsoncomputers.co.uk
 hq: Bangor, United Kingdom
 uk-region: Northern Ireland
 sources-verified: 2026-07-01
-lat: 53.22796
-lon: -4.12821
+lat: 54.6626
+lon: -5.66791
 location-source: town
 tags:
   - defence

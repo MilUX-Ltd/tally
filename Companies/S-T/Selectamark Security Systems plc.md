@@ -5,9 +5,8 @@ website: https://www.selectamark.co.uk
 hq: Locksbottom, United Kingdom
 uk-region: South East
 sources-verified: 2026-06-30
-lat: 51.36894
-lon: 0.05855
-location-source: town
+location-source: region
+location-note: UK location not published
 tags:
   - defence
   - mbr-ads

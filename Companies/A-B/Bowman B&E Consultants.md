@@ -8,9 +8,8 @@ uk-region: South West
 founded: 2024
 size: micro
 sources-verified: 2026-07-04
-lat: 50.686
-lon: -2.10989
-location-source: town
+location-source: region
+location-note: UK location not published
 tags:
   - defence
   - type-consultancy

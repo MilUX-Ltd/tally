@@ -4,11 +4,12 @@ name: Zircon Software
 website: https://zirconsoftware.co.uk
 hq: United Kingdom
 sources-verified: 2026-07-01
+companies-house: "03844938"
 postcode: BA14 7FP
 lat: 51.3232
 lon: -2.20127
 location-source: companies-house
-location-note: matched by name
+location-note: registered office of the company with this exact name on the register
 tags:
   - defence
   - mbr-ads

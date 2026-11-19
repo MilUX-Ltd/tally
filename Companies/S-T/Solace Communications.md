@@ -3,11 +3,12 @@ type: organisation
 name: Solace Communications
 website: https://solacecomms.com
 sources-verified: 2026-06-30
+companies-house: "15841337"
 postcode: BH21 1JS
 lat: 50.79997
 lon: -1.99018
 location-source: companies-house
-location-note: matched by name
+location-note: registered office of the company with this exact name on the register
 tags:
   - defence
   - mbr-ads

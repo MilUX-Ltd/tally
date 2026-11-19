@@ -4,11 +4,12 @@ name: Origin Safety
 website: https://www.originsafety.co.uk
 hq: UK
 sources-verified: 2026-07-05
+companies-house: "11675624"
 postcode: SO24 0AA
 lat: 51.08471
 lon: -1.14039
 location-source: companies-house
-location-note: matched by name
+location-note: registered office of the company with this exact name on the register
 tags:
   - defence
   - mbr-ads

@@ -5,8 +5,8 @@ website: https://hoverinc.aero
 hq: Cambridge, United Kingdom
 uk-region: East of England
 sources-verified: 2026-07-04
-lat: 52.76936
-lon: 1.24526
+lat: 52.19758
+lon: 0.13915
 location-source: town
 tags:
   - defence

@@ -5,8 +5,8 @@ website: https://www.utmworldwide.com
 hq: Mildenhall, United Kingdom
 uk-region: East of England
 sources-verified: 2026-06-30
-lat: 51.42558
-lon: -1.70014
+lat: 52.3456
+lon: 0.51277
 location-source: town
 tags:
   - defence

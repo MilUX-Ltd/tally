@@ -9,8 +9,8 @@ founded: 1960
 size: large
 headcount: 900+
 sources-verified: 2026-07-04
-lat: 52.76936
-lon: 1.24526
+lat: 52.19758
+lon: 0.13915
 location-source: town
 tags:
   - defence

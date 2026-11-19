@@ -5,8 +5,8 @@ website: https://www.surevine.com
 hq: Guildford, United Kingdom
 uk-region: South East
 sources-verified: 2026-06-30
-lat: 51.74465
-lon: -4.91131
+lat: 51.23945
+lon: -0.57591
 location-source: town
 tags:
   - defence

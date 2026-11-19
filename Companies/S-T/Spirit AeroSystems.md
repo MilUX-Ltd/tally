@@ -5,9 +5,8 @@ website: https://www.spiritaero.com
 hq: Wichita, United States
 uk-region: Northern Ireland
 sources-verified: 2026-06-30
-lat: 54.6
-lon: -5.93
-location-source: town
+location-source: region
+location-note: UK location not published
 tags:
   - defence
   - mbr-ads

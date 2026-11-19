@@ -5,9 +5,8 @@ website: https://www.teledynecml.com
 hq: Thousand Oaks, United States
 uk-region: North West
 sources-verified: 2026-06-30
-lat: 53.48
-lon: -2.24
-location-source: town
+location-source: region
+location-note: UK location not published
 tags:
   - defence
   - mbr-ads

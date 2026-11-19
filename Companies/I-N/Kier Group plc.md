@@ -6,8 +6,8 @@ hq: Salford, United Kingdom
 uk-region: North West
 size: large
 sources-verified: 2026-07-04
-lat: 53.7107
-lon: -2.09861
+lat: 53.48064
+lon: -2.295
 location-source: town
 tags:
   - defence

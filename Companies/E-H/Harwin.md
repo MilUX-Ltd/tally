@@ -6,8 +6,8 @@ hq: Portsmouth, UK
 uk-region: South East
 size: medium
 sources-verified: 2026-07-04
-lat: 53.73195
-lon: -2.1511
+lat: 50.79685
+lon: -1.09117
 location-source: town
 tags:
   - defence

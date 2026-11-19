@@ -5,9 +5,8 @@ website: https://www.rldatixgc.com
 hq: Richmond, United Kingdom
 uk-region: South East
 sources-verified: 2026-07-05
-lat: 54.4041
-lon: -1.73728
-location-source: town
+location-source: region
+location-note: UK location not published
 tags:
   - defence
   - mbr-ads

@@ -5,9 +5,8 @@ website: https://wholeship.co.uk
 hq: Predannack, Cornwall
 uk-region: South West
 sources-verified: 2026-06-30
-lat: 50.00034
-lon: -5.25373
-location-source: town
+location-source: region
+location-note: UK location not published
 tags:
   - defence
   - uas

@@ -3,11 +3,8 @@ type: organisation
 name: Southcode Engineering
 website: https://southcode.co.uk
 sources-verified: 2026-06-29
-postcode: PO38 2JE
-lat: 50.60073
-lon: -1.32885
-location-source: companies-house
-location-note: matched by name
+location-source: region
+location-note: UK location not published
 tags:
   - defence
   - software

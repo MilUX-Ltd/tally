@@ -5,8 +5,8 @@ website:
 hq: Shropshire, United Kingdom
 uk-region: West Midlands
 sources-verified: 2026-07-05
-lat: 52.48
-lon: -1.9
+lat: 52.65234
+lon: -2.64356
 location-source: town
 tags:
   - defence

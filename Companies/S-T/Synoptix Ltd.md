@@ -4,11 +4,12 @@ name: Synoptix Ltd
 website: https://www.synoptix.co.uk
 hq: UK
 sources-verified: 2026-06-30
+companies-house: "07567392"
 postcode: BS16 1EJ
 lat: 51.50223
 lon: -2.54184
 location-source: companies-house
-location-note: matched by name
+location-note: registered office of the company with this exact name on the register
 tags:
   - defence
   - mbr-ads

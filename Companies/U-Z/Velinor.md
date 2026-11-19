@@ -3,11 +3,12 @@ type: organisation
 name: Velinor
 website: https://velinor.io
 sources-verified: 2026-06-30
+companies-house: "16807085"
 postcode: BH16 6FA
 lat: 50.75888
 lon: -2.07473
 location-source: companies-house
-location-note: matched by name
+location-note: registered office of the company with this exact name on the register
 tags:
   - defence
   - ai

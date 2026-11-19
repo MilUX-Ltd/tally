@@ -5,8 +5,8 @@ website: https://www.pinghandling.com
 hq: Aldergrove, United Kingdom
 uk-region: Northern Ireland
 sources-verified: 2026-07-05
-lat: 54.6
-lon: -5.93
+lat: 54.64489
+lon: -6.24291
 location-source: town
 tags:
   - defence

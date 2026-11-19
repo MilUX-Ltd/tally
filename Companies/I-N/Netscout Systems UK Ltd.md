@@ -5,9 +5,8 @@ website: https://www.netscout.com
 hq: Westford, United States
 uk-region: South East
 sources-verified: 2026-07-05
-lat: 57.69343
-lon: -4.27533
-location-source: town
+location-source: region
+location-note: UK location not published
 tags:
   - defence
   - mbr-ads

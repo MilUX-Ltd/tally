@@ -9,9 +9,8 @@ founded: 2016
 size: small
 headcount: 11-50
 sources-verified: 2026-07-04
-lat: 52.8299
-lon: -2.96873
-location-source: town
+location-source: region
+location-note: UK location not published
 tags:
   - defence
   - cyber

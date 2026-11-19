@@ -5,8 +5,8 @@ website: https://www.niprecision.com
 hq: Portadown, UK
 uk-region: Northern Ireland
 sources-verified: 2026-07-05
-lat: 54.6
-lon: -5.93
+lat: 54.42531
+lon: -6.44485
 location-source: town
 tags:
   - defence

@@ -5,8 +5,8 @@ website: https://www.hutchinson-engineering.co.uk
 hq: Kilrea, United Kingdom
 uk-region: Northern Ireland
 sources-verified: 2026-06-30
-lat: 54.6
-lon: -5.93
+lat: 54.95017
+lon: -6.55646
 location-source: town
 tags:
   - defence

@@ -5,9 +5,8 @@ website: https://www.idvgroup.com
 hq: Turin, Italy
 uk-region: West Midlands
 sources-verified: 2026-07-04
-lat: 56.66464
-lon: -2.76049
-location-source: town
+location-source: region
+location-note: UK location not published
 tags:
   - defence
   - mbr-ads

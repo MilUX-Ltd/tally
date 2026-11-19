@@ -5,11 +5,12 @@ website: https://www.tenacium.co.uk
 linkedin: https://www.linkedin.com/company/tenacium/
 hq: United Kingdom
 sources-verified: 2026-06-30
+companies-house: "13355066"
 postcode: SW19 3BP
 lat: 51.40997
 lon: -0.19265
 location-source: companies-house
-location-note: matched by name
+location-note: registered office of the company with this exact name on the register
 tags:
   - defence
   - data

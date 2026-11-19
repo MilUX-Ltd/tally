@@ -6,9 +6,8 @@ hq: London, United Kingdom
 uk-region: East of England
 size: large
 sources-verified: 2026-06-30
-lat: 51.50741
-lon: -0.12772
-location-source: town
+location-source: region
+location-note: UK location not published
 tags:
   - defence
   - mbr-ads

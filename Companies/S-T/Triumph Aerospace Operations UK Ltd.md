@@ -6,9 +6,8 @@ hq: Berwyn, United States
 uk-region: Wales
 size: large
 sources-verified: 2026-06-30
-lat: 52.98078
-lon: -3.19195
-location-source: town
+location-source: region
+location-note: UK location not published
 tags:
   - defence
   - size-large

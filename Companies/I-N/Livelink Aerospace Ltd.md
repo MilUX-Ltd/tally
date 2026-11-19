@@ -5,8 +5,8 @@ website: https://www.livelinkaerospace.com
 hq: Lavant, UK
 uk-region: South East
 sources-verified: 2026-07-04
-lat: 50.86899
-lon: -0.77547
+lat: 50.87046
+lon: -0.78443
 location-source: town
 tags:
   - defence

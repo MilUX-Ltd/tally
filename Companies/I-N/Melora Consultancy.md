@@ -4,8 +4,8 @@ name: Melora Consultancy Ltd
 hq: Chippenham, United Kingdom
 uk-region: South West
 sources-verified: 2026-07-05
-lat: 51.80869
-lon: -2.71784
+lat: 51.45823
+lon: -2.11394
 location-source: town
 tags:
   - defence

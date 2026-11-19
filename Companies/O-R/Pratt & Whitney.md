@@ -5,9 +5,8 @@ website: https://www.prattwhitney.com/
 hq: East Hartford, United States
 uk-region: London
 sources-verified: 2026-07-05
-lat: 55.10684
-lon: -1.58086
-location-source: town
+location-source: region
+location-note: UK location not published
 tags:
   - defence
   - mbr-ads

@@ -6,9 +6,8 @@ hq: Tempe, United States
 uk-region: Yorkshire and The Humber
 size: large
 sources-verified: 2026-07-04
-lat: 53.8
-lon: -1.55
-location-source: town
+location-source: region
+location-note: UK location not published
 tags:
   - defence
   - mbr-ads

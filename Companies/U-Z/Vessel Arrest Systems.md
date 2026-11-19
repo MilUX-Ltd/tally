@@ -7,8 +7,8 @@ uk-region: East of England
 founded: 2009
 size: micro
 sources-verified: 2026-06-29
-lat: 52.75194
-lon: 0.39538
+lat: 52.75387
+lon: 0.39548
 location-source: town
 tags:
   - defence

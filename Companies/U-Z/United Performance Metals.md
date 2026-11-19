@@ -5,9 +5,8 @@ website: https://www.upmet.com
 hq: Hamilton, United States
 uk-region: Northern Ireland
 sources-verified: 2026-06-30
-lat: 55.77603
-lon: -4.03339
-location-source: town
+location-source: region
+location-note: UK location not published
 tags:
   - defence
   - mbr-ads

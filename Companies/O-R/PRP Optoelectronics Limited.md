@@ -5,8 +5,8 @@ website: http://www.prpopto.com
 hq: Swindon, UK
 uk-region: South West
 sources-verified: 2026-07-05
-lat: 51.92426
-lon: -2.09337
+lat: 51.56153
+lon: -1.78546
 location-source: town
 tags:
   - defence

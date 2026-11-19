@@ -9,8 +9,8 @@ founded: 2017
 size: small
 headcount: 38
 sources-verified: 2026-07-04
-lat: 51.80869
-lon: -2.71784
+lat: 51.45823
+lon: -2.11394
 location-source: town
 tags:
   - defence

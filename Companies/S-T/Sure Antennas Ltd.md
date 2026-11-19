@@ -5,8 +5,8 @@ website: https://www.sure-antennas.com
 hq: Wirral, United Kingdom
 uk-region: North West
 sources-verified: 2026-06-30
-lat: 53.48
-lon: -2.24
+lat: 53.34097
+lon: -3.05009
 location-source: town
 tags:
   - defence

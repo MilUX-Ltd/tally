@@ -6,9 +6,8 @@ hq: Newark, United States
 uk-region: Scotland
 size: large
 sources-verified: 2026-07-01
-lat: 59.26604
-lon: -2.49281
-location-source: town
+location-source: region
+location-note: UK location not published
 tags:
   - defence
   - size-large

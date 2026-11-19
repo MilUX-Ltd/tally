@@ -5,9 +5,8 @@ website: https://www.satcomdirect.com
 hq: Farnborough, Hampshire
 uk-region: South East
 sources-verified: 2026-06-29
-lat: 51.53538
-lon: -1.37539
-location-source: town
+location-source: region
+location-note: UK location not published
 tags:
   - defence
   - comms

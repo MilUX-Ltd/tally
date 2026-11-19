@@ -5,8 +5,8 @@ website: https://www.smtcorp.com
 hq: Rochester, United Kingdom
 uk-region: South East
 sources-verified: 2026-06-30
-lat: 55.2763
-lon: -2.2644
+lat: 51.38979
+lon: 0.50363
 location-source: town
 tags:
   - defence

@@ -5,9 +5,8 @@ website: https://www.serb.com
 hq: Brussels, Belgium
 uk-region: Wales
 sources-verified: 2026-06-30
-lat: 51.48
-lon: -3.18
-location-source: town
+location-source: region
+location-note: UK location not published
 tags:
   - defence
   - mbr-ads

@@ -8,9 +8,8 @@ uk-region: London
 founded: 2021
 size: medium
 sources-verified: 2026-07-03
-lat: 55.02485
-lon: -1.48619
-location-source: town
+location-source: region
+location-note: UK location not published
 tags:
   - defence
   - ai

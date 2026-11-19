@@ -5,8 +5,8 @@ website: https://www.nsc.co.uk
 hq: Farnborough, United Kingdom
 uk-region: South East
 sources-verified: 2026-07-05
-lat: 51.53538
-lon: -1.37539
+lat: 51.29041
+lon: -0.75475
 location-source: town
 tags:
   - defence

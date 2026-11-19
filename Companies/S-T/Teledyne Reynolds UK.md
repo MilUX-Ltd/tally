@@ -5,8 +5,8 @@ website: https://www.teledynereynolds.co.uk
 hq: Newbury, United Kingdom
 uk-region: South East
 sources-verified: 2026-06-30
-lat: 51.25023
-lon: -2.4329
+lat: 51.40027
+lon: -1.32305
 location-source: town
 tags:
   - defence

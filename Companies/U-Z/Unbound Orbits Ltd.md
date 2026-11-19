@@ -5,8 +5,8 @@ website: https://www.unboundorbits.com
 hq: St Albans, United Kingdom
 uk-region: East of England
 sources-verified: 2026-06-30
-lat: 51.75231
-lon: -0.33909
+lat: 51.75305
+lon: -0.33797
 location-source: town
 tags:
   - defence

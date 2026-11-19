@@ -5,9 +5,8 @@ website: https://delatr.com
 uk-region: North West
 size: micro
 sources-verified: 2026-07-16
-lat: 53.48
-lon: -2.24
-location-source: town
+location-source: region
+location-note: UK location not published
 tags:
   - defence
   - comms

@@ -5,8 +5,8 @@ website: https://www.smc-comms.com
 hq: Eastleigh, United Kingdom
 uk-region: South East
 sources-verified: 2026-06-30
-lat: 51.03003
-lon: -4.15846
+lat: 50.96938
+lon: -1.35333
 location-source: town
 tags:
   - defence

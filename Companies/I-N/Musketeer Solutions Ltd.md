@@ -6,8 +6,8 @@ hq: Peterborough, United Kingdom
 uk-region: East of England
 size: micro
 sources-verified: 2026-07-05
-lat: 52.57251
-lon: -0.2425
+lat: 52.57258
+lon: -0.24273
 location-source: town
 tags:
   - defence

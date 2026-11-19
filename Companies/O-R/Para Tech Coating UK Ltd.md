@@ -5,8 +5,8 @@ website: https://www.paratechcoating.co.uk
 hq: Northampton, United Kingdom
 uk-region: East Midlands
 sources-verified: 2026-07-05
-lat: 52.28896
-lon: -2.24161
+lat: 52.23786
+lon: -0.89505
 location-source: town
 tags:
   - defence

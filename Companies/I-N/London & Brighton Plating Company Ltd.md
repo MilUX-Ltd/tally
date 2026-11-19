@@ -6,8 +6,8 @@ hq: Portslade, United Kingdom
 uk-region: South East
 founded: 1946
 sources-verified: 2026-07-04
-lat: 50.84285
-lon: -0.22134
+lat: 50.83296
+lon: -0.20702
 location-source: town
 tags:
   - defence

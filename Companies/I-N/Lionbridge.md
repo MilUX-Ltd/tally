@@ -4,11 +4,8 @@ name: Lionbridge
 website: https://www.lionbridge.com
 size: large
 sources-verified: 2026-07-04
-postcode: BS32 8FB
-lat: 51.53539
-lon: -2.54966
-location-source: companies-house
-location-note: matched by name
+location-source: region
+location-note: UK location not published
 tags:
   - defence
   - training

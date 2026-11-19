@@ -5,8 +5,8 @@ website: https://www.vitalseatingsystems.com
 hq: Chelmsford, United Kingdom
 uk-region: East of England
 sources-verified: 2026-07-01
-lat: 51.73705
-lon: 0.47361
+lat: 51.73453
+lon: 0.47305
 location-source: town
 tags:
   - defence

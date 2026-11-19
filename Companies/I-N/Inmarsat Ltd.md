@@ -6,9 +6,8 @@ hq: Reston, United States
 uk-region: London
 size: large
 sources-verified: 2026-07-04
-lat: 55.85201
-lon: -2.1973
-location-source: town
+location-source: region
+location-note: UK location not published
 tags:
   - defence
   - mbr-ads

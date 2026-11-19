@@ -3,11 +3,12 @@ type: organisation
 name: APH10
 website: https://aph10.com
 sources-verified: 2026-07-03
+companies-house: "14263585"
 postcode: WA15 0HT
 lat: 53.36411
 lon: -2.31101
 location-source: companies-house
-location-note: matched by name
+location-note: registered office of the company with this exact name on the register
 tags:
   - defence
   - cyber

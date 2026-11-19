@@ -5,8 +5,8 @@ website: https://www.knight-precision-wire.co.uk
 hq: Potters Bar, United Kingdom
 uk-region: East of England
 sources-verified: 2026-07-04
-lat: 51.6951
-lon: -0.19364
+lat: 51.69589
+lon: -0.18489
 location-source: town
 tags:
   - defence

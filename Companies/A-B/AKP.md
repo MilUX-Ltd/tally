@@ -7,8 +7,8 @@ hq: Great Yarmouth, United Kingdom
 uk-region: East of England
 size: small
 sources-verified: 2026-07-03
-lat: 52.60819
-lon: 1.72714
+lat: 52.60717
+lon: 1.73148
 location-source: town
 tags:
   - defence

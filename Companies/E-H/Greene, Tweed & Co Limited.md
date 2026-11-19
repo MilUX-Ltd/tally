@@ -7,9 +7,8 @@ hq: Kulpsville, Pennsylvania, USA
 uk-region: East Midlands
 size: large
 sources-verified: 2026-07-04
-lat: 52.83
-lon: -1.33
-location-source: town
+location-source: region
+location-note: UK location not published
 tags:
   - defence
   - manufacturing

@@ -6,9 +6,8 @@ hq: Dallas, United States
 uk-region: London
 size: large
 sources-verified: 2026-07-04
-lat: 57.54868
-lon: -3.47604
-location-source: town
+location-source: region
+location-note: UK location not published
 tags:
   - defence
   - size-large

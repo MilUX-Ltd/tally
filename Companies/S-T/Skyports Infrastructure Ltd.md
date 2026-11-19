@@ -5,8 +5,8 @@ website: https://www.skyports.net
 hq: Billericay, United Kingdom
 uk-region: East of England
 sources-verified: 2026-06-30
-lat: 51.62456
-lon: 0.41662
+lat: 51.62455
+lon: 0.41676
 location-source: town
 tags:
   - defence

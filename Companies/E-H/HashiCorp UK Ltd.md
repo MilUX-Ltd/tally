@@ -5,9 +5,8 @@ website: https://www.hashicorp.com
 hq: San Francisco, United States
 uk-region: South West
 sources-verified: 2026-07-04
-lat: 50.96
-lon: -3.22
-location-source: town
+location-source: region
+location-note: UK location not published
 tags:
   - defence
   - mbr-ads

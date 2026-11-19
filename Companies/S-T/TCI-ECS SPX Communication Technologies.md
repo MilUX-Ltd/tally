@@ -5,9 +5,8 @@ website: https://www.enterprisecontrol.co.uk
 hq: Wappenham, United Kingdom
 uk-region: West Midlands
 sources-verified: 2026-06-30
-lat: 52.10635
-lon: -1.08708
-location-source: town
+location-source: region
+location-note: UK location not published
 tags:
   - defence
   - mbr-ads

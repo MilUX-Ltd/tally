@@ -6,9 +6,8 @@ hq: Osaka, Japan
 uk-region: Northern Ireland
 size: large
 sources-verified: 2026-07-05
-lat: 54.6
-lon: -5.93
-location-source: town
+location-source: region
+location-note: UK location not published
 tags:
   - defence
   - size-large

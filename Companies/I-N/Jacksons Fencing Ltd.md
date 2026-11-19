@@ -5,8 +5,8 @@ website: https://www.jacksons-security.co.uk
 hq: Ashford, United Kingdom
 uk-region: South East
 sources-verified: 2026-07-04
-lat: 50.32251
-lon: -3.84335
+lat: 51.43287
+lon: -0.46206
 location-source: town
 tags:
   - defence

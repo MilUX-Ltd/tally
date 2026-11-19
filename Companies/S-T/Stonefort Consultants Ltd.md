@@ -5,8 +5,8 @@ website: http://www.stonefortconsultants.co.uk
 hq: Enniskillen, United Kingdom
 uk-region: Northern Ireland
 sources-verified: 2026-06-30
-lat: 54.6
-lon: -5.93
+lat: 54.34482
+lon: -7.63891
 location-source: town
 tags:
   - defence

@@ -8,8 +8,8 @@ uk-region: South East
 founded: 1929
 size: large
 sources-verified: 2026-06-29
-lat: 50.84497
-lon: -2.98611
+lat: 51.28247
+lon: -0.96254
 location-source: town
 tags:
   - defence

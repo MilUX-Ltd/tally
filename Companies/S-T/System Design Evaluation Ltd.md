@@ -5,8 +5,8 @@ website: http://www.SDE-UK.com
 hq: Ware, United Kingdom
 uk-region: East of England
 sources-verified: 2026-06-30
-lat: 50.72165
-lon: -2.95225
+lat: 51.81091
+lon: -0.03117
 location-source: town
 tags:
   - defence

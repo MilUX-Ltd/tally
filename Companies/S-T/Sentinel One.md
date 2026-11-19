@@ -5,9 +5,8 @@ website: https://www.sentinelone.com/
 hq: Mountain View, United States
 uk-region: South West
 sources-verified: 2026-06-30
-lat: 54.51395
-lon: -3.15734
-location-source: town
+location-source: region
+location-note: UK location not published
 tags:
   - defence
   - mbr-ads

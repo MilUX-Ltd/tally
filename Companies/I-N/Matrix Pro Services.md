@@ -5,8 +5,8 @@ website: https://matrixproservices.co.uk
 hq: Cobham, UK
 uk-region: South East
 sources-verified: 2026-07-05
-lat: 51.32908
-lon: -0.41105
+lat: 51.39023
+lon: 0.40095
 location-source: town
 tags:
   - defence

@@ -5,8 +5,8 @@ website: https://www.labrysgroup.org
 hq: Borehamwood, UK
 uk-region: East of England
 sources-verified: 2026-07-04
-lat: 51.6592
-lon: -0.26979
+lat: 51.65553
+lon: -0.27641
 location-source: town
 tags:
   - defence

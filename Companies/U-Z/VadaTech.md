@@ -7,9 +7,8 @@ hq: Henderson, Nevada, United States
 uk-region: South East
 founded: 2005
 sources-verified: 2026-06-30
-lat: 57.69568
-lon: -5.77996
-location-source: town
+location-source: region
+location-note: UK location not published
 tags:
   - defence
   - hardware

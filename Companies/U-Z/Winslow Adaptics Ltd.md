@@ -5,8 +5,8 @@ website: https://www.winslowadaptics.com
 hq: Brecon, United Kingdom
 uk-region: Wales
 sources-verified: 2026-07-01
-lat: 51.94762
-lon: -3.39168
+lat: 51.9472
+lon: -3.3917
 location-source: town
 tags:
   - defence

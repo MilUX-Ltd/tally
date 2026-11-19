@@ -6,11 +6,8 @@ linkedin: https://www.linkedin.com/company/range403/
 founded: 2026
 size: micro
 sources-verified: 2026-07-05
-postcode: N1 7GU
-lat: 51.53074
-lon: -0.09371
-location-source: companies-house
-location-note: matched by name
+location-source: region
+location-note: UK location not published
 tags:
   - defence
   - cyber

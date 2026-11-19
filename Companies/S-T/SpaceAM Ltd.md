@@ -6,8 +6,8 @@ hq: Stonehouse, United Kingdom
 uk-region: South West
 size: micro
 sources-verified: 2026-06-30
-lat: 55.69838
-lon: -3.98142
+lat: 51.74592
+lon: -2.28244
 location-source: town
 tags:
   - defence

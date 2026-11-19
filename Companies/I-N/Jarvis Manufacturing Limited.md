@@ -6,8 +6,8 @@ hq: Eastbourne, United Kingdom
 uk-region: South East
 size: micro
 sources-verified: 2026-07-04
-lat: 54.52323
-lon: -1.53092
+lat: 50.76644
+lon: 0.27813
 location-source: town
 tags:
   - defence

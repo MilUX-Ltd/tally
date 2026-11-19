@@ -4,7 +4,7 @@ name: Praetori
 website: https://www.praetori.ai/
 linkedin: https://www.linkedin.com/company/praetori/
 sources-verified: 2026-07-05
-country: Europe
+country: Europe (country not stated)
 tags:
   - defence
   - ai

@@ -6,9 +6,8 @@ hq: Feltham, United Kingdom
 uk-region: South East
 size: large
 sources-verified: 2026-06-30
-lat: 50.94839
-lon: -3.09645
-location-source: town
+location-source: region
+location-note: UK location not published
 tags:
   - defence
   - mbr-ads

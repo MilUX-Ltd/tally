@@ -6,9 +6,8 @@ hq: Paris, France
 uk-region: South East
 size: large
 sources-verified: 2026-06-30
-lat: 51.27
-lon: -0.75
-location-source: town
+location-source: region
+location-note: UK location not published
 tags:
   - defence
   - mbr-ads

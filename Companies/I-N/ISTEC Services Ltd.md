@@ -7,8 +7,8 @@ hq: Hertford, United Kingdom
 uk-region: East of England
 founded: 1989
 sources-verified: 2026-07-04
-lat: 51.79697
-lon: -0.07677
+lat: 51.79574
+lon: -0.07852
 location-source: town
 tags:
   - defence

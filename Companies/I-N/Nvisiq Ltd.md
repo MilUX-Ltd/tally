@@ -3,11 +3,12 @@ type: organisation
 name: Nvisiq Ltd
 linkedin: https://www.linkedin.com/company/nvisiq
 sources-verified: 2026-07-05
+companies-house: "15646148"
 postcode: OX1 4HL
 lat: 51.75174
 lon: -1.25471
 location-source: companies-house
-location-note: matched by name
+location-note: registered office of the company with this exact name on the register
 tags:
   - defence
   - sensors

@@ -3,11 +3,8 @@ type: organisation
 name: Rise-X
 website: https://rise-x.io
 sources-verified: 2026-07-05
-postcode: E6 2JA
-lat: 51.53899
-lon: 0.05152
-location-source: companies-house
-location-note: matched by name
+location-source: region
+location-note: UK location not published
 tags:
   - defence
   - software

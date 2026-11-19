@@ -7,8 +7,8 @@ uk-region: South East
 founded: 2024
 size: small
 sources-verified: 2026-07-16
-lat: 51.89361
-lon: -0.66621
+lat: 51.60997
+lon: -1.4215
 location-source: town
 tags:
   - defence

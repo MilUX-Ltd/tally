@@ -5,9 +5,8 @@ website: https://uk.segulatechnologies.com/en/
 hq: Paris, France
 uk-region: East Midlands
 sources-verified: 2026-06-30
-lat: 52.83
-lon: -1.33
-location-source: town
+location-source: region
+location-note: UK location not published
 tags:
   - defence
   - mbr-ads

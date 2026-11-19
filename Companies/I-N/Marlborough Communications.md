@@ -7,8 +7,8 @@ hq: Horley, United Kingdom
 uk-region: South East
 founded: 1980
 sources-verified: 2026-07-05
-lat: 52.09092
-lon: -1.39117
+lat: 51.17174
+lon: -0.16364
 location-source: town
 tags:
   - defence

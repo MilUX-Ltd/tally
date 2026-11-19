@@ -5,9 +5,8 @@ website: https://www.profundus.ltd.uk
 hq: Chandlers Ford, UK
 uk-region: South East
 sources-verified: 2026-07-05
-lat: 50.98793
-lon: -1.37409
-location-source: town
+location-source: region
+location-note: UK location not published
 tags:
   - defence
   - mbr-ads
