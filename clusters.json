@@ -1,0 +1,414 @@
+{
+ "as_of": "2026-11-19",
+ "source": "UK regional defence and security clusters and their upcoming events, from the clusters' public websites and pages. Members-only events appear only as a signpost to join the cluster. Region codes are ONS Open Geography codes (December 2025).",
+ "clusters": [
+  {
+   "id": "SWRDSC",
+   "name": "South West",
+   "full": "South West Regional Defence and Security Cluster",
+   "region": "Cornwall, Devon, Dorset, Somerset",
+   "regions": [
+    {
+     "code": "E06000052",
+     "name": "Cornwall"
+    },
+    {
+     "code": "E06000053",
+     "name": "Isles of Scilly"
+    },
+    {
+     "code": "E10000008",
+     "name": "Devon"
+    },
+    {
+     "code": "E06000026",
+     "name": "Plymouth"
+    },
+    {
+     "code": "E06000027",
+     "name": "Torbay"
+    },
+    {
+     "code": "E06000059",
+     "name": "Dorset"
+    },
+    {
+     "code": "E06000058",
+     "name": "Bournemouth, Christchurch and Poole"
+    },
+    {
+     "code": "E06000066",
+     "name": "Somerset"
+    }
+   ],
+   "status": "live",
+   "web": "https://southwestrdsc.co.uk/",
+   "linkedin": "https://www.linkedin.com/company/southwestrdsc/",
+   "colour": "#2B3A55",
+   "membership": null
+  },
+  {
+   "id": "GLRDSC",
+   "name": "Greater Lincolnshire",
+   "full": "Greater Lincolnshire Regional Defence and Security Cluster",
+   "region": "Greater Lincolnshire and Rutland",
+   "regions": [
+    {
+     "code": "E10000019",
+     "name": "Lincolnshire"
+    },
+    {
+     "code": "E06000013",
+     "name": "North Lincolnshire"
+    },
+    {
+     "code": "E06000012",
+     "name": "North East Lincolnshire"
+    },
+    {
+     "code": "E06000017",
+     "name": "Rutland"
+    }
+   ],
+   "status": "live",
+   "web": "https://www.greaterlincolnshirerdsc.com/",
+   "linkedin": "https://www.linkedin.com/company/glrdsc/",
+   "colour": "#2E9E3E",
+   "membership": "mbr-glrdsc"
+  },
+  {
+   "id": "OBCRDSC",
+   "name": "Oxon, Bucks and Chilterns",
+   "full": "Oxfordshire, Buckinghamshire and Chilterns Regional Defence and Security Cluster",
+   "region": "Oxfordshire, Buckinghamshire, Chilterns",
+   "regions": [
+    {
+     "code": "E10000025",
+     "name": "Oxfordshire"
+    },
+    {
+     "code": "E06000060",
+     "name": "Buckinghamshire"
+    }
+   ],
+   "status": "live",
+   "web": "https://obcrdsc.co.uk/",
+   "linkedin": "https://www.linkedin.com/company/obc-rdsc/",
+   "colour": "#7A1F6B",
+   "membership": null
+  },
+  {
+   "id": "SCRDSC",
+   "name": "South Central",
+   "full": "South Central Regional Defence and Security Cluster",
+   "region": "Hampshire, Surrey, West Sussex, Isle of Wight",
+   "regions": [
+    {
+     "code": "E10000014",
+     "name": "Hampshire"
+    },
+    {
+     "code": "E06000045",
+     "name": "Southampton"
+    },
+    {
+     "code": "E06000044",
+     "name": "Portsmouth"
+    },
+    {
+     "code": "E06000046",
+     "name": "Isle of Wight"
+    },
+    {
+     "code": "E10000030",
+     "name": "Surrey"
+    },
+    {
+     "code": "E10000032",
+     "name": "West Sussex"
+    }
+   ],
+   "status": "live",
+   "web": "https://www.southcentralrdsc.co.uk/",
+   "linkedin": "https://www.linkedin.com/company/south-central-regional-defence-security-cluster-scrdsc/",
+   "colour": "#8B1A3A",
+   "membership": "mbr-scrdsc"
+  },
+  {
+   "id": "NWRDSC",
+   "name": "North West",
+   "full": "North West Regional Defence and Security Cluster",
+   "region": "North West England",
+   "regions": [
+    {
+     "code": "E12000002",
+     "name": "North West"
+    }
+   ],
+   "status": "live",
+   "web": "https://northwestrdsc.co.uk/",
+   "linkedin": "https://www.linkedin.com/company/north-west-regional-defence-security-cluster/",
+   "colour": "#1D4E6B",
+   "membership": null
+  },
+  {
+   "id": "LRDSC",
+   "name": "London",
+   "full": "London Regional Defence and Security Cluster",
+   "region": "Greater London",
+   "regions": [
+    {
+     "code": "E12000007",
+     "name": "London"
+    }
+   ],
+   "status": "live",
+   "web": "https://londonrdsc.co.uk/",
+   "linkedin": "https://www.linkedin.com/company/london-regional-defence-and-security-cluster/",
+   "colour": "#0D3F66",
+   "membership": null
+  },
+  {
+   "id": "NERDSC",
+   "name": "North East",
+   "full": "North East Regional Defence and Security Cluster",
+   "region": "North East England and Tees Valley",
+   "regions": [
+    {
+     "code": "E12000001",
+     "name": "North East"
+    }
+   ],
+   "status": "live",
+   "web": "https://nerdsc.co.uk/",
+   "linkedin": "https://www.linkedin.com/company/north-east-regional-defence-and-security-cluster/",
+   "colour": "#3A7CA5",
+   "membership": null
+  },
+  {
+   "id": "ERDSC",
+   "name": "East",
+   "full": "East Regional Defence and Security Cluster",
+   "region": "Essex, Suffolk, Norfolk, Cambridgeshire, Hertfordshire, Bedfordshire",
+   "regions": [
+    {
+     "code": "E10000012",
+     "name": "Essex"
+    },
+    {
+     "code": "E06000033",
+     "name": "Southend-on-Sea"
+    },
+    {
+     "code": "E06000034",
+     "name": "Thurrock"
+    },
+    {
+     "code": "E10000029",
+     "name": "Suffolk"
+    },
+    {
+     "code": "E10000020",
+     "name": "Norfolk"
+    },
+    {
+     "code": "E10000003",
+     "name": "Cambridgeshire"
+    },
+    {
+     "code": "E06000031",
+     "name": "Peterborough"
+    },
+    {
+     "code": "E10000015",
+     "name": "Hertfordshire"
+    },
+    {
+     "code": "E06000055",
+     "name": "Bedford"
+    },
+    {
+     "code": "E06000056",
+     "name": "Central Bedfordshire"
+    },
+    {
+     "code": "E06000032",
+     "name": "Luton"
+    }
+   ],
+   "status": "live",
+   "web": "https://www.eastrdsc.co.uk/",
+   "linkedin": "https://www.linkedin.com/company/east-rdsc/",
+   "colour": "#157372",
+   "membership": null
+  },
+  {
+   "id": "EMRDSC",
+   "name": "East Midlands",
+   "full": "East Midlands Regional Defence and Security Cluster",
+   "region": "East Midlands",
+   "regions": [
+    {
+     "code": "E12000004",
+     "name": "East Midlands"
+    }
+   ],
+   "status": "live",
+   "web": "https://emrdsc.co.uk/",
+   "linkedin": "https://www.linkedin.com/company/emrdsc/",
+   "colour": "#1C2B5A",
+   "membership": null
+  },
+  {
+   "id": "WRDSC",
+   "name": "Western",
+   "full": "Western Regional Defence and Security Cluster",
+   "region": "Bristol, Gloucestershire, Bath and North East Somerset, Wiltshire, Swindon",
+   "regions": [
+    {
+     "code": "E06000023",
+     "name": "Bristol, City of"
+    },
+    {
+     "code": "E10000013",
+     "name": "Gloucestershire"
+    },
+    {
+     "code": "E06000025",
+     "name": "South Gloucestershire"
+    },
+    {
+     "code": "E06000022",
+     "name": "Bath and North East Somerset"
+    },
+    {
+     "code": "E06000054",
+     "name": "Wiltshire"
+    },
+    {
+     "code": "E06000030",
+     "name": "Swindon"
+    }
+   ],
+   "status": "live",
+   "web": "https://www.wrdsc.co.uk/",
+   "linkedin": "https://www.linkedin.com/company/western-regional-defence-security-cluster/",
+   "colour": "#5A4636",
+   "membership": null
+  },
+  {
+   "id": "WalesDSC",
+   "name": "Wales",
+   "full": "Wales Defence and Security Cluster",
+   "region": "Wales",
+   "regions": [
+    {
+     "code": "W92000004",
+     "name": "Wales"
+    }
+   ],
+   "status": "live",
+   "web": "https://walesdsc.co.uk/",
+   "linkedin": "https://www.linkedin.com/company/wales-defence-security-cluster/",
+   "colour": "#002060",
+   "membership": "mbr-walesdsc"
+  },
+  {
+   "id": "WMRDSC",
+   "name": "West Midlands",
+   "full": "West Midlands Regional Defence and Security Cluster",
+   "region": "West Midlands",
+   "regions": [
+    {
+     "code": "E12000005",
+     "name": "West Midlands"
+    }
+   ],
+   "status": "live",
+   "web": "https://www.westmidsrdsc.co.uk/",
+   "linkedin": "https://www.linkedin.com/company/westmidsrdsc/",
+   "colour": "#23246A",
+   "membership": null
+  },
+  {
+   "id": "YRDSC",
+   "name": "Yorkshire",
+   "full": "Yorkshire Regional Defence and Security Cluster",
+   "region": "Yorkshire",
+   "regions": [
+    {
+     "code": "E12000003",
+     "name": "Yorkshire and The Humber"
+    }
+   ],
+   "status": "live",
+   "web": "https://www.yorkshirerdsc.co.uk/",
+   "linkedin": "https://www.linkedin.com/company/yorkshire-regional-defence-security-cluster/",
+   "colour": "#1F2F54",
+   "membership": null
+  },
+  {
+   "id": "NIDSC",
+   "name": "Northern Ireland",
+   "full": "Northern Ireland Defence and Security Cluster",
+   "region": "Northern Ireland",
+   "regions": [
+    {
+     "code": "N92000002",
+     "name": "Northern Ireland"
+    }
+   ],
+   "status": "pre-launch",
+   "web": null,
+   "linkedin": null,
+   "colour": "#5B6770",
+   "membership": null
+  },
+  {
+   "id": "SERDSC",
+   "name": "South East",
+   "full": "South East Regional Defence and Security Cluster",
+   "region": "Kent and East Sussex",
+   "regions": [
+    {
+     "code": "E10000016",
+     "name": "Kent"
+    },
+    {
+     "code": "E06000035",
+     "name": "Medway"
+    },
+    {
+     "code": "E10000011",
+     "name": "East Sussex"
+    },
+    {
+     "code": "E06000043",
+     "name": "Brighton and Hove"
+    }
+   ],
+   "status": "proposed",
+   "web": null,
+   "linkedin": null,
+   "colour": "#5B6770",
+   "membership": null
+  },
+  {
+   "id": "ScotlandDSC",
+   "name": "Scotland",
+   "full": "Scotland Defence and Security Cluster",
+   "region": "Scotland",
+   "regions": [
+    {
+     "code": "S92000003",
+     "name": "Scotland"
+    }
+   ],
+   "status": "proposed",
+   "web": null,
+   "linkedin": null,
+   "colour": "#5B6770",
+   "membership": null
+  }
+ ]
+}

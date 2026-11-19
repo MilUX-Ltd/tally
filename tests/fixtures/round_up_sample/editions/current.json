@@ -1,0 +1,16 @@
+{
+ "as_of": "2026-11-19",
+ "edition": "Synthetic",
+ "next_id": 99,
+ "items": [
+  {"id": "s1", "cluster": "SCRDSC", "kind": "event", "audience": "public", "title": "Public showcase", "date": "2026-12-01", "time": "10:00", "where": "Portsmouth", "summary": "An open showcase for SMEs.", "link": "https://example.org/showcase", "received": "2026-11-01", "source": "PLANTED-SOURCE", "post": "https://example.org/PLANTED-POST", "also": ["ScotlandDSC"], "date_role": "event"},
+  {"id": "s2", "cluster": "SCRDSC", "kind": "event", "audience": "members", "title": "PLANTED-MEMBERS-TITLE", "date": "2026-12-05", "time": "PLANTED-MEMBERS-TIME", "where": "PLANTED-MEMBERS-PLACE", "summary": "PLANTED-MEMBERS-SUMMARY", "link": "https://example.org/PLANTED-MEMBERS-LINK", "received": "2026-11-02", "source": "email"},
+  {"id": "s3", "cluster": "SCRDSC", "kind": "event", "audience": "public", "title": "PLANTED-PAST-EVENT", "date": "2026-11-18", "time": null, "where": "Online", "summary": "Already happened.", "link": null, "received": "2026-11-01", "source": "linkedin"},
+  {"id": "s4", "cluster": "SCRDSC", "kind": "event", "audience": "public", "title": "PLANTED-UNDATED-EVENT", "date": null, "time": null, "where": "Online", "summary": "No date yet.", "link": null, "received": "2026-11-01", "source": "linkedin"},
+  {"id": "s5", "cluster": "SCRDSC", "kind": "funding", "audience": "public", "title": "PLANTED-FUNDING-CALL", "date": "2026-12-20", "summary": "A grant.", "link": "https://example.org/grant", "received": "2026-11-01", "source": "linkedin"},
+  {"id": "s6", "cluster": "SCRDSC", "kind": "event", "audience": "public", "title": "PLANTED-RECEIVED-MENTION", "date": "2026-12-10", "time": null, "where": "Online", "summary": "Forwarded in the members' newsletter by email.", "link": null, "received": "2026-11-01", "source": "email"},
+  {"id": "s7", "cluster": "UNKNOWN", "kind": "event", "audience": "public", "title": "PLANTED-UNKNOWN-CLUSTER", "date": "2026-12-10", "time": null, "where": "Online", "summary": "Not a known cluster.", "link": null, "received": "2026-11-01", "source": "linkedin"},
+  {"id": "s8", "cluster": "ScotlandDSC", "kind": "event", "audience": "members", "title": "PLANTED-NO-WEBSITE", "date": "2026-12-12", "time": null, "where": "PLANTED-NO-WEBSITE-PLACE", "summary": "PLANTED-NO-WEBSITE-SUMMARY", "link": null, "received": "2026-11-01", "source": "email"},
+  {"id": "s9", "cluster": "SCRDSC", "kind": "event", "audience": "public", "title": "Today's open day", "date": "2026-11-19", "time": null, "where": null, "summary": "Open to all.", "link": "javascript:alert(1)", "received": "2026-11-01", "source": "linkedin"}
+ ]
+}
