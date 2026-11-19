@@ -15,17 +15,23 @@ lon: -0.4764
 location-source: companies-house
 tags:
   - defence
+  - electronics
   - manufacturing
   - hardware
+  - integration
   - air
   - size-small
+  - type-manufacturer
   - type-sme
+  - owned-uk
   - accr-as9100
+  - accr-iso9001
   - accr-iso13485
   - accr-iso14001
   - accr-iso27001
   - accr-ce-plus
   - mbr-ads
+  - mbr-makeuk-defence
   - accr-joscar
   - pcbs
   - mechanical-engineering
@@ -37,18 +43,18 @@ tags:
 
 ## What they do
 
-Jaltek Systems is a UK electronics design and manufacturing company based in Luton with over 35 years' experience. It focuses on low-to-medium volume, high-mix product profiles, supporting tier 1 UK and US defence contractors. The company describes a 20-year history in the defence and aerospace electronics manufacturing sector.
+Jaltek Systems is a UK electronics design and manufacturing company based in Luton with over 35 years' experience. It focuses on low-to-medium volume, high-mix product profiles, supporting tier 1 UK and US defence contractors across the aerospace, defence, space, marine, medical and security sectors. Its work spans hardware, PCB and software design through to new product introduction, PCB assembly, test and box build. The company describes a 20-year history in the defence and aerospace electronics manufacturing sector.
 
 ## Products and solutions
 
-- **Electronics manufacturing services (EMS)** - contract manufacture, test and final product assembly of printed circuit board assemblies and complete products.
+- **Electronics manufacturing services (EMS)** - contract manufacture, new product introduction, supply chain management, test and final product assembly of printed circuit board assemblies and complete products.
 - **Design and engineering** - conceptual design, hardware and software/firmware development, PCB layout and mechanical engineering.
 - **Environmental protection** - conformal coatings, pottings and encapsulations for products operating in extreme environments.
 
 ## Frameworks, accreditations and memberships
 
-- **Accreditations:** AS9100, ISO 13485, ISO 14001, ISO/IEC 27001, Cyber Essentials Plus, and BSI Kitemark to IPC-A-610.
-- **Memberships:** ADS Group; JOSCAR registered.
+- **Accreditations:** AS9100, ISO 9001, ISO 13485, ISO 14001, ISO/IEC 27001, Cyber Essentials Plus, IPC, and BSI Kitemark to IPC-A-610.
+- **Memberships:** ADS Group; JOSCAR registered; Make UK Defence; Bedfordshire Chamber of Commerce; Silverstone Technology Cluster; Medilink Midlands.
 
 ## Recent news
 

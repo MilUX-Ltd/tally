@@ -34,7 +34,7 @@ tags:
 
 ## What they do
 
-Blackbird.AI develops the Constellation Platform, an AI-enabled narrative intelligence system that detects, analyses and prioritises harmful narratives, disinformation campaigns and coordinated influence operations across social media, news, and the dark web. The platform identifies threat actors, maps the networks through which narratives spread, and scores risk across more than 25 languages. Customers include national security organisations, NATO, and major enterprises globally.
+Blackbird.AI develops the Constellation Platform, an AI-enabled narrative intelligence system that detects, analyses and prioritises harmful narratives, disinformation campaigns and coordinated influence operations across social media, news, and the dark web. The platform identifies threat actors, maps the networks through which narratives spread, and scores risk across more than 25 languages. The company was founded by a team spanning AI, threat intelligence, journalism and national security. Use cases cover strategic communications, brand protection and national security, with customers including national security organisations, NATO and major enterprises globally.
 
 ## Products and solutions
 
@@ -48,6 +48,8 @@ Blackbird.AI develops the Constellation Platform, an AI-enabled narrative intell
 
 ## Frameworks, accreditations and memberships
 
+No frameworks, accreditations or memberships publicly confirmed at time of writing.
+
 ## Recent news
 
 - **2026-02** - Brandwatch and Blackbird.AI selected by NATO to deliver an Information Environment Assessment Capability (IEAC), providing AI-enabled tools to monitor, analyse and counter disinformation across the Alliance. [Blackbird.AI](https://blackbird.ai/blog/nato-brandwatch-blackbird-ai/)
@@ -60,4 +62,4 @@ Blackbird.AI develops the Constellation Platform, an AI-enabled narrative intell
 
 ## Sources
 
-Public information verified 2026-06-29.
+Public information verified 2026-07-04. Company website (blackbird.ai), company LinkedIn page, Fintech Global (9 January 2026), Blackbird.AI blog (NATO/Brandwatch announcement, February 2026).
