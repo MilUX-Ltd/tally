@@ -15,7 +15,6 @@ location-note: registered office; the company's proposed development is the form
 tags:
   - defence
   - construction-infrastructure
-  - aerospace
   - mbr-glrdsc
 ---
 

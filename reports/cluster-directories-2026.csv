@@ -54,7 +54,7 @@ South Central RDSC,Quercus Defence Limited,skipped,,"Could not be identified wit
 South Central RDSC,Righton and Blackburns Limited,matched,Companies/O-R/Righton Blackburns.md,
 South Central RDSC,Robosys Automation,matched,Companies/O-R/Robosys Automation.md,
 South Central RDSC,Rougemont Security,new,Companies/O-R/Rougemont Security.md,Companies House number omitted: the only same-name company (15008138) has SIC 80100 and the website does not confirm the link.
-South Central RDSC,Royal Air Force,matched,Companies/O-R/Royal Air Force.md,Listed with the RAF Benevolent Fund website; matched to the Royal Air Force page.
+South Central RDSC,Royal Air Force,skipped,,"Government body (the South Central listing links a charity, the RAF Benevolent Fund); skipped as for other government bodies."
 South Central RDSC,SDO Associates,matched,Companies/S-T/SDO Associates.md,
 South Central RDSC,SeaBot Maritime,new,Companies/S-T/SeaBot Maritime.md,
 South Central RDSC,Seacht Group,new,Companies/S-T/Seacht Group.md,Page is for the group holding company Seacht Holdings Limited (12502699); its subsidiary Saith has a separate page.
@@ -236,7 +236,7 @@ Greater Lincolnshire RDSC,MAIAR Limited,matched,Companies/I-N/MAIAR.md,
 Greater Lincolnshire RDSC,Metis Aerospace,matched,Companies/I-N/Metis Aerospace.md,
 Greater Lincolnshire RDSC,Metrea Mission Data,matched,Companies/I-N/Metrea Mission Data.md,"Matched to the UK Metrea Mission Data page, not the US Metrea Aerospace page."
 Greater Lincolnshire RDSC,Qinetiq,matched,Companies/O-R/QinetiQ.md,
-Greater Lincolnshire RDSC,Royal Air Force,matched,Companies/O-R/Royal Air Force.md,
+Greater Lincolnshire RDSC,Royal Air Force,skipped,,"Government body (the South Central listing links a charity, the RAF Benevolent Fund); skipped as for other government bodies."
 Greater Lincolnshire RDSC,Tekh Ltd,matched,Companies/S-T/Tekh Ltd.md,
 Greater Lincolnshire RDSC,TMS Support Solutions Ltd,matched,Companies/S-T/TMS Support Solutions Ltd.md,
 Greater Lincolnshire RDSC,University of Lincoln,new,Companies/U-Z/University of Lincoln.md,

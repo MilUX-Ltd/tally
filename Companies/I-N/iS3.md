@@ -16,8 +16,6 @@ tags:
   - consultancy
   - ai
   - software
-  - cyber
-  - cyber/grc
   - training
   - size-micro
   - type-consultancy

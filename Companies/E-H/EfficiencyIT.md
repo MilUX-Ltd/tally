@@ -47,8 +47,6 @@ EfficiencyIT Limited states that it was established in 2016 and provides consult
 
 ## Recent news
 
-- **2026-10-07** - Appointed a new Technical Director to scale prefabricated data centre delivery. [source](https://efficiencyit.com/efficiencyit-appoints-modular-infrastructure-expert-graham-robson-to-scale-prefabricated-data-centre-delivery/)
-- **2026-05-28** - Appointed a Business Transformation Director. [source](https://efficiencyit.com/efficiencyit-appoints-giles-pattison-as-business-transformation-director-to-accelerate-scale-and-service-excellence/)
 
 ## Links
 

@@ -16,7 +16,6 @@ tags:
   - design
   - mechanical-engineering
   - test-equipment
-  - rf
   - manufacturing
   - size-micro
   - type-sme
