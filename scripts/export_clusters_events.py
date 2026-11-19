@@ -1,8 +1,9 @@
 #!/usr/bin/env python3
-"""Export the cluster list and upcoming cluster events for the Tally site.
+"""Export the cluster list, upcoming cluster events and open opportunities for the Tally site.
 
 Reads a cluster round-up folder (clusters.json and editions/current.json) and writes
-clusters.json and events.json at the top of this repository. Run by the weekly refresh:
+clusters.json, events.json and opportunities.json at the top of this repository. Run by the
+weekly refresh:
 
     python3 scripts/export_clusters_events.py --source <round-up folder> --today YYYY-MM-DD
 
@@ -18,6 +19,18 @@ Standard library only. The export works by allow-list:
   left out.
 - Nothing else from the round-up is copied: no source, received date, id, other
   clusters, post links or notes.
+
+Funding calls and opportunities (opportunities.json), by allow-list too:
+
+- Only items of kind "funding" or "opportunity", for a known cluster, marked public.
+- Only items dated on or after --today, or undated items whose own title or summary says
+  they are open-ended (rolling, ongoing, always open, no closing date). If it is unclear,
+  the item is left out.
+- Only items with a public http(s) link. Each keeps kind, cluster, deadline, time, title,
+  summary and link, and nothing else.
+- Members-only items are left out entirely, with no signpost: nothing is read from them.
+- Items whose text mentions how they were received, or carries an email address or a
+  personal LinkedIn profile, are left out.
 
 Region codes are ONS Open Geography codes (December 2025): counties and unitary
 authorities, English regions, and countries. They describe each cluster's area from its
@@ -208,6 +221,71 @@ def build_events(items, clusters, today):
     return {"as_of": today, "events": events}
 
 
+# Funding calls and opportunities --------------------------------------------------------
+
+OPPORTUNITY_KINDS = ("funding", "opportunity")
+OPEN_ENDED = re.compile(
+    r"\brolling\b|\bongoing\b|\balways open\b|\bopen all year\b|\bopen year-round\b"
+    r"|\bno (closing date|deadline)\b",
+    re.I,
+)
+EMAIL = re.compile(r"[A-Za-z0-9._%+-]+@[A-Za-z0-9-]+(\.[A-Za-z0-9-]+)*\.[A-Za-z]{2,}")
+PERSONAL_LINKEDIN = re.compile(r"linkedin\.com/in/", re.I)
+
+
+def carries_personal_data(item):
+    return any(
+        isinstance(item.get(k), str) and (EMAIL.search(item[k]) or PERSONAL_LINKEDIN.search(item[k]))
+        for k in ("title", "summary", "time", "link")
+    )
+
+
+def build_opportunity_list(items, clusters, today):
+    known = {c["id"] for c in clusters}
+    out = []
+    for item in items:
+        if item.get("kind") not in OPPORTUNITY_KINDS or item.get("cluster") not in known:
+            continue
+        # Members-only (or unlabelled) items are left out; nothing else is read from them.
+        if item.get("audience") != "public":
+            continue
+        title, summary = text(item.get("title")), text(item.get("summary"))
+        if not title or mentions_receipt(item) or carries_personal_data(item):
+            continue
+        link = text(item.get("link"))
+        if not (link and SAFE_LINK.match(link)):
+            continue
+        deadline = iso_date(item.get("date"))
+        if deadline:
+            if deadline < today:
+                continue
+        elif item.get("date") is not None or not OPEN_ENDED.search(f"{title} {summary or ''}"):
+            continue
+        out.append({
+            "kind": item["kind"],
+            "cluster": item["cluster"],
+            "deadline": deadline,
+            "time": text(item.get("time")),
+            "title": title,
+            "summary": summary,
+            "link": link,
+        })
+    out.sort(key=lambda o: (o["deadline"] is None, o["deadline"] or "", o["cluster"], o["title"]))
+    return {"as_of": today, "opportunities": out}
+
+
+def build_opportunities(source, today):
+    """Return the opportunities document for a round-up folder and an export date."""
+    today = date.fromisoformat(today).isoformat()
+    source = Path(source)
+    raw_clusters = json.loads((source / "clusters.json").read_text(encoding="utf-8"))
+    edition = json.loads((source / "editions" / "current.json").read_text(encoding="utf-8"))
+    clusters = build_clusters(raw_clusters, today)["clusters"]
+    return build_opportunity_list(edition.get("items", []), clusters, today)
+
+
+# Clusters and events, and the command line -----------------------------------------------
+
 def build(source, today):
     """Return (clusters, events) documents for a round-up folder and an export date."""
     today = date.fromisoformat(today).isoformat()
@@ -225,13 +303,17 @@ def main(argv=None):
     parser.add_argument("--today", default=date.today().isoformat(), help="export date, YYYY-MM-DD")
     args = parser.parse_args(argv)
     clusters, events = build(args.source, args.today)
-    for name, doc in (("clusters.json", clusters), ("events.json", events)):
+    opportunities = build_opportunities(args.source, args.today)
+    for name, doc in (
+        ("clusters.json", clusters), ("events.json", events), ("opportunities.json", opportunities),
+    ):
         (ROOT / name).write_text(json.dumps(doc, indent=1, ensure_ascii=False) + "\n", encoding="utf-8")
     members = sum(1 for e in events["events"] if e["audience"] == "members")
     print(
         f"Wrote {len(clusters['clusters'])} clusters and {len(events['events'])} events "
         f"({len(events['events']) - members} public, {members} members-only signposts)."
     )
+    print(f"Wrote {len(opportunities['opportunities'])} open funding calls and opportunities.")
     return 0
 
 
