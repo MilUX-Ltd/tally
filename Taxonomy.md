@@ -94,7 +94,7 @@ Land, air and sea, the vehicles, ships and aircraft that operate there, weapons 
 
 ### Command, control and communications
 
-Command and control, communications and geospatial.
+Command and control, and communications.
 
 | slug | label |
 |---|---|
@@ -110,11 +110,10 @@ Command and control, communications and geospatial.
 | `comms/secure-voice` | Comms / Secure Voice |
 | `comms/tactical-radio` | Comms / Tactical Radio |
 | `comms/waveforms` | Comms / Waveforms |
-| `gis` | GIS |
 
 ### Sensing, ISR and electronic warfare
 
-Sensors, surveillance, intelligence and the electromagnetic spectrum.
+Sensors, surveillance, intelligence, geospatial and the electromagnetic spectrum.
 
 | slug | label |
 |---|---|
@@ -126,6 +125,7 @@ Sensors, surveillance, intelligence and the electromagnetic spectrum.
 | `ew/ecm` | EW / ECM |
 | `ew/elint` | EW / ELINT |
 | `ew/spectrum-management` | EW / Spectrum Management |
+| `gis` | GIS |
 | `isr` | ISR |
 | `isr/fusion` | ISR / Fusion |
 | `isr/geoint` | ISR / GEOINT |
@@ -205,6 +205,7 @@ Drones and uncrewed systems, their parts, and countering them.
 | `uas/airframe` | UAS / Airframe |
 | `uas/airworthiness` | UAS / Airworthiness and Compliance |
 | `uas/fixed-wing` | UAS / Fixed Wing |
+| `uas/ground-control` | UAS / Ground Control |
 | `uas/guidance` | UAS / Guidance |
 | `uas/multirotor` | UAS / Multirotor |
 | `uas/parts` | UAS / Parts Supply |
@@ -246,7 +247,6 @@ Making things: fabrication, materials, electronics and hardware.
 | `hardware` | Hardware |
 | `manufacturing` | Manufacturing |
 | `metal-fabrication` | Metal Fabrication |
-| `obsolescence` | Obsolescence Management |
 | `pcbs` | PCBs |
 | `plastics` | Plastics |
 | `precision-engineering` | Precision Engineering |
@@ -279,6 +279,7 @@ Training, logistics, through-life support and professional services.
 | `inspection-certification` | Inspection, Testing and Certification |
 | `legal` | Legal |
 | `logistics` | Logistics |
+| `obsolescence` | Obsolescence Management |
 | `packaging` | Packaging |
 | `project-management` | Project Management |
 | `services` | Services |
@@ -336,7 +337,7 @@ Each column of the Defence Wales Capability Matrix 2026 and the Tally capability
 | Surveillance Technology | `uas/payload` |
 | Counter UAV Technology | `counter-uas` |
 | Guidance Systems | `uas/guidance` |
-| Ground Control Systems | `autonomy/uxv-control` |
+| Ground Control Systems | `uas/ground-control` |
 | Software R&D | `software` |
 | Electronics R&D | `electronics` |
 | Electronics Installation | `electronics` |

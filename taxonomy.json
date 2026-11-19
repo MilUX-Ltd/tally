@@ -116,11 +116,6 @@
           "group": "c3"
         },
         {
-          "slug": "gis",
-          "label": "GIS",
-          "group": "c3"
-        },
-        {
           "slug": "acoustic",
           "label": "Acoustic",
           "group": "sensing"
@@ -158,6 +153,11 @@
         {
           "slug": "ew/spectrum-management",
           "label": "EW / Spectrum Management",
+          "group": "sensing"
+        },
+        {
+          "slug": "gis",
+          "label": "GIS",
           "group": "sensing"
         },
         {
@@ -451,6 +451,11 @@
           "group": "uncrewed"
         },
         {
+          "slug": "uas/ground-control",
+          "label": "UAS / Ground Control",
+          "group": "uncrewed"
+        },
+        {
           "slug": "uas/guidance",
           "label": "UAS / Guidance",
           "group": "uncrewed"
@@ -586,11 +591,6 @@
           "group": "manufacturing"
         },
         {
-          "slug": "obsolescence",
-          "label": "Obsolescence Management",
-          "group": "manufacturing"
-        },
-        {
           "slug": "pcbs",
           "label": "PCBs",
           "group": "manufacturing"
@@ -681,6 +681,11 @@
           "group": "services"
         },
         {
+          "slug": "obsolescence",
+          "label": "Obsolescence Management",
+          "group": "services"
+        },
+        {
           "slug": "packaging",
           "label": "Packaging",
           "group": "services"
@@ -732,13 +737,13 @@
           "slug": "c3",
           "label": "Command, control and communications",
           "order": 2,
-          "description": "Command and control, communications and geospatial."
+          "description": "Command and control, and communications."
         },
         {
           "slug": "sensing",
           "label": "Sensing, ISR and electronic warfare",
           "order": 3,
-          "description": "Sensors, surveillance, intelligence and the electromagnetic spectrum."
+          "description": "Sensors, surveillance, intelligence, geospatial and the electromagnetic spectrum."
         },
         {
           "slug": "cyber-data-software",
@@ -816,7 +821,7 @@
         "Surveillance Technology": "uas/payload",
         "Counter UAV Technology": "counter-uas",
         "Guidance Systems": "uas/guidance",
-        "Ground Control Systems": "autonomy/uxv-control",
+        "Ground Control Systems": "uas/ground-control",
         "Software R&D": "software",
         "Electronics R&D": "electronics",
         "Electronics Installation": "electronics",
