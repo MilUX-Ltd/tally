@@ -37,6 +37,7 @@ tags:
   - owned-foreign
   - mbr-ads
   - advanced-manufacturing
+  - mbr-walesdsc
 ---
 
 # Raytheon UK

@@ -18,6 +18,7 @@ tags:
   - type-manufacturer
   - owned-uk
   - advanced-manufacturing
+  - mbr-walesdsc
 ---
 
 # Vision Engineering Ltd

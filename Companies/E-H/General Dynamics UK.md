@@ -35,6 +35,7 @@ tags:
   - type-prime
   - owned-foreign
   - mbr-ads
+  - mbr-walesdsc
 ---
 
 # General Dynamics UK

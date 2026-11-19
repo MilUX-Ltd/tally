@@ -43,6 +43,7 @@ JOSCAR is an accreditation. Framework and membership `joscar` tags were merged i
 | `mbr-scrdsc` | SCRDSC |
 | `mbr-smi` | SMi |
 | `mbr-techuk` | techUK |
+| `mbr-walesdsc` | Defence Wales |
 
 ## Size
 

@@ -28,6 +28,7 @@ tags:
   - owned-uk
   - accr-ce-plus
   - accr-iso9001
+  - mbr-walesdsc
 ---
 
 # Excelerate Technology Ltd

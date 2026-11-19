@@ -23,6 +23,7 @@ tags:
   - type-manufacturer
   - owned-foreign
   - mbr-ads
+  - mbr-walesdsc
 ---
 
 # FAUN Trackway

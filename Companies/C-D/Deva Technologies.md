@@ -29,6 +29,7 @@ tags:
   - accr-joscar
   - accr-iso9001
   - mbr-ads
+  - mbr-walesdsc
 ---
 
 # Deva Technologies

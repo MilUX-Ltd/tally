@@ -23,6 +23,7 @@ tags:
   - listed
   - mbr-ads
   - facilities-management
+  - mbr-walesdsc
 ---
 
 # ESS - Compass Contract Services (UK)

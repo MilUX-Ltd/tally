@@ -43,6 +43,7 @@ tags:
   - owned-foreign
   - listed
   - mbr-ads
+  - mbr-walesdsc
 ---
 
 # Northrop Grumman Corporation

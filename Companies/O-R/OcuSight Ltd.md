@@ -23,6 +23,7 @@ tags:
   - software
   - type-sme
   - owned-uk
+  - mbr-walesdsc
 ---
 
 # OcuSight Ltd

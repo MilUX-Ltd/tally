@@ -30,6 +30,7 @@ tags:
   - listed
   - owned-foreign
   - mbr-ads
+  - mbr-walesdsc
 ---
 
 # Airbus Defence and Space

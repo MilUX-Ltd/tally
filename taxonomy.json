@@ -1035,6 +1035,10 @@
         {
           "slug": "mbr-techuk",
           "label": "techUK"
+        },
+        {
+          "slug": "mbr-walesdsc",
+          "label": "Defence Wales"
         }
       ]
     }
