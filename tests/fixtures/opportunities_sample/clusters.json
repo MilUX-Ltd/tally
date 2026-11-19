@@ -1,0 +1,7 @@
+{
+ "_note": "Synthetic round-up for the export tests. Every value is invented.",
+ "clusters": [
+  {"id": "SCRDSC", "name": "South Central", "full": "South Central Regional Defence and Security Cluster", "region": "Hampshire, Surrey, West Sussex, Isle of Wight", "status": "live", "since": "2024", "web": "https://www.southcentralrdsc.co.uk/", "linkedin": "https://www.linkedin.com/company/example-scrdsc/", "colour": "#8B1A3A", "logo": "scrdsc.png", "map": {"lon": -1.25, "lat": 51.0, "label": "l"}, "directory": "PLANTED-DIRECTORY-NOTE"},
+  {"id": "ScotlandDSC", "name": "Scotland", "full": "Scotland Defence and Security Cluster", "region": "Scotland", "status": "proposed", "since": null, "web": null, "linkedin": null, "colour": "#5B6770", "logo": null, "map": {"lon": -4.1, "lat": 56.65, "label": "r"}}
+ ]
+}
