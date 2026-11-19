@@ -14,6 +14,13 @@ tags:
   - defence
   - <capability tags>
   - <size- type- ownership- fw- accr- prog- mbr- tags>
+# Optional, and only with the register's permission: a manual check of one of
+# the page's accr- tags against a public register. Leave it out otherwise.
+certification-checks:
+  - accreditation: <accr- tag the page carries, e.g. accr-ce-plus>
+    register: <register as it reads after "Checked against", e.g. the IASME register>
+    checked: <YYYY-MM-DD, the day of the check>
+    link: <https link to the register entry, optional>
 ---
 
 # <Company Name>

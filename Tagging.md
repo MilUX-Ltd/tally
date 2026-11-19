@@ -79,6 +79,8 @@ The procurement vehicles a company sits on. The facet that makes the directory w
 
 `accr-ce` (Cyber Essentials), `accr-ce-plus` (Cyber Essentials Plus), `accr-iso9001`, `accr-iso27001`, `accr-iso14001`, `accr-listx` (List X facility), `accr-def-stan`, `accr-itar`.
 
+An `accr-` tag records what the company states about itself, and Tally shows it as "Stated by the company". A page may also record a manual check of a certification against a public register in `certification-checks` (see the company page template); Tally then shows "Checked against <register> on <date>". Record a check only with the register's permission, only for an `accr-` tag the page carries, and only when the certificate was found. If a check finds nothing, leave the tag as stated and record nothing: Tally never says that a company is not certified. The gate (`.github/scripts/check.py`) checks the field, and `tally-data.json` carries it as `certification_checks`.
+
 ## Programmes and accelerators (`prog-`)
 
 `prog-dasa` (DASA-funded), `prog-diana` (NATO DIANA), `prog-nssif` (NSSIF-backed), `prog-spark`.

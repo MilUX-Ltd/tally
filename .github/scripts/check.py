@@ -23,8 +23,14 @@ Standard library only, Python 3.9 or later. Exit 0 when every check passes, 1 ot
    BLOCKED_BASELINE, keyed by the SHA-256 of the file path, with the number of hits allowed.
    Any new file, or any extra hit in a baselined file, fails. Remove an entry once its file is
    clean.
+6. Every certification check a company page records (`certification-checks` in its
+   frontmatter, see the company page template) is well formed: a list of checks, each with an
+   `accreditation` the page carries in its tags and taxonomy.json knows, a plain-text
+   `register` of 2 to 80 characters, a real `checked` date (YYYY-MM-DD) that is not in the
+   future, and optionally an https `link`; no other keys, and one check per accreditation.
 """
 
+import datetime
 import hashlib
 import json
 import re
@@ -81,6 +87,115 @@ BLOCKED_BASELINE = {
 
 failures = []
 
+FRONTMATTER = re.compile(r"\A---\n(.*?)\n---", re.S)
+CHECK_KEYS = ("accreditation", "register", "checked", "link")
+CHECK_ITEM = re.compile(r"^[ \t]+- ([a-z-]+):[ \t]*(.*)$")
+CHECK_FIELD = re.compile(r"^[ \t]+([a-z-]+):[ \t]*(.*)$")
+DATE = re.compile(r"^\d{4}-\d{2}-\d{2}$")
+HTTPS = re.compile(r"^https://[^\s<>\"]+$")
+
+
+def _frontmatter(text):
+    match = FRONTMATTER.match(text.replace("\r\n", "\n"))
+    return match.group(1) if match else ""
+
+
+def _unquote(value):
+    value = value.strip()
+    if len(value) >= 2 and value[0] == value[-1] and value[0] in "'\"":
+        return value[1:-1]
+    return value
+
+
+def frontmatter_name(text):
+    """The page's frontmatter name, or an empty string."""
+    match = re.search(r"^name:[ \t]*(.+)$", _frontmatter(text), re.M)
+    return _unquote(match.group(1)) if match else ""
+
+
+def _page_tags(meta):
+    match = re.search(r"^tags:[ \t]*\n((?:[ \t]+- .*\n?)+)", meta, re.M)
+    if not match:
+        return set()
+    return {_unquote(t) for t in re.findall(r"^[ \t]+- (.+)$", match.group(1), re.M)}
+
+
+def _parse_checks(text):
+    """(checks, problems) from the certification-checks block; checks is [] when there is none."""
+    lines = _frontmatter(text).split("\n")
+    start = next((i for i, line in enumerate(lines) if re.match(r"^certification-checks:", line)), None)
+    if start is None:
+        return [], []
+    inline = lines[start].split(":", 1)[1].strip()
+    if inline and inline != "[]":
+        return [], ["certification-checks must be a list of checks"]
+    checks, problems = [], []
+    for line in lines[start + 1 :]:
+        if not line.strip():
+            continue
+        if not line[0].isspace():
+            break
+        item, field = CHECK_ITEM.match(line), CHECK_FIELD.match(line)
+        if item:
+            checks.append({item.group(1): _unquote(item.group(2))})
+        elif field and checks:
+            key = field.group(1)
+            if key in checks[-1]:
+                problems.append(f"certification check repeats {key}")
+            checks[-1][key] = _unquote(field.group(2))
+        else:
+            problems.append(f"certification-checks is not a list of checks: {line.strip()[:40]}")
+    return checks, problems
+
+
+def certification_checks(text):
+    """The certification checks a company page records, as dicts of their fields."""
+    return _parse_checks(text)[0]
+
+
+def certification_check_problems(text, accreditations):
+    """Problems with a page's certification checks, given the accreditation slugs taxonomy.json knows."""
+    checks, problems = _parse_checks(text)
+    tags = _page_tags(_frontmatter(text))
+    seen = set()
+    today = datetime.date.today()
+    for check in checks:
+        accr = check.get("accreditation", "")
+        label = accr or "a check"
+        extra = sorted(set(check) - set(CHECK_KEYS))
+        if extra:
+            problems.append(f"{label}: unknown key(s) {', '.join(extra)}")
+        if not accr.startswith("accr-") or accr not in accreditations:
+            problems.append(f"{label}: not an accreditation taxonomy.json knows")
+        elif accr not in tags:
+            problems.append(f"{label}: the page does not carry this accreditation in its tags")
+        if accr in seen:
+            problems.append(f"{label}: checked more than once")
+        seen.add(accr)
+        register = check.get("register", "")
+        if not 2 <= len(register) <= 80:
+            problems.append(f"{label}: register must be 2 to 80 characters")
+        if "://" in register or "www." in register.lower() or "\n" in register:
+            problems.append(f"{label}: register must be plain text, without a link")
+        checked = check.get("checked", "")
+        try:
+            if not DATE.match(checked):
+                raise ValueError
+            date = datetime.date.fromisoformat(checked)
+            if date > today:
+                problems.append(f"{label}: checked date is in the future")
+        except ValueError:
+            problems.append(f"{label}: checked must be a real date, YYYY-MM-DD")
+        link = check.get("link", "")
+        if link and not HTTPS.match(link):
+            problems.append(f"{label}: link must be an https address")
+    return problems
+
+
+def known_accreditations():
+    taxonomy = json.loads((ROOT / "taxonomy.json").read_text(encoding="utf-8"))
+    return {v["slug"] for v in taxonomy["facets"]["accreditations"]["values"]}
+
 
 def sha256(text):
     return hashlib.sha256(text.encode("utf-8")).hexdigest()
@@ -127,6 +242,7 @@ def read_text(path):
 
 def main():
     files = tracked()
+    accreditations = known_accreditations()
     for path in files:
         for pattern, what in FORBIDDEN:
             if pattern.search(path):
@@ -146,6 +262,8 @@ def main():
                 failures.append(f"{path}: carries an email address (company pages only)")
             if PERSONAL_LINKEDIN.search(text):
                 failures.append(f"{path}: links a personal LinkedIn profile (company pages only)")
+            for problem in certification_check_problems(text, accreditations):
+                failures.append(f"{path}: {problem}")
     failures.extend(blocked_problems(files))
     if failures:
         print(f"check.py: {len(failures)} problem(s)")
