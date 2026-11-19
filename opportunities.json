@@ -1,0 +1,59 @@
+{
+ "as_of": "2026-11-19",
+ "opportunities": [
+  {
+   "kind": "funding",
+   "cluster": "WRDSC",
+   "deadline": "2026-11-25",
+   "time": null,
+   "title": "UKRI 2026 Small Satellite Missions Sandpit",
+   "summary": "UKRI Space Programme seeks UK researchers to develop small satellite Earth observation missions supporting national security, defence and growth.",
+   "link": "https://www.ukri.org/opportunity/small-satellite-missions-sandpit/"
+  },
+  {
+   "kind": "funding",
+   "cluster": "OBCRDSC",
+   "deadline": "2026-11-30",
+   "time": null,
+   "title": "British Industrial Competitiveness Scheme (BICS) applications close",
+   "summary": "BICS applications are open until 30 November. Apply through the GOV.UK service.",
+   "link": "https://apply-for-bics.service.gov.uk/start"
+  },
+  {
+   "kind": "funding",
+   "cluster": "LRDSC",
+   "deadline": "2026-12-08",
+   "time": "11:00",
+   "title": "BridgeAI Deployment Catalyst: AI for decision-critical systems",
+   "summary": "Innovate UK share of up to £5m for AI SMEs with a TRL 5 to 6 solution, deploying with a medium or large UK organisation.",
+   "link": "https://ow.ly/Q5Fe51001tR"
+  },
+  {
+   "kind": "funding",
+   "cluster": "NWRDSC",
+   "deadline": "2026-12-09",
+   "time": "12:00",
+   "title": "UKDI electro-optic sensing competition, £2.8m",
+   "summary": "UK Defence Innovation, for Dstl, seeks electro-optic sensing that improves range, target recognition and performance in hard conditions, maturing TRL 3 to 6. Open to businesses, sole traders and universities.",
+   "link": "https://lnkd.in/efRmiVVG"
+  },
+  {
+   "kind": "funding",
+   "cluster": "WRDSC",
+   "deadline": "2027-01-11",
+   "time": null,
+   "title": "Space Florida and UK Space Agency innovation partnership",
+   "summary": "Joint R&D funding of up to £75k per UK partner. Consortia need a Florida partner and a UK business or academic partner.",
+   "link": "https://www.gov.uk/government/publications/call-for-proposals-space-florida-uk-space-agency-space-innovation-partnership"
+  },
+  {
+   "kind": "funding",
+   "cluster": "LRDSC",
+   "deadline": "2027-01-31",
+   "time": null,
+   "title": "Secure Innovation security reviews for technology SMEs",
+   "summary": "NPSA and NCSC security reviews worth £3,000 for a £500 contribution, covering cyber, risk, security culture and supply chain.",
+   "link": "https://iuk-business-connect.org.uk/opportunities/secure-innovation-security-reviews/"
+  }
+ ]
+}

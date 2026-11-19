@@ -37,14 +37,15 @@ You do not need to download anything. Three ways in:
 
 If you use Obsidian, you can also clone the repo and open the folder as a vault.
 
-## Clusters and events
+## Clusters, events and opportunities
 
-Two more files sit beside the company pages, for the Tally site and anyone else who wants them:
+Three more files sit beside the company pages, for the Tally site and anyone else who wants them:
 
 - `clusters.json`: the UK regional defence and security clusters, with each cluster's website, LinkedIn page, colour, status, the membership tag its members carry (`mbr-`), and the area it covers as ONS Open Geography codes.
 - `events.json`: upcoming cluster events. Public events are listed in full. Members-only events appear only as a signpost: the cluster, the date, and a link to the cluster's own website to join for details. Nothing from a members-only event is published.
+- `opportunities.json`: open funding calls and opportunities shared by the clusters, soonest deadline first. Only public items with a public link are listed, and only while their deadline has not passed (or, with no deadline, when the item says it is open-ended). Members-only items are not published in any form.
 
-Both are written by `scripts/export_clusters_events.py` as part of the weekly refresh, and checked by `tests/acceptance/test_cluster_events.py`.
+All three are written by `scripts/export_clusters_events.py` as part of the weekly refresh, and checked by `tests/acceptance/test_cluster_events.py` and `tests/acceptance/test_opportunities.py`.
 
 ## Tags
 
