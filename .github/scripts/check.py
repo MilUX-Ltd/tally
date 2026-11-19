@@ -27,7 +27,12 @@ Standard library only, Python 3.9 or later. Exit 0 when every check passes, 1 ot
    frontmatter, see the company page template) is well formed: a list of checks, each with an
    `accreditation` the page carries in its tags and taxonomy.json knows, a plain-text
    `register` of 2 to 80 characters, a real `checked` date (YYYY-MM-DD) that is not in the
-   future, and optionally an https `link`; no other keys, and one check per accreditation.
+   future (UTC), and optionally an https `link`; no other keys, and one check per
+   accreditation. The register may not carry negative or status wording (not, none, expired,
+   revoked, found and the like). The block must be written exactly as in the template: the key
+   alone on its line and once only, two-space list items, plain or simply quoted values, and no
+   comments, block scalars, flow style, anchors, tags or backslashes, so a YAML reader cannot
+   see a check the gate did not read.
 """
 
 import datetime
@@ -88,11 +93,23 @@ BLOCKED_BASELINE = {
 failures = []
 
 FRONTMATTER = re.compile(r"\A---\n(.*?)\n---", re.S)
+CHECKS_KEY = "certification-checks:"
 CHECK_KEYS = ("accreditation", "register", "checked", "link")
-CHECK_ITEM = re.compile(r"^[ \t]+- ([a-z-]+):[ \t]*(.*)$")
-CHECK_FIELD = re.compile(r"^[ \t]+([a-z-]+):[ \t]*(.*)$")
+# The one form the gate accepts, as in the company page template: the key alone
+# on its line, each check starting "  - key: value" and its other fields
+# "    key: value". Anything else is refused, so a YAML reader can never see a
+# check the gate did not read.
+CHECK_ITEM = re.compile(r"^  - ([a-z]+):(?: (.*))?$")
+CHECK_FIELD = re.compile(r"^    ([a-z]+):(?: (.*))?$")
 DATE = re.compile(r"^\d{4}-\d{2}-\d{2}$")
-HTTPS = re.compile(r"^https://[^\s<>\"]+$")
+HTTPS = re.compile(r"^https://[^\s<>\"\\]+$", re.I)
+# Negative or status wording a register name may not carry. The same list is in
+# tally-site's scripts/fetch-data.mjs; keep them alike.
+REGISTER_DENIED = re.compile(
+    r"\b(?:not|no|none|unverified|unconfirmed|uncertified|expired|revoked|lapsed|withdrawn|suspended|"
+    r"fail|failed|failure|invalid|removed|found|missing|cancelled|canceled)\b|n['’]t\b",
+    re.I,
+)
 
 
 def _frontmatter(text):
@@ -101,10 +118,39 @@ def _frontmatter(text):
 
 
 def _unquote(value):
+    """A YAML plain or quoted scalar's text. Single-quoted '' is one quote."""
     value = value.strip()
-    if len(value) >= 2 and value[0] == value[-1] and value[0] in "'\"":
+    if len(value) >= 2 and value[0] == value[-1] == "'":
+        return value[1:-1].replace("''", "'")
+    if len(value) >= 2 and value[0] == value[-1] == '"':
         return value[1:-1]
     return value
+
+
+def _value_problem(raw):
+    """Why a raw value is outside the canonical form, or None."""
+    value = (raw or "").strip()
+    if "\\" in value:
+        return "must not contain a backslash"
+    if re.search(r"(^|\s)#", value):
+        return "must not carry a comment"
+    if value[:1] in ("[", "{"):
+        return "must not use flow style"
+    if re.match(r"^[|>][-+0-9]*$", value):
+        return "must not be a block scalar"
+    if value[:1] in ("&", "*", "!", "%", "@", "`", "?"):
+        return "must not start with an anchor, alias, tag or reserved character"
+    if value[:1] == "'":
+        inner = value[1:-1] if len(value) >= 2 and value[-1] == "'" else None
+        if inner is None or "'" in inner.replace("''", ""):
+            return "has broken single quotes"
+    elif value[:1] == '"':
+        inner = value[1:-1] if len(value) >= 2 and value[-1] == '"' else None
+        if inner is None or '"' in inner:
+            return "has broken double quotes"
+    if any(ord(c) < 0x20 for c in value):
+        return "must not contain control characters"
+    return None
 
 
 def frontmatter_name(text):
@@ -123,28 +169,44 @@ def _page_tags(meta):
 def _parse_checks(text):
     """(checks, problems) from the certification-checks block; checks is [] when there is none."""
     lines = _frontmatter(text).split("\n")
-    start = next((i for i, line in enumerate(lines) if re.match(r"^certification-checks:", line)), None)
-    if start is None:
-        return [], []
-    inline = lines[start].split(":", 1)[1].strip()
-    if inline and inline != "[]":
-        return [], ["certification-checks must be a list of checks"]
-    checks, problems = [], []
-    for line in lines[start + 1 :]:
+    mentions = [i for i, line in enumerate(lines) if "certification-checks" in line.lower()]
+    problems = []
+    for i in mentions:
+        if lines[i] != CHECKS_KEY:
+            problems.append(f"write the key exactly as '{CHECKS_KEY}' on its own line, not {lines[i].strip()[:40]!r}")
+    keys = [i for i in mentions if lines[i] == CHECKS_KEY]
+    if len(mentions) > 1:
+        problems.append("certification-checks appears more than once")
+    if not keys:
+        return [], problems
+    checks = []
+    for line in lines[keys[0] + 1 :]:
         if not line.strip():
+            continue
+        if line.lstrip().startswith("#"):
+            problems.append("certification-checks must not contain comment lines")
             continue
         if not line[0].isspace():
             break
         item, field = CHECK_ITEM.match(line), CHECK_FIELD.match(line)
+        match = item or field
+        if not match:
+            problems.append(f"certification-checks is not in the template's form: {line.strip()[:40]}")
+            continue
+        key, raw = match.group(1), match.group(2) or ""
+        trouble = _value_problem(raw)
+        if trouble:
+            problems.append(f"certification check {key} {trouble}")
         if item:
-            checks.append({item.group(1): _unquote(item.group(2))})
-        elif field and checks:
-            key = field.group(1)
+            checks.append({key: _unquote(raw)})
+        elif checks:
             if key in checks[-1]:
                 problems.append(f"certification check repeats {key}")
-            checks[-1][key] = _unquote(field.group(2))
+            checks[-1][key] = _unquote(raw)
         else:
             problems.append(f"certification-checks is not a list of checks: {line.strip()[:40]}")
+    if not checks:
+        problems.append("certification-checks must list at least one check, or be left out")
     return checks, problems
 
 
@@ -158,7 +220,7 @@ def certification_check_problems(text, accreditations):
     checks, problems = _parse_checks(text)
     tags = _page_tags(_frontmatter(text))
     seen = set()
-    today = datetime.date.today()
+    today = datetime.datetime.now(datetime.timezone.utc).date()
     for check in checks:
         accr = check.get("accreditation", "")
         label = accr or "a check"
@@ -175,15 +237,17 @@ def certification_check_problems(text, accreditations):
         register = check.get("register", "")
         if not 2 <= len(register) <= 80:
             problems.append(f"{label}: register must be 2 to 80 characters")
-        if "://" in register or "www." in register.lower() or "\n" in register:
+        if "://" in register or "www." in register.lower() or any(ord(c) < 0x20 for c in register):
             problems.append(f"{label}: register must be plain text, without a link")
+        if REGISTER_DENIED.search(register):
+            problems.append(f"{label}: register must name the register only, without negative or status wording")
         checked = check.get("checked", "")
         try:
             if not DATE.match(checked):
                 raise ValueError
             date = datetime.date.fromisoformat(checked)
             if date > today:
-                problems.append(f"{label}: checked date is in the future")
+                problems.append(f"{label}: checked date is in the future (UTC)")
         except ValueError:
             problems.append(f"{label}: checked must be a real date, YYYY-MM-DD")
         link = check.get("link", "")
