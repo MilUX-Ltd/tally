@@ -184,9 +184,10 @@ class Exporter(unittest.TestCase):
             self.assertNotIn(planted, self.text)
         self.assertEqual(self.events["as_of"], "2026-11-19")
         public = [e for e in self.events["events"] if e["audience"] == "public"]
-        self.assertEqual([e["title"] for e in public], ["Today's open day", "Public showcase"])
-        self.assertEqual(public[0]["link"], None, "unsafe links are dropped")
-        self.assertEqual(public[1], {
+        # Amended under the members-only rule: a public event without a safe public link
+        # cannot be shown to be public, so it is left out entirely (it was kept, link removed).
+        self.assertEqual([e["title"] for e in public], ["Public showcase"])
+        self.assertEqual(public[0], {
             "audience": "public",
             "cluster": "SCRDSC",
             "date": "2026-12-01",
