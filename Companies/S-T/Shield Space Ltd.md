@@ -17,6 +17,7 @@ tags:
   - autonomy
   - software
   - isr
+  - mbr-glrdsc
 ---
 
 # Shield Space Ltd

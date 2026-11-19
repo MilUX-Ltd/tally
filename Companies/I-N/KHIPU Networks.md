@@ -28,6 +28,7 @@ tags:
   - owned-uk
   - accr-iso27001
   - accr-ce
+  - mbr-scrdsc
 ---
 
 # KHIPU Networks

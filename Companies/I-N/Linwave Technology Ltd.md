@@ -21,6 +21,7 @@ tags:
   - type-sme
   - type-manufacturer
   - owned-uk
+  - mbr-glrdsc
 ---
 
 # Linwave Technology Ltd

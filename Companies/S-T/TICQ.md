@@ -15,6 +15,7 @@ tags:
   - type-consultancy
   - type-startup
   - owned-uk
+  - mbr-scrdsc
 ---
 # TICQ
 > Bath-based defence consultancy helping non-traditional suppliers and SMEs become defence-ready.

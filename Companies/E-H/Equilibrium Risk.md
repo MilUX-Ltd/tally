@@ -16,6 +16,7 @@ tags:
   - consultancy
   - size-micro
   - type-sme
+  - mbr-glrdsc
 ---
 
 # Equilibrium Risk

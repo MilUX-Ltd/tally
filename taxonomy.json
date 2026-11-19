@@ -1013,6 +1013,10 @@
           "label": "CIEHF"
         },
         {
+          "slug": "mbr-glrdsc",
+          "label": "Greater Lincolnshire RDSC"
+        },
+        {
           "slug": "mbr-makeuk",
           "label": "Make UK"
         },
@@ -1026,7 +1030,7 @@
         },
         {
           "slug": "mbr-scrdsc",
-          "label": "SCRDSC"
+          "label": "South Central RDSC"
         },
         {
           "slug": "mbr-smi",

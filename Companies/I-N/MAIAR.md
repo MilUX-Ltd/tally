@@ -22,6 +22,7 @@ tags:
   - type-sme
   - type-consultancy
   - owned-uk
+  - mbr-glrdsc
 ---
 
 # MAIAR

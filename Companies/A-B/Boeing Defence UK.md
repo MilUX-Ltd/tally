@@ -23,6 +23,7 @@ tags:
   - owned-foreign
   - mbr-ads
   - through-life-support
+  - mbr-glrdsc
 ---
 
 # Boeing Defence UK

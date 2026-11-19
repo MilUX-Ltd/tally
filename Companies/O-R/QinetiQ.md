@@ -38,6 +38,8 @@ tags:
   - listed
   - owned-uk
   - mbr-ads
+  - mbr-scrdsc
+  - mbr-glrdsc
 ---
 
 # QinetiQ

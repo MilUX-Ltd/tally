@@ -24,6 +24,7 @@ tags:
   - type-consultancy
   - owned-foreign
   - mbr-ads
+  - mbr-scrdsc
 ---
 
 # AtkinsRéalis

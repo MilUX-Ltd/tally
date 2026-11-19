@@ -62,6 +62,7 @@ tags:
   - owned-foreign
   - listed
   - mbr-ads
+  - mbr-glrdsc
 ---
 
 # Leonardo S.p.A.

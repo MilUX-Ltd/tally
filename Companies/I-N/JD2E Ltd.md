@@ -21,6 +21,7 @@ tags:
   - owned-uk
   - accr-iso9001
   - accr-ce-plus
+  - mbr-glrdsc
 ---
 
 # JD2E Ltd

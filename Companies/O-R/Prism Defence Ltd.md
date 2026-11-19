@@ -19,6 +19,7 @@ tags:
   - owned-uk
   - accr-iso9001
   - accr-ce-plus
+  - mbr-scrdsc
 ---
 
 # Prism Defence Ltd

@@ -19,6 +19,7 @@ tags:
   - gis
   - type-sme
   - owned-uk
+  - mbr-glrdsc
 ---
 
 # SynMax UK Ltd

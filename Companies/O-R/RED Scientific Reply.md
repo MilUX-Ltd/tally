@@ -24,6 +24,7 @@ tags:
   - size-small
   - type-sme
   - accr-iso9001
+  - mbr-scrdsc
 ---
 # RED Scientific Reply
 > Hampshire research and analytical consultancy providing operational analysis, systems engineering and wargaming to UK defence, including the CIRSIUM digital wargaming product.

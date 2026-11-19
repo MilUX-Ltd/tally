@@ -23,6 +23,7 @@ tags:
   - type-systems-integrator
   - listed
   - owned-foreign
+  - mbr-glrdsc
 ---
 
 # CGI Inc.

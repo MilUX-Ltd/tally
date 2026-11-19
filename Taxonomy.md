@@ -37,10 +37,11 @@ JOSCAR is an accreditation. Framework and membership `joscar` tags were merged i
 |---|---|
 | `mbr-ads` | ADS Group |
 | `mbr-ciehf` | CIEHF |
+| `mbr-glrdsc` | Greater Lincolnshire RDSC |
 | `mbr-makeuk` | Make UK |
 | `mbr-makeuk-defence` | Make UK Defence |
 | `mbr-naudi` | NAUDI |
-| `mbr-scrdsc` | SCRDSC |
+| `mbr-scrdsc` | South Central RDSC |
 | `mbr-smi` | SMi |
 | `mbr-techuk` | techUK |
 | `mbr-walesdsc` | Defence Wales |

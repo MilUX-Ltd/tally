@@ -35,6 +35,8 @@ tags:
   - mbr-ads
   - uas/airframe
   - uas/fixed-wing
+  - mbr-scrdsc
+  - mbr-glrdsc
 ---
 
 # Advanced Integrated Technologies

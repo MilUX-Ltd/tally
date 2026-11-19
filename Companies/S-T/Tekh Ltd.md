@@ -19,6 +19,7 @@ tags:
   - type-sme
   - owned-uk
   - size-micro
+  - mbr-glrdsc
 ---
 
 # Tekh Ltd

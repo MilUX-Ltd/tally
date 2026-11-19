@@ -17,6 +17,7 @@ tags:
   - manufacturing
   - type-manufacturer
   - owned-uk
+  - mbr-scrdsc
 ---
 
 # SMC Group (South Midlands Communications Ltd)
