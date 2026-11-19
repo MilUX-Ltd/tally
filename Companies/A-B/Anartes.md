@@ -10,7 +10,6 @@ size: micro
 sources-verified: 2026-07-03
 tags:
   - defence
-  - drones
   - uas
   - uas/platform
   - logistics
@@ -21,6 +20,7 @@ tags:
   - size-micro
   - owned-uk
   - mbr-ads
+  - uas/multirotor
 ---
 
 # Anartes

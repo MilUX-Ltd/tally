@@ -12,6 +12,7 @@ tags:
   - manufacturing
   - type-manufacturer
   - owned-foreign
+  - through-life-support
 ---
 
 # Vector Aerospace International Limited

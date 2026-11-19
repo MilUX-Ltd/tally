@@ -25,6 +25,7 @@ tags:
   - owned-foreign
   - backed-pe
   - mbr-ads
+  - through-life-support
 ---
 
 # Draken Europe

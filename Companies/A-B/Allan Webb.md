@@ -21,6 +21,8 @@ tags:
   - accr-iso14001
   - accr-ce-plus
   - mbr-ads
+  - obsolescence
+  - through-life-support
 ---
 
 # Allan Webb

@@ -19,6 +19,8 @@ tags:
   - air
   - size-small
   - type-manufacturer
+  - pcbs
+  - obsolescence
 ---
 # 4E Futures Limited
 

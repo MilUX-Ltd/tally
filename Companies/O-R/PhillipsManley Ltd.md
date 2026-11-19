@@ -10,6 +10,7 @@ tags:
   - mbr-ads
   - type-consultancy
   - owned-uk
+  - obsolescence
 ---
 
 # PhillipsManley Ltd

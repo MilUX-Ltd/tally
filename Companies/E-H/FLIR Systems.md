@@ -18,7 +18,6 @@ tags:
   - isr/imint
   - uas
   - uas/platform
-  - drones
   - maritime
   - land
   - air

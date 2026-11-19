@@ -16,6 +16,7 @@ tags:
   - type-consultancy
   - owned-uk
   - mbr-ads
+  - project-management
 ---
 
 # CPC Project Services (UK) LLP

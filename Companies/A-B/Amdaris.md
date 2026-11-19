@@ -13,6 +13,7 @@ tags:
   - data/engineering
   - type-consultancy
   - mbr-ads
+  - design
 ---
 # Amdaris
 > Global technology company delivering bespoke software development, AI and data engineering services to UK defence and security customers.

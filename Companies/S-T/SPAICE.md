@@ -12,7 +12,6 @@ tags:
   - space
   - ai
   - autonomy
-  - drones
   - uas
   - type-startup
 ---

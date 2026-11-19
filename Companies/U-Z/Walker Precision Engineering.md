@@ -12,6 +12,7 @@ tags:
   - hardware
   - type-manufacturer
   - owned-uk
+  - precision-engineering
 ---
 
 # Walker Precision Engineering

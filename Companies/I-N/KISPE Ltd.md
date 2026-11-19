@@ -18,6 +18,8 @@ tags:
   - type-consultancy
   - type-sme
   - owned-uk
+  - space/ground-systems
+  - project-management
 ---
 
 # KISPE Ltd

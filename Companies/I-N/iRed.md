@@ -8,7 +8,6 @@ sources-verified: 2026-07-05
 tags:
   - defence
   - mbr-ads
-  - drones
   - uas
   - uas/platform
   - isr

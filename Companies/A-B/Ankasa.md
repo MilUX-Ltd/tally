@@ -26,6 +26,7 @@ tags:
   - accr-joscar
   - accr-ce-plus
   - accr-iso9001
+  - project-management
 ---
 
 # Ankasa

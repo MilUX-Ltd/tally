@@ -19,6 +19,7 @@ tags:
   - owned-foreign
   - accr-iso9001
   - mbr-ads
+  - through-life-support
 ---
 
 # Aerowind Ireland

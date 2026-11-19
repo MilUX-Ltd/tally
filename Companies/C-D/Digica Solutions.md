@@ -25,6 +25,7 @@ tags:
   - type-sme
   - owned-uk
   - mbr-ads
+  - composites
 ---
 
 # Digica Solutions

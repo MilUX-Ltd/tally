@@ -15,6 +15,7 @@ tags:
   - type-consultancy
   - owned-uk
   - mbr-ads
+  - project-management
 ---
 
 # Frost Business Management Partnership FBMP Ltd

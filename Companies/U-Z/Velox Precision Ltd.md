@@ -11,6 +11,8 @@ tags:
   - manufacturing
   - hardware
   - size-micro
+  - precision-engineering
+  - advanced-manufacturing
 ---
 
 # Velox Precision Ltd

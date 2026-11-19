@@ -8,7 +8,6 @@ sources-verified: 2026-06-30
 tags:
   - defence
   - uas
-  - drones
   - test-evaluation
   - autonomy
   - type-sme

@@ -14,6 +14,7 @@ tags:
   - type-manufacturer
   - owned-uk
   - accr-iso9001
+  - uas/airworthiness
 ---
 
 # Vertical Aerospace Group Ltd

@@ -11,6 +11,7 @@ tags:
   - manufacturing
   - type-manufacturer
   - owned-uk
+  - precision-engineering
 ---
 
 # Machina Engineering Ltd

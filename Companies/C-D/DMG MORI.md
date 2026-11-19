@@ -19,6 +19,9 @@ tags:
   - type-manufacturer
   - owned-foreign
   - mbr-ads
+  - test-evaluation
+  - metal-fabrication
+  - advanced-manufacturing
 ---
 
 # DMG MORI UK Limited

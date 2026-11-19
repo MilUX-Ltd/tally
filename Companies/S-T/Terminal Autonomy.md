@@ -10,7 +10,6 @@ size: medium
 sources-verified: 2026-06-29
 tags:
   - defence
-  - drones
   - uas
   - munitions
   - autonomy

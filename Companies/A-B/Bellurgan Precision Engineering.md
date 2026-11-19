@@ -20,6 +20,7 @@ tags:
   - owned-foreign
   - accr-iso9001
   - mbr-ads
+  - precision-engineering
 ---
 
 # Bellurgan Precision Engineering

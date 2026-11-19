@@ -14,7 +14,6 @@ tags:
   - defence
   - uas
   - uas/platform
-  - drones
   - optronics
   - simulation
   - simulation/synthetic-environment

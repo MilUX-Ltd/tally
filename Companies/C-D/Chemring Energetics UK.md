@@ -16,6 +16,7 @@ tags:
   - size-medium
   - type-manufacturer
   - mbr-ads
+  - through-life-support
 ---
 
 # Chemring Energetics UK

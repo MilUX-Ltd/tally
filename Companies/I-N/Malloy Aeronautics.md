@@ -12,13 +12,13 @@ tags:
   - defence
   - uas
   - uas/platform
-  - drones
   - logistics
   - air
   - manufacturing
   - size-small
   - type-manufacturer
   - owned-uk
+  - uas/multirotor
 ---
 
 # Malloy Aeronautics Ltd

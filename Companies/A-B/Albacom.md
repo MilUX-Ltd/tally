@@ -18,6 +18,7 @@ tags:
   - type-sme
   - type-manufacturer
   - mbr-ads
+  - precision-engineering
 ---
 
 # Albacom

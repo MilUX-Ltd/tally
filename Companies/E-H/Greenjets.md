@@ -11,7 +11,6 @@ size: micro
 sources-verified: 2026-07-04
 tags:
   - defence
-  - drones
   - uas
   - uas/platform
   - hardware
@@ -22,6 +21,9 @@ tags:
   - owned-uk
   - accr-ce
   - mbr-ads
+  - uas/airframe
+  - uas/propulsion
+  - uas/fixed-wing
 ---
 # Greenjets
 

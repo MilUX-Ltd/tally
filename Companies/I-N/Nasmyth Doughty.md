@@ -12,6 +12,7 @@ tags:
   - maritime
   - type-manufacturer
   - owned-uk
+  - precision-engineering
 ---
 
 # Nasmyth Doughty

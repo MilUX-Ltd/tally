@@ -13,6 +13,7 @@ tags:
   - type-sme
   - owned-uk
   - accr-iso9001
+  - obsolescence
 ---
 
 # Zircon Software

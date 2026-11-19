@@ -14,6 +14,7 @@ tags:
   - owned-foreign
   - type-manufacturer
   - size-large
+  - through-life-support
 ---
 
 # Safran Landing Systems UK Ltd

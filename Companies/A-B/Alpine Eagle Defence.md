@@ -14,7 +14,6 @@ tags:
   - counter-uas
   - counter-uas/detection
   - counter-uas/effector
-  - drones
   - uas
   - uas/platform
   - isr

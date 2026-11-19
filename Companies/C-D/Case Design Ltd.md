@@ -15,6 +15,7 @@ tags:
   - size-small
   - type-sme
   - type-manufacturer
+  - precision-engineering
 ---
 
 # Case Design Ltd

@@ -7,7 +7,6 @@ size: micro
 sources-verified: 2026-07-16
 tags:
   - defence
-  - security
   - software
   - data
   - size-micro

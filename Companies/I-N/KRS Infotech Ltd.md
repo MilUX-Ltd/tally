@@ -19,7 +19,7 @@ tags:
   - type-consultancy
   - type-sme
   - owned-uk
-  - fw-joscar
+  - accr-joscar
   - mbr-ads
 ---
 

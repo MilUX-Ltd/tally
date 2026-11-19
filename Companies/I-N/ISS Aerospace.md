@@ -8,7 +8,6 @@ sources-verified: 2026-07-04
 tags:
   - defence
   - mbr-ads
-  - drones
   - uas
   - uas/platform
   - isr
@@ -20,6 +19,8 @@ tags:
   - type-manufacturer
   - type-sme
   - owned-uk
+  - uas/multirotor
+  - uas/fixed-wing
 ---
 
 # ISS Aerospace

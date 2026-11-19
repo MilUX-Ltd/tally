@@ -14,8 +14,8 @@ tags:
   - manufacturing
   - size-small
   - type-distributor
-  - owned-parent
-  - fw-joscar
+  - owned-group
+  - accr-joscar
   - mbr-makeuk-defence
 ---
 

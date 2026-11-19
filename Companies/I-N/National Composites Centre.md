@@ -15,6 +15,8 @@ tags:
   - type-non-profit
   - owned-uk
   - accr-iso9001
+  - composites
+  - advanced-manufacturing
 ---
 
 # National Composites Centre

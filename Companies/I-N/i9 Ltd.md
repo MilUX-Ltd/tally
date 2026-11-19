@@ -10,7 +10,6 @@ size: micro
 sources-verified: 2026-07-05
 tags:
   - defence
-  - drones
   - uas
   - uas/platform
   - isr
@@ -19,6 +18,7 @@ tags:
   - size-micro
   - type-sme
   - owned-uk
+  - uas/fixed-wing
 ---
 # i9 Ltd
 

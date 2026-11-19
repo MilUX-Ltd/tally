@@ -14,6 +14,8 @@ tags:
   - owned-uk
   - accr-ce-plus
   - accr-joscar
+  - electrical-engineering
+  - project-management
 ---
 
 # LSV Group Ltd

@@ -15,6 +15,8 @@ tags:
   - owned-uk
   - accr-iso9001
   - accr-iso14001
+  - advanced-manufacturing
+  - inspection-certification
 ---
 
 # Howco Group Plc

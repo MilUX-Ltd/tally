@@ -21,6 +21,7 @@ tags:
   - type-sme
   - owned-uk
   - accr-iso9001
+  - distribution
 ---
 
 # NYK Component Solutions Ltd

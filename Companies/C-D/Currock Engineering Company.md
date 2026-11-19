@@ -22,6 +22,7 @@ tags:
   - owned-uk
   - accr-iso9001
   - mbr-ads
+  - project-management
 ---
 
 # Currock Engineering Company Ltd

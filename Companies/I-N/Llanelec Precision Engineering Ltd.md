@@ -18,6 +18,8 @@ tags:
   - type-manufacturer
   - accr-iso9001
   - accr-ce-plus
+  - metal-fabrication
+  - precision-engineering
 ---
 
 # Llanelec Precision Engineering Ltd

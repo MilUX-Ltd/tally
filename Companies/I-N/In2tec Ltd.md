@@ -13,6 +13,7 @@ tags:
   - type-manufacturer
   - owned-uk
   - sensors
+  - obsolescence
 ---
 
 # In2tec Ltd

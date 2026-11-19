@@ -11,11 +11,12 @@ tags:
   - sensors
   - test-evaluation
   - hardware
-  - manufacturer
+  - manufacturing
   - type-sme
   - owned-uk
   - accr-ce-plus
   - accr-iso9001
+  - inspection-certification
 ---
 
 # Techni Measure Ltd

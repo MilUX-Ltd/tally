@@ -21,6 +21,7 @@ tags:
   - type-manufacturer
   - owned-uk
   - mbr-ads
+  - precision-engineering
 ---
 
 # Castle Precision Engineering

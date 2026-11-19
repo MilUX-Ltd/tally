@@ -18,6 +18,8 @@ tags:
   - type-manufacturer
   - owned-uk
   - mbr-ads
+  - metal-fabrication
+  - precision-engineering
 ---
 
 # Gase Engineering

@@ -15,6 +15,8 @@ tags:
   - hardware
   - size-small
   - type-manufacturer
+  - composites
+  - advanced-manufacturing
 ---
 
 # Dash-CAE Ltd

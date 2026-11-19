@@ -12,7 +12,6 @@ sources-verified: 2026-07-04
 tags:
   - defence
   - uas
-  - drones
   - munitions
   - air
   - autonomy

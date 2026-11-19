@@ -19,6 +19,7 @@ tags:
   - mbr-ads
   - accr-iso9001
   - accr-ce-plus
+  - project-management
 ---
 
 # Avantix

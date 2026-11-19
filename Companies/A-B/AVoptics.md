@@ -23,6 +23,7 @@ tags:
   - accr-as9100
   - accr-ce-plus
   - mbr-ads
+  - test-equipment
 ---
 
 # AVoptics

@@ -13,6 +13,8 @@ tags:
   - type-manufacturer
   - accr-iso9001
   - accr-ce-plus
+  - precision-engineering
+  - advanced-manufacturing
 ---
 
 # LPE Ltd

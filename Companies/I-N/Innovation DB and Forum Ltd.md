@@ -19,6 +19,7 @@ tags:
   - software
   - type-sme
   - type-consultancy
+  - finance
 ---
 
 # Innovation DB and Forum Ltd

@@ -19,6 +19,7 @@ tags:
   - type-sme
   - type-consultancy
   - mbr-ads
+  - inspection-certification
 ---
 
 # Easol

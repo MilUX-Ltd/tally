@@ -17,6 +17,7 @@ tags:
   - owned-uk
   - accr-ce-plus
   - mbr-ads
+  - finance
 ---
 
 # Heligan Group

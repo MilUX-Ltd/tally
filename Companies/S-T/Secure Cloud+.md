@@ -18,6 +18,14 @@ tags:
   - size-medium
   - type-sme
   - owned-uk
+  - mbr-ads
+  - c2
+  - comms
+  - accr-joscar
+  - accr-ce-plus
+  - accr-iso9001
+  - accr-iso27001
+  - accr-iso14001
 ---
 
 # SecureCloud+ Limited

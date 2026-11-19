@@ -11,7 +11,6 @@ size: micro
 sources-verified: 2026-07-05
 tags:
   - defence
-  - drones
   - uas
   - uas/platform
   - autonomy
@@ -33,6 +32,7 @@ tags:
   - type-startup
   - owned-uk
   - mbr-ads
+  - uas/fixed-wing
 ---
 
 # Marble Aerospace

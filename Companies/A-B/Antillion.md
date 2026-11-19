@@ -15,7 +15,7 @@ tags:
   - software
   - data
   - manufacturing
-  - integrator
+  - integration
   - size-small
   - type-sme
   - owned-uk

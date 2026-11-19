@@ -21,6 +21,7 @@ tags:
   - type-sme
   - size-micro
   - mbr-ads
+  - project-management
 ---
 
 # Candy Professional Services

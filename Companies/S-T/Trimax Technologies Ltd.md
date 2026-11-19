@@ -19,6 +19,8 @@ tags:
   - accr-joscar
   - accr-ce-plus
   - accr-iso9001
+  - precision-engineering
+  - advanced-manufacturing
 ---
 
 # Trimax Technologies Ltd

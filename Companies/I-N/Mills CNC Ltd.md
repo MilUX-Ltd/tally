@@ -15,6 +15,7 @@ tags:
   - hardware
   - type-manufacturer
   - owned-uk
+  - distribution
 ---
 
 # Mills CNC Ltd

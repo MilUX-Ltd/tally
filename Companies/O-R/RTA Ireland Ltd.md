@@ -15,6 +15,8 @@ tags:
   - type-manufacturer
   - owned-uk
   - accr-iso9001
+  - metal-fabrication
+  - precision-engineering
 ---
 
 # RTA Ireland Ltd

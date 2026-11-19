@@ -13,6 +13,8 @@ tags:
   - hardware
   - type-manufacturer
   - owned-uk
+  - metal-fabrication
+  - through-life-support
 ---
 
 # MSM aerospace fabricators

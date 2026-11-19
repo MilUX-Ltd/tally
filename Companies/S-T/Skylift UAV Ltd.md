@@ -8,7 +8,6 @@ sources-verified: 2026-06-30
 tags:
   - defence
   - mbr-ads
-  - drones
   - uas
   - logistics
   - type-sme

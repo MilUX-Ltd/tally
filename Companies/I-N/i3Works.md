@@ -16,6 +16,7 @@ tags:
   - data
   - size-medium
   - type-consultancy
+  - design
 ---
 
 # i3Works Ltd

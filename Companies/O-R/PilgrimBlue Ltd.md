@@ -10,6 +10,7 @@ tags:
   - mbr-ads
   - type-consultancy
   - type-sme
+  - project-management
 ---
 
 # PilgrimBlue Ltd

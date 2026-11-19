@@ -8,7 +8,6 @@ size: micro
 sources-verified: 2026-07-16
 tags:
   - defence
-  - drones
   - uas
   - autonomy
   - ai

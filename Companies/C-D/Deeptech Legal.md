@@ -18,6 +18,7 @@ tags:
   - type-consultancy
   - owned-uk
   - mbr-ads
+  - legal
 ---
 
 # Deeptech Legal

@@ -19,6 +19,8 @@ tags:
   - owned-uk
   - accr-iso9001
   - mbr-ads
+  - composites
+  - design
 ---
 
 # Datum Tool Design

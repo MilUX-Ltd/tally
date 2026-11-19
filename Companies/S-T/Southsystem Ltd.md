@@ -18,6 +18,9 @@ tags:
   - size-small
   - type-sme
   - type-manufacturer
+  - precision-engineering
+  - advanced-manufacturing
+  - electrical-engineering
 ---
 
 # Southsystem Ltd

@@ -14,7 +14,6 @@ tags:
   - isr
   - uas
   - uas/platform
-  - drones
   - autonomy
   - size-small
   - type-sme

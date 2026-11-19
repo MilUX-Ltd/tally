@@ -12,7 +12,6 @@ headcount: 48
 sources-verified: 2026-07-04
 tags:
   - defence
-  - drones
   - uas
   - uas/platform
   - uas/payload
@@ -32,6 +31,7 @@ tags:
   - type-sme
   - owned-foreign
   - mbr-ads
+  - uas/multirotor
 ---
 
 # DefendTex

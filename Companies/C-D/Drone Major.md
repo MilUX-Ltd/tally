@@ -11,7 +11,6 @@ size: micro
 sources-verified: 2026-07-04
 tags:
   - defence
-  - drones
   - uas
   - counter-uas
   - isr
@@ -24,6 +23,7 @@ tags:
   - accr-ce
   - accr-ce-plus
   - mbr-ads
+  - project-management
 ---
 
 # Drone Major Ltd

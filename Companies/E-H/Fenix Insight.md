@@ -19,7 +19,6 @@ tags:
   - data
   - data/analytics
   - sensors
-  - drones
   - uas
   - software
   - training

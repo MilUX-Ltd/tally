@@ -15,7 +15,6 @@ tags:
   - training
   - training/courseware
   - training/instruction
-  - drones
   - uas
   - counter-uas
   - software
@@ -25,6 +24,7 @@ tags:
   - type-manufacturer
   - owned-foreign
   - mbr-naudi
+  - uas/ground-control
 ---
 
 # L7 Simulators

@@ -23,6 +23,8 @@ tags:
   - mbr-ads
   - mbr-makeuk-defence
   - size-micro
+  - composites
+  - structural-engineering
 ---
 
 # Frewer Engineering

@@ -10,7 +10,6 @@ tags:
   - mbr-ads
   - uas
   - uas/payload
-  - drones
   - isr
   - isr/imint
   - type-sme

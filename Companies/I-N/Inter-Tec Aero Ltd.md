@@ -14,6 +14,8 @@ tags:
   - type-consultancy
   - owned-foreign
   - accr-iso9001
+  - structural-engineering
+  - project-management
 ---
 
 # Inter-Tec Aero Ltd

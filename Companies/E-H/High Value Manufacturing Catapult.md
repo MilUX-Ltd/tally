@@ -17,6 +17,7 @@ tags:
   - type-non-profit
   - owned-uk
   - mbr-ads
+  - advanced-manufacturing
 ---
 
 # High Value Manufacturing Catapult

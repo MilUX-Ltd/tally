@@ -5,7 +5,6 @@ website: https://www.sentinelflight.com
 sources-verified: 2026-06-29
 tags:
   - defence
-  - drones
   - uas
 ---
 # Sentinel Flight Services

@@ -12,6 +12,7 @@ tags:
   - air
   - type-manufacturer
   - mbr-ads
+  - distribution
 ---
 # Satcom Direct International - UK
 

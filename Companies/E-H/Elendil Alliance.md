@@ -10,7 +10,6 @@ size: micro
 sources-verified: 2026-07-04
 tags:
   - defence
-  - drones
   - uas
   - counter-uas
   - ew

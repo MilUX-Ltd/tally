@@ -19,6 +19,7 @@ tags:
   - type-integrator
   - owned-foreign
   - mbr-ads
+  - workforce
 ---
 
 # Global Marine Systems Ltd

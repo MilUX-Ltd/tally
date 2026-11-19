@@ -6,13 +6,13 @@ size: micro
 sources-verified: 2026-07-05
 tags:
   - defence
-  - drones
   - uas
   - uas/platform
   - uas/payload
   - hardware
   - type-sme
   - size-micro
+  - uas/airframe
 ---
 # Project-Athena
 > UK micro-SME developing modular, mission-configurable uncrewed aerial systems and payload integration for defence and security.

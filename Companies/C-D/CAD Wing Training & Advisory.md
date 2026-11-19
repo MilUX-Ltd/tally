@@ -15,7 +15,6 @@ tags:
   - training/instruction
   - counter-uas
   - uas
-  - drones
   - sensors
   - hardware
   - type-sme

@@ -19,6 +19,7 @@ tags:
   - size-small
   - owned-uk
   - mbr-ads
+  - inspection-certification
 ---
 
 # CCPI Europe

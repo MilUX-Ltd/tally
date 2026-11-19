@@ -11,7 +11,6 @@ size: small
 sources-verified: 2026-06-29
 tags:
   - defence
-  - drones
   - uas
   - robotics
   - autonomy
@@ -19,6 +18,8 @@ tags:
   - comms
   - size-small
   - type-manufacturer
+  - uas/airframe
+  - uas/fixed-wing
 ---
 
 # UAVTEK

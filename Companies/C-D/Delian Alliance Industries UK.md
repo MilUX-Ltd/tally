@@ -34,6 +34,7 @@ tags:
   - owned-foreign
   - backed-vc
   - mbr-ads
+  - finance
 ---
 
 # Delian Alliance Industries UK

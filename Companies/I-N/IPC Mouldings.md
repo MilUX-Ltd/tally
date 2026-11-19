@@ -13,6 +13,8 @@ tags:
   - type-manufacturer
   - owned-uk
   - accr-iso9001
+  - plastics
+  - precision-engineering
 ---
 
 # IPC Mouldings

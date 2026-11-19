@@ -16,6 +16,7 @@ tags:
   - owned-foreign
   - accr-iso9001
   - mbr-ads
+  - composites
 ---
 
 # Hamble Aerostructures Ltd

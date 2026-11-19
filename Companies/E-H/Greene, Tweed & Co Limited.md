@@ -17,6 +17,8 @@ tags:
   - type-manufacturer
   - owned-foreign
   - mbr-ads
+  - composites
+  - plastics
 ---
 
 # Greene, Tweed & Co Limited

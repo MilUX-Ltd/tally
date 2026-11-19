@@ -23,6 +23,8 @@ tags:
   - owned-uk
   - listed
   - mbr-ads
+  - uas/airframe
+  - uas/fixed-wing
 ---
 
 # GKN Aerospace

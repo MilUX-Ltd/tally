@@ -11,7 +11,6 @@ size: micro
 sources-verified: 2026-06-29
 tags:
   - defence
-  - drones
   - uas
   - training
   - simulation

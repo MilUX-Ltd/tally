@@ -8,7 +8,6 @@ size: micro
 sources-verified: 2026-07-16
 tags:
   - defence
-  - security
   - training
   - services
   - consultancy

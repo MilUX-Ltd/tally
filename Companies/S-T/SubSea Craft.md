@@ -15,7 +15,6 @@ tags:
   - autonomy
   - robotics
   - uas
-  - drones
   - isr
   - manufacturing
   - hardware
@@ -24,6 +23,7 @@ tags:
   - type-manufacturer
   - owned-uk
   - mbr-ads
+  - composites
 ---
 
 # SubSea Craft

@@ -18,6 +18,7 @@ tags:
   - type-manufacturer
   - owned-uk
   - accr-iso9001
+  - through-life-support
 ---
 
 # Griffon Marine

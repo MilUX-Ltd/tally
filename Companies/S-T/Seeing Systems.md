@@ -8,7 +8,6 @@ sources-verified: 2026-06-29
 tags:
   - defence
   - uas
-  - drones
   - autonomy
   - ai
   - type-manufacturer

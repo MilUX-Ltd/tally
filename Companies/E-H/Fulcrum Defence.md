@@ -19,6 +19,7 @@ tags:
   - size-micro
   - type-sme
   - type-manufacturer
+  - packaging
 ---
 
 # Fulcrum Defence

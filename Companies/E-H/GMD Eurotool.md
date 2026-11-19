@@ -21,6 +21,8 @@ tags:
   - accr-iso14001
   - mbr-ads
   - mbr-makeuk-defence
+  - metal-fabrication
+  - precision-engineering
 ---
 
 # GMD Eurotool Ltd

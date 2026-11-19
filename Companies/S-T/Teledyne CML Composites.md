@@ -14,6 +14,7 @@ tags:
   - type-manufacturer
   - type-prime
   - owned-foreign
+  - composites
 ---
 
 # Teledyne CML Composites

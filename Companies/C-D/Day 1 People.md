@@ -16,6 +16,7 @@ tags:
   - size-micro
   - type-consultancy
   - mbr-ads
+  - project-management
 ---
 
 # Day 1 People

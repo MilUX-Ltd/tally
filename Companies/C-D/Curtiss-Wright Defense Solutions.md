@@ -25,6 +25,11 @@ tags:
   - listed
   - accr-iso9001
   - mbr-ads
+  - electronics
+  - comms
+  - comms/networking
+  - manufacturing
+  - type-prime
 ---
 
 # Curtiss-Wright Defense Solutions

@@ -13,6 +13,7 @@ tags:
   - type-manufacturer
   - type-sme
   - owned-uk
+  - precision-engineering
 ---
 
 # Summit Engineering (Birmingham) Ltd

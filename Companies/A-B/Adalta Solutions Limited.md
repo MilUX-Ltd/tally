@@ -12,6 +12,7 @@ tags:
   - type-consultancy
   - accr-ce
   - mbr-ads
+  - project-management
 ---
 # Adalta Solutions Limited
 

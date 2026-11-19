@@ -12,7 +12,6 @@ tags:
   - defence
   - uas
   - uas/platform
-  - drones
   - isr
   - air
   - sensors
@@ -21,6 +20,7 @@ tags:
   - type-integrator
   - owned-foreign
   - mbr-ads
+  - uas/ground-control
 ---
 
 # General Atomics Aeronautical Systems UK

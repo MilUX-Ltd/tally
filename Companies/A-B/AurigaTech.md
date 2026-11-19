@@ -12,7 +12,7 @@ tags:
   - defence
   - ai
   - autonomy
-  - drones
+  - uas
   - robotics
   - counter-uas
   - size-micro

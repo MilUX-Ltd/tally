@@ -14,7 +14,7 @@ tags:
   - counter-uas
   - counter-uas/detection
   - counter-uas/effector
-  - drones
+  - uas
   - sensors
   - rf
   - size-small

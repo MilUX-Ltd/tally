@@ -12,6 +12,8 @@ tags:
   - hardware
   - type-manufacturer
   - owned-uk
+  - precision-engineering
+  - advanced-manufacturing
 ---
 
 # Stainless Metalcraft (Chatteris) Ltd

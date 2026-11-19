@@ -10,7 +10,7 @@ tags:
   - mbr-ads
   - counter-uas
   - counter-uas/detection
-  - drones
+  - uas
   - isr
   - sensors
   - c2

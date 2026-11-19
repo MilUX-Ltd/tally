@@ -12,6 +12,7 @@ tags:
   - manufacturing
   - type-manufacturer
   - owned-uk
+  - pcbs
 ---
 
 # Para Tech Coating UK Ltd

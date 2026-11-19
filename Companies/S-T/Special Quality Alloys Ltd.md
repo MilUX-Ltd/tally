@@ -15,6 +15,7 @@ tags:
   - accr-ce-plus
   - type-manufacturer
   - owned-uk
+  - precision-engineering
 ---
 
 # Special Quality Alloys Ltd

@@ -19,6 +19,8 @@ tags:
   - type-sme
   - type-consultancy
   - mbr-ads
+  - uas/airworthiness
+  - uas/fixed-wing
 ---
 
 # Aerossurance

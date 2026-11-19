@@ -23,6 +23,10 @@ tags:
   - accr-ce-plus
   - mbr-ads
   - mbr-makeuk-defence
+  - composites
+  - plastics
+  - precision-engineering
+  - advanced-manufacturing
 ---
 
 # ARRK Europe

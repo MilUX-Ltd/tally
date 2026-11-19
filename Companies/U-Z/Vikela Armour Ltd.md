@@ -13,6 +13,7 @@ tags:
   - type-manufacturer
   - type-startup
   - owned-uk
+  - advanced-manufacturing
 ---
 
 # Vikela Armour Ltd

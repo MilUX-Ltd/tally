@@ -13,6 +13,7 @@ tags:
   - hardware
   - type-manufacturer
   - owned-foreign
+  - distribution
 ---
 
 # Optimas OE Solutions Ltd

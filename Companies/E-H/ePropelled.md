@@ -12,7 +12,6 @@ headcount: 80
 sources-verified: 2026-07-04
 tags:
   - defence
-  - drones
   - uas
   - uas/platform
   - munitions
@@ -23,6 +22,8 @@ tags:
   - type-manufacturer
   - owned-foreign
   - size-small
+  - uas/propulsion
+  - uas/parts
 ---
 
 # ePropelled

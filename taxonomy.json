@@ -990,6 +990,14 @@
         {
           "slug": "accr-joscar",
           "label": "JOSCAR"
+        },
+        {
+          "slug": "accr-iso45001",
+          "label": "ISO 45001"
+        },
+        {
+          "slug": "accr-soc2",
+          "label": "SOC 2"
         }
       ]
     },
@@ -1038,7 +1046,13 @@
     "accr-cyber-essentials-plus": "accr-ce-plus",
     "drones": "uas",
     "manufacturer": "manufacturing",
-    "integrator": "integration"
+    "integrator": "integration",
+    "accr-cyberessentials": "accr-ce",
+    "accr-cyberessentials-plus": "accr-ce-plus",
+    "type-micro": "size-micro",
+    "type-testing": "test-evaluation",
+    "owned-vinci": "owned-foreign",
+    "owned-parent": "owned-group"
   },
   "removed_tags": [
     "accr-caa",
@@ -1048,7 +1062,8 @@
     "accr-ncsc",
     "accr-ncsc-assured",
     "accr-sc21",
-    "prog-* (all programme tags removed)"
+    "prog-* (all programme tags removed)",
+    "security"
   ],
   "region_aliases": {
     "north east": "North East",
@@ -1148,7 +1163,9 @@
     "note": "Still stored on companies for data completeness, but not shown as sidebar filters.",
     "type": [
       "type-academia",
+      "type-community",
       "type-consultancy",
+      "type-distributor",
       "type-holding-company",
       "type-integrator",
       "type-investor",
@@ -1160,7 +1177,9 @@
       "type-services",
       "type-sme",
       "type-software",
+      "type-spinout",
       "type-startup",
+      "type-subsidiary",
       "type-supplier",
       "type-systems-integrator",
       "type-vendor"
@@ -1172,6 +1191,7 @@
       "listed",
       "owned-foreign",
       "owned-founder",
+      "owned-group",
       "owned-uk",
       "owned-uk-vc",
       "owned-veteran"

@@ -11,7 +11,6 @@ size: micro
 sources-verified: 2026-07-04
 tags:
   - defence
-  - drones
   - uas
   - uas/platform
   - uas/payload
@@ -24,6 +23,7 @@ tags:
   - type-manufacturer
   - owned-uk
   - mbr-ads
+  - uas/multirotor
 ---
 
 # Drone Evolution Ltd

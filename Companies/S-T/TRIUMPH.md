@@ -20,6 +20,7 @@ tags:
   - listed
   - mbr-ads
   - accr-iso9001
+  - pcbs
 ---
 # TRIUMPH
 > US-listed aerospace tier-one supplier manufacturing aircraft components, actuation and control systems, with UK operations at Deeside (Wales), Cheltenham and the Isle of Man.

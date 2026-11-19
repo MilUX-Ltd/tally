@@ -18,6 +18,7 @@ tags:
   - type-prime
   - owned-uk
   - mbr-ads
+  - through-life-support
 ---
 
 # Cavendish Nuclear Limited

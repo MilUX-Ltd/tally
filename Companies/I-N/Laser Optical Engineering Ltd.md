@@ -18,6 +18,8 @@ tags:
   - type-sme
   - owned-uk
   - accr-iso9001
+  - structural-engineering
+  - inspection-certification
 ---
 
 # Laser Optical Engineering Ltd

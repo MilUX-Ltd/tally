@@ -21,6 +21,9 @@ tags:
   - owned-foreign
   - accr-joscar
   - mbr-ads
+  - pcbs
+  - obsolescence
+  - through-life-support
 ---
 
 # STS Defence

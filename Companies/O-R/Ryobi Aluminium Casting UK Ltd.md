@@ -14,6 +14,7 @@ tags:
   - hardware
   - type-manufacturer
   - owned-foreign
+  - precision-engineering
 ---
 
 # Ryobi Aluminium Casting UK Ltd

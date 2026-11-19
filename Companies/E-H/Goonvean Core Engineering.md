@@ -14,6 +14,7 @@ tags:
   - type-manufacturer
   - owned-uk
   - mbr-ads
+  - precision-engineering
 ---
 
 # Goonvean Core Engineering

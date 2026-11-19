@@ -12,6 +12,9 @@ tags:
   - type-manufacturer
   - accr-iso9001
   - accr-iso14001
+  - metal-fabrication
+  - precision-engineering
+  - inspection-certification
 ---
 
 # KRG Specialist Engineering Services Ltd

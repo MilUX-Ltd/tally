@@ -14,6 +14,7 @@ tags:
   - optronics
   - type-manufacturer
   - owned-uk
+  - precision-engineering
 ---
 
 # Moyola Precision Engineering

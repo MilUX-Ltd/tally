@@ -13,6 +13,8 @@ tags:
   - air
   - manufacturing
   - hardware
+  - composites
+  - metal-fabrication
 ---
 
 # Sigma Precision Components Limited

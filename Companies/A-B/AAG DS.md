@@ -17,6 +17,7 @@ tags:
   - type-sme
   - owned-foreign
   - mbr-ads
+  - through-life-support
 ---
 
 # AAG DS

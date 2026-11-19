@@ -14,6 +14,8 @@ tags:
   - hardware
   - type-manufacturer
   - owned-uk
+  - composites
+  - through-life-support
 ---
 
 # Tods Technology

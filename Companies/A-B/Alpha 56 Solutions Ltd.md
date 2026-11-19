@@ -25,6 +25,7 @@ tags:
   - size-micro
   - owned-veteran
   - owned-founder
+  - through-life-support
 ---
 
 # Alpha 56 Solutions Ltd

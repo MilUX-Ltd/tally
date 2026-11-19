@@ -17,6 +17,13 @@ tags:
   - owned-uk
   - accr-iso9001
   - accr-iso14001
+  - pcbs
+  - metal-fabrication
+  - precision-engineering
+  - cad-cam
+  - mechanical-engineering
+  - through-life-support
+  - inspection-certification
 ---
 
 # Nasmyth Group Ltd

@@ -16,6 +16,7 @@ tags:
   - type-manufacturer
   - owned-uk
   - backed-pe
+  - through-life-support
 ---
 
 # Ontic Engineering & Manufacturing Ltd

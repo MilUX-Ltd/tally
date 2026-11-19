@@ -7,7 +7,6 @@ uk-region: South West
 sources-verified: 2026-07-05
 tags:
   - defence
-  - drones
   - uas
   - uas/platform
   - hardware
@@ -17,6 +16,8 @@ tags:
   - accr-joscar
   - accr-ce
   - accr-ce-plus
+  - uas/multirotor
+  - uas/fixed-wing
 ---
 # Modini Ltd
 > UK SME specialising in the design, development, test, evaluation and operational delivery of complex uncrewed systems for government and commercial clients.

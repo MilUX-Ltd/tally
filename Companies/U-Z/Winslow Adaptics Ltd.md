@@ -15,6 +15,8 @@ tags:
   - owned-uk
   - accr-iso9001
   - accr-ce-plus
+  - pcbs
+  - obsolescence
 ---
 
 # Winslow Adaptics Ltd

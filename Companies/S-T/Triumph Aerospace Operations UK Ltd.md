@@ -18,6 +18,8 @@ tags:
   - type-manufacturer
   - owned-foreign
   - accr-iso9001
+  - pcbs
+  - precision-engineering
 ---
 
 # Triumph Aerospace Operations UK Ltd

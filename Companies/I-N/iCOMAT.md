@@ -17,6 +17,7 @@ tags:
   - size-small
   - type-manufacturer
   - backed-vc
+  - composites
 ---
 
 # iCOMAT

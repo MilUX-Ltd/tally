@@ -32,6 +32,7 @@ tags:
   - type-prime
   - owned-foreign
   - mbr-ads
+  - advanced-manufacturing
 ---
 
 # Raytheon UK

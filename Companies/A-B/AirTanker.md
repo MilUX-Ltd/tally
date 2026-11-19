@@ -17,6 +17,7 @@ tags:
   - size-large
   - type-prime
   - owned-foreign
+  - through-life-support
 ---
 
 # AirTanker

@@ -18,6 +18,7 @@ tags:
   - type-sme
   - size-medium
   - mbr-ads
+  - inspection-certification
 ---
 
 # Adaptix

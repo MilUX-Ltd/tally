@@ -14,6 +14,7 @@ tags:
   - hardware
   - air
   - owned-foreign
+  - precision-engineering
 ---
 
 # Takumi Precision Engineering

@@ -19,6 +19,7 @@ tags:
   - type-sme
   - owned-uk
   - mbr-ads
+  - precision-engineering
 ---
 
 # C. Brandauer & Co Ltd

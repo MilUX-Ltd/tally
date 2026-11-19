@@ -10,7 +10,6 @@ size: medium
 sources-verified: 2026-07-05
 tags:
   - defence
-  - drones
   - uas
   - uas/platform
   - fpv

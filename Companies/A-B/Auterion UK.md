@@ -11,7 +11,6 @@ size: medium
 sources-verified: 2026-07-04
 tags:
   - defence
-  - drones
   - uas
   - uas/payload
   - autonomy
@@ -26,6 +25,7 @@ tags:
   - owned-foreign
   - backed-vc
   - mbr-ads
+  - uas/guidance
 ---
 
 # Auterion UK Ltd

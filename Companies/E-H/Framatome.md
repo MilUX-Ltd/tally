@@ -21,6 +21,7 @@ tags:
   - type-manufacturer
   - owned-foreign
   - mbr-ads
+  - project-management
 ---
 
 # Framatome Ltd

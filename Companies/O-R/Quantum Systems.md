@@ -14,7 +14,6 @@ tags:
   - uas
   - uas/platform
   - uas/payload
-  - drones
   - isr
   - isr/imint
   - autonomy
@@ -26,6 +25,7 @@ tags:
   - type-scaleup
   - owned-foreign
   - backed-vc
+  - uas/fixed-wing
 ---
 
 # Quantum-Systems GmbH

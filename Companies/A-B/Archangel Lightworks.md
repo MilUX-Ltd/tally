@@ -18,6 +18,7 @@ tags:
   - type-scaleup
   - owned-uk
   - mbr-ads
+  - space/ground-systems
 ---
 
 # Archangel Lightworks Ltd

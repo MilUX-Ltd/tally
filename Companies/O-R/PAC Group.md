@@ -13,6 +13,8 @@ tags:
   - robotics
   - autonomy
   - type-manufacturer
+  - composites
+  - inspection-certification
 ---
 
 # PAC Group

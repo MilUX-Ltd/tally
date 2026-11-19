@@ -13,6 +13,7 @@ tags:
   - type-manufacturer
   - owned-foreign
   - accr-iso14001
+  - precision-engineering
 ---
 
 # SAM Aerospace (NI) Ltd

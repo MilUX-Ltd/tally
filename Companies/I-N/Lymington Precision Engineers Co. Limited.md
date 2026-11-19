@@ -13,6 +13,9 @@ tags:
   - space
   - type-manufacturer
   - owned-uk
+  - metal-fabrication
+  - precision-engineering
+  - project-management
 ---
 
 # Lymington Precision Engineers Co. Limited

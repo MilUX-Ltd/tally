@@ -12,6 +12,7 @@ tags:
   - hardware
   - type-manufacturer
   - accr-iso9001
+  - pcbs
 ---
 
 # Key-Tech Electronic Systems

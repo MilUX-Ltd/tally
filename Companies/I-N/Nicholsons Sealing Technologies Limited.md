@@ -11,6 +11,7 @@ tags:
   - manufacturing
   - hardware
   - type-manufacturer
+  - metal-fabrication
 ---
 
 # Nicholsons Sealing Technologies Limited

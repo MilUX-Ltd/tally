@@ -17,7 +17,6 @@ tags:
   - autonomy/uxv-control
   - uas
   - uas/platform
-  - drones
   - maritime
   - air
   - software

@@ -21,7 +21,7 @@ tags:
   - isr
   - counter-uas
   - counter-uas/detection
-  - drones
+  - uas
   - simulation
   - data
   - data/visualisation

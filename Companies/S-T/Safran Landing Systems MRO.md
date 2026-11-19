@@ -12,6 +12,7 @@ tags:
   - manufacturing
   - owned-foreign
   - type-manufacturer
+  - through-life-support
 ---
 
 # Safran Landing Systems MRO

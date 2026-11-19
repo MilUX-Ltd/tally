@@ -18,7 +18,6 @@ tags:
   - counter-uas/detection
   - counter-uas/effector
   - uas
-  - drones
   - rf
   - isr
   - isr/sigint
@@ -29,6 +28,7 @@ tags:
   - type-manufacturer
   - owned-foreign
   - mbr-naudi
+  - uas/fixed-wing
 ---
 
 # Kvertus

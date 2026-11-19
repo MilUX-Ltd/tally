@@ -15,6 +15,7 @@ tags:
   - hardware
   - type-manufacturer
   - owned-uk
+  - distribution
 ---
 
 # Prisma Worldwide Ltd

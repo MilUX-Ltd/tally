@@ -8,7 +8,6 @@ sources-verified: 2026-06-30
 tags:
   - defence
   - mbr-ads
-  - drones
   - uas
   - isr
   - air
@@ -16,6 +15,7 @@ tags:
   - manufacturing
   - type-sme
   - type-manufacturer
+  - through-life-support
 ---
 
 # UAV Tactical Systems Ltd (U-TacS)

@@ -14,6 +14,8 @@ tags:
   - hardware
   - type-manufacturer
   - owned-foreign
+  - metal-fabrication
+  - through-life-support
 ---
 
 # KNDS UK

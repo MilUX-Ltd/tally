@@ -18,7 +18,7 @@ tags:
   - maritime
   - size-medium
   - type-services
-  - owned-parent
+  - owned-group
   - mbr-ads
 ---
 

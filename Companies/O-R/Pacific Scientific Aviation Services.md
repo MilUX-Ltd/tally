@@ -13,6 +13,7 @@ tags:
   - hardware
   - type-manufacturer
   - owned-foreign
+  - through-life-support
 ---
 
 # Pacific Scientific Aviation Services

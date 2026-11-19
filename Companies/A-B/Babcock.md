@@ -24,6 +24,7 @@ tags:
   - listed
   - owned-uk
   - mbr-ads
+  - through-life-support
 ---
 
 # Babcock International Group

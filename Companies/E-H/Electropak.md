@@ -21,6 +21,8 @@ tags:
   - owned-uk
   - accr-iso9001
   - mbr-ads
+  - metal-fabrication
+  - precision-engineering
 ---
 
 # Electropak

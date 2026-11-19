@@ -24,6 +24,7 @@ tags:
   - backed-vc
   - owned-founder
   - mbr-ads
+  - advanced-manufacturing
 ---
 
 # Alloyed

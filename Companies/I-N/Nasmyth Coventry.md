@@ -13,6 +13,8 @@ tags:
   - maritime
   - type-manufacturer
   - owned-uk
+  - metal-fabrication
+  - precision-engineering
 ---
 
 # Nasmyth Coventry

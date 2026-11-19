@@ -18,6 +18,7 @@ tags:
   - type-integrator
   - owned-uk
   - mbr-ads
+  - space/ground-systems
 ---
 
 # Goonhilly Earth Station Ltd

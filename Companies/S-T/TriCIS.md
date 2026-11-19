@@ -13,7 +13,6 @@ tags:
   - electronics
   - integration
   - size-small
-  - accr-ncsc
   - accr-joscar
   - fw-gcloud
 ---

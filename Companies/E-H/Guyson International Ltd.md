@@ -18,6 +18,8 @@ tags:
   - accr-iso9001
   - accr-iso14001
   - mbr-ads
+  - pcbs
+  - advanced-manufacturing
 ---
 
 # Guyson International Ltd

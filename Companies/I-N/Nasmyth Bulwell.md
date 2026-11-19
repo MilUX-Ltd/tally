@@ -14,6 +14,10 @@ tags:
   - air
   - type-manufacturer
   - owned-uk
+  - metal-fabrication
+  - precision-engineering
+  - cad-cam
+  - inspection-certification
 ---
 
 # Nasmyth Bulwell

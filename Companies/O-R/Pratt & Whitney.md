@@ -15,6 +15,7 @@ tags:
   - type-manufacturer
   - owned-foreign
   - listed
+  - through-life-support
 ---
 
 # Pratt & Whitney
