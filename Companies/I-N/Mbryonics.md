@@ -16,7 +16,6 @@ tags:
   - type-manufacturer
   - owned-foreign
   - space/ground-systems
-  - packaging
 ---
 
 # Mbryonics

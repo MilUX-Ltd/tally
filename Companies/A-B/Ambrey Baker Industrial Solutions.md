@@ -18,9 +18,7 @@ tags:
   - owned-uk
   - accr-iso9001
   - mbr-ads
-  - advanced-manufacturing
   - facilities-management
-  - construction-infrastructure
 ---
 
 # Ambrey Baker Industrial Solutions

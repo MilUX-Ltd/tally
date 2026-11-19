@@ -25,7 +25,6 @@ tags:
   - type-prime
   - owned-foreign
   - accr-iso9001
-  - space/ground-systems
 ---
 
 # MDA Space and Robotics

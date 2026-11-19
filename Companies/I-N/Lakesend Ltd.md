@@ -12,7 +12,6 @@ tags:
   - type-consultancy
   - owned-uk
   - size-micro
-  - project-management
 ---
 
 # Lakesend Ltd

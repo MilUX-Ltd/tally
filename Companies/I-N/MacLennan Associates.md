@@ -11,8 +11,6 @@ tags:
   - cyber
   - type-consultancy
   - owned-uk
-  - project-management
-  - through-life-support
 ---
 
 # MacLennan Associates

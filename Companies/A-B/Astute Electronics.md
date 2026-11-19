@@ -19,7 +19,6 @@ tags:
   - owned-uk
   - accr-iso9001
   - mbr-ads
-  - obsolescence
 ---
 
 # Astute Electronics

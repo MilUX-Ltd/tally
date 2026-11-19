@@ -19,7 +19,6 @@ tags:
   - type-startup
   - size-small
   - mbr-ads
-  - advanced-manufacturing
 ---
 
 # ANGOKA

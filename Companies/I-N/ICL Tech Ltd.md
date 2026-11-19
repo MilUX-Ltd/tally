@@ -14,8 +14,6 @@ tags:
   - owned-uk
   - accr-iso9001
   - plastics
-  - precision-engineering
-  - advanced-manufacturing
 ---
 
 # ICL Tech Ltd

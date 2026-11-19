@@ -14,7 +14,6 @@ tags:
   - uas
   - type-manufacturer
   - owned-uk
-  - uas/propulsion
 ---
 
 # Intelligent Energy Ltd

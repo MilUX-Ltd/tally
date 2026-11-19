@@ -11,7 +11,6 @@ tags:
   - software
   - type-integrator
   - owned-uk
-  - advanced-manufacturing
 ---
 
 # Solid Solutions Management Ltd

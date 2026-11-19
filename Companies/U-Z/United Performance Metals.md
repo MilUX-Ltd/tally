@@ -12,7 +12,6 @@ tags:
   - hardware
   - type-manufacturer
   - owned-foreign
-  - advanced-manufacturing
 ---
 
 # United Performance Metals

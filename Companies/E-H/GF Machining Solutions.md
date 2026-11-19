@@ -17,7 +17,6 @@ tags:
   - type-manufacturer
   - owned-foreign
   - mbr-ads
-  - precision-engineering
 ---
 
 # GF Machining Solutions

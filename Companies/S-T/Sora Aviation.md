@@ -17,7 +17,6 @@ tags:
   - autonomy
   - type-startup
   - owned-uk
-  - uas/airworthiness
 ---
 
 # Sora Aviation

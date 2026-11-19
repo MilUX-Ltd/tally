@@ -15,8 +15,6 @@ tags:
   - type-manufacturer
   - owned-uk
   - metal-fabrication
-  - precision-engineering
-  - cad-cam
   - inspection-certification
 ---
 

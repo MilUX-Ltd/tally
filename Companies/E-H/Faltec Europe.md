@@ -26,7 +26,6 @@ tags:
   - mbr-ads
   - mbr-makeuk-defence
   - plastics
-  - advanced-manufacturing
 ---
 
 # Faltec Europe

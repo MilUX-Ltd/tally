@@ -15,7 +15,6 @@ tags:
   - size-small
   - type-distributor
   - accr-iso9001
-  - packaging
   - distribution
 ---
 

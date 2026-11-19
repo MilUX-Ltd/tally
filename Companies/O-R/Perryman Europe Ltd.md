@@ -14,7 +14,6 @@ tags:
   - owned-foreign
   - accr-iso9001
   - accr-iso14001
-  - advanced-manufacturing
 ---
 
 # Perryman Europe Ltd

@@ -14,7 +14,6 @@ tags:
   - accr-iso9001
   - accr-iso27001
   - accr-iso14001
-  - project-management
 ---
 
 # Morson Projects Limited

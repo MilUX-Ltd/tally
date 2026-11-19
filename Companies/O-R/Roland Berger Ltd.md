@@ -15,7 +15,6 @@ tags:
   - type-consultancy
   - owned-foreign
   - size-large
-  - through-life-support
 ---
 
 # Roland Berger Ltd

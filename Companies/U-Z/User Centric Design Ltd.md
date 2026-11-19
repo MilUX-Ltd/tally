@@ -10,7 +10,6 @@ tags:
   - mbr-ads
   - type-consultancy
   - owned-uk
-  - design
 ---
 
 # User Centric Design Ltd

@@ -15,7 +15,6 @@ tags:
   - accr-iso9001
   - accr-ce-plus
   - accr-joscar
-  - metal-fabrication
 ---
 
 # Propak Sheet Metal Ltd

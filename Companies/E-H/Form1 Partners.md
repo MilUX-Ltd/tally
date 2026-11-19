@@ -15,8 +15,6 @@ tags:
   - type-consultancy
   - owned-uk
   - mbr-ads
-  - finance
-  - project-management
 ---
 
 # Form1 Partners Ltd

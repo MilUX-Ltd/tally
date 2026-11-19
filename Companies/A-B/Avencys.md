@@ -12,7 +12,6 @@ tags:
   - type-consultancy
   - type-sme
   - mbr-ads
-  - project-management
 ---
 
 # Avencys

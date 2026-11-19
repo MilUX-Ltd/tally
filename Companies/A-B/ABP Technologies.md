@@ -22,7 +22,6 @@ tags:
   - size-small
   - accr-ce
   - accr-iso9001
-  - obsolescence
   - through-life-support
 ---
 

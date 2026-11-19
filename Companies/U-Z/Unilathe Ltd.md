@@ -11,8 +11,6 @@ tags:
   - manufacturing
   - hardware
   - type-manufacturer
-  - metal-fabrication
-  - precision-engineering
 ---
 
 # Unilathe Ltd

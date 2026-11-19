@@ -21,7 +21,6 @@ tags:
   - type-sme
   - owned-uk
   - size-micro
-  - research-development
 ---
 
 # Synchronous Science Ltd

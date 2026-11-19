@@ -12,7 +12,6 @@ tags:
   - mbr-ads
   - type-consultancy
   - owned-foreign
-  - finance
 ---
 
 # Renaissance Strategic Advisors Ltd

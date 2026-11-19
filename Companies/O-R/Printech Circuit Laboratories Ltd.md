@@ -16,7 +16,6 @@ tags:
   - type-manufacturer
   - accr-iso9001
   - accr-ce
-  - pcbs
 ---
 
 # Printech Circuit Laboratories Ltd

@@ -18,7 +18,6 @@ tags:
   - size-micro
   - type-sme
   - owned-uk
-  - uas/fixed-wing
 ---
 # i9 Ltd
 

@@ -11,8 +11,6 @@ tags:
   - manufacturing
   - type-manufacturer
   - owned-uk
-  - precision-engineering
-  - packaging
 ---
 
 # MP Eastern

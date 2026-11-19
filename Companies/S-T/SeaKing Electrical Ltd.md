@@ -13,7 +13,6 @@ tags:
   - manufacturing
   - type-manufacturer
   - owned-uk
-  - electrical-engineering
 ---
 
 # SeaKing Electrical Ltd

@@ -25,7 +25,6 @@ tags:
   - accr-ce-plus
   - accr-joscar
   - mbr-ads
-  - test-equipment
   - through-life-support
 ---
 

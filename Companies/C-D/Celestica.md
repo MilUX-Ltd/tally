@@ -22,7 +22,6 @@ tags:
   - owned-foreign
   - listed
   - mbr-ads
-  - through-life-support
 ---
 
 # Celestica

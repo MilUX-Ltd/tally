@@ -16,7 +16,6 @@ tags:
   - type-manufacturer
   - owned-uk
   - accr-iso9001
-  - composites
 ---
 
 # JOTA Holdings

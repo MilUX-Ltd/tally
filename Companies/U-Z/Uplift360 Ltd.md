@@ -11,7 +11,6 @@ tags:
   - manufacturing
   - type-sme
   - owned-foreign
-  - composites
 ---
 
 # Uplift360 Ltd

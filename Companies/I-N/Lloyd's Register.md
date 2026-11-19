@@ -12,7 +12,6 @@ tags:
   - test-evaluation
   - type-consultancy
   - size-large
-  - inspection-certification
 ---
 
 # Lloyd's Register

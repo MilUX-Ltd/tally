@@ -22,8 +22,6 @@ tags:
   - type-manufacturer
   - owned-foreign
   - size-small
-  - uas/propulsion
-  - uas/parts
 ---
 
 # ePropelled

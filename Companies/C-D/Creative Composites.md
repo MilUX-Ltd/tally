@@ -24,7 +24,6 @@ tags:
   - mbr-ads
   - composites
   - precision-engineering
-  - packaging
 ---
 
 # Creative Composites

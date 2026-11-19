@@ -11,7 +11,6 @@ tags:
   - isr
   - comms
   - type-consultancy
-  - space/ground-systems
 ---
 # Space4Sight
 > UK space sector advisory firm covering civil, military and dual-use activities across the full mission stack.

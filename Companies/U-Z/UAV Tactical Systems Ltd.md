@@ -15,7 +15,6 @@ tags:
   - manufacturing
   - type-sme
   - type-manufacturer
-  - through-life-support
 ---
 
 # UAV Tactical Systems Ltd (U-TacS)

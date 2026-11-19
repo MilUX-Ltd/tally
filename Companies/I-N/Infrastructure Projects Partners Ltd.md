@@ -10,8 +10,6 @@ tags:
   - mbr-ads
   - type-consultancy
   - type-sme
-  - project-management
-  - construction-infrastructure
 ---
 
 # Infrastructure Projects Partners Ltd

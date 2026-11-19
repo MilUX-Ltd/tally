@@ -16,7 +16,6 @@ tags:
   - type-consultancy
   - owned-uk
   - mbr-ads
-  - project-management
 ---
 
 # Gardner Aero Defence Solutions Ltd

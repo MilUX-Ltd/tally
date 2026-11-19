@@ -17,7 +17,6 @@ tags:
   - type-sme
   - owned-foreign
   - mbr-ads
-  - research-development
 ---
 
 # Accord Global Technology Solutions

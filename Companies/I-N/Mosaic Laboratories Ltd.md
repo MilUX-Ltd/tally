@@ -12,7 +12,6 @@ tags:
   - type-sme
   - owned-uk
   - accr-ce-plus
-  - research-development
 ---
 
 # Mosaic Laboratories Ltd

@@ -14,7 +14,6 @@ tags:
   - type-manufacturer
   - owned-foreign
   - size-large
-  - composites
 ---
 
 # Syensqo

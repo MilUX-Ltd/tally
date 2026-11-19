@@ -23,8 +23,6 @@ tags:
   - accr-iso9001
   - mbr-ads
   - composites
-  - metal-fabrication
-  - precision-engineering
   - uas/parts
 ---
 

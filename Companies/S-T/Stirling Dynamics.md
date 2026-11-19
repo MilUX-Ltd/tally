@@ -21,7 +21,6 @@ tags:
   - type-consultancy
   - owned-foreign
   - mbr-ads
-  - project-management
 ---
 
 # Stirling Dynamics Ltd

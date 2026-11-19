@@ -12,7 +12,6 @@ tags:
   - type-sme
   - owned-uk
   - accr-iso9001
-  - composites
 ---
 
 # Markwell Trading Services

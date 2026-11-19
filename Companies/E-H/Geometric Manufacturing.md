@@ -29,7 +29,6 @@ tags:
   - accr-iso9001
   - accr-ce-plus
   - mbr-ads
-  - metal-fabrication
   - precision-engineering
 ---
 

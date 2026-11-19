@@ -16,7 +16,6 @@ tags:
   - accr-iso9001
   - accr-iso14001
   - facilities-management
-  - construction-infrastructure
 ---
 
 # Kier Group plc

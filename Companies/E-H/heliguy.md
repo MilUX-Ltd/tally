@@ -19,7 +19,6 @@ tags:
   - isr
   - size-small
   - type-sme
-  - uas/airworthiness
 ---
 
 # heliguy

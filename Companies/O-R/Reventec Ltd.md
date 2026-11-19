@@ -17,7 +17,6 @@ tags:
   - type-manufacturer
   - owned-uk
   - accr-iso9001
-  - design
 ---
 
 # Reventec Ltd

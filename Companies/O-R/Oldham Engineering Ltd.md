@@ -16,7 +16,6 @@ tags:
   - accr-iso9001
   - metal-fabrication
   - precision-engineering
-  - advanced-manufacturing
   - project-management
 ---
 

@@ -9,7 +9,6 @@ tags:
   - defence
   - mbr-ads
   - type-consultancy
-  - design
 ---
 
 # Newton Europe Ltd

@@ -17,7 +17,6 @@ tags:
   - owned-uk
   - accr-joscar
   - accr-ce
-  - design
 ---
 
 # North Product Design Ltd

@@ -13,7 +13,6 @@ tags:
   - training/instruction
   - type-consultancy
   - owned-uk
-  - advanced-manufacturing
   - project-management
 ---
 

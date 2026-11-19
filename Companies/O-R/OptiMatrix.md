@@ -10,7 +10,6 @@ tags:
   - type-consultancy
   - accr-joscar
   - mbr-ads
-  - project-management
 ---
 # OptiMatrix
 > Independent defence and aerospace consultancy specialising in procurement, supply chain, commercial, and operations management. JOSCAR registered.

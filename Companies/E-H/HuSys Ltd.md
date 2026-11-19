@@ -13,7 +13,6 @@ tags:
   - type-consultancy
   - type-sme
   - owned-uk
-  - project-management
 ---
 
 # HuSys Ltd

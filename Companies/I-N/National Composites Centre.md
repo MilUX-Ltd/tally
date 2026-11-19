@@ -16,7 +16,6 @@ tags:
   - owned-uk
   - accr-iso9001
   - composites
-  - advanced-manufacturing
 ---
 
 # National Composites Centre

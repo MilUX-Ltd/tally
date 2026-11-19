@@ -12,8 +12,6 @@ tags:
   - mbr-ads
   - manufacturing
   - owned-foreign
-  - civil-engineering
-  - facilities-management
 ---
 
 # Skanska Construction UK Ltd

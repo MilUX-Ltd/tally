@@ -29,10 +29,8 @@ tags:
   - owned-uk
   - size-micro
   - mbr-ads
-  - composites
   - uas/airframe
   - uas/fixed-wing
-  - through-life-support
 ---
 
 # Advanced Integrated Technologies

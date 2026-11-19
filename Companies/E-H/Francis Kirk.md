@@ -19,7 +19,6 @@ tags:
   - accr-iso9001
   - accr-iso14001
   - mbr-ads
-  - precision-engineering
 ---
 
 # Francis Kirk (Socket Screws) Ltd

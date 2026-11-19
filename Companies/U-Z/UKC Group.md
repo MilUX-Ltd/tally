@@ -18,7 +18,6 @@ tags:
   - accr-iso9001
   - accr-joscar
   - accr-ce-plus
-  - inspection-certification
 ---
 
 # UKC Group

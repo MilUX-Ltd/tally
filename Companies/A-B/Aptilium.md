@@ -18,7 +18,6 @@ tags:
   - type-sme
   - accr-iso9001
   - mbr-ads
-  - precision-engineering
 ---
 
 # Aptilium

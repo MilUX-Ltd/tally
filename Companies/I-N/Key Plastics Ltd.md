@@ -16,8 +16,6 @@ tags:
   - type-manufacturer
   - type-sme
   - accr-iso9001
-  - plastics
-  - precision-engineering
 ---
 
 # Key Plastics Ltd

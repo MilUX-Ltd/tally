@@ -22,7 +22,6 @@ tags:
   - accr-ce-plus
   - accr-iso27001
   - accr-joscar
-  - advanced-manufacturing
 ---
 
 # Malvern Optical

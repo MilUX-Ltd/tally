@@ -19,7 +19,6 @@ tags:
   - manufacturing
   - training
   - project-management
-  - through-life-support
 ---
 
 # KBR

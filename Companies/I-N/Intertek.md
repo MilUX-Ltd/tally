@@ -15,7 +15,6 @@ tags:
   - owned-foreign
   - listed
   - size-large
-  - inspection-certification
 ---
 
 # Intertek
