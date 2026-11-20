@@ -229,5 +229,38 @@ class SupplierSize(unittest.TestCase):
         self.assertEqual([r["scale"] for r in rows], [None if i else "sme" for i in range(3)])
 
 
+class RefreshPlan(unittest.TestCase):
+    """The weekly refresh (Matt, 20 November 2026: "needs to be regularly updated")."""
+
+    def test_recent_windows_come_first_for_both_services(self):
+        b = load_builder()
+        today = datetime.date(2026, 11, 19)
+        plan = b.fetch_plan(datetime.date(2023, 1, 1), datetime.date(2025, 2, 24), today, recent_days=14)
+        kinds = [k for k, _ in plan]
+        self.assertEqual(kinds, ["cf", "fts", "cf", "fts"])
+        cut = datetime.datetime.combine(today - datetime.timedelta(days=14), datetime.time())
+        self.assertTrue(plan[0][1] and all(w[1] > cut for w in plan[0][1]))
+        self.assertTrue(plan[1][1] and all(w[1] > cut for w in plan[1][1]))
+        self.assertTrue(all(w[1] <= cut for w in plan[2][1]))
+        # The same windows the build checks for coverage, so a refresh can be read back.
+        self.assertEqual(set(plan[0][1]) | set(plan[2][1]), set(b.day_windows(datetime.date(2023, 1, 1), today)))
+        self.assertEqual(set(plan[1][1]) | set(plan[3][1]),
+                         set(b.week_windows(datetime.date(2025, 2, 24), today)))
+
+    def test_refresh_never_counts_a_partial_day(self):
+        b = load_builder()
+        self.assertEqual(b.last_complete_day(datetime.date(2026, 11, 20)), datetime.date(2026, 11, 19))
+
+    def test_refresh_never_shortens_the_period(self):
+        b = load_builder()
+        old = {"period": {"from": "2026-04-16", "to": "2026-11-20"}}
+        b.check_period(old, {"period": {"from": "2026-04-16", "to": "2026-11-27"}})
+        b.check_period(old, {"period": {"from": "2026-01-02", "to": "2026-11-27"}})
+        with self.assertRaises(SystemExit):
+            b.check_period(old, {"period": {"from": "2026-05-01", "to": "2026-11-27"}})
+        with self.assertRaises(SystemExit):
+            b.check_period(old, {"period": {"from": "2026-04-16", "to": "2026-11-13"}})
+
+
 if __name__ == "__main__":
     unittest.main()
