@@ -170,9 +170,6 @@ class Rules(unittest.TestCase):
         self.assertEqual(self.b.country_label("USA"), "United States")
 
 
-if __name__ == "__main__":
-    unittest.main()
-
 
 class SupplierSize(unittest.TestCase):
     """The share to small and medium-sized firms (D-96j1u)."""
@@ -220,3 +217,17 @@ class SupplierSize(unittest.TestCase):
         ]
         self.b.fill_scale(mixed)
         self.assertEqual([r["scale"] for r in mixed], ["sme", "large", None])
+
+    def test_scale_not_borrowed_across_companies(self):
+        # Two companies whose names normalise alike but whose Companies House numbers differ.
+        rows = [
+            {"name": "Apex Engineering Group", "ch": "02222222", "scale": "sme"},
+            {"name": "Apex Engineering Ltd", "ch": "01111111", "scale": None},
+            {"name": "Apex Engineering Limited", "ch": None, "scale": None},
+        ]
+        self.b.fill_scale(rows)
+        self.assertEqual([r["scale"] for r in rows], [None if i else "sme" for i in range(3)])
+
+
+if __name__ == "__main__":
+    unittest.main()

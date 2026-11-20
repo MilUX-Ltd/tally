@@ -25,7 +25,7 @@ Awards dated from 1 January 2023 to the build date, by award date. Years are cal
 5. **Duplicates.** Since 24 February 2025 an above-threshold award can appear on both services. The same supplier within three days of the same award date on both counts once, with the Find a Tender value.
 6. **Tally companies.** A supplier is matched to a Tally company by Companies House number where the notice gives one, otherwise by normalised name (lower case, punctuation and suffixes such as Ltd, Limited, PLC, LLP, UK, Group and Holdings removed). A name shared by two Tally companies is not used. A missed match is preferred to a wrong one.
 7. **No personal data.** A supplier is named only when it is clearly a registered organisation: it has a Companies House number, its name ends in a legal form such as Ltd, PLC, LLP, GmbH or AB, or it is a university or public body. Other suppliers count in the totals but are never named.
-8. **Supplier size.** Each supplier's size, small or medium-sized (SME) or large, is the size it declared on the notice (`details.scale`). Where a notice gives none, the size the same supplier declared on another notice in the data is used, matched by Companies House number or normalised name, unless it declared both sizes. Otherwise the size is not known.
+8. **Supplier size.** Each supplier's size, small or medium-sized (SME) or large, is the size it declared on the notice (`details.scale`). Where a notice gives none, the size the same supplier declared on another notice in the data is used, matched by Companies House number when the notice gives one, otherwise by normalised name (but not a name used by more than one Companies House number), unless it declared both sizes. Where an award appears on both services, the size on the dropped duplicate is kept when the kept notice gives none. Otherwise the size is not known.
 
 ## Fields
 
@@ -55,7 +55,7 @@ Built on 20 November 2026. Preview build, not yet the full period.
 - Find a Tender: 97 pages (7,912 notices, all buyers), weekly windows from 13 April 2026. Find a Tender gives the value and signature date on the contract rather than the award, and the build reads them from there.
 - Requests: about 550 in all, including retries after rate limiting, plus a handful of postcodes.io lookups.
 - Awards dated before 16 April 2026 but published inside the window are left out, so a year is never partly counted.
-- Supplier size (UK regions): SME £178.0m over 63 supplier shares, large £3,105.7m over 144, not known £79.6m over 7; one size filled from the same supplier's other notice.
+- Supplier size (UK regions): SME £195.9m over 64 supplier shares, large £3,148.5m over 148, not known £18.8m over 2. Where an award appears on both services, the size from the dropped duplicate is kept; two more sizes are filled from the same supplier's other notices.
 - A rerun with the same cache folder extends the period backwards without fetching again what it already holds.
 
 ## Rebuilding

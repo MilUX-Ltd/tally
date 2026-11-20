@@ -602,18 +602,30 @@ def supplier_scale(party):
 
 
 def fill_scale(rows):
-    """Fill a missing size from the same supplier's other notices, matched by Companies
-    House number or normalised name. A supplier that declared both sizes fills nothing."""
-    seen = defaultdict(set)
-    keys = lambda r: [k for k in (("ch", r.get("ch")), ("name", norm_name(r.get("name") or ""))) if k[1]]
+    """Fill a missing size from the same supplier's other notices: by Companies House number
+    when the notice gives one, otherwise by normalised name, but not a name that belongs to
+    more than one Companies House number. A supplier that declared both sizes fills nothing."""
+    by_ch, by_name, name_chs = defaultdict(set), defaultdict(set), defaultdict(set)
     for r in rows:
-        if r.get("scale"):
-            for k in keys(r):
-                seen[k].add(r["scale"])
+        name = norm_name(r.get("name") or "")
+        if name and r.get("ch"):
+            name_chs[name].add(r["ch"])
+        if not r.get("scale"):
+            continue
+        if r.get("ch"):
+            by_ch[r["ch"]].add(r["scale"])
+        if name:
+            by_name[name].add(r["scale"])
     for r in rows:
         if r.get("scale"):
             continue
-        found = set().union(*[seen[k] for k in keys(r)]) if keys(r) else set()
+        name = norm_name(r.get("name") or "")
+        if r.get("ch"):
+            found = by_ch.get(r["ch"], set())
+        elif name and len(name_chs.get(name, ())) <= 1:
+            found = by_name.get(name, set())
+        else:
+            found = set()
         if len(found) == 1:
             r["scale"] = next(iter(found))
             r["scale_filled"] = True
@@ -741,9 +753,12 @@ def extract(cache, today, log, period_from=START):
             rep["dup_cross"] += 1
             rep["dup_pairs"].append(f"{row['date']} {row['name'][:40]}: kept {hit[0]} "
                                     f"{gbp(hit[1])}, dropped {row['source']} {gbp(row['value'])}")
+            # Keep the size the dropped notice declared when the kept one gives none.
+            if not hit[2].get("scale") and row.get("scale"):
+                hit[2]["scale"] = row["scale"]
             continue
-        keyed.setdefault(k1, (row["source"], row["value"]))
-        keyed.setdefault(k2, (row["source"], row["value"]))
+        keyed.setdefault(k1, (row["source"], row["value"], row))
+        keyed.setdefault(k2, (row["source"], row["value"], row))
         out.append(row)
     return out, rep
 
