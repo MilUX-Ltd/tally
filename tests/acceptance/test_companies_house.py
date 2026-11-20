@@ -26,7 +26,7 @@ ATTRIBUTION = "Contains public sector information licensed under the Open Govern
 CODES = {"25400", "30400", "84220"}
 CLOSED = {"dissolved", "converted-closed", "removed", "closed"}
 FLAGGED = {"liquidation", "administration", "receivership", "insolvency-proceedings", "voluntary-arrangement"}
-CH_NUMBER = re.compile(r"^(?:[0-9]{8}|[A-Z]{2}[0-9]{6})$")
+CH_NUMBER = re.compile(r"^(?:[0-9]{8}|[A-Z]{2}[0-9]{6}|R[0-9]{7})$")
 DATE = re.compile(r"^\d{4}-\d{2}-\d{2}$")
 PERSONAL = {"officers", "address", "registered_office_address", "date_of_birth", "email", "persons"}
 
@@ -76,6 +76,14 @@ class StatusSort(unittest.TestCase):
         self.assertEqual(kind, "flagged")
         self.assertEqual(rec, {"status": "active", "detail": "active-proposal-to-strike-off"})
 
+    def test_other_detail_is_not_flagged(self):
+        self.assertEqual(self.b.sort_profile({"company_status": "active", "company_status_detail": "something-else"})[0], "active")
+
+    def test_northern_ireland_numbers(self):
+        self.assertEqual(self.b.norm_ch("R0000401"), "R0000401")
+        self.assertEqual(self.b.norm_ch("NI 012345"), "NI012345")
+        self.assertEqual(self.b.norm_ch("1234"), "00001234")
+
     def test_active_is_active(self):
         self.assertEqual(self.b.sort_profile({"company_status": "active"})[0], "active")
         self.assertEqual(self.b.sort_profile({"company_status": "open"})[0], "active")
@@ -112,6 +120,11 @@ class TrendRules(unittest.TestCase):
         self.assertEqual(years[-1], (2026, True))
         self.assertEqual(len(years), 17)
 
+    def test_new_years_day(self):
+        years = self.b.trend_years(datetime.date(2029, 1, 1))
+        self.assertEqual(years[-1], (2028, True))
+        self.assertEqual(self.b.year_range(2028, datetime.date(2029, 1, 1)), ("2028-01-01", "2028-12-31"))
+
     def test_year_ranges(self):
         self.assertEqual(self.b.year_range(2024, datetime.date(2026, 11, 20)), ("2024-01-01", "2024-12-31"))
         self.assertEqual(self.b.year_range(2026, datetime.date(2026, 11, 20)), ("2026-01-01", "2026-11-19"))
@@ -138,6 +151,27 @@ class Guards(unittest.TestCase):
         self.b.check_closed_jump(previous=10, now=20)
         self.b.check_closed_jump(previous=None, now=300)
         self.b.check_closed_jump(previous=0, now=5)
+        self.b.check_closed_jump(previous=4, now=9)
+
+    def test_closed_jump_from_few_refused(self):
+        with self.assertRaises(SystemExit):
+            self.b.check_closed_jump(previous=0, now=11)
+
+    def year(self, n, formed, dissolved, partial=False):
+        return {"year": n, "partial": partial, "formed": {"total": formed}, "dissolved": {"total": dissolved}}
+
+    def test_zero_year_refused(self):
+        with self.assertRaises(SystemExit):
+            self.b.check_trend_against(None, [self.year(2024, 0, 0), self.year(2025, 5, 5, True)])
+
+    def test_trend_halving_refused(self):
+        previous = {"trend": {"years": [self.year(2024, 150, 150)]}}
+        with self.assertRaises(SystemExit):
+            self.b.check_trend_against(previous, [self.year(2024, 150, 60)])
+
+    def test_trend_steady_allowed(self):
+        previous = {"trend": {"years": [self.year(2024, 150, 150)]}}
+        self.b.check_trend_against(previous, [self.year(2024, 152, 149), self.year(2025, 0, 0, True)])
 
 
 class Contract(unittest.TestCase):
@@ -168,7 +202,7 @@ class Contract(unittest.TestCase):
             if "date" in row:
                 self.assertRegex(row["date"], DATE)
         for row in self.doc["flagged"]:
-            self.assertTrue(row["status"] in FLAGGED or row.get("detail"), row)
+            self.assertTrue(row["status"] in FLAGGED or row.get("detail") == "active-proposal-to-strike-off", row)
 
     def test_no_personal_fields(self):
         self.assertFalse(PERSONAL & set(keys_in(self.doc)))

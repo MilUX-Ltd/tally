@@ -77,7 +77,7 @@ def sort_profile(profile):
         if detail:
             rec["detail"] = detail
         return "flagged", rec
-    if detail == STRIKE_OFF:
+    if detail == STRIKE_OFF and status == "active":
         rec["detail"] = detail
         return "flagged", rec
     return "active", rec
@@ -91,15 +91,16 @@ def check_total(total, per_code):
 
 
 def trend_years(today):
-    """[(year, partial)] from FIRST_YEAR to this year; this year is partial."""
-    return [(y, y == today.year) for y in range(FIRST_YEAR, today.year + 1)]
+    """[(year, partial)] from FIRST_YEAR to the year of the last complete day, which is partial.
+
+    On 1 January the last complete day is 31 December, so the new year is left out."""
+    last = (today - datetime.timedelta(days=1)).year
+    return [(y, y == last) for y in range(FIRST_YEAR, last + 1)]
 
 
 def year_range(year, today):
-    """The search range for a year; this year runs to yesterday, the last complete day."""
-    end = datetime.date(year, 12, 31)
-    if year == today.year:
-        end = today - datetime.timedelta(days=1)
+    """The search range for a year, ending no later than yesterday, the last complete day."""
+    end = min(datetime.date(year, 12, 31), today - datetime.timedelta(days=1))
     return f"{year}-01-01", end.isoformat()
 
 
@@ -109,9 +110,24 @@ def check_failures(failed, total):
 
 
 def check_closed_jump(previous, now):
-    """Closed companies more than doubling since the last file points to a fault, not closures."""
-    if previous and now > 2 * previous:
+    """A rise in closed companies above max(10, the last count) points to a fault, not closures."""
+    if previous is not None and now - previous > max(10, previous):
         raise SystemExit(f"closed companies went from {previous} to {now}; check before publishing")
+
+
+def check_trend_against(previous, years):
+    """A full year with nothing formed, or a full year falling by more than half since the last
+    file, points to a broken search (an empty result reads as zero), not a real change."""
+    before = {y["year"]: y for y in (previous or {}).get("trend", {}).get("years", []) if not y.get("partial")}
+    for y in years:
+        if y["partial"]:
+            continue
+        if y["formed"]["total"] == 0:
+            raise SystemExit(f"no companies formed in {y['year']}; the search looks broken; not written")
+        old = before.get(y["year"])
+        for kind in ("formed", "dissolved"):
+            if old and y[kind]["total"] < old[kind]["total"] / 2:
+                raise SystemExit(f"{kind} in {y['year']} fell from {old[kind]['total']} to {y[kind]['total']}; not written")
 
 
 def norm_ch(value):
@@ -121,7 +137,7 @@ def norm_ch(value):
         return None
     if v.isdigit():
         v = v.zfill(8)
-    if not re.fullmatch(r"([0-9]{8}|[A-Z]{2}[0-9]{6})", v):
+    if not re.fullmatch(r"([0-9]{8}|[A-Z]{2}[0-9]{6}|R[0-9]{7})", v):
         return None
     return v
 
@@ -248,10 +264,11 @@ def main(argv=None):
     checked, closed, flagged, not_found = check_status(client, numbers, print)
     previous = None
     if args.previous and args.previous.exists():
-        previous = len(json.loads(args.previous.read_text(encoding="utf-8")).get("closed", []))
-    check_closed_jump(previous, len(closed))
+        previous = json.loads(args.previous.read_text(encoding="utf-8"))
+    check_closed_jump(len(previous["closed"]) if previous else None, len(closed))
     print(f"== Trend: {', '.join(CODES)}")
     trend = build_trend(client, args.today, print)
+    check_trend_against(previous, trend["years"])
     doc = {
         "generated": args.today.isoformat(), "attribution": ATTRIBUTION, "source": SOURCE,
         "checked": checked, "closed": closed, "flagged": flagged, "not_found": not_found, "trend": trend,

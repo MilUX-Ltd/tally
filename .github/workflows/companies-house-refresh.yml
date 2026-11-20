@@ -5,7 +5,7 @@
 # The run refuses to write if too many lookups fail or closed companies more than double, runs
 # the gate and the acceptance tests, and changes nothing but companies-house.json. With the
 # TALLY_REFRESH_TOKEN secret set it opens a pull request that merges itself when the required
-# "checks" job passes (D-i26gb).
+# "checks" job passes (D-i26gb), unless the set of closed companies changed: that waits for review.
 name: companies house refresh
 
 on:
@@ -60,7 +60,7 @@ jobs:
             echo "TALLY_REFRESH_TOKEN is not set: companies-house.json was built and tested but not proposed." >> "$GITHUB_STEP_SUMMARY"
             exit 0
           fi
-          summary=$(python3 -c "import json;d=json.load(open('companies-house.json'));print(f\"{len(d['closed'])} closed, {len(d['flagged'])} flagged\")")
+          summary=$(python3 -I -c "import json;d=json.load(open('companies-house.json'));print(f\"{len(d['closed'])} closed, {len(d['flagged'])} flagged\")")
           branch="companies-house-refresh/$(date -u +%Y-%m-%d)-${GITHUB_RUN_ID}"
           git config user.name "tally-companies-house-refresh"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
@@ -71,5 +71,12 @@ jobs:
           git commit -qam "Refresh companies-house.json: $summary"
           git push origin "$branch"
           gh pr create --base main --head "$branch" --title "Refresh companies-house.json: $summary" \
-            --body "Automatic refresh from the Companies House Public Data API (Open Government Licence v3.0). Only companies-house.json changes; the gate and acceptance tests passed in the refresh run. Merges automatically when the required checks pass."
-          gh pr merge "$branch" --auto --squash
+            --body "Automatic refresh from the Companies House Public Data API (Open Government Licence v3.0). Only companies-house.json changes; the gate and acceptance tests passed in the refresh run. Merges automatically when the required checks pass, unless the set of closed companies changed."
+          # A change in which companies are closed hides or restores companies on the site, so
+          # it waits for a person to check it; anything else merges itself when the checks pass.
+          if python3 -I -c "import json,sys;a,b=(sorted(r['ch'] for r in json.load(open(p))['closed']) for p in sys.argv[1:]);sys.exit(a!=b)" "$RUNNER_TEMP/previous.json" companies-house.json; then
+            gh pr merge "$branch" --auto --squash
+          else
+            gh pr comment "$branch" --body "The set of closed companies has changed. Check the companies added to or removed from \`closed\` before merging; this pull request does not merge itself."
+            echo "Closed companies changed: pull request left for review." >> "$GITHUB_STEP_SUMMARY"
+          fi
