@@ -91,7 +91,7 @@ jobs:
             echo "TALLY_REFRESH_TOKEN is not set: money.json was built and tested but not proposed." >> "$GITHUB_STEP_SUMMARY"
             exit 0
           fi
-          period=$(python3 -c "import json;p=json.load(open('money.json'))['period'];print(p['from'],'to',p['to'])")
+          period=$(python3 -I -c "import json;p=json.load(open('money.json'))['period'];print(p['from'],'to',p['to'])")
           branch="money-refresh/$(date -u +%Y-%m-%d)-${GITHUB_RUN_ID}"
           git config user.name "tally-money-refresh"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"

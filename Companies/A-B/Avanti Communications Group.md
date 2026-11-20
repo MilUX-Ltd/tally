@@ -3,7 +3,7 @@ type: organisation
 name: Avanti Communications Group plc
 website: https://www.avanti.space/
 linkedin: https://www.linkedin.com/company/avanticommunications
-companies-house: 06133927
+companies-house: 07072502
 hq: London, United Kingdom
 uk-region: London
 size: medium
