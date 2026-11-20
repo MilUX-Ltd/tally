@@ -257,7 +257,7 @@ class Fetcher:
                         # Slow down for the rest of the run: the services rate-limit by IP.
                         self.throttled += 1
                         self.pause[host] = min(30.0, self.pause.get(host, PAUSE) * 1.25)
-                        self.log(f"    pause for {host} now {self.pause[host]:.1f} s")
+                        self.log(f"    rate limited; pause now {self.pause[host]:.1f} s")
                     self.log(f"    HTTP {e.code}, waiting {min(300, wait)} s")
                     time.sleep(min(300, wait) + 1)
                     continue
