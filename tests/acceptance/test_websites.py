@@ -59,6 +59,10 @@ class Classify(unittest.TestCase):
         self.assertTrue(self.c.is_home("https://www.example.com/"))
         self.assertTrue(self.c.is_home("https://www.example.com/index.html"))
         self.assertFalse(self.c.is_home("https://www.example.com/en/uk"))
+        # As a browser writes an origin, so the site's check of a moved row agrees.
+        self.assertEqual(self.c.home_of("https://www.TheNacelleGroup.com/about"), "https://www.thenacellegroup.com/")
+        self.assertEqual(self.c.home_of("https://user@Example.com:443/x"), "https://example.com/")
+        self.assertEqual(self.c.home_of("http://example.com:8080/x"), "http://example.com:8080/")
 
     def test_settle(self):
         s = self.c.settle
@@ -100,6 +104,18 @@ class Confirm(unittest.TestCase):
         self.assertEqual(dead, [])
         self.assertEqual(len(pending), 1)
 
+    def test_uncertain_keeps_published(self):
+        previous = {"dead": [{"name": "Acme", "url": "https://acme.example/", "reason": "no-such-host", "since": "2026-11-23"}], "moved": [], "pending": []}
+        dead, _, _ = self.c.confirm(previous, [], "2026-11-30", uncertain=[("Acme", "https://acme.example/")])
+        self.assertEqual(dead, previous["dead"])
+
+    def test_moved_turned_dead_published_at_once(self):
+        previous = {"dead": [], "moved": [{"name": "Beta", "url": "https://beta.example/x", "home": "https://beta.example/", "since": "2026-11-23"}], "pending": []}
+        now = {"name": "Beta", "url": "https://beta.example/x", "result": "dead", "reason": "no-such-host"}
+        dead, moved, pending = self.c.confirm(previous, [now], "2026-11-30")
+        self.assertEqual(dead, [{"name": "Beta", "url": "https://beta.example/x", "reason": "no-such-host", "since": "2026-11-30"}])
+        self.assertEqual((moved, pending), ([], []))
+
     def test_recovery_clears(self):
         previous = {"dead": [{"name": "Acme", "url": "https://acme.example/", "reason": "no-such-host", "since": "2026-11-23"}], "moved": [], "pending": []}
         self.assertEqual(self.c.confirm(previous, [], "2026-11-30"), ([], [], []))
@@ -113,6 +129,8 @@ class Guards(unittest.TestCase):
         c.check_gone_share(100, 2000)
         with self.assertRaises(SystemExit):
             c.check_gone_share(201, 2000)
+        with self.assertRaises(SystemExit):
+            c.check_gone_share(10, 2000, uncertain=601)
 
 
 class Contract(unittest.TestCase):
@@ -138,7 +156,12 @@ class Contract(unittest.TestCase):
         for row in self.doc["moved"]:
             self.assertEqual(set(row), {"name", "url", "home", "since"})
             self.assertIn(row["name"], self.tally)
-            self.assertTrue(row["home"].startswith("http") and row["home"].endswith("/"))
+            self.assertEqual(row["home"], load().home_of(row["url"]))
+        for row in self.doc["dead"] + self.doc["moved"]:
+            self.assertEqual(row["url"], self.tally[row["name"]].strip())
+        for row in self.doc["pending"]:
+            self.assertIn(row["result"], {"dead", "moved"})
+            self.assertEqual(set(row), {"name", "url", "result", "since", "reason" if row["result"] == "dead" else "home"})
 
 
 if __name__ == "__main__":

@@ -17,6 +17,7 @@ import argparse
 import datetime
 import errno
 import json
+import re
 import socket
 import ssl
 import sys
@@ -31,9 +32,13 @@ ROOT = Path(__file__).resolve().parent.parent
 TALLY = ROOT / "tally-data.json"
 OUT = ROOT / "websites.json"
 USER_AGENT = "Mozilla/5.0 (compatible; TallyLinkCheck/1.0; +https://tally.milux.co.uk/about/)"
+# Some sites answer 404 to anything that is not a browser: a 404 is checked again as one.
+BROWSER_AGENT = "Mozilla/5.0 (Macintosh; Intel Mac OS X 14_0) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Safari/605.1.15"
 TIMEOUT = 20
 WORKERS = 16
 MAX_GONE_SHARE = 0.10
+MAX_UNCERTAIN_SHARE = 0.30
+URL_OK = re.compile(r"^https?://\S+$", re.I)
 NO_SUCH_HOST = {getattr(socket, n) for n in ("EAI_NONAME", "EAI_NODATA") if hasattr(socket, n)}
 
 
@@ -59,8 +64,13 @@ def classify(outcome):
 
 
 def home_of(url):
+    """The site's root as a browser writes its origin: host in lower case, no default port or user."""
     p = urllib.parse.urlsplit(url)
-    return f"{p.scheme}://{p.netloc}/"
+    scheme = p.scheme.lower()
+    host = (p.hostname or "").lower()
+    port = p.port
+    keep_port = port and not ((scheme == "http" and port == 80) or (scheme == "https" and port == 443))
+    return f"{scheme}://{host}{f':{port}' if keep_port else ''}/"
 
 
 def is_home(url):
@@ -82,31 +92,45 @@ def settle(url, page, home):
     return "uncertain", None
 
 
-def confirm(previous, current, today):
+def confirm(previous, current, today, uncertain=()):
     """(dead, moved, pending): a dead or moved result is published when the previous run had the
-    same result for the same company and URL; otherwise it waits in pending."""
+    same result for the same company and URL; otherwise it waits in pending. A published row
+    whose URL is uncertain in this run is kept as it was: only a working answer clears it. A
+    published moved link that is now dead is published as dead at once."""
     seen = {}
+    published_moved = set()
+    keep = []
+    uncertain = set(uncertain)
     for kind in ("dead", "moved"):
         for row in (previous or {}).get(kind, []):
             seen[(row["name"], row["url"], kind)] = row["since"]
+            if kind == "moved":
+                published_moved.add((row["name"], row["url"]))
+            if (row["name"], row["url"]) in uncertain:
+                keep.append((kind, row))
     for row in (previous or {}).get("pending", []):
         seen.setdefault((row["name"], row["url"], row["result"]), row["since"])
     dead, moved, pending = [], [], []
     for r in current:
         key = (r["name"], r["url"], r["result"])
         detail = {"reason": r["reason"]} if r["result"] == "dead" else {"home": r["home"]}
-        if key in seen:
-            row = {"name": r["name"], "url": r["url"], **detail, "since": seen[key]}
+        if key in seen or (r["result"] == "dead" and (r["name"], r["url"]) in published_moved):
+            row = {"name": r["name"], "url": r["url"], **detail, "since": seen.get(key, today)}
             (dead if r["result"] == "dead" else moved).append(row)
         else:
             pending.append({"name": r["name"], "url": r["url"], "result": r["result"], **detail, "since": today})
+    for kind, row in keep:
+        (dead if kind == "dead" else moved).append(row)
     order = lambda row: (row["name"].lower(), row["url"])  # noqa: E731
     return sorted(dead, key=order), sorted(moved, key=order), sorted(pending, key=order)
 
 
-def check_gone_share(gone, total):
+def check_gone_share(gone, total, uncertain=0):
     if total and gone / total > MAX_GONE_SHARE:
         raise SystemExit(f"{gone} of {total} websites gone in one run (limit {MAX_GONE_SHARE:.0%}); "
+                         "probably a network fault on the runner; not written")
+    if total and uncertain / total > MAX_UNCERTAIN_SHARE:
+        raise SystemExit(f"{uncertain} of {total} websites uncertain in one run (limit {MAX_UNCERTAIN_SHARE:.0%}); "
                          "probably a network fault on the runner; not written")
 
 
@@ -114,9 +138,9 @@ def check_gone_share(gone, total):
 # Fetching
 # =======================================================================================
 
-def fetch(url):
+def fetch(url, agent=USER_AGENT):
     """{"status": code} or {"error": "dns" | "refused" | "tls" | "timeout" | "other"}."""
-    req = urllib.request.Request(url, headers={"User-Agent": USER_AGENT, "Accept": "text/html,*/*;q=0.8"})
+    req = urllib.request.Request(url, headers={"User-Agent": agent, "Accept": "text/html,*/*;q=0.8"})
     try:
         with urllib.request.urlopen(req, timeout=TIMEOUT) as r:
             r.read(1024)
@@ -140,12 +164,20 @@ def fetch(url):
         return {"error": "other"}
 
 
+def fetch_page(url):
+    """A page's class; a 404 or 410 is checked again as a browser before it counts as gone."""
+    page = classify(fetch(url))
+    if page == ("gone", "not-found"):
+        page = classify(fetch(url, BROWSER_AGENT))
+    return page
+
+
 def check_one(item):
     name, url = item
-    page = classify(fetch(url))
+    page = fetch_page(url)
     home = None
     if page[0] == "gone" and page[1] == "not-found" and not is_home(url):
-        home = classify(fetch(home_of(url)))
+        home = fetch_page(home_of(url))
     result, extra = settle(url, page, home)
     return {"name": name, "url": url, "page": page[0], "result": result,
             **({"reason": extra} if result == "dead" else {"home": extra} if result == "moved" else {})}
@@ -157,7 +189,7 @@ def tally_websites():
     out = []
     for c in companies:
         url = (c.get("website") or "").strip()
-        if counts[c["name"]] == 1 and url.lower().startswith(("http://", "https://")):
+        if counts[c["name"]] == 1 and URL_OK.match(url):
             out.append((c["name"], url))
     return out
 
@@ -173,12 +205,13 @@ def main(argv=None):
     with ThreadPoolExecutor(WORKERS) as ex:
         results = list(ex.map(check_one, sites))
     pages = Counter(r["page"] for r in results)
-    check_gone_share(pages["gone"], len(sites))
+    check_gone_share(pages["gone"], len(sites), pages["uncertain"])
     previous = None
     if args.previous and args.previous.exists():
         previous = json.loads(args.previous.read_text(encoding="utf-8"))
     current = [r for r in results if r["result"] in ("dead", "moved")]
-    dead, moved, pending = confirm(previous, current, args.today.isoformat())
+    uncertain = [(r["name"], r["url"]) for r in results if r["result"] == "uncertain"]
+    dead, moved, pending = confirm(previous, current, args.today.isoformat(), uncertain)
     doc = {
         "generated": args.today.isoformat(),
         "checked": {"websites": len(sites), "ok": pages["ok"], "gone": pages["gone"], "uncertain": pages["uncertain"]},
