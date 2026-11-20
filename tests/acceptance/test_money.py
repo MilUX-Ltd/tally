@@ -76,7 +76,9 @@ class MoneyJson(unittest.TestCase):
         for y, regs in self.doc["regions"].items():
             self.assertTrue(set(regs) <= REGIONS, set(regs) - REGIONS)
             for r in regs.values():
-                self.assertEqual(set(r), {"value", "count", "tally_value", "tally_count", "top"})
+                # Amended under D-96j1u: the four supplier-size fields join the region contract.
+                self.assertEqual(set(r), {"value", "count", "tally_value", "tally_count", "top",
+                                          "sme_value", "sme_count", "large_value", "large_count"})
                 self.assertLessEqual(r["tally_value"], r["value"])
                 self.assertLessEqual(r["tally_count"], r["count"])
                 self.check_top(r["top"])
@@ -170,3 +172,51 @@ class Rules(unittest.TestCase):
 
 if __name__ == "__main__":
     unittest.main()
+
+
+class SupplierSize(unittest.TestCase):
+    """The share to small and medium-sized firms (D-96j1u)."""
+
+    @classmethod
+    def setUpClass(cls):
+        cls.doc = json.loads(MONEY.read_bytes())
+        cls.b = load_builder()
+
+    def test_sme_fields(self):
+        known = 0
+        for regs in self.doc["regions"].values():
+            for r in regs.values():
+                for k in ("sme_value", "sme_count", "large_value", "large_count"):
+                    self.assertIsInstance(r[k], int)
+                    self.assertGreaterEqual(r[k], 0)
+                self.assertLessEqual(r["sme_value"] + r["large_value"], r["value"] + 1)
+                self.assertLessEqual(r["sme_count"] + r["large_count"], r["count"])
+                known += r["sme_count"] + r["large_count"]
+        self.assertGreater(known, 0, "no supplier size is known anywhere")
+
+    def test_supplier_scale(self):
+        rec = self.b.supplier_record
+        self.assertEqual(rec({"name": "A Ltd", "details": {"scale": "sme"}})["scale"], "sme")
+        self.assertEqual(rec({"name": "A Ltd", "details": {"scale": " Large "}})["scale"], "large")
+        self.assertIsNone(rec({"name": "A Ltd", "details": {}})["scale"])
+        self.assertIsNone(rec({"name": "A Ltd"})["scale"])
+        self.assertIsNone(rec({"name": "A Ltd", "details": {"scale": "micro?"}})["scale"])
+
+    def test_scale_filled_from_same_supplier(self):
+        rows = [
+            {"name": "Alpha Systems Ltd", "ch": "01234567", "scale": "sme"},
+            {"name": "ALPHA SYSTEMS LIMITED", "ch": "01234567", "scale": None},
+            {"name": "Beta Engineering Ltd", "ch": None, "scale": "large"},
+            {"name": "Beta Engineering Limited", "ch": None, "scale": None},
+            {"name": "Gamma Ltd", "ch": None, "scale": None},
+        ]
+        self.b.fill_scale(rows)
+        self.assertEqual([r["scale"] for r in rows], ["sme", "sme", "large", "large", None])
+        # A supplier that declared both sizes keeps each notice's own, and fills nothing.
+        mixed = [
+            {"name": "Delta Ltd", "ch": "07654321", "scale": "sme"},
+            {"name": "Delta Ltd", "ch": "07654321", "scale": "large"},
+            {"name": "Delta Ltd", "ch": "07654321", "scale": None},
+        ]
+        self.b.fill_scale(mixed)
+        self.assertEqual([r["scale"] for r in mixed], ["sme", "large", None])
