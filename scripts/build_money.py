@@ -43,6 +43,7 @@ Rules (see docs/money-data.md):
 import argparse
 import datetime
 import hashlib
+import http.client
 import json
 import re
 import sys
@@ -264,7 +265,9 @@ class Fetcher:
                 if e.code == 404:
                     return None
                 raise
-            except (urllib.error.URLError, TimeoutError, ConnectionError) as e:
+            except (urllib.error.URLError, TimeoutError, ConnectionError,
+                    http.client.HTTPException, json.JSONDecodeError) as e:
+                # A dropped or cut-short response (Find a Tender's large pages do this): retry.
                 if attempt < tries - 1:
                     time.sleep(min(120, 5 * 2 ** attempt))
                     continue
@@ -419,19 +422,57 @@ def coverage(f, kind, windows):
     return start
 
 
+def last_complete_day(today):
+    """The newest day whose notices are all published: a refresh never counts a partial day."""
+    return today - datetime.timedelta(days=1)
+
+
+def fetch_plan(since, fts_since, today, recent_days=14, keep_from=None):
+    """Windows to fetch, in order: the recent weeks of both services first, so a request
+    budget spent on backfill never leaves the newest week incomplete; then, when
+    keep_from is given, the rest of the period already published (so a cold cache is
+    rebuilt before any backfill); then the older windows. The windows are the ones the
+    build checks for coverage."""
+    cut = datetime.datetime.combine(today - datetime.timedelta(days=recent_days), datetime.time())
+    cf = day_windows(since, today)
+    fts = week_windows(max(since, fts_since), today)
+    recent = lambda ws: [w for w in ws if w[1] > cut]
+    plan = [("cf", recent(cf)), ("fts", recent(fts))]
+    older = lambda ws: [w for w in ws if w[1] <= cut]
+    if keep_from is not None:
+        keep = datetime.datetime.combine(keep_from, datetime.time())
+        plan += [("cf", [w for w in older(cf) if w[1] > keep]), ("fts", [w for w in older(fts) if w[1] > keep])]
+        older = lambda ws: [w for w in ws if w[1] <= keep]
+    return plan + [("cf", older(cf)), ("fts", older(fts))]
+
+
+def check_period(previous, doc):
+    """A refresh may extend the period either way but never shorten it, for instance when
+    a lost cache leaves the start incomplete."""
+    old, new = previous["period"], doc["period"]
+    if new["from"] > old["from"] or new["to"] < old["to"]:
+        raise SystemExit(f"refusing to shorten the period: {old['from']}..{old['to']} "
+                         f"would become {new['from']}..{new['to']}")
+
+
 def fetch(args, log):
     f = Fetcher(args.cache, args.max_requests, log)
     status = {}
-
-    windows = day_windows(args.since, args.today)
+    names = {"cf": "Contracts Finder", "fts": "Find a Tender"}
+    skip = {"cf": args.skip_cf, "fts": args.skip_fts}
     try:
-        if not args.skip_cf:
-            log("Contracts Finder")
-            status["cf"] = fetch_windows(f, "cf", cf_url, windows, log)
-        if not args.skip_fts:
-            log("Find a Tender")
-            fts_windows = week_windows(max(args.since, args.fts_since), args.today)
-            status["fts"] = fetch_windows(f, "fts", fts_url, fts_windows, log, timeout=300)
+        keep_from = None
+        if getattr(args, "previous", None):
+            prev = json.loads(Path(args.previous).read_text(encoding="utf-8"))
+            keep_from = datetime.date.fromisoformat(prev["period"]["from"])
+        for i, (kind, windows) in enumerate(fetch_plan(args.since, args.fts_since, args.today,
+                                                       keep_from=keep_from)):
+            if skip[kind] or not windows:
+                continue
+            log(f"{names[kind]} (pass {i // 2 + 1})")
+            got = fetch_windows(f, kind, url_for_kind(kind), windows, log,
+                                timeout=300 if kind == "fts" else 120)
+            status.setdefault(kind, []).append(got)
     except RuntimeError as e:  # request budget reached: keep what was fetched
         log(f"stopped: {e}")
         status["stopped"] = str(e)
@@ -896,6 +937,9 @@ def build(args, log):
     fts_from = coverage(f, "fts", week_windows(fts_since, today))
     if cf_from is None:
         raise SystemExit("no complete Contracts Finder coverage in the cache")
+    if fts_from is None:
+        # Without Find a Tender's latest week, above-threshold awards would be missing.
+        raise SystemExit("no complete Find a Tender coverage up to the period's end in the cache")
     period_from = cf_from
     if fts_from is not None and fts_from > max(cf_from, fts_since):
         period_from = fts_from
@@ -1006,6 +1050,8 @@ def build(args, log):
         "excluded": {"frameworks": rep["frameworks"], "non_gbp": rep["non_gbp"]},
     }
     text = json.dumps(doc, sort_keys=True, separators=(",", ":"), ensure_ascii=False)
+    if getattr(args, "previous", None):
+        check_period(json.loads(Path(args.previous).read_text(encoding="utf-8")), doc)
     OUT.write_text(text + "\n", encoding="utf-8")
     log(f"wrote {OUT.name}: {len(text.encode()) / 1e6:.2f} MB")
     report(rows, rep, doc, log, args)
@@ -1101,7 +1147,12 @@ def main(argv=None):
     ap.add_argument("--skip-fts", action="store_true")
     ap.add_argument("--max-requests", type=int, default=4000)
     ap.add_argument("--pause", type=float, default=PAUSE, help="seconds between requests")
+    ap.add_argument("--previous", help="the money.json being replaced: fetch its period first, and refuse to shorten it")
+    ap.add_argument("--complete-days", action="store_true",
+                    help="end the period yesterday, so no partial day is fetched or counted")
     args = ap.parse_args(argv)
+    if args.complete_days:
+        args.today = last_complete_day(args.today)
     globals()["PAUSE"] = args.pause
     log = lambda m: print(m, flush=True)
     if args.stage in ("fetch", "all"):
