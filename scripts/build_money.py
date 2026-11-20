@@ -427,16 +427,23 @@ def last_complete_day(today):
     return today - datetime.timedelta(days=1)
 
 
-def fetch_plan(since, fts_since, today, recent_days=14):
+def fetch_plan(since, fts_since, today, recent_days=14, keep_from=None):
     """Windows to fetch, in order: the recent weeks of both services first, so a request
-    budget spent on backfill never leaves the newest week incomplete, then the rest.
-    The windows are the ones the build checks for coverage."""
+    budget spent on backfill never leaves the newest week incomplete; then, when
+    keep_from is given, the rest of the period already published (so a cold cache is
+    rebuilt before any backfill); then the older windows. The windows are the ones the
+    build checks for coverage."""
     cut = datetime.datetime.combine(today - datetime.timedelta(days=recent_days), datetime.time())
     cf = day_windows(since, today)
     fts = week_windows(max(since, fts_since), today)
     recent = lambda ws: [w for w in ws if w[1] > cut]
+    plan = [("cf", recent(cf)), ("fts", recent(fts))]
     older = lambda ws: [w for w in ws if w[1] <= cut]
-    return [("cf", recent(cf)), ("fts", recent(fts)), ("cf", older(cf)), ("fts", older(fts))]
+    if keep_from is not None:
+        keep = datetime.datetime.combine(keep_from, datetime.time())
+        plan += [("cf", [w for w in older(cf) if w[1] > keep]), ("fts", [w for w in older(fts) if w[1] > keep])]
+        older = lambda ws: [w for w in ws if w[1] <= keep]
+    return plan + [("cf", older(cf)), ("fts", older(fts))]
 
 
 def check_period(previous, doc):
@@ -454,10 +461,15 @@ def fetch(args, log):
     names = {"cf": "Contracts Finder", "fts": "Find a Tender"}
     skip = {"cf": args.skip_cf, "fts": args.skip_fts}
     try:
-        for i, (kind, windows) in enumerate(fetch_plan(args.since, args.fts_since, args.today)):
+        keep_from = None
+        if getattr(args, "previous", None):
+            prev = json.loads(Path(args.previous).read_text(encoding="utf-8"))
+            keep_from = datetime.date.fromisoformat(prev["period"]["from"])
+        for i, (kind, windows) in enumerate(fetch_plan(args.since, args.fts_since, args.today,
+                                                       keep_from=keep_from)):
             if skip[kind] or not windows:
                 continue
-            log(f"{names[kind]} ({'recent' if i < 2 else 'older'})")
+            log(f"{names[kind]} (pass {i // 2 + 1})")
             got = fetch_windows(f, kind, url_for_kind(kind), windows, log,
                                 timeout=300 if kind == "fts" else 120)
             status.setdefault(kind, []).append(got)
@@ -1135,7 +1147,7 @@ def main(argv=None):
     ap.add_argument("--skip-fts", action="store_true")
     ap.add_argument("--max-requests", type=int, default=4000)
     ap.add_argument("--pause", type=float, default=PAUSE, help="seconds between requests")
-    ap.add_argument("--previous", help="build: the money.json being replaced; refuse to shorten its period")
+    ap.add_argument("--previous", help="the money.json being replaced: fetch its period first, and refuse to shorten it")
     ap.add_argument("--complete-days", action="store_true",
                     help="end the period yesterday, so no partial day is fetched or counted")
     args = ap.parse_args(argv)

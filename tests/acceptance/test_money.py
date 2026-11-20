@@ -247,6 +247,20 @@ class RefreshPlan(unittest.TestCase):
         self.assertEqual(set(plan[1][1]) | set(plan[3][1]),
                          set(b.week_windows(datetime.date(2025, 2, 24), today)))
 
+    def test_cold_cache_rebuilds_the_published_period_before_backfill(self):
+        b = load_builder()
+        today = datetime.date(2026, 11, 22)
+        keep = datetime.date(2026, 4, 16)
+        plan = b.fetch_plan(datetime.date(2023, 1, 1), datetime.date(2025, 2, 24), today, keep_from=keep)
+        self.assertEqual([k for k, _ in plan], ["cf", "fts", "cf", "fts", "cf", "fts"])
+        start = datetime.datetime.combine(keep, datetime.time())
+        self.assertTrue(plan[2][1] and all(w[1] > start for w in plan[2][1]))
+        self.assertTrue(plan[3][1] and all(w[1] > start for w in plan[3][1]))
+        self.assertTrue(all(w[1] <= start for w in plan[4][1] + plan[5][1]))
+        every = [w for k, ws in plan if k == "cf" for w in ws]
+        self.assertEqual(len(every), len(set(every)))
+        self.assertEqual(set(every), set(b.day_windows(datetime.date(2023, 1, 1), today)))
+
     def test_refresh_never_counts_a_partial_day(self):
         b = load_builder()
         self.assertEqual(b.last_complete_day(datetime.date(2026, 11, 20)), datetime.date(2026, 11, 19))
