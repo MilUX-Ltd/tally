@@ -25,10 +25,11 @@ Awards dated from 1 January 2023 to the build date, by award date. Years are cal
 5. **Duplicates.** Since 24 February 2025 an above-threshold award can appear on both services. The same supplier within three days of the same award date on both counts once, with the Find a Tender value.
 6. **Tally companies.** A supplier is matched to a Tally company by Companies House number where the notice gives one, otherwise by normalised name (lower case, punctuation and suffixes such as Ltd, Limited, PLC, LLP, UK, Group and Holdings removed). A name shared by two Tally companies is not used. A missed match is preferred to a wrong one.
 7. **No personal data.** A supplier is named only when it is clearly a registered organisation: it has a Companies House number, its name ends in a legal form such as Ltd, PLC, LLP, GmbH or AB, or it is a university or public body. Other suppliers count in the totals but are never named.
+8. **Supplier size.** Each supplier's size, small or medium-sized (SME) or large, is the size it declared on the notice (`details.scale`). Where a notice gives none, the size the same supplier declared on another notice in the data is used, matched by Companies House number when the notice gives one, otherwise by normalised name (but not a name used by more than one Companies House number), unless it declared both sizes. Where an award appears on both services, the size on the dropped duplicate is kept when the kept notice gives none. Otherwise the size is not known.
 
 ## Fields
 
-- `regions.<year>.<region>`: total value and number of awards, the part won by Tally companies (`tally_value`, `tally_count`), and up to five top suppliers.
+- `regions.<year>.<region>`: total value and number of awards, the part won by Tally companies (`tally_value`, `tally_count`), and up to five top suppliers. `sme_value`, `sme_count`, `large_value` and `large_count` give the money and awards to suppliers of each size; the rest of `value` and `count` is size not known.
 - `overseas.<year>.<country>`: the same for suppliers outside the UK.
 - `unplaced.<year>`: value and count that could not be placed.
 - `companies.<Tally company>`: each award with date, value, buyer, title and the public notice link.
@@ -42,6 +43,7 @@ Awards dated from 1 January 2023 to the build date, by award date. Years are cal
 - **Only notices published on Contracts Finder and Find a Tender are counted.** Contracts exempt from publication for security reasons, and spend that is never published as an award notice, are not here.
 - **Place is the supplier's notice address**, usually a registered office, not where the work is done. Groups with a London or South East head office pull value there.
 - **Some notices published under a defence buyer are subcontracts** let by a prime contractor (for example infrastructure supply chain notices). They are counted as published.
+- **Supplier size is self-declared** when a supplier registers on Contracts Finder or Find a Tender, and is not checked. A UK company owned by a larger group may declare itself an SME. Find a Tender omits the size for about four in ten suppliers.
 - **Coverage.** Both services limit how fast they can be read. The period and sources actually covered by the current file are recorded below.
 
 ## Coverage of the current file
@@ -53,6 +55,7 @@ Built on 20 November 2026. Preview build, not yet the full period.
 - Find a Tender: 97 pages (7,912 notices, all buyers), weekly windows from 13 April 2026. Find a Tender gives the value and signature date on the contract rather than the award, and the build reads them from there.
 - Requests: about 550 in all, including retries after rate limiting, plus a handful of postcodes.io lookups.
 - Awards dated before 16 April 2026 but published inside the window are left out, so a year is never partly counted.
+- Supplier size (UK regions): SME £195.9m over 64 supplier shares, large £3,148.5m over 148, not known £18.8m over 2. Where an award appears on both services, the size from the dropped duplicate is kept; two more sizes are filled from the same supplier's other notices.
 - A rerun with the same cache folder extends the period backwards without fetching again what it already holds.
 
 ## Rebuilding

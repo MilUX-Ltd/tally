@@ -591,7 +591,44 @@ def supplier_record(party):
         "country": country,
         "nuts": NUTS.get(norm_space(addr.get("region")).upper()[:3]),
         "locality": locality,
+        "scale": supplier_scale(party),
     }
+
+
+def supplier_scale(party):
+    """The size the supplier declared on the notice: "sme", "large", or None."""
+    scale = norm_space(str((party.get("details") or {}).get("scale") or "")).lower()
+    return scale if scale in ("sme", "large") else None
+
+
+def fill_scale(rows):
+    """Fill a missing size from the same supplier's other notices: by Companies House number
+    when the notice gives one, otherwise by normalised name, but not a name that belongs to
+    more than one Companies House number. A supplier that declared both sizes fills nothing."""
+    by_ch, by_name, name_chs = defaultdict(set), defaultdict(set), defaultdict(set)
+    for r in rows:
+        name = norm_name(r.get("name") or "")
+        if name and r.get("ch"):
+            name_chs[name].add(r["ch"])
+        if not r.get("scale"):
+            continue
+        if r.get("ch"):
+            by_ch[r["ch"]].add(r["scale"])
+        if name:
+            by_name[name].add(r["scale"])
+    for r in rows:
+        if r.get("scale"):
+            continue
+        name = norm_name(r.get("name") or "")
+        if r.get("ch"):
+            found = by_ch.get(r["ch"], set())
+        elif name and len(name_chs.get(name, ())) <= 1:
+            found = by_name.get(name, set())
+        else:
+            found = set()
+        if len(found) == 1:
+            r["scale"] = next(iter(found))
+            r["scale_filled"] = True
 
 
 def load_releases(cache):
@@ -716,9 +753,12 @@ def extract(cache, today, log, period_from=START):
             rep["dup_cross"] += 1
             rep["dup_pairs"].append(f"{row['date']} {row['name'][:40]}: kept {hit[0]} "
                                     f"{gbp(hit[1])}, dropped {row['source']} {gbp(row['value'])}")
+            # Keep the size the dropped notice declared when the kept one gives none.
+            if not hit[2].get("scale") and row.get("scale"):
+                hit[2]["scale"] = row["scale"]
             continue
-        keyed.setdefault(k1, (row["source"], row["value"]))
-        keyed.setdefault(k2, (row["source"], row["value"]))
+        keyed.setdefault(k1, (row["source"], row["value"], row))
+        keyed.setdefault(k2, (row["source"], row["value"], row))
         out.append(row)
     return out, rep
 
@@ -865,6 +905,7 @@ def build(args, log):
         f"(needed from {fts_since}); period from {period_from}")
     rows, rep = extract(args.cache, today, log, period_from)
     rep["coverage"] = {"cf": str(cf_from), "fts": str(fts_from), "from": str(period_from)}
+    fill_scale(rows)
     names, by_ch, by_norm = load_tally()
 
     # Place every supplier share.
@@ -896,7 +937,8 @@ def build(args, log):
     overseas = {str(y): {} for y in years}
     unplaced = {str(y): {"value": 0, "count": 0} for y in years}
     groups = defaultdict(lambda: {"value": 0.0, "count": 0, "tally_value": 0.0,
-                                  "tally_count": 0, "sup": defaultdict(lambda: [0.0, 0, None])})
+                                  "tally_count": 0, "sme": [0.0, 0], "large": [0.0, 0],
+                                  "sup": defaultdict(lambda: [0.0, 0, None])})
     for r in rows:
         y = str(r["year"])
         if r["place"] == "unplaced":
@@ -909,6 +951,9 @@ def build(args, log):
         if r["tally"]:
             g["tally_value"] += r["value"]
             g["tally_count"] += 1
+        if r.get("scale") in ("sme", "large"):
+            g[r["scale"]][0] += r["value"]
+            g[r["scale"]][1] += 1
         if r["named"]:
             key = r["tally"] or norm_name(r["name"]) or r["name"]
             s = g["sup"][key]
@@ -926,6 +971,9 @@ def build(args, log):
         if place == "region":
             entry["tally_value"] = round(g["tally_value"])
             entry["tally_count"] = g["tally_count"]
+            for size in ("sme", "large"):
+                entry[f"{size}_value"] = round(g[size][0])
+                entry[f"{size}_count"] = g[size][1]
             regions[y][where] = entry
         else:
             overseas[y][where] = entry
@@ -1028,6 +1076,13 @@ def report(rows, rep, doc, log, args):
     log(f"\n== Subcontract notices published under a defence buyer (counted): {len(sc)}, "
         f"{gbp(sum(r['value'] for r in sc))}")
     log(f"\n== Unnamed supplier shares (rule 6): {sum(1 for r in rows if not r['named'])}")
+    uk = [r for r in rows if r["place"] == "region"]
+    by = Counter(r.get("scale") or "not known" for r in uk)
+    val = defaultdict(float)
+    for r in uk:
+        val[r.get("scale") or "not known"] += r["value"]
+    log(f"\n== Supplier size, UK regions: " + ", ".join(f"{k} {by[k]} shares {gbp(val[k])}" for k in ("sme", "large", "not known"))
+        + f"; filled from the same supplier {sum(1 for r in uk if r.get('scale_filled'))}")
 
 
 def main(argv=None):
