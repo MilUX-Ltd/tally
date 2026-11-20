@@ -1,0 +1,373 @@
+{
+ "generated": "2026-11-20",
+ "attribution": "Contains public sector information licensed under the Open Government Licence v3.0.",
+ "source": "Companies House Public Data API",
+ "checked": {
+  "companies": 1068,
+  "found": 1068,
+  "not_found": 0,
+  "failed": 0
+ },
+ "closed": [
+  {
+   "name": "Avanti Communications Group plc",
+   "ch": "06133927",
+   "status": "dissolved",
+   "date": "2024-07-20"
+  },
+  {
+   "name": "Futurum Consultancy and Training Ltd",
+   "ch": "09190183",
+   "status": "dissolved",
+   "date": "2026-07-07"
+  },
+  {
+   "name": "Horizon Leap",
+   "ch": "14842332",
+   "status": "dissolved",
+   "date": "2026-08-04"
+  },
+  {
+   "name": "Inova Design Solutions Ltd (trading as Bodytrak)",
+   "ch": "07513025",
+   "status": "dissolved",
+   "date": "2026-06-30"
+  }
+ ],
+ "flagged": [
+  {
+   "name": "Advanced Systems Understanding (ASU)",
+   "ch": "08077295",
+   "status": "liquidation"
+  },
+  {
+   "name": "AERALIS Ltd",
+   "ch": "09752004",
+   "status": "administration"
+  },
+  {
+   "name": "Allen-Vanguard Ltd",
+   "ch": "01230899",
+   "status": "administration"
+  },
+  {
+   "name": "Broder Aerospace Ltd",
+   "ch": "12431752",
+   "status": "active",
+   "detail": "active-proposal-to-strike-off"
+  },
+  {
+   "name": "C2 Risk Ltd",
+   "ch": "09885860",
+   "status": "liquidation"
+  },
+  {
+   "name": "C3 Systems Consulting Ltd",
+   "ch": "07084523",
+   "status": "liquidation"
+  },
+  {
+   "name": "Logically",
+   "ch": "10850644",
+   "status": "administration"
+  },
+  {
+   "name": "pureLiFi",
+   "ch": "SC394047",
+   "status": "administration"
+  },
+  {
+   "name": "Vanguard Dynamic",
+   "ch": "13959498",
+   "status": "active",
+   "detail": "active-proposal-to-strike-off"
+  },
+  {
+   "name": "Viable Data",
+   "ch": "08244724",
+   "status": "liquidation"
+  }
+ ],
+ "not_found": [],
+ "trend": {
+  "codes": {
+   "25400": "Manufacture of weapons and ammunition",
+   "30400": "Manufacture of military fighting vehicles",
+   "84220": "Defence activities"
+  },
+  "years": [
+   {
+    "year": 2010,
+    "partial": false,
+    "formed": {
+     "total": 50,
+     "25400": 2,
+     "30400": 1,
+     "84220": 47
+    },
+    "dissolved": {
+     "total": 0,
+     "25400": 0,
+     "30400": 0,
+     "84220": 0
+    }
+   },
+   {
+    "year": 2011,
+    "partial": false,
+    "formed": {
+     "total": 74,
+     "25400": 5,
+     "30400": 1,
+     "84220": 68
+    },
+    "dissolved": {
+     "total": 0,
+     "25400": 0,
+     "30400": 0,
+     "84220": 0
+    }
+   },
+   {
+    "year": 2012,
+    "partial": false,
+    "formed": {
+     "total": 94,
+     "25400": 7,
+     "30400": 0,
+     "84220": 87
+    },
+    "dissolved": {
+     "total": 8,
+     "25400": 0,
+     "30400": 0,
+     "84220": 8
+    }
+   },
+   {
+    "year": 2013,
+    "partial": false,
+    "formed": {
+     "total": 107,
+     "25400": 12,
+     "30400": 2,
+     "84220": 96
+    },
+    "dissolved": {
+     "total": 41,
+     "25400": 3,
+     "30400": 2,
+     "84220": 36
+    }
+   },
+   {
+    "year": 2014,
+    "partial": false,
+    "formed": {
+     "total": 103,
+     "25400": 5,
+     "30400": 7,
+     "84220": 91
+    },
+    "dissolved": {
+     "total": 44,
+     "25400": 7,
+     "30400": 1,
+     "84220": 36
+    }
+   },
+   {
+    "year": 2015,
+    "partial": false,
+    "formed": {
+     "total": 98,
+     "25400": 3,
+     "30400": 3,
+     "84220": 92
+    },
+    "dissolved": {
+     "total": 63,
+     "25400": 6,
+     "30400": 2,
+     "84220": 55
+    }
+   },
+   {
+    "year": 2016,
+    "partial": false,
+    "formed": {
+     "total": 132,
+     "25400": 8,
+     "30400": 10,
+     "84220": 114
+    },
+    "dissolved": {
+     "total": 78,
+     "25400": 6,
+     "30400": 4,
+     "84220": 68
+    }
+   },
+   {
+    "year": 2017,
+    "partial": false,
+    "formed": {
+     "total": 128,
+     "25400": 11,
+     "30400": 9,
+     "84220": 108
+    },
+    "dissolved": {
+     "total": 71,
+     "25400": 7,
+     "30400": 2,
+     "84220": 62
+    }
+   },
+   {
+    "year": 2018,
+    "partial": false,
+    "formed": {
+     "total": 158,
+     "25400": 14,
+     "30400": 15,
+     "84220": 130
+    },
+    "dissolved": {
+     "total": 120,
+     "25400": 7,
+     "30400": 4,
+     "84220": 109
+    }
+   },
+   {
+    "year": 2019,
+    "partial": false,
+    "formed": {
+     "total": 179,
+     "25400": 14,
+     "30400": 9,
+     "84220": 157
+    },
+    "dissolved": {
+     "total": 154,
+     "25400": 9,
+     "30400": 9,
+     "84220": 137
+    }
+   },
+   {
+    "year": 2020,
+    "partial": false,
+    "formed": {
+     "total": 178,
+     "25400": 8,
+     "30400": 6,
+     "84220": 165
+    },
+    "dissolved": {
+     "total": 109,
+     "25400": 6,
+     "30400": 12,
+     "84220": 91
+    }
+   },
+   {
+    "year": 2021,
+    "partial": false,
+    "formed": {
+     "total": 155,
+     "25400": 20,
+     "30400": 10,
+     "84220": 128
+    },
+    "dissolved": {
+     "total": 155,
+     "25400": 10,
+     "30400": 9,
+     "84220": 136
+    }
+   },
+   {
+    "year": 2022,
+    "partial": false,
+    "formed": {
+     "total": 150,
+     "25400": 15,
+     "30400": 8,
+     "84220": 130
+    },
+    "dissolved": {
+     "total": 158,
+     "25400": 11,
+     "30400": 5,
+     "84220": 142
+    }
+   },
+   {
+    "year": 2023,
+    "partial": false,
+    "formed": {
+     "total": 158,
+     "25400": 13,
+     "30400": 11,
+     "84220": 137
+    },
+    "dissolved": {
+     "total": 170,
+     "25400": 17,
+     "30400": 14,
+     "84220": 143
+    }
+   },
+   {
+    "year": 2024,
+    "partial": false,
+    "formed": {
+     "total": 151,
+     "25400": 15,
+     "30400": 8,
+     "84220": 133
+    },
+    "dissolved": {
+     "total": 152,
+     "25400": 17,
+     "30400": 9,
+     "84220": 129
+    }
+   },
+   {
+    "year": 2025,
+    "partial": false,
+    "formed": {
+     "total": 226,
+     "25400": 18,
+     "30400": 12,
+     "84220": 203
+    },
+    "dissolved": {
+     "total": 152,
+     "25400": 17,
+     "30400": 7,
+     "84220": 135
+    }
+   },
+   {
+    "year": 2026,
+    "partial": true,
+    "formed": {
+     "total": 159,
+     "25400": 7,
+     "30400": 3,
+     "84220": 150
+    },
+    "dissolved": {
+     "total": 160,
+     "25400": 11,
+     "30400": 12,
+     "84220": 141
+    }
+   }
+  ]
+ }
+}
