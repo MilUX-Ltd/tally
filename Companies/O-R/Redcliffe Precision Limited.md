@@ -25,9 +25,9 @@ tags:
 
 > CNC precision aerospace manufacturer supplying components and sub-assemblies to major aerospace and defence primes.
 
-Redcliffe Precision merged with AVPE in 2020 to form AVPE Group. After the group entered administration, its business was sold to Broadway Engineering and now trades as AVPE Systems. Companies House lists Redcliffe Precision Limited as dissolved on 21 October 2022.
-
 ## What they do
+
+Redcliffe Precision merged with AVPE in 2020 to form AVPE Group. After the group entered administration, its business was sold to Broadway Engineering and now trades as AVPE Systems. Companies House lists Redcliffe Precision Limited as dissolved on 21 October 2022.
 
 Redcliffe Precision provides CNC multi-axis machining (3 and 5-axis milling, 2 and 4-axis turning and mill-turn), precision thread rolling and thread testing, cylindrical and centreless grinding, minor mechanical assembly, and microstructure testing to the aerospace and defence supply chain. The company holds approvals from Airbus, Bombardier, Leonardo (Vital Parts), GE Aviation, and Rolls Royce Marine, and has supplied parts for the Airbus A350, A220 and A320 programmes.
 
