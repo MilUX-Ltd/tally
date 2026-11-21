@@ -1,0 +1,218 @@
+{
+ "generated": "2026-11-21",
+ "checked": {
+  "websites": 2047,
+  "ok": 1761,
+  "gone": 34,
+  "uncertain": 252
+ },
+ "dead": [
+  {
+   "name": "Accord Global Technology Solutions Private Limited",
+   "url": "https://www.altengt.com/",
+   "reason": "no-such-host",
+   "since": "2026-11-20"
+  },
+  {
+   "name": "Advanced Systems Understanding (ASU)",
+   "url": "https://www.weareasu.com/",
+   "reason": "not-found",
+   "since": "2026-11-20"
+  },
+  {
+   "name": "Aerowind Ireland Ltd",
+   "url": "https://www.aerowindireland.com",
+   "reason": "no-such-host",
+   "since": "2026-11-20"
+  },
+  {
+   "name": "APSYS Risk Engineering Limited",
+   "url": "http://www.apsys.eads.net",
+   "reason": "no-such-host",
+   "since": "2026-11-20"
+  },
+  {
+   "name": "Bryce Space and Technology Limited",
+   "url": "https://www.brycetech.co.uk/",
+   "reason": "refused",
+   "since": "2026-11-20"
+  },
+  {
+   "name": "Cascade Aviation & Marine Ltd",
+   "url": "https://www.cascadeaviation.co.uk",
+   "reason": "no-such-host",
+   "since": "2026-11-20"
+  },
+  {
+   "name": "CellXion Ltd",
+   "url": "https://cell-xion.com",
+   "reason": "no-such-host",
+   "since": "2026-11-20"
+  },
+  {
+   "name": "Escend Ltd",
+   "url": "https://escend.io",
+   "reason": "no-such-host",
+   "since": "2026-11-20"
+  },
+  {
+   "name": "highintegrity.ai",
+   "url": "https://highintegrity.ai",
+   "reason": "refused",
+   "since": "2026-11-20"
+  },
+  {
+   "name": "HII Unmanned Systems Inc",
+   "url": "https://www.hydroid.com",
+   "reason": "no-such-host",
+   "since": "2026-11-20"
+  },
+  {
+   "name": "Iconic RF Ltd",
+   "url": "https://www.iconicrf.com",
+   "reason": "no-such-host",
+   "since": "2026-11-20"
+  },
+  {
+   "name": "Labrys Technologies Ltd",
+   "url": "https://www.labrysgroup.org",
+   "reason": "no-such-host",
+   "since": "2026-11-20"
+  },
+  {
+   "name": "Marshall Advanced Composites",
+   "url": "https://www.marshalladvancedcomposites.com",
+   "reason": "no-such-host",
+   "since": "2026-11-20"
+  },
+  {
+   "name": "Meliorem HR Consultancy",
+   "url": "https://www.meloremhr.com",
+   "reason": "no-such-host",
+   "since": "2026-11-20"
+  },
+  {
+   "name": "MGH Strategy Ltd",
+   "url": "http://www.mghstrategy.co.uk",
+   "reason": "not-found",
+   "since": "2026-11-20"
+  },
+  {
+   "name": "Morpho UK Ltd",
+   "url": "https://www.morpho.com",
+   "reason": "no-such-host",
+   "since": "2026-11-20"
+  },
+  {
+   "name": "Needwood Engineering Consulting Ltd",
+   "url": "https://www.needwoodengineeringconsultingltd.co.uk",
+   "reason": "no-such-host",
+   "since": "2026-11-20"
+  },
+  {
+   "name": "Northside Precision Tooling Ltd",
+   "url": "http://www.northsideprecision.com",
+   "reason": "not-found",
+   "since": "2026-11-20"
+  },
+  {
+   "name": "NYK Component Solutions Ltd",
+   "url": "https://www.nykcs.com",
+   "reason": "refused",
+   "since": "2026-11-20"
+  },
+  {
+   "name": "Pinnacle Atlas Ltd",
+   "url": "https://www.pinnacleatlas.com",
+   "reason": "no-such-host",
+   "since": "2026-11-20"
+  },
+  {
+   "name": "Pure Alchemi Ltd",
+   "url": "http://www.pure-alchemi.com",
+   "reason": "no-such-host",
+   "since": "2026-11-20"
+  },
+  {
+   "name": "Purple Transform",
+   "url": "https://purpletransform.com",
+   "reason": "refused",
+   "since": "2026-11-20"
+  },
+  {
+   "name": "Redcliffe Precision Limited",
+   "url": "https://www.redcliffeprecision.co.uk",
+   "reason": "no-such-host",
+   "since": "2026-11-20"
+  },
+  {
+   "name": "Safran Helicopter Engines UK Ltd",
+   "url": "https://www.turbomeca.co.uk",
+   "reason": "no-such-host",
+   "since": "2026-11-20"
+  },
+  {
+   "name": "Sentinels Network Ltd",
+   "url": "https://www.joinsentinels.com/",
+   "reason": "no-such-host",
+   "since": "2026-11-20"
+  },
+  {
+   "name": "SII Services Limited",
+   "url": "https://www.sii-group.uk/en",
+   "reason": "not-found",
+   "since": "2026-11-20"
+  },
+  {
+   "name": "Sonovision Ltd",
+   "url": "https://www.sonovision.co.uk",
+   "reason": "refused",
+   "since": "2026-11-20"
+  },
+  {
+   "name": "Squad AI Ltd",
+   "url": "https://www.ai-squad.co.uk",
+   "reason": "not-found",
+   "since": "2026-11-20"
+  },
+  {
+   "name": "Stratonex Defence Technologies",
+   "url": "https://www.stratonex.co.uk",
+   "reason": "no-such-host",
+   "since": "2026-11-20"
+  }
+ ],
+ "moved": [
+  {
+   "name": "Akkodis UK",
+   "url": "https://www.akkodis.com/en/uk",
+   "home": "https://www.akkodis.com/",
+   "since": "2026-11-20"
+  },
+  {
+   "name": "Eurofins E&E UK",
+   "url": "https://www.eurofins.co.uk/electrical-and-electronics/",
+   "home": "https://www.eurofins.co.uk/",
+   "since": "2026-11-20"
+  },
+  {
+   "name": "Moog Fernau Ltd",
+   "url": "https://www.moog.com/markets/air-traffic-management/",
+   "home": "https://www.moog.com/",
+   "since": "2026-11-20"
+  },
+  {
+   "name": "University of Glasgow",
+   "url": "https://www.gla.ac.uk/schools/engineering/aerospace",
+   "home": "https://www.gla.ac.uk/",
+   "since": "2026-11-20"
+  },
+  {
+   "name": "Wincanton plc",
+   "url": "https://www.wincanton.co.uk/sectors/defence/",
+   "home": "https://www.wincanton.co.uk/",
+   "since": "2026-11-20"
+  }
+ ],
+ "pending": []
+}
