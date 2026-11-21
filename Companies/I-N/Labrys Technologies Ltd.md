@@ -1,7 +1,7 @@
 ---
 type: organisation
 name: Labrys Technologies Ltd
-website: https://www.labrysgroup.org
+website: https://labrys.tech
 hq: Borehamwood, UK
 uk-region: East of England
 sources-verified: 2026-07-04
@@ -51,9 +51,9 @@ Labrys Technologies is a UK-founded defence technology company, founded in 2020 
 
 ## Links
 
-- Website: https://www.labrysgroup.org
+- Website: https://labrys.tech
 - LinkedIn: https://uk.linkedin.com/company/labrys-group
 
 ## Sources
 
-Public information verified 2026-07-04. Company website (labrys.tech), ADS members directory (snapshot 2026-05-15), TechCrunch, Tech.eu, Plural.
+Public information verified 2026-07-04. Company website (labrys.tech), ADS members directory (snapshot 2026-05-15), TechCrunch, Tech.eu, Plural. Website corrected 2026-11-21: https://www.labrysgroup.org no longer works; https://labrys.tech checked working the same day.

@@ -1,7 +1,7 @@
 ---
 type: organisation
 name: APSYS Risk Engineering Limited
-website: http://www.apsys.eads.net
+website: https://www.protect.airbus.com
 companies-house: 07541925
 hq: Paris, France
 uk-region: South West
@@ -44,8 +44,8 @@ The UK entity is registered at Companies House under company number 07541925; th
 
 ## Links
 
-- Website: http://www.apsys.eads.net
+- Website: https://www.protect.airbus.com
 
 ## Sources
 
-Public information verified 2026-06-29. Sources: Companies House (company 07541925, now recorded as Airbus Protect Limited), ADS members directory, industry directories (Railway Technology, Offshore Technology).
+Public information verified 2026-06-29. Sources: Companies House (company 07541925, now recorded as Airbus Protect Limited), ADS members directory, industry directories (Railway Technology, Offshore Technology). Website corrected 2026-11-21: http://www.apsys.eads.net no longer works; https://www.protect.airbus.com checked working the same day.

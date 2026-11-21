@@ -1,7 +1,7 @@
 ---
 type: organisation
 name: HII Unmanned Systems Inc
-website: https://www.hydroid.com
+website: https://hii.com
 hq: Pocasset, United States
 uk-region: South East
 size: large
@@ -47,8 +47,8 @@ HII Unmanned Systems Inc (trading as Hydroid) produces the REMUS family of auton
 
 ## Links
 
-- Website: https://www.hydroid.com
+- Website: https://hii.com
 
 ## Sources
 
-Public information verified 2026-07-04. Sources: HII newsroom and REMUS product pages (hii.com), ADS Group members directory (snapshot, 2026-05-15).
+Public information verified 2026-07-04. Sources: HII newsroom and REMUS product pages (hii.com), ADS Group members directory (snapshot, 2026-05-15). Website corrected 2026-11-21: https://www.hydroid.com no longer works; https://hii.com checked working the same day.

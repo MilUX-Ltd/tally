@@ -1,7 +1,7 @@
 ---
 type: organisation
 name: Safran Helicopter Engines UK Ltd
-website: https://www.turbomeca.co.uk
+website: https://www.safran-group.com/locations/united-kingdom/safran-helicopter-engines-uk-2077695
 hq: Bordes, France
 uk-region: South East
 sources-verified: 2026-06-30
@@ -36,8 +36,8 @@ The UK facility in Fareham, Hampshire is the Safran Helicopter Engines group's E
 
 ## Links
 
-- Website: https://www.turbomeca.co.uk
+- Website: https://www.safran-group.com/locations/united-kingdom/safran-helicopter-engines-uk-2077695
 
 ## Sources
 
-Public information verified 2026-06-30. ADS Group members directory (snapshot, 2026-05-15).
+Public information verified 2026-06-30. ADS Group members directory (snapshot, 2026-05-15). Website corrected 2026-11-21: https://www.turbomeca.co.uk no longer works; https://www.safran-group.com/locations/united-kingdom/safran-helicopter-engines-uk-2077695 checked working the same day.
