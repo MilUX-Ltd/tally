@@ -1,7 +1,7 @@
 ---
 type: organisation
 name: Squad AI Ltd
-website: https://www.ai-squad.co.uk
+website: https://www.squadai.uk
 hq: Bristol, United Kingdom
 uk-region: South West
 sources-verified: 2026-06-30
@@ -32,8 +32,8 @@ Squad AI provides a platform designed to automate complex, high-volume administr
 
 ## Links
 
-- Website: https://www.ai-squad.co.uk
+- Website: https://www.squadai.uk
 
 ## Sources
 
-Public information verified 2026-06-30. ADS Group members directory (snapshot, 2026-05-15).
+Public information verified 2026-06-30. ADS Group members directory (snapshot, 2026-05-15). Website corrected 2026-11-21: https://www.ai-squad.co.uk no longer works; https://www.squadai.uk checked working the same day.

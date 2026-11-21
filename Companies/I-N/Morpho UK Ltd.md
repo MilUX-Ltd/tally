@@ -1,7 +1,7 @@
 ---
 type: organisation
 name: Morpho UK Ltd
-website: https://www.morpho.com
+website: https://www.idemia.com/uk/
 hq: Paris, France
 uk-region: South East
 sources-verified: 2026-07-05
@@ -42,8 +42,8 @@ Morpho (now part of IDEMIA) delivers automated fingerprint identification system
 
 ## Links
 
-- Website: https://www.morpho.com
+- Website: https://www.idemia.com/uk/
 
 ## Sources
 
-Public information verified 2026-07-05. ADS Group members directory (snapshot, 2026-05-15). Additional verification via idemia.com product pages (facial recognition, fingerprint enrolment, border security).
+Public information verified 2026-07-05. ADS Group members directory (snapshot, 2026-05-15). Additional verification via idemia.com product pages (facial recognition, fingerprint enrolment, border security). Website corrected 2026-11-21: https://www.morpho.com no longer works; https://www.idemia.com/uk/ checked working the same day.

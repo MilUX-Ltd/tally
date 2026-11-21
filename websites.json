@@ -26,12 +26,6 @@
    "since": "2026-11-20"
   },
   {
-   "name": "APSYS Risk Engineering Limited",
-   "url": "http://www.apsys.eads.net",
-   "reason": "no-such-host",
-   "since": "2026-11-20"
-  },
-  {
    "name": "Bryce Space and Technology Limited",
    "url": "https://www.brycetech.co.uk/",
    "reason": "refused",
@@ -62,20 +56,8 @@
    "since": "2026-11-20"
   },
   {
-   "name": "HII Unmanned Systems Inc",
-   "url": "https://www.hydroid.com",
-   "reason": "no-such-host",
-   "since": "2026-11-20"
-  },
-  {
    "name": "Iconic RF Ltd",
    "url": "https://www.iconicrf.com",
-   "reason": "no-such-host",
-   "since": "2026-11-20"
-  },
-  {
-   "name": "Labrys Technologies Ltd",
-   "url": "https://www.labrysgroup.org",
    "reason": "no-such-host",
    "since": "2026-11-20"
   },
@@ -86,21 +68,9 @@
    "since": "2026-11-20"
   },
   {
-   "name": "Meliorem HR Consultancy",
-   "url": "https://www.meloremhr.com",
-   "reason": "no-such-host",
-   "since": "2026-11-20"
-  },
-  {
    "name": "MGH Strategy Ltd",
    "url": "http://www.mghstrategy.co.uk",
    "reason": "not-found",
-   "since": "2026-11-20"
-  },
-  {
-   "name": "Morpho UK Ltd",
-   "url": "https://www.morpho.com",
-   "reason": "no-such-host",
    "since": "2026-11-20"
   },
   {
@@ -146,12 +116,6 @@
    "since": "2026-11-20"
   },
   {
-   "name": "Safran Helicopter Engines UK Ltd",
-   "url": "https://www.turbomeca.co.uk",
-   "reason": "no-such-host",
-   "since": "2026-11-20"
-  },
-  {
    "name": "Sentinels Network Ltd",
    "url": "https://www.joinsentinels.com/",
    "reason": "no-such-host",
@@ -167,12 +131,6 @@
    "name": "Sonovision Ltd",
    "url": "https://www.sonovision.co.uk",
    "reason": "refused",
-   "since": "2026-11-20"
-  },
-  {
-   "name": "Squad AI Ltd",
-   "url": "https://www.ai-squad.co.uk",
-   "reason": "not-found",
    "since": "2026-11-20"
   },
   {
