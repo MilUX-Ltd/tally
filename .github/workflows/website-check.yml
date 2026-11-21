@@ -1,0 +1,70 @@
+# Checks every Tally company website weekly and refreshes websites.json: websites that are dead
+# and pages that have moved (the site then links to the home page). A result is published only
+# after two runs in a row agree. Changes nothing but websites.json, runs the gate and the
+# acceptance tests, and with TALLY_REFRESH_TOKEN set opens a pull request that merges itself
+# when the required "checks" job passes (D-i26gb).
+name: website check
+
+on:
+  schedule:
+    - cron: '0 2 * * 1'
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+concurrency:
+  group: website-check
+  cancel-in-progress: false
+
+jobs:
+  check:
+    # Only from main: a run on another branch would carry that branch's commits.
+    if: github.ref == 'refs/heads/main'
+    runs-on: ubuntu-latest
+    timeout-minutes: 45
+    steps:
+      - uses: actions/checkout@11bd71901bbe5b1630ceea73d27597364c9af683 # v4.2.2
+        with:
+          persist-credentials: false
+      - uses: actions/setup-python@a26af69be951a213d495a4c3e4e4022e16d87065 # v5.6.0
+        with:
+          python-version: "3.12"
+      - name: Check the websites
+        run: |
+          cp websites.json "$RUNNER_TEMP/previous.json"
+          python3 -I scripts/check_websites.py --previous "$RUNNER_TEMP/previous.json" > "$RUNNER_TEMP/check.log"
+          grep -E "^==|^ok|^dead|^wrote" "$RUNNER_TEMP/check.log" >> "$GITHUB_STEP_SUMMARY"
+      - name: The gate and acceptance tests
+        run: |
+          python3 .github/scripts/check.py
+          python3 -m unittest discover -s tests -t .
+      - name: Check only websites.json changed
+        id: diff
+        run: |
+          changed=$(git status --porcelain)
+          if [ -z "$changed" ]; then echo "No change." >> "$GITHUB_STEP_SUMMARY"; echo "changed=false" >> "$GITHUB_OUTPUT"; exit 0; fi
+          if [ "$changed" != " M websites.json" ]; then echo "Unexpected changes: $changed" >&2; exit 1; fi
+          echo "changed=true" >> "$GITHUB_OUTPUT"
+      - name: Open a pull request and turn on auto-merge
+        if: steps.diff.outputs.changed == 'true'
+        env:
+          GH_TOKEN: ${{ secrets.TALLY_REFRESH_TOKEN }}
+        run: |
+          if [ -z "$GH_TOKEN" ]; then
+            echo "TALLY_REFRESH_TOKEN is not set: websites.json was built and tested but not proposed." >> "$GITHUB_STEP_SUMMARY"
+            exit 0
+          fi
+          summary=$(python3 -I -c "import json;d=json.load(open('websites.json'));print(f\"{len(d['dead'])} dead, {len(d['moved'])} moved\")")
+          branch="website-check/$(date -u +%Y-%m-%d)-${GITHUB_RUN_ID}"
+          git config user.name "tally-website-check"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          gh pr list --state open --json number,headRefName --jq '.[] | select(.headRefName | startswith("website-check/")) | .number' |
+            while read -r n; do gh pr close "$n" --delete-branch --comment "Superseded by a newer check."; done
+          gh auth setup-git
+          git switch -c "$branch"
+          git commit -qam "Refresh websites.json: $summary"
+          git push origin "$branch"
+          gh pr create --base main --head "$branch" --title "Refresh websites.json: $summary" \
+            --body "Automatic weekly check of Tally company websites. Only websites.json changes; the gate and acceptance tests passed in the run. Merges automatically when the required checks pass."
+          gh pr merge "$branch" --auto --squash
