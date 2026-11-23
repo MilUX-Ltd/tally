@@ -1,10 +1,10 @@
 {
- "generated": "2026-11-20",
+ "generated": "2026-11-23",
  "attribution": "Contains public sector information licensed under the Open Government Licence v3.0.",
  "source": "Companies House Public Data API",
  "checked": {
-  "companies": 1068,
-  "found": 1068,
+  "companies": 1069,
+  "found": 1069,
   "not_found": 0,
   "failed": 0
  },
