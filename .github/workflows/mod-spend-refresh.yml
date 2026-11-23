@@ -32,6 +32,7 @@ jobs:
           python-version: "3.12"
       - name: Build mod-spend.json
         run: |
+          set -o pipefail
           cp mod-spend.json "$RUNNER_TEMP/previous.json"
           python3 -I scripts/build_mod_spend.py --previous "$RUNNER_TEMP/previous.json" | tee -a "$GITHUB_STEP_SUMMARY"
       - name: The gate and acceptance tests

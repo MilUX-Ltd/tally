@@ -14,6 +14,7 @@ evaluated. Guards stop the build before anything is written (card 7475, D-tnpb9)
 """
 
 import argparse
+import math
 import datetime
 import json
 import re
@@ -114,6 +115,8 @@ def read_ods(path):
         if info.file_size > MAX_CONTENT_XML:
             raise SystemExit("content.xml is larger than expected; not written")
         raw = z.read("content.xml")
+    if not raw.lstrip().startswith(b"<?xml") or b"utf-8" not in raw[:100].lower():
+        raise SystemExit("content.xml is not UTF-8 XML; not written")
     if b"<!DOCTYPE" in raw or b"<!ENTITY" in raw:
         raise SystemExit("content.xml carries a document type declaration; not written")
     root = ET.fromstring(raw)
@@ -142,9 +145,9 @@ def _number(text):
     s = (text or "").replace(",", "").strip()
     try:
         f = float(s)
-    except ValueError:
+    except (ValueError, OverflowError):
         return None
-    if f < 0 or f != int(f):
+    if not math.isfinite(f) or f < 0 or f != int(f):
         return None
     return int(f)
 
@@ -222,14 +225,11 @@ def check(doc, previous):
         if not _ok(doc["uk"].get(y)):
             raise SystemExit(f"{y}: UK Total is not a number; not written")
         england = doc.get("england", {}).get(y)
-        if england is not None:
-            if not _ok(england):
-                raise SystemExit(f"{y}: England is not a number; not written")
-            if abs(sum(rows[r]["value"] for r in ENGLISH) - england) > ENGLAND_TOLERANCE:
-                raise SystemExit(f"{y}: the English regions do not add up to England; not written")
-            nations = england + sum(rows[r]["value"] for r in NATIONS)
-        else:
-            nations = sum(rows[r]["value"] for r in REGIONS)
+        if not _ok(england):
+            raise SystemExit(f"{y}: the England row is missing or not a number; not written")
+        if abs(sum(rows[r]["value"] for r in ENGLISH) - england) > ENGLAND_TOLERANCE:
+            raise SystemExit(f"{y}: the English regions do not add up to England; not written")
+        nations = england + sum(rows[r]["value"] for r in NATIONS)
         if abs(nations - doc["uk"][y]) > UK_TOLERANCE:
             raise SystemExit(f"{y}: England and the nations do not add up to the UK Total; not written")
     if previous:
@@ -246,9 +246,13 @@ def check(doc, previous):
 # Fetching and writing
 # =======================================================================================
 
-def _get(url, limit=MAX_DOWNLOAD):
+def _get(url, host, limit=MAX_DOWNLOAD):
+    """The body at url, refusing an answer that ends anywhere but https on host (redirects included)."""
     req = urllib.request.Request(url, headers={"User-Agent": USER_AGENT})
     with urllib.request.urlopen(req, timeout=TIMEOUT) as r:
+        final = urllib.parse.urlsplit(r.geturl())
+        if final.scheme != "https" or final.hostname != host:
+            raise SystemExit(f"{url} answered from {r.geturl()}, not {host}; not written")
         data = r.read(limit + 1)
     if len(data) > limit:
         raise SystemExit(f"{url} is larger than expected; not written")
@@ -256,7 +260,7 @@ def _get(url, limit=MAX_DOWNLOAD):
 
 
 def _api(path):
-    return json.loads(_get(API + path))
+    return json.loads(_get(API + path, "www.gov.uk"))
 
 
 def build(ods_path, edition, base_path):
@@ -283,7 +287,7 @@ def main(argv=None):
     print(f"== Edition {base_path}")
     with tempfile.TemporaryDirectory() as d:
         path = Path(d) / "tables.ods"
-        path.write_bytes(_get(url))
+        path.write_bytes(_get(url, ASSET_HOST))
         doc, source = build(path, edition, base_path)
     previous = None
     if args.previous and args.previous.exists():
