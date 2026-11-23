@@ -1,10 +1,10 @@
 {
- "generated": "2026-11-21",
+ "generated": "2026-11-23",
  "checked": {
-  "websites": 2047,
-  "ok": 1761,
-  "gone": 34,
-  "uncertain": 252
+  "websites": 2046,
+  "ok": 1774,
+  "gone": 25,
+  "uncertain": 247
  },
  "dead": [
   {
