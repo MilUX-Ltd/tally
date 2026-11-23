@@ -10,10 +10,10 @@ founded: 2008
 size: small
 headcount: ~16
 sources-verified: 2026-07-09
-postcode: IP31 3AJ
-lat: 52.31096
-lon: 0.92392
-location-source: companies-house
+postcode: RH10 4NF
+lat: 51.11502
+lon: -0.10745
+location-source: website
 tags:
   - defence
   - rf
@@ -58,4 +58,4 @@ VB Antennas is the antenna division of Videosys Broadcast Ltd, rebranded from th
 
 ## Sources
 
-Public information verified 2026-07-09. VB Antennas and Videosys Broadcast websites, VB Antennas LinkedIn company page, Unmanned Systems Technology directory, Companies House (06669235).
+Public information verified 2026-07-09. VB Antennas and Videosys Broadcast websites, VB Antennas LinkedIn company page, Unmanned Systems Technology directory, Companies House (06669235). Location corrected 2026-11-23: the company's contact page gives Wallage Lane, Crawley (RH10 4NF); the earlier postcode was the registered office.

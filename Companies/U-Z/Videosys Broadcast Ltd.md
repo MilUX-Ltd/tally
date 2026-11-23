@@ -10,10 +10,10 @@ founded: 2008
 size: small
 headcount: ~16
 sources-verified: 2026-07-09
-postcode: IP31 3AJ
-lat: 52.31096
-lon: 0.92392
-location-source: companies-house
+postcode: RH10 4NF
+lat: 51.11502
+lon: -0.10745
+location-source: website
 tags:
   - defence
   - rf
@@ -33,7 +33,7 @@ tags:
 
 ## What they do
 
-Videosys Broadcast designs and manufactures RF camera systems, camera control systems, RF video links and camera backs for outside broadcast and live events, and has supplied broadcasters since 2008. Alongside the broadcast line it manufactures antennas and RF over fibre (RFoF) systems in-house. Its antenna work, run through the VB Antennas division, is sold into the defence and security markets as well as broadcast.
+Videosys Broadcast designs and manufactures RF camera systems, camera control systems, RF video links and camera backs for outside broadcast and live events, and has supplied broadcasters since 2008. Alongside the broadcast line it manufactures antennas and RF over fibre (RFoF) systems in-house. Its antenna work, run through the VB Antennas division, is sold into the defence and security markets as well as broadcast, with antennas for drones, unmanned ground vehicles, controllers and radios.
 
 ## Products and solutions
 
@@ -53,4 +53,4 @@ Videosys Broadcast designs and manufactures RF camera systems, camera control sy
 
 ## Sources
 
-Public information verified 2026-07-09. Company website, Videosys Broadcast LinkedIn company page, Companies House (06669235).
+Public information verified 2026-07-09. Company website, Videosys Broadcast LinkedIn company page, Companies House (06669235), VB Antennas about page (https://www.vbantennas.com/about). Location corrected 2026-11-23: the company's contact page gives Wallage Lane, Crawley (RH10 4NF); the earlier postcode was the registered office.
