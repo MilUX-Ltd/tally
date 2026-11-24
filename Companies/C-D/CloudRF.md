@@ -3,6 +3,7 @@ type: organisation
 name: CloudRF
 website: https://cloudrf.com/
 linkedin: https://www.linkedin.com/company/cloudrf
+companies-house: 07838632
 hq: Gloucester, United Kingdom
 uk-region: South West
 founded: 2012
@@ -48,4 +49,4 @@ CloudRF offers a software-as-a-service platform and propagation API for modellin
 
 ## Sources
 
-Public information verified 2026-06-29. Sources used: company website (cloudrf.com), ADS members directory (adsgroup.org.uk).
+Public information verified 2026-06-29. Sources used: company website (cloudrf.com), ADS members directory (adsgroup.org.uk). Companies House number added 2026-11-24: the website says CloudRF is a trading name of Farrant Consulting Ltd (07838632).
