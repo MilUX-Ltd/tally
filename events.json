@@ -1,43 +1,6 @@
 {
- "as_of": "2026-11-19",
+ "as_of": "2026-11-25",
  "events": [
-  {
-   "audience": "public",
-   "cluster": "ERDSC",
-   "date": "2026-11-24",
-   "time": "10am to 11am",
-   "where": "Online",
-   "title": "East of England Investment Fund briefing",
-   "summary": "British Business Bank briefing on equity investment for businesses across the five East of England counties, aimed at advisers and support bodies.",
-   "link": "https://lnkd.in/eyhWYBga"
-  },
-  {
-   "audience": "public",
-   "cluster": "ERDSC",
-   "date": "2026-11-24",
-   "time": "09:00–16:30",
-   "where": "Portsmouth Historic Dockyard",
-   "title": "Working with maritime defence primes: pathways for UK SMEs",
-   "summary": "Paid event co-hosted by MOD and the Society of Maritime Industries on engaging maritime defence primes.",
-   "link": "https://www.tickettailor.com/events/societyofmaritimeindustries/2455746/select-date"
-  },
-  {
-   "audience": "public",
-   "cluster": "GLRDSC",
-   "date": "2026-11-24",
-   "time": "11:00",
-   "where": "Online",
-   "title": "Webinar: winning your share of UK defence investment",
-   "summary": "Free panel on where planned defence spending opens doors for SMEs, spotting requirements before tender and winning work through primes.",
-   "link": "https://lnkd.in/e4Ps9AsQ"
-  },
-  {
-   "audience": "members",
-   "cluster": "NERDSC",
-   "date": "2026-11-24",
-   "text": "Members' event: join the cluster for details",
-   "link": "https://nerdsc.co.uk/"
-  },
   {
    "audience": "public",
    "cluster": "EMRDSC",
@@ -77,6 +40,23 @@
   },
   {
    "audience": "public",
+   "cluster": "NERDSC",
+   "date": "2026-11-25",
+   "time": "6pm to 9pm",
+   "where": "Newcastle Airport area",
+   "title": "CC1 Network evening for Armed Forces Covenant signatories",
+   "summary": "Free networking for Covenant signatories, defence firms and employers who support serving personnel, veterans, reservists and families. Booking essential.",
+   "link": "https://lnkd.in/ekMM4kHg"
+  },
+  {
+   "audience": "members",
+   "cluster": "SCRDSC",
+   "date": "2026-11-26",
+   "text": "Members' event: join the cluster for details",
+   "link": "https://www.southcentralrdsc.co.uk/"
+  },
+  {
+   "audience": "public",
    "cluster": "WRDSC",
    "date": "2026-11-26",
    "time": "Afternoon",
@@ -107,6 +87,16 @@
   },
   {
    "audience": "public",
+   "cluster": "GLRDSC",
+   "date": "2026-12-01",
+   "time": null,
+   "where": "Retford",
+   "title": "Fusion Industry School: two-day crash course for businesses",
+   "summary": "A course for business leaders on fusion energy, its market and where firms might fit in the future fusion supply chain. Runs 1 to 2 December.",
+   "link": "https://ow.ly/eqho5101otK"
+  },
+  {
+   "audience": "public",
    "cluster": "WMRDSC",
    "date": "2026-12-01",
    "time": "9am to 12pm",
@@ -121,6 +111,16 @@
    "date": "2026-12-02",
    "text": "Members' event: join the cluster for details",
    "link": "https://southwestrdsc.co.uk/"
+  },
+  {
+   "audience": "public",
+   "cluster": "ERDSC",
+   "date": "2026-12-03",
+   "time": null,
+   "where": "The EpiCentre, Haverhill",
+   "title": "Suffolk business support breakfast",
+   "summary": "Free session where Suffolk firms hear from local support partners about cluster networks, finance and growth advice. Light breakfast provided.",
+   "link": "https://luma.com/ex87cht9"
   },
   {
    "audience": "public",
@@ -141,6 +141,16 @@
    "title": "ConeX Connects Live Christmas social",
    "summary": "End-of-year showcase and networking for manufacturers and engineering SMEs. Venue details go to registered attendees.",
    "link": "https://www.eventbrite.co.uk/e/conex-connects-live-christmas-social-2026-tickets-2002840489820"
+  },
+  {
+   "audience": "public",
+   "cluster": "ERDSC",
+   "date": "2026-12-07",
+   "time": null,
+   "where": "Online",
+   "title": "Horizon Europe Cluster 6 opportunities 2027 webinar",
+   "summary": "Innovate UK Business Connect runs through 2027 Horizon Europe calls in food, bioeconomy, natural resources and environment.",
+   "link": "https://ow.ly/JbAZ5107FJ0"
   },
   {
    "audience": "members",
