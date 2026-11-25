@@ -1,5 +1,5 @@
 {
- "as_of": "2026-11-19",
+ "as_of": "2026-11-25",
  "opportunities": [
   {
    "kind": "funding",
@@ -20,6 +20,15 @@
    "link": "https://apply-for-bics.service.gov.uk/start"
   },
   {
+   "kind": "opportunity",
+   "cluster": "GLRDSC",
+   "deadline": "2026-12-08",
+   "time": null,
+   "title": "ICURe Discover: national security and defence dual use",
+   "summary": "Innovate UK programme for university researchers whose work has civil and defence uses. Up to £2,500, run online January to March 2027 with a two-day bootcamp.",
+   "link": "https://lnkd.in/eaht3UYU"
+  },
+  {
    "kind": "funding",
    "cluster": "LRDSC",
    "deadline": "2026-12-08",
@@ -36,6 +45,15 @@
    "title": "UKDI electro-optic sensing competition, £2.8m",
    "summary": "UK Defence Innovation, for Dstl, seeks electro-optic sensing that improves range, target recognition and performance in hard conditions, maturing TRL 3 to 6. Open to businesses, sole traders and universities.",
    "link": "https://lnkd.in/efRmiVVG"
+  },
+  {
+   "kind": "funding",
+   "cluster": "NERDSC",
+   "deadline": "2027-01-08",
+   "time": null,
+   "title": "MOD capital grants of up to £45m for new munitions factories",
+   "summary": "The first of three windows for grants towards new UK energetics and munitions factories. Projects must attract private investment.",
+   "link": "https://lnkd.in/eYFWkEfy"
   },
   {
    "kind": "funding",
