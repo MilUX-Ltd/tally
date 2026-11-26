@@ -4,6 +4,7 @@ name: Advanced Tooling Systems UK Limited
 companies-house: 04610282
 hq: Maidstone, Kent, United Kingdom
 uk-region: South East
+country-code: GB
 founded: 2002
 size: medium
 headcount: 75+

@@ -6,6 +6,7 @@ linkedin: https://www.linkedin.com/company/bache-group/
 companies-house: "01351410"
 hq: Lye, United Kingdom
 uk-region: West Midlands
+country-code: GB
 founded: 1974
 sources-verified: 2026-11-19
 postcode: DY9 8HU

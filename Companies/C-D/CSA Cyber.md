@@ -6,6 +6,7 @@ linkedin: https://www.linkedin.com/company/csa-cyber/
 companies-house: "10124305"
 hq: Gloucester, United Kingdom
 uk-region: South West
+country-code: GB
 founded: 2013
 size: small
 headcount: 90

@@ -4,6 +4,7 @@ name: Seabury Securities (UK) Ltd
 website: https://www.seaburycapital.com/seabury-securities/
 hq: London, UK
 uk-region: London
+country-code: GB
 sources-verified: 2026-06-30
 lat: 51.50741
 lon: -0.12772

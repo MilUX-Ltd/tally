@@ -4,6 +4,7 @@ name: VinDo Technology Ltd
 website: https://www.vindo.technology
 hq: Stone, United Kingdom
 uk-region: West Midlands
+country-code: GB
 sources-verified: 2026-07-01
 lat: 52.90141
 lon: -2.14516

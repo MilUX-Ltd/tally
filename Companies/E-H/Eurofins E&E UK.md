@@ -6,6 +6,7 @@ linkedin: https://uk.linkedin.com/company/eurofins-e-e-uk
 companies-house: 06048589
 hq: Luxembourg City, Luxembourg
 uk-region: Yorkshire and The Humber
+country-code: GB
 founded: 2007
 size: medium
 headcount: 129

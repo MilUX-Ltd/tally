@@ -4,6 +4,7 @@ name: Pinnacle Atlas Ltd
 website: https://www.pinnacleatlas.com
 hq: Addingham, United Kingdom
 uk-region: Yorkshire and The Humber
+country-code: GB
 sources-verified: 2026-07-05
 lat: 53.944
 lon: -1.88276

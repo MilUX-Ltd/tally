@@ -4,6 +4,7 @@ name: Providence Global ITF Ltd
 website: https://www.providenceitf.com
 hq: Hereford, UK
 uk-region: West Midlands
+country-code: GB
 size: micro
 sources-verified: 2026-07-05
 lat: 52.05598

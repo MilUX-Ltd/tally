@@ -4,6 +4,7 @@ name: Crowell & Moring UK LLP
 website: https://www.crowell.com
 hq: Washington DC, United States
 uk-region: London
+country-code: GB
 size: large
 headcount: 1250
 sources-verified: 2026-07-04

@@ -5,6 +5,7 @@ website: https://flann.com
 linkedin: https://www.linkedin.com/company/2476889
 hq: Bodmin, UK
 uk-region: South West
+country-code: GB
 founded: 1956
 size: medium
 headcount: ~65

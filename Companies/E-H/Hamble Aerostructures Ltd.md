@@ -4,6 +4,7 @@ name: Hamble Aerostructures Ltd
 website: https://www.aernnova.com/en/discover-hamble-aerostructures/
 hq: Hamble-le-Rice, United Kingdom
 uk-region: South East
+country-code: GB
 founded: 1936
 size: large
 sources-verified: 2026-07-04

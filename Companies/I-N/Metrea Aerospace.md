@@ -4,6 +4,7 @@ name: Metrea Aerospace
 website: https://www.metrea.aero
 hq: Washington, D.C., United States
 uk-region: London
+country-code: GB
 size: large
 sources-verified: 2026-07-16
 location-source: region

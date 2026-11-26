@@ -6,6 +6,7 @@ linkedin: https://www.linkedin.com/company/avic-cabin-systems-uk
 companies-house: 11577055
 hq: Beijing, China
 uk-region: South West
+country-code: GB
 founded: 2018
 size: large
 sources-verified: 2026-07-03

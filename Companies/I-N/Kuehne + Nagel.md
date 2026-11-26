@@ -4,6 +4,7 @@ name: Kuehne + Nagel
 website: https://www.kuehne-nagel.com
 hq: Schindellegi, Switzerland
 uk-region: London
+country-code: GB
 size: large
 sources-verified: 2026-07-04
 location-source: region

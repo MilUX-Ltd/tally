@@ -11,6 +11,7 @@ size: micro
 headcount: 2-10
 sources-verified: 2026-07-04
 country: United States
+country-code: US
 tags:
   - defence
   - ai

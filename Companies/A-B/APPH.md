@@ -6,6 +6,7 @@ linkedin: https://www.linkedin.com/company/apph-ltd
 companies-house: 01972451
 hq: Longueuil, Canada
 uk-region: North West
+country-code: GB
 founded: 1985
 size: large
 headcount: ~400

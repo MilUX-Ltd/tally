@@ -4,6 +4,7 @@ name: Teledyne CML Composites
 website: https://www.teledynecml.com
 hq: Thousand Oaks, United States
 uk-region: North West
+country-code: GB
 sources-verified: 2026-06-30
 location-source: region
 location-note: UK location not published

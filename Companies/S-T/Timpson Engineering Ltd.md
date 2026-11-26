@@ -4,6 +4,7 @@ name: Timpson Engineering Ltd
 website: https://www.timpsonengineering.co.uk
 hq: Stanford in the Vale, United Kingdom
 uk-region: South East
+country-code: GB
 size: micro
 sources-verified: 2026-07-16
 lat: 51.63909

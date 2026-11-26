@@ -5,6 +5,7 @@ website: https://www.dnastream.com
 companies-house: "05887312"
 hq: Guildford, UK
 uk-region: South East
+country-code: GB
 founded: 2006
 size: small
 headcount: 11-50

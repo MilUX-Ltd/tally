@@ -5,6 +5,7 @@ website: https://www.roke.co.uk
 companies-house: "00267550"
 hq: Romsey, United Kingdom
 uk-region: South East
+country-code: GB
 founded: 1956
 size: large
 headcount: 600+

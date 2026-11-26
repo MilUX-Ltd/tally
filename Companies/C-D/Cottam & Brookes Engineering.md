@@ -5,6 +5,7 @@ website: https://www.cbaero.com
 companies-house: "02367635"
 hq: Caerphilly, United Kingdom
 uk-region: Wales
+country-code: GB
 founded: 1989
 size: small
 headcount: 35

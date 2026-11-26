@@ -4,6 +4,7 @@ name: Goonhilly Earth Station Ltd
 website: https://www.goonhilly.org
 hq: Helston, UK
 uk-region: South West
+country-code: GB
 size: small
 sources-verified: 2026-07-04
 lat: 50.10093

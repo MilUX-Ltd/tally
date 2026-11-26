@@ -6,6 +6,7 @@ linkedin: https://www.linkedin.com/company/bluefort-security-ltd
 companies-house: 06085154
 hq: Farnborough, United Kingdom
 uk-region: South East
+country-code: GB
 founded: 2007
 size: small
 headcount: ~31

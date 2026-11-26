@@ -6,6 +6,7 @@ linkedin: https://www.linkedin.com/company/aquarius-test-engineering
 companies-house: "15805547"
 hq: Lee-on-the-Solent, United Kingdom
 uk-region: South East
+country-code: GB
 sources-verified: 2026-11-19
 postcode: PO13 9FU
 lat: 50.81257

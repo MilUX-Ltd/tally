@@ -4,6 +4,7 @@ name: Pandect Precision Components Ltd
 website: https://www.pandect.co.uk
 hq: High Wycombe, United Kingdom
 uk-region: South East
+country-code: GB
 founded: 1964
 companies-house: 806716
 sources-verified: 2026-07-03

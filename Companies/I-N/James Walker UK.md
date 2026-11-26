@@ -4,6 +4,7 @@ name: James Walker UK
 website: https://www.jameswalker.biz
 hq: Crewe, United Kingdom
 uk-region: North West
+country-code: GB
 sources-verified: 2026-07-04
 lat: 53.09503
 lon: -2.44176

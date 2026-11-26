@@ -5,6 +5,7 @@ website: https://sagentia.com/defence/
 linkedin: https://www.linkedin.com/company/sagentiadefence
 hq: Bristol, United Kingdom
 uk-region: South West
+country-code: GB
 size: large
 sources-verified: 2026-06-29
 lat: 51.45313

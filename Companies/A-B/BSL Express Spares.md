@@ -5,6 +5,7 @@ website: https://www.bslexpress.com/
 companies-house: 09392813
 hq: Latchingdon, England
 uk-region: East of England
+country-code: GB
 size: small
 sources-verified: 2026-07-04
 postcode: CM3 6HB

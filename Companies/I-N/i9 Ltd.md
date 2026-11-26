@@ -5,6 +5,7 @@ website: https://i9tech.io
 companies-house: 13696630
 hq: Dorchester, United Kingdom
 uk-region: South West
+country-code: GB
 founded: 2021
 size: micro
 sources-verified: 2026-07-05

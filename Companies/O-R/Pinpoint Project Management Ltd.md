@@ -4,6 +4,7 @@ name: Pinpoint Project Management Ltd
 website: https://www.rivr.uk
 hq: Lydney, United Kingdom
 uk-region: South West
+country-code: GB
 sources-verified: 2026-07-05
 lat: 51.72635
 lon: -2.53121

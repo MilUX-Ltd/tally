@@ -4,6 +4,7 @@ name: UTAC UK Ltd
 website: https://www.utac.com
 hq: United Kingdom
 uk-region: East of England
+country-code: GB
 sources-verified: 2026-06-30
 location-source: region
 location-note: UK location not published

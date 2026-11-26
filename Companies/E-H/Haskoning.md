@@ -4,6 +4,7 @@ name: Haskoning
 website: https://www.haskoning.com
 hq: Rotterdam, Netherlands
 uk-region: East of England
+country-code: GB
 size: large
 sources-verified: 2026-07-04
 location-source: region

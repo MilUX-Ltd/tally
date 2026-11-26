@@ -4,6 +4,7 @@ name: MacLennan Associates Ltd
 website: https://www.maclennanassociates.com
 hq: Horsham, United Kingdom
 uk-region: South East
+country-code: GB
 sources-verified: 2026-07-05
 lat: 51.0621
 lon: -0.3281

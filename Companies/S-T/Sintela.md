@@ -6,6 +6,7 @@ linkedin: https://www.linkedin.com/company/sintela
 companies-house: 11015440
 hq: Bristol, United Kingdom
 uk-region: South West
+country-code: GB
 founded: 2017
 size: small
 sources-verified: 2026-06-29

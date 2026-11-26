@@ -4,6 +4,7 @@ name: Changing Tide Consulting
 website: https://www.changingtideconsulting.co.uk
 hq: Bristol
 uk-region: South West
+country-code: GB
 size: micro
 sources-verified: 2026-07-04
 lat: 51.45313

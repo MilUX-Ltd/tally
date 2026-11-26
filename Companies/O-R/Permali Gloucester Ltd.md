@@ -4,6 +4,7 @@ name: Permali Gloucester Ltd
 website: https://www.permali.co.uk
 hq: Gloucester, United Kingdom
 uk-region: South West
+country-code: GB
 sources-verified: 2026-07-05
 lat: 51.86455
 lon: -2.24693

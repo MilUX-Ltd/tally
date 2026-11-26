@@ -4,6 +4,7 @@ name: SGW Consulting Group
 website: http://www.sgw-consulting.co.uk
 hq: London, United Kingdom
 uk-region: London
+country-code: GB
 sources-verified: 2026-06-30
 lat: 51.50741
 lon: -0.12772

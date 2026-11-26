@@ -4,6 +4,7 @@ name: Redcliffe Precision Limited
 website: https://www.redcliffeprecision.co.uk
 hq: Bristol, United Kingdom
 uk-region: South West
+country-code: GB
 founded: 1968
 sources-verified: 2026-07-05
 lat: 51.45313

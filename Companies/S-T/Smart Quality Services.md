@@ -5,6 +5,7 @@ website: https://www.smartquality.co.uk
 companies-house: "04431268"
 hq: Bournemouth, United Kingdom
 uk-region: South West
+country-code: GB
 sources-verified: 2026-11-19
 postcode: BH1 1BZ
 lat: 50.72111

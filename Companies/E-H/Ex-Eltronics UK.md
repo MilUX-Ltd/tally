@@ -6,6 +6,7 @@ linkedin: https://www.linkedin.com/company/ex-eltronics-uk-ltd
 companies-house: "01529277"
 hq: Alton, United Kingdom
 uk-region: South East
+country-code: GB
 founded: 1980
 size: small
 sources-verified: 2026-11-19

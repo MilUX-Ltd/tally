@@ -6,6 +6,7 @@ linkedin: https://uk.linkedin.com/company/cambridge-sensoriis
 companies-house: 12586186
 hq: Bishop's Stortford, United Kingdom
 uk-region: East of England
+country-code: GB
 founded: 2020
 size: micro
 sources-verified: 2026-07-04

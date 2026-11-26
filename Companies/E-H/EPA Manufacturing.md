@@ -5,6 +5,7 @@ website: https://epgroupltd.com
 companies-house: "07129623"
 hq: Wickenby, United Kingdom
 uk-region: East Midlands
+country-code: GB
 founded: 2010
 sources-verified: 2026-11-19
 postcode: LN3 5DR

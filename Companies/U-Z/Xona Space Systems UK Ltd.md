@@ -4,6 +4,7 @@ name: Xona Space Systems UK Ltd
 website: https://www.xonaspace.com
 hq: San Mateo, United States
 uk-region: Scotland
+country-code: GB
 sources-verified: 2026-07-01
 location-source: region
 location-note: UK location not published

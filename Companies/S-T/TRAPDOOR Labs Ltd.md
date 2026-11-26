@@ -4,6 +4,7 @@ name: TRAPDOOR Labs Ltd
 website: https://trapdoorlabs.uk/
 hq: Cheltenham, United Kingdom
 uk-region: South West
+country-code: GB
 size: micro
 sources-verified: 2026-06-30
 lat: 51.90073

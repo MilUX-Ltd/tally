@@ -4,6 +4,7 @@ name: Intelligent Software Solutions Global Ltd
 website: https://www.issglobal.co.uk
 hq: Sandwich, United Kingdom
 uk-region: South East
+country-code: GB
 sources-verified: 2026-07-04
 lat: 51.27488
 lon: 1.33965

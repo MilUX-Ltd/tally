@@ -6,6 +6,7 @@ linkedin: https://www.linkedin.com/company/quince-consultancy
 companies-house: 13185494
 hq: Witney, England
 uk-region: South East
+country-code: GB
 founded: 2021
 size: micro
 sources-verified: 2026-07-16

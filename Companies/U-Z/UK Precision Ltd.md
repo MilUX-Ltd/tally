@@ -4,6 +4,7 @@ name: UK Precision Ltd
 website: https://www.ukprecision.co.uk
 hq: Exeter, UK
 uk-region: South West
+country-code: GB
 sources-verified: 2026-06-30
 lat: 50.72258
 lon: -3.5326

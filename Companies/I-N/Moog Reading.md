@@ -5,6 +5,7 @@ website: https://www.moog.com/components
 companies-house: 00586505
 hq: East Aurora, United States
 uk-region: South East
+country-code: GB
 founded: 1957
 sources-verified: 2026-07-05
 postcode: RG6 1AW

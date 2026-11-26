@@ -6,6 +6,7 @@ linkedin: https://www.linkedin.com/company/foster-freeman
 companies-house: "01403147"
 hq: Evesham, United Kingdom
 uk-region: West Midlands
+country-code: GB
 founded: 1978
 size: small
 headcount: 77

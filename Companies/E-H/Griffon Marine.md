@@ -6,6 +6,7 @@ linkedin: https://www.linkedin.com/company/griffon-hoverwork-limited
 companies-house: "00853053"
 hq: Southampton, United Kingdom
 uk-region: South East
+country-code: GB
 size: medium
 sources-verified: 2026-07-04
 postcode: SO19 7GA

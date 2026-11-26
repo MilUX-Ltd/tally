@@ -6,6 +6,7 @@ linkedin: https://www.linkedin.com/company/cyberguarded
 companies-house: "06381088"
 hq: Surrey, UK
 uk-region: South East
+country-code: GB
 founded: 2007
 size: small
 sources-verified: 2026-07-04

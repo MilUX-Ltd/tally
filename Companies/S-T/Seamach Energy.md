@@ -5,6 +5,7 @@ website: https://www.seamachenergy.com
 companies-house: "07225421"
 hq: Axminster, United Kingdom
 uk-region: South West
+country-code: GB
 founded: 2010
 sources-verified: 2026-11-19
 postcode: EX13 5AX

@@ -6,6 +6,7 @@ linkedin: https://www.linkedin.com/company/itsus-consulting-limited/
 companies-house: 06628075
 hq: Cardiff, United Kingdom
 uk-region: Wales
+country-code: GB
 founded: 2008
 sources-verified: 2026-07-04
 postcode: CF14 5GH

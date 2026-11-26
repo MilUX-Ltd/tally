@@ -5,6 +5,7 @@ website: https://www.alacritasinnovations.com
 companies-house: "13752444"
 hq: Fareham, United Kingdom
 uk-region: South East
+country-code: GB
 sources-verified: 2026-11-19
 postcode: PO15 5TU
 lat: 50.86801

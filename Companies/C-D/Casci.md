@@ -4,6 +4,7 @@ name: Casci Ltd
 website: https://www.casci.ai
 hq: London, United Kingdom
 uk-region: London
+country-code: GB
 size: small
 sources-verified: 2026-07-04
 lat: 51.50741

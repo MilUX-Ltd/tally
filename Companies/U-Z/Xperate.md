@@ -6,6 +6,7 @@ linkedin: https://www.linkedin.com/company/xperate
 companies-house: "13539512"
 hq: Winchester, United Kingdom
 uk-region: South East
+country-code: GB
 founded: 2021
 sources-verified: 2026-11-19
 postcode: SO23 8SR

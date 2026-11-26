@@ -5,6 +5,7 @@ website: https://www.advanced-blast.com/
 companies-house: 07025669
 hq: Ashbourne, England
 uk-region: East Midlands
+country-code: GB
 founded: 2009
 size: micro
 headcount: ~5

@@ -6,6 +6,7 @@ linkedin: https://www.linkedin.com/company/broadfieldlawllp
 companies-house: "OC320798"
 hq: London, United Kingdom
 uk-region: London
+country-code: GB
 sources-verified: 2026-11-19
 postcode: EC1A 7BL
 lat: 51.51767

@@ -6,6 +6,7 @@ linkedin: https://uk.linkedin.com/company/broadwayengineeringltd
 companies-house: 00400926
 hq: Bristol, England
 uk-region: South West
+country-code: GB
 founded: 1938
 size: medium
 sources-verified: 2026-07-04

@@ -6,6 +6,7 @@ linkedin: https://www.linkedin.com/company/ark-group-dmcc
 companies-house: FC035638
 hq: Dubai, United Arab Emirates
 uk-region: London
+country-code: GB
 size: medium
 sources-verified: 2026-07-03
 location-source: region

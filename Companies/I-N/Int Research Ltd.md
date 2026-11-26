@@ -4,6 +4,7 @@ name: Int Research Ltd
 website: http://www.intresearch.com
 hq: Windsor, United Kingdom
 uk-region: South East
+country-code: GB
 founded: 2005
 size: small
 sources-verified: 2026-07-04

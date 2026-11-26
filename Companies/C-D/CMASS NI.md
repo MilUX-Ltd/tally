@@ -6,6 +6,7 @@ linkedin: https://uk.linkedin.com/company/cmass-ltd-
 companies-house: NI602491
 hq: Antrim, United Kingdom
 uk-region: Northern Ireland
+country-code: GB
 founded: 2010
 size: small
 sources-verified: 2026-07-04

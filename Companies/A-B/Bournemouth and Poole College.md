@@ -4,6 +4,7 @@ name: Bournemouth and Poole College
 website: https://www.thecollege.co.uk
 hq: Poole, United Kingdom
 uk-region: South West
+country-code: GB
 sources-verified: 2026-11-19
 postcode: BH14 0LS
 lat: 50.7247

@@ -6,6 +6,7 @@ linkedin: https://uk.linkedin.com/company/codaoctopus-martech
 companies-house: 02300406
 hq: Portland, United Kingdom
 uk-region: South West
+country-code: GB
 founded: 1988
 size: small
 sources-verified: 2026-07-04

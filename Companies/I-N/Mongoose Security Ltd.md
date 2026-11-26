@@ -4,6 +4,7 @@ name: Mongoose Security Ltd
 companies-house: 09275354
 hq: London, United Kingdom
 uk-region: London
+country-code: GB
 founded: 2014
 size: micro
 sources-verified: 2026-07-05

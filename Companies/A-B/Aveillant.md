@@ -6,6 +6,7 @@ linkedin: https://www.linkedin.com/company/aveillant-ltd
 companies-house: 07645131
 hq: Cambridge, United Kingdom
 uk-region: East of England
+country-code: GB
 founded: 2011
 size: small
 sources-verified: 2026-07-04

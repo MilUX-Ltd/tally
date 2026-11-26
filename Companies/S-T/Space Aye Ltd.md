@@ -4,6 +4,7 @@ name: Space Aye Ltd
 website: http://www.spaceaye.com
 hq: Glasgow, United Kingdom
 uk-region: Scotland
+country-code: GB
 size: micro
 sources-verified: 2026-06-30
 lat: 55.86363

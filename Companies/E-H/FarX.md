@@ -6,6 +6,7 @@ linkedin: https://www.linkedin.com/company/farx-group-limited
 companies-house: "14340528"
 hq: Great Malvern, UK
 uk-region: West Midlands
+country-code: GB
 founded: 2022
 size: micro
 sources-verified: 2026-07-04

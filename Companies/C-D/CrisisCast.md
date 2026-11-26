@@ -6,6 +6,7 @@ linkedin: https://www.linkedin.com/company/crisiscast
 companies-house: "08533880"
 hq: London, United Kingdom
 uk-region: London
+country-code: GB
 founded: 2013
 size: micro
 sources-verified: 2026-07-04

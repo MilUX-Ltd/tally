@@ -6,6 +6,7 @@ linkedin: https://www.linkedin.com/company/avanticommunications
 companies-house: 07072502
 hq: London, United Kingdom
 uk-region: London
+country-code: GB
 size: medium
 sources-verified: 2026-07-04
 postcode: EC1A 4HD

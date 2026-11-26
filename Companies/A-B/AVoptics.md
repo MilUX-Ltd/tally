@@ -6,6 +6,7 @@ linkedin: https://www.linkedin.com/company/avoptics-ltd
 companies-house: "05654119"
 hq: Yeovil, England
 uk-region: South West
+country-code: GB
 founded: 2005
 size: small
 sources-verified: 2026-07-03

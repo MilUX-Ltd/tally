@@ -6,6 +6,7 @@ linkedin: https://www.linkedin.com/company/finch-consulting-ltd
 companies-house: "02774164"
 hq: Ashby-de-la-Zouch, UK
 uk-region: East Midlands
+country-code: GB
 founded: 1992
 size: small
 sources-verified: 2026-07-04

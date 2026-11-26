@@ -33,6 +33,10 @@ Standard library only, Python 3.9 or later. Exit 0 when every check passes, 1 ot
    alone on its line and once only, two-space list items, plain or simply quoted values, and no
    comments, block scalars, flow style, anchors, tags or backslashes, so a YAML reader cannot
    see a check the gate did not read.
+7. countries.json keeps to its contract (docs/countries-data.md), and every company page
+   carries a country-code it knows: GB for a UK page, whose region is one of the UK's regions;
+   a country that is not live has region Overseas. Russia is never live and no page is in
+   Russia; Belarus and Russia are never in the Europe bloc.
 """
 
 import datetime
@@ -261,6 +265,93 @@ def known_accreditations():
     return {v["slug"] for v in taxonomy["facets"]["accreditations"]["values"]}
 
 
+COUNTRY_CODE = re.compile(r"^[A-Z]{2}$")
+COUNTRY_BLOCS = {"europe", "north-america", "other"}
+COUNTRY_KEYS = {"code", "name", "aliases", "bloc", "live", "bounds", "regions"}
+NEVER_LIVE = {"RU"}
+NEVER_EUROPE = {"BY", "RU"}
+
+
+def _is_number(value):
+    return isinstance(value, (int, float)) and not isinstance(value, bool)
+
+
+def countries_problems(data):
+    """Problems with countries.json: its shape, its live countries, and Russia never live."""
+    problems = []
+    if not isinstance(data, dict) or not isinstance(data.get("countries"), list):
+        return ["countries.json: needs a countries list"]
+    extra = set(data) - {"generated", "note", "countries"}
+    if extra:
+        problems.append(f"countries.json: unknown keys {sorted(extra)}")
+    seen = set()
+    for i, c in enumerate(data["countries"]):
+        if not isinstance(c, dict):
+            problems.append(f"countries.json: entry {i} is not an object")
+            continue
+        code = c.get("code")
+        label = f"countries.json: {code if isinstance(code, str) else f'entry {i}'}"
+        if set(c) - COUNTRY_KEYS:
+            problems.append(f"{label}: unknown keys {sorted(set(c) - COUNTRY_KEYS)}")
+        if not isinstance(code, str) or not COUNTRY_CODE.match(code):
+            problems.append(f"{label}: code must be two upper-case letters")
+        elif code in seen:
+            problems.append(f"{label}: code appears twice")
+        seen.add(code)
+        name = c.get("name")
+        if not isinstance(name, str) or not 2 <= len(name.strip()) <= 60:
+            problems.append(f"{label}: name must be 2 to 60 characters")
+        aliases = c.get("aliases", [])
+        if not isinstance(aliases, list) or any(not isinstance(a, str) or not a.strip() for a in aliases):
+            problems.append(f"{label}: aliases must be a list of names")
+        if c.get("bloc") not in COUNTRY_BLOCS:
+            problems.append(f"{label}: bloc must be one of {sorted(COUNTRY_BLOCS)}")
+        if code in NEVER_EUROPE and c.get("bloc") == "europe":
+            problems.append(f"{label}: is not in Europe as decided")
+        live = c.get("live")
+        if not isinstance(live, bool):
+            problems.append(f"{label}: live must be true or false")
+            continue
+        if live and code in NEVER_LIVE:
+            problems.append(f"{label}: is never live on Tally")
+        if live:
+            bounds = c.get("bounds")
+            if not (isinstance(bounds, list) and len(bounds) == 4 and all(_is_number(b) for b in bounds)
+                    and -180 <= bounds[0] < bounds[2] <= 180 and -90 <= bounds[1] < bounds[3] <= 90):
+                problems.append(f"{label}: a live country needs bounds [west, south, east, north]")
+            regions = c.get("regions")
+            if not (isinstance(regions, list) and regions and all(isinstance(r, str) and r.strip() for r in regions)
+                    and len(regions) == len(set(regions))):
+                problems.append(f"{label}: a live country needs a list of regions without repeats")
+    return problems
+
+
+def country_problems(text, countries):
+    """Problems with a company page's country-code and region, against countries.json."""
+    head = _frontmatter(text)
+    def field(key):
+        match = re.search(rf"^{key}:[ \t]*(.*)$", head, re.M)
+        return _unquote(match.group(1)) if match else ""
+    code = field("country-code")
+    if not code:
+        return ["needs a country-code"]
+    if not COUNTRY_CODE.match(code):
+        return [f"country-code {code!r} must be two upper-case letters"]
+    if code in NEVER_LIVE:
+        return [f"country-code {code} is never listed on Tally"]
+    known = {c.get("code"): c for c in countries.get("countries", []) if isinstance(c, dict)}
+    entry = known.get(code)
+    if not entry:
+        return [f"country-code {code} is not in countries.json"]
+    region = field("region") or field("uk-region")
+    if entry.get("live"):
+        if region and region not in entry.get("regions", []):
+            return [f"region {region!r} is not a region of {code}"]
+    elif region != "Overseas":
+        return [f"{code} is not live, so its region must be Overseas"]
+    return []
+
+
 def sha256(text):
     return hashlib.sha256(text.encode("utf-8")).hexdigest()
 
@@ -307,6 +398,12 @@ def read_text(path):
 def main():
     files = tracked()
     accreditations = known_accreditations()
+    try:
+        countries = json.loads((ROOT / "countries.json").read_text(encoding="utf-8"))
+    except (OSError, ValueError) as exc:
+        countries = {"countries": []}
+        failures.append(f"countries.json: cannot be read ({exc})")
+    failures.extend(countries_problems(countries))
     for path in files:
         for pattern, what in FORBIDDEN:
             if pattern.search(path):
@@ -327,6 +424,8 @@ def main():
             if PERSONAL_LINKEDIN.search(text):
                 failures.append(f"{path}: links a personal LinkedIn profile (company pages only)")
             for problem in certification_check_problems(text, accreditations):
+                failures.append(f"{path}: {problem}")
+            for problem in country_problems(text, countries):
                 failures.append(f"{path}: {problem}")
     failures.extend(blocked_problems(files))
     if failures:

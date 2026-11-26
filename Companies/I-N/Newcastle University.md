@@ -4,6 +4,7 @@ name: Newcastle University
 website: https://www.ncl.ac.uk
 hq: Newcastle upon Tyne, UK
 uk-region: North East
+country-code: GB
 sources-verified: 2026-07-05
 lat: 54.97801
 lon: -1.61019

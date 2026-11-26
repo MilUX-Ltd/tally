@@ -5,6 +5,7 @@ website: https://www.iliacdesign.co.uk
 companies-house: 03671988
 hq: Fareham, United Kingdom
 uk-region: South East
+country-code: GB
 sources-verified: 2026-07-04
 postcode: PO16 0EN
 lat: 50.85274

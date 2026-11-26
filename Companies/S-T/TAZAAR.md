@@ -4,6 +4,7 @@ name: TAZAAR
 website: https://www.tazaar.io
 hq: London, United Kingdom
 uk-region: London
+country-code: GB
 size: micro
 sources-verified: 2026-06-30
 lat: 51.50741

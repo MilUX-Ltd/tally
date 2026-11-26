@@ -5,6 +5,7 @@ linkedin: https://uk.linkedin.com/company/aero-solutions-uav-ltd
 companies-house: 15070990
 hq: Weston, Hertfordshire, England
 uk-region: East of England
+country-code: GB
 founded: 2023
 size: micro
 sources-verified: 2026-07-03

@@ -6,6 +6,7 @@ linkedin: https://www.linkedin.com/company/alpha-data-parallel-systems-limited
 companies-house: SC147524
 hq: Edinburgh, United Kingdom
 uk-region: Scotland
+country-code: GB
 founded: 1993
 size: small
 sources-verified: 2026-07-03

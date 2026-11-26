@@ -4,6 +4,7 @@ name: Triad Group Plc
 website: https://www.triad.co.uk
 hq: Godalming, United Kingdom
 uk-region: South East
+country-code: GB
 size: small
 sources-verified: 2026-06-30
 lat: 51.18549

@@ -4,6 +4,7 @@ name: Jacobs UK Ltd
 website: https://www.jacobs.com
 hq: Dallas, United States
 uk-region: London
+country-code: GB
 size: large
 sources-verified: 2026-07-04
 location-source: region

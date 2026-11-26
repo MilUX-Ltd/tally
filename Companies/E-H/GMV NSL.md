@@ -5,6 +5,7 @@ website: https://www.gmv.com
 companies-house: 03645072
 hq: Nottingham, United Kingdom
 uk-region: East Midlands
+country-code: GB
 founded: 1998
 size: small
 sources-verified: 2026-07-16

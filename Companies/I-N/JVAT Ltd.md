@@ -4,6 +4,7 @@ name: JVAT Ltd
 website: https://www.jvat.co.uk
 hq: Brisbane, Australia
 uk-region: South West
+country-code: GB
 founded: 2017
 size: small
 headcount: ~70

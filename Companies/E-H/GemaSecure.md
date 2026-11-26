@@ -5,6 +5,7 @@ website: https://www.gemasecure.com
 companies-house: "11239657"
 hq: Basingstoke, United Kingdom
 uk-region: South East
+country-code: GB
 size: micro
 sources-verified: 2026-11-19
 postcode: RG21 4HG

@@ -5,6 +5,7 @@ website: https://www.a2i.network
 linkedin: https://www.linkedin.com/company/a2i-allied-adaptive-industries
 hq: London, United Kingdom
 uk-region: London
+country-code: GB
 size: micro
 sources-verified: 2026-07-03
 lat: 51.50741

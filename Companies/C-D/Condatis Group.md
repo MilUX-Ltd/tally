@@ -6,6 +6,7 @@ linkedin: https://uk.linkedin.com/company/condatis
 companies-house: 08473243
 hq: Edinburgh, United Kingdom
 uk-region: Scotland
+country-code: GB
 founded: 2013
 size: medium
 sources-verified: 2026-07-04

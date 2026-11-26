@@ -6,6 +6,7 @@ linkedin: https://uk.linkedin.com/company/nebula-it-services-ltd
 companies-house: 08323677
 hq: Chipping Sodbury, Bristol, United Kingdom
 uk-region: South West
+country-code: GB
 founded: 2012
 size: small
 sources-verified: 2026-07-05

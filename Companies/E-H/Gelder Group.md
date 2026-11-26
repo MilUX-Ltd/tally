@@ -5,6 +5,7 @@ website: https://gelder.co.uk
 companies-house: "02814031"
 hq: Sturton by Stow, United Kingdom
 uk-region: East Midlands
+country-code: GB
 founded: 1988
 sources-verified: 2026-11-19
 postcode: LN1 2DS

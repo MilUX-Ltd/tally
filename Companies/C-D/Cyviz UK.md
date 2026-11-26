@@ -6,6 +6,7 @@ linkedin: https://www.linkedin.com/company/cyviz-as
 companies-house: SC417083
 hq: Stavanger, Norway
 uk-region: Scotland
+country-code: GB
 founded: 1998
 size: medium
 headcount: 158

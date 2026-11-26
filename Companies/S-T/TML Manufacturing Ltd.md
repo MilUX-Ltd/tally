@@ -4,6 +4,7 @@ name: TML Manufacturing Ltd
 website: https://www.tmlmanufacturing.co.uk
 hq: Weymouth, United Kingdom
 uk-region: South West
+country-code: GB
 size: small
 sources-verified: 2026-06-30
 lat: 50.60699

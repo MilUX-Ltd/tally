@@ -5,6 +5,7 @@ website: https://www.gchtechnologies.com
 companies-house: 14217822
 hq: Amersham, United Kingdom
 uk-region: South East
+country-code: GB
 founded: 2022
 size: micro
 sources-verified: 2026-07-16

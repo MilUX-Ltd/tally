@@ -4,6 +4,7 @@ name: Vilution Ltd
 website: https://www.vilution.co.uk
 hq: Swindon, United Kingdom
 uk-region: South West
+country-code: GB
 sources-verified: 2026-07-01
 lat: 51.56153
 lon: -1.78546

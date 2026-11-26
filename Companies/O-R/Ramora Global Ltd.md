@@ -4,6 +4,7 @@ name: Ramora Global Ltd
 website: https://www.ramorauk.com
 hq: Fareham, United Kingdom
 uk-region: South East
+country-code: GB
 founded: 2011
 sources-verified: 2026-07-05
 lat: 50.85235

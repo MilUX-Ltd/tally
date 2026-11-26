@@ -4,6 +4,7 @@ name: Newbury Electronics Ltd
 website: https://www.newburyelectronics.co.uk
 hq: Newbury, UK
 uk-region: South East
+country-code: GB
 sources-verified: 2026-07-05
 lat: 51.40027
 lon: -1.32305

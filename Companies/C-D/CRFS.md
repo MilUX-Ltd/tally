@@ -6,6 +6,7 @@ linkedin: https://www.linkedin.com/company/crfs
 companies-house: "06133936"
 hq: Cambridge, United Kingdom
 uk-region: East of England
+country-code: GB
 founded: 2007
 size: small
 headcount: 50-150

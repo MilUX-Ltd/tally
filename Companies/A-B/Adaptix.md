@@ -6,6 +6,7 @@ linkedin: https://uk.linkedin.com/company/adaptixltd
 companies-house: 06857417
 hq: Eynsham, United Kingdom
 uk-region: South East
+country-code: GB
 size: medium
 sources-verified: 2026-07-03
 postcode: OX5 1PF

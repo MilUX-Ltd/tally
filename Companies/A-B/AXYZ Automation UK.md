@@ -5,6 +5,7 @@ website: https://www.axyz.com
 companies-house: 03263276
 hq: Telford, United Kingdom
 uk-region: West Midlands
+country-code: GB
 founded: 1996
 size: small
 sources-verified: 2026-07-03

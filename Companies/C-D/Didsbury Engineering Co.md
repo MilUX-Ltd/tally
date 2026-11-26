@@ -6,6 +6,7 @@ linkedin: https://www.linkedin.com/company/didsbury-engineering
 companies-house: "00371191"
 hq: Handforth, UK
 uk-region: North West
+country-code: GB
 founded: 1941
 size: small
 headcount: 33

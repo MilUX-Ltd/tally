@@ -5,6 +5,7 @@ website: https://www.pickeverard.co.uk
 linkedin: https://www.linkedin.com/company/pick-everard
 hq: Leicester, United Kingdom
 uk-region: East Midlands
+country-code: GB
 sources-verified: 2026-11-19
 postcode: LE1 1HA
 lat: 52.63522

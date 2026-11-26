@@ -6,6 +6,7 @@ linkedin: https://uk.linkedin.com/company/h-s-infra-limited
 companies-house: "09441521"
 hq: Leominster, UK
 uk-region: West Midlands
+country-code: GB
 founded: 2015
 size: small
 headcount: 

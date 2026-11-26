@@ -5,6 +5,7 @@ website: https://www.draconitetech.com
 companies-house: "SC737377"
 hq: Edinburgh, United Kingdom
 uk-region: Scotland
+country-code: GB
 size: micro
 sources-verified: 2026-11-19
 postcode: EH2 4AN

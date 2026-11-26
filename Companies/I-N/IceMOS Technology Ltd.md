@@ -4,6 +4,7 @@ name: IceMOS Technology Ltd
 website: https://www.icemostech.com
 hq: Chandler, United States
 uk-region: Northern Ireland
+country-code: GB
 size: small
 sources-verified: 2026-07-04
 location-source: region

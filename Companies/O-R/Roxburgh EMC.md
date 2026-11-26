@@ -6,6 +6,7 @@ linkedin: https://www.linkedin.com/company/roxburgh-emc-solutions
 companies-house: "01065925"
 hq: Scunthorpe, United Kingdom
 uk-region: Yorkshire and The Humber
+country-code: GB
 sources-verified: 2026-11-19
 postcode: DN15 8RF
 lat: 53.60364

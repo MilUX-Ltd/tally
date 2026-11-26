@@ -9,6 +9,7 @@ founded: 1989
 size: large
 sources-verified: 2026-07-04
 country: Taiwan
+country-code: TW
 tags:
   - defence
   - hardware

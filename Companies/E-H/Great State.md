@@ -5,6 +5,7 @@ website: https://www.greatstate.co
 linkedin: https://www.linkedin.com/company/greatstate
 hq: Bristol, UK
 uk-region: South West
+country-code: GB
 size: small
 sources-verified: 2026-07-04
 lat: 51.45313

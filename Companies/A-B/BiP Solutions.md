@@ -6,6 +6,7 @@ linkedin: https://www.linkedin.com/company/bip-solutions-ltd
 companies-house: SC086146
 hq: Glasgow, United Kingdom
 uk-region: Scotland
+country-code: GB
 founded: 1984
 size: medium
 sources-verified: 2026-07-04

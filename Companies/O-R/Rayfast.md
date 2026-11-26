@@ -4,6 +4,7 @@ name: Rayfast
 website: https://www.is-rayfast.com
 hq: Swindon, England
 uk-region: South West
+country-code: GB
 size: small
 sources-verified: 2026-07-16
 lat: 51.56153

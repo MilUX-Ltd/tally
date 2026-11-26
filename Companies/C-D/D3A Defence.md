@@ -5,6 +5,7 @@ website: https://d3a.org.uk
 companies-house: "11352463"
 hq: Salisbury, United Kingdom
 uk-region: South West
+country-code: GB
 founded: 2018
 sources-verified: 2026-11-19
 postcode: SP4 0DQ

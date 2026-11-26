@@ -4,6 +4,7 @@ name: Teledyne Reynolds UK
 website: https://www.teledynereynolds.co.uk
 hq: Newbury, United Kingdom
 uk-region: South East
+country-code: GB
 sources-verified: 2026-06-30
 lat: 51.40027
 lon: -1.32305

@@ -6,6 +6,7 @@ linkedin: https://www.linkedin.com/company/framatome-ltd
 companies-house: "09763462"
 hq: Paris, France
 uk-region: South West
+country-code: GB
 founded: 2015
 size: large
 headcount: 350

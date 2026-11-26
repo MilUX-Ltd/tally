@@ -5,6 +5,7 @@ website: https://aragornsys.org
 companies-house: 14854944
 hq: Southend-on-Sea, United Kingdom
 uk-region: East of England
+country-code: GB
 founded: 2023
 size: micro
 sources-verified: 2026-07-03

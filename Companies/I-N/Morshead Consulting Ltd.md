@@ -6,6 +6,7 @@ linkedin: https://www.linkedin.com/company/morshead-consulting-limited/
 companies-house: 12116087
 hq: Bognor Regis, United Kingdom
 uk-region: South East
+country-code: GB
 founded: 2020
 size: micro
 sources-verified: 2026-07-05

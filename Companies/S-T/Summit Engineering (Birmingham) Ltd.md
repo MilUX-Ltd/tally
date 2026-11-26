@@ -4,6 +4,7 @@ name: Summit Engineering (Birmingham) Ltd
 website: http://www.summit-engineering.co.uk
 hq: Solihull, United Kingdom
 uk-region: West Midlands
+country-code: GB
 sources-verified: 2026-06-30
 lat: 52.41275
 lon: -1.77755

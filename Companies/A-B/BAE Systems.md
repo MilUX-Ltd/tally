@@ -6,6 +6,7 @@ linkedin: https://www.linkedin.com/company/bae-systems
 companies-house: 01470151
 hq: London, United Kingdom
 uk-region: London
+country-code: GB
 size: large
 headcount: ~93,500 worldwide
 sources-verified: 2026-07-04

@@ -9,6 +9,7 @@ founded: 2015
 sources-verified: 2026-07-04
 size: large
 country: United States
+country-code: US
 tags:
   - defence
   - space

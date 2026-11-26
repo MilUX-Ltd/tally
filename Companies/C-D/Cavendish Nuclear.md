@@ -6,6 +6,7 @@ linkedin: https://www.linkedin.com/company/cavendish-nuclear
 companies-house: 03975999
 hq: Bristol, England
 uk-region: South West
+country-code: GB
 size: large
 headcount: 5000
 sources-verified: 2026-07-04

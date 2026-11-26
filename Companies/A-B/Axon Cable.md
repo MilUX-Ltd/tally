@@ -6,6 +6,7 @@ linkedin: https://uk.linkedin.com/company/axon-cable-uk
 companies-house: SC122228
 hq: Montmirail, France
 uk-region: Scotland
+country-code: GB
 size: medium
 headcount: 50+
 sources-verified: 2026-07-04

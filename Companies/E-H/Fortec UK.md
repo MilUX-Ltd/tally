@@ -4,6 +4,7 @@ name: Fortec UK
 website: https://www.fortec.uk
 hq: Huntingdon, United Kingdom
 uk-region: East of England
+country-code: GB
 size: small
 sources-verified: 2026-07-16
 lat: 52.33051

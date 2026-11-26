@@ -6,6 +6,7 @@ linkedin: https://www.linkedin.com/company/baysconsultinguk
 companies-house: "06995557"
 hq: Guildford, United Kingdom
 uk-region: South East
+country-code: GB
 size: micro
 sources-verified: 2026-11-19
 postcode: GU1 4AR

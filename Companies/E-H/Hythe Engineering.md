@@ -6,6 +6,7 @@ linkedin: https://www.linkedin.com/company/hythe-engineering/
 companies-house: "05538621"
 hq: Fareham, United Kingdom
 uk-region: South East
+country-code: GB
 sources-verified: 2026-11-19
 postcode: PO14 1DJ
 lat: 50.84249

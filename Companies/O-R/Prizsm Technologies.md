@@ -6,6 +6,7 @@ linkedin: https://www.linkedin.com/company/prizsm-technologies
 companies-house: 10720342
 hq: Blackwood, United Kingdom
 uk-region: Wales
+country-code: GB
 founded: 2017
 size: micro
 sources-verified: 2026-07-05

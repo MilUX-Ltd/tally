@@ -4,6 +4,7 @@ name: W.L. Gore & Associates (UK) Limited
 website: https://www.gore.com
 hq: Newark, United States
 uk-region: Scotland
+country-code: GB
 size: large
 sources-verified: 2026-07-01
 location-source: region

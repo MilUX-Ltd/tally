@@ -6,6 +6,7 @@ linkedin: https://www.linkedin.com/company/longitude-engineering/
 companies-house: "06278389"
 hq: London, United Kingdom
 uk-region: London
+country-code: GB
 founded: 2006
 sources-verified: 2026-11-19
 postcode: EC3R 6EN

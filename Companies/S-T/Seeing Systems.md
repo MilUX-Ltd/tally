@@ -4,6 +4,7 @@ name: Seeing Systems
 website: https://www.seeing-systems.com
 hq: London
 uk-region: London
+country-code: GB
 sources-verified: 2026-06-29
 lat: 51.50741
 lon: -0.12772

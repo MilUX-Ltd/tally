@@ -5,6 +5,7 @@ website: https://www.gmdefensellc.com
 companies-house: "16963340"
 hq: Royal Leamington Spa, United Kingdom
 uk-region: West Midlands
+country-code: GB
 founded: 2026
 sources-verified: 2026-11-19
 lat: 52.29196

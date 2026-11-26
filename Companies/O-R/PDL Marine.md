@@ -6,6 +6,7 @@ linkedin: https://uk.linkedin.com/company/pdl-marine-ltd
 companies-house: "08052756"
 hq: Portsmouth, United Kingdom
 uk-region: South East
+country-code: GB
 founded: 2012
 size: small
 postcode: PO1 4QJ

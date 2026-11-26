@@ -4,6 +4,7 @@ name: Safran Nacelles Limited
 website: https://www.safran-nacelles.com
 hq: Burnley, United Kingdom
 uk-region: North West
+country-code: GB
 size: large
 sources-verified: 2026-06-30
 lat: 53.78752

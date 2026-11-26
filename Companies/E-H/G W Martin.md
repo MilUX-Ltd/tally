@@ -6,6 +6,7 @@ linkedin: https://www.linkedin.com/company/9178142
 companies-house: "00686373"
 hq: Eastleigh, United Kingdom
 uk-region: South East
+country-code: GB
 founded: 1959
 size: small
 sources-verified: 2026-11-19

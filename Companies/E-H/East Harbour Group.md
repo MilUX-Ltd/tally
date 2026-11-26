@@ -6,6 +6,7 @@ linkedin: https://www.linkedin.com/company/eastharbourgroupltd
 companies-house: "11115406"
 hq: Colchester, UK
 uk-region: East of England
+country-code: GB
 founded: 2017
 size: micro
 sources-verified: 2026-07-04

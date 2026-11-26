@@ -6,6 +6,7 @@ linkedin: https://uk.linkedin.com/company/k-lacey-wires-and-cables
 companies-house: 01031406
 hq: Littlehampton, United Kingdom
 uk-region: South East
+country-code: GB
 founded: 1970s
 sources-verified: 2026-07-04
 postcode: BN16 3LF

@@ -4,6 +4,7 @@ name: Marlow Ropes Ltd
 website: https://www.marlowropes.com
 hq: Hailsham, United Kingdom
 uk-region: South East
+country-code: GB
 sources-verified: 2026-07-05
 lat: 50.86467
 lon: 0.25787

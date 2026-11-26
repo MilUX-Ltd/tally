@@ -5,6 +5,7 @@ website: https://hashbang.digital
 companies-house: "12504402"
 hq: London, UK
 uk-region: London
+country-code: GB
 size: small
 sources-verified: 2026-07-04
 postcode: E16 2DQ

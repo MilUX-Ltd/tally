@@ -5,6 +5,7 @@ website: https://www.brownandholmesderby.co.uk
 linkedin: https://www.linkedin.com/company/brown-and-holmes-derby-ltd
 hq: Derby, England
 uk-region: East Midlands
+country-code: GB
 size: small
 sources-verified: 2026-07-16
 lat: 52.92469

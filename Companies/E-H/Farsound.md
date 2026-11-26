@@ -6,6 +6,7 @@ linkedin: https://www.linkedin.com/company/farsound-aviation-limited
 companies-house: 01989923
 hq: Brentwood, UK
 uk-region: East of England
+country-code: GB
 founded: 1979
 size: small
 headcount: 125

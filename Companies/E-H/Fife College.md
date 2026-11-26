@@ -5,6 +5,7 @@ website: https://www.fife.ac.uk
 linkedin: https://www.linkedin.com/company/fife-college
 hq: Dunfermline, UK
 uk-region: Scotland
+country-code: GB
 founded: 2013
 size: large
 headcount: 833

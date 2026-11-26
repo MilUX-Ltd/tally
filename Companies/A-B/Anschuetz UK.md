@@ -6,6 +6,7 @@ linkedin: https://www.linkedin.com/company/anschutz-uk-ltd
 companies-house: 14277721
 hq: Kiel, Germany
 uk-region: South East
+country-code: GB
 founded: 2022
 size: small
 sources-verified: 2026-07-03

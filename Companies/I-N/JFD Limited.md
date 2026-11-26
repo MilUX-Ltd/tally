@@ -4,6 +4,7 @@ name: JFD Limited
 website: https://www.jfdglobal.com
 hq: Glasgow, UK
 uk-region: Scotland
+country-code: GB
 sources-verified: 2026-07-04
 lat: 55.86363
 lon: -4.23688

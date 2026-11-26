@@ -4,6 +4,7 @@ name: Kingsbury UK
 website: https://www.kingsburyuk.com
 hq: Gosport, United Kingdom
 uk-region: South East
+country-code: GB
 sources-verified: 2026-07-04
 lat: 50.79446
 lon: -1.12271

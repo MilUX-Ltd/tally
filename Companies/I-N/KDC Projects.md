@@ -6,6 +6,7 @@ linkedin: https://www.linkedin.com/company/kdc-projects/
 companies-house: "07494487"
 hq: Christchurch, United Kingdom
 uk-region: South West
+country-code: GB
 size: medium
 sources-verified: 2026-11-19
 postcode: BH23 6NW

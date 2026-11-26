@@ -4,6 +4,7 @@ name: XPI Simulation Ltd
 website: https://www.xpisimulation.com
 hq: Chessington, United Kingdom
 uk-region: South East
+country-code: GB
 sources-verified: 2026-07-01
 location-source: region
 location-note: UK location not published

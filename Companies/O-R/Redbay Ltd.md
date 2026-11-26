@@ -4,6 +4,7 @@ name: Redbay Ltd
 website: https://www.redbay.uk
 hq: Portsmouth, United Kingdom
 uk-region: South East
+country-code: GB
 founded: 2022
 size: micro
 sources-verified: 2026-07-05

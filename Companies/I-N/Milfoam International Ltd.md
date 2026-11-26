@@ -5,6 +5,7 @@ website: http://www.milfoam.co.uk
 companies-house: 04043806
 hq: Wembley, United Kingdom
 uk-region: London
+country-code: GB
 founded: 2000
 sources-verified: 2026-07-05
 postcode: HA0 1BA

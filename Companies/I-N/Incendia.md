@@ -5,6 +5,7 @@ website: https://incendia.ca
 linkedin: https://www.linkedin.com/company/incendia-canada-inc/about/
 uk-region: Overseas
 country: Canada
+country-code: CA
 founded: 2020
 sources-verified: 2026-11-19
 tags:

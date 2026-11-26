@@ -4,6 +4,7 @@ name: Merlin Flex Ltd
 website: https://www.merlinpcbgroup.com
 hq: Hartlepool, United Kingdom
 uk-region: North East
+country-code: GB
 sources-verified: 2026-07-05
 lat: 54.68539
 lon: -1.21291

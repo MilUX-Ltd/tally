@@ -5,6 +5,7 @@ website: https://www.reply.com
 companies-house: "03847202"
 hq: London, United Kingdom
 uk-region: London
+country-code: GB
 sources-verified: 2026-07-05
 postcode: SW1W 0EB
 lat: 51.49641

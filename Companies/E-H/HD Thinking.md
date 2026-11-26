@@ -3,6 +3,7 @@ type: organisation
 name: HD Thinking
 hq: Cheltenham
 uk-region: South West
+country-code: GB
 size: micro
 sources-verified: 2026-07-04
 lat: 51.90073

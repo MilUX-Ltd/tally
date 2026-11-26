@@ -6,6 +6,7 @@ linkedin: https://www.linkedin.com/company/cambridge-pixel
 companies-house: 06174486
 hq: Royston, United Kingdom
 uk-region: East of England
+country-code: GB
 founded: 2007
 size: small
 headcount: ~16

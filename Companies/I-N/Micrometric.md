@@ -6,6 +6,7 @@ linkedin: https://www.linkedin.com/company/micrometric-ltd/
 companies-house: "03667443"
 hq: Lincoln, United Kingdom
 uk-region: East Midlands
+country-code: GB
 founded: 1981
 sources-verified: 2026-11-19
 postcode: LN6 3RX

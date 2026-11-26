@@ -6,6 +6,7 @@ linkedin: https://www.linkedin.com/company/control-risks
 companies-house: 01810707
 hq: London, United Kingdom
 uk-region: London
+country-code: GB
 size: large
 sources-verified: 2026-07-04
 postcode: EC4R 9AT

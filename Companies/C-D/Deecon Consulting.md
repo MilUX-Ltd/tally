@@ -6,6 +6,7 @@ linkedin: https://www.linkedin.com/company/deecon-limited
 companies-house: "12468584"
 hq: Denham, United Kingdom
 uk-region: South East
+country-code: GB
 founded: 2020
 size: micro
 sources-verified: 2026-07-04

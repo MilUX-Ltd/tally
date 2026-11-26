@@ -6,6 +6,7 @@ linkedin: https://www.linkedin.com/company/insphere-ltd
 companies-house: "08769144"
 hq: Bristol, United Kingdom
 uk-region: South West
+country-code: GB
 founded: 2013
 sources-verified: 2026-11-19
 postcode: BS16 7FR

@@ -6,6 +6,7 @@ linkedin: https://www.linkedin.com/company/ebeni
 companies-house: "05074255"
 hq: Corsham, UK
 uk-region: South West
+country-code: GB
 founded: 2004
 size: small
 headcount: 74

@@ -4,6 +4,7 @@ name: Cardiff Metropolitan University
 website: https://www.cardiffmet.ac.uk
 hq: Cardiff, United Kingdom
 uk-region: Wales
+country-code: GB
 size: large
 sources-verified: 2026-11-19
 postcode: CF5 2YB

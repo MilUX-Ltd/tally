@@ -6,6 +6,7 @@ linkedin: https://www.linkedin.com/company/satvu
 companies-house: "10163800"
 hq: London, UK
 uk-region: London
+country-code: GB
 founded: 2016
 size: small
 sources-verified: 2026-07-04

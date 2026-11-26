@@ -6,6 +6,7 @@ linkedin: https://www.linkedin.com/company/ark-integrated-solutions-ltd
 companies-house: NI645706
 hq: Ballynahinch, United Kingdom
 uk-region: Northern Ireland
+country-code: GB
 founded: 2017
 size: micro
 sources-verified: 2026-07-04

@@ -4,6 +4,7 @@ name: Pervade Software Ltd
 website: https://www.pervade-software.com
 hq: Cardiff, United Kingdom
 uk-region: Wales
+country-code: GB
 sources-verified: 2026-07-05
 lat: 51.48
 lon: -3.17686

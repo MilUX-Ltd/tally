@@ -5,6 +5,7 @@ website: https://www.metalseagulls.com
 companies-house: "09942526"
 hq: South West Wales, United Kingdom
 uk-region: Wales
+country-code: GB
 size: micro
 sources-verified: 2026-11-19
 location-source: region

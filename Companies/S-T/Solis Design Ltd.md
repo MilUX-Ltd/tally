@@ -4,6 +4,7 @@ name: Solis Design Ltd
 website: http://www.solisdesign.co.uk
 hq: Swansea, UK
 uk-region: Wales
+country-code: GB
 founded: 2021
 size: micro
 sources-verified: 2026-07-03

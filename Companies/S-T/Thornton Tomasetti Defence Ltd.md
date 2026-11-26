@@ -4,6 +4,7 @@ name: Thornton Tomasetti Defence Ltd
 website: https://www.thorntontomasetti.com
 hq: Dalgety Bay, United Kingdom
 uk-region: Scotland
+country-code: GB
 sources-verified: 2026-06-30
 lat: 56.03836
 lon: -3.35727

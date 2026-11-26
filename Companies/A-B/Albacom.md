@@ -6,6 +6,7 @@ linkedin: https://www.linkedin.com/company/albacom-ltd
 companies-house: SC121731
 hq: Dundee, United Kingdom
 uk-region: Scotland
+country-code: GB
 founded: 1989
 size: small
 sources-verified: 2026-07-03

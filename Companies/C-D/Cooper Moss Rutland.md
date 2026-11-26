@@ -6,6 +6,7 @@ linkedin: https://www.linkedin.com/company/cooper-moss-rutland-llp
 companies-house: OC418127
 hq: London, United Kingdom
 uk-region: London
+country-code: GB
 founded: 2017
 size: small
 sources-verified: 2026-07-04

@@ -4,6 +4,7 @@ name: PilgrimBlue Ltd
 website: https://www.pilgrimblue.co.uk
 hq: Crook, United Kingdom
 uk-region: North East
+country-code: GB
 sources-verified: 2026-07-05
 lat: 54.71467
 lon: -1.74644

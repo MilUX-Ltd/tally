@@ -6,6 +6,7 @@ linkedin: https://www.linkedin.com/company/artemis-technologies-ltd
 companies-house: 09412785
 hq: Belfast, United Kingdom
 uk-region: Northern Ireland
+country-code: GB
 founded: 2017
 size: medium
 sources-verified: 2026-07-04

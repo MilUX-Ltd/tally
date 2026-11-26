@@ -6,6 +6,7 @@ linkedin: https://www.linkedin.com/company/dmg-mori-uk-limited
 companies-house: "01030108"
 hq: Nagoya, Japan
 uk-region: West Midlands
+country-code: GB
 founded: 1971
 size: large
 sources-verified: 2026-07-04

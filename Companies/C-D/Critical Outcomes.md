@@ -5,6 +5,7 @@ website: https://criticaloutcomes.co.uk
 companies-house: "07811133"
 hq: Farnham, United Kingdom
 uk-region: South East
+country-code: GB
 founded: 2011
 sources-verified: 2026-11-19
 postcode: GU9 7QU

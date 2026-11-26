@@ -5,6 +5,7 @@ website: https://www.vadatech.com
 linkedin: https://www.linkedin.com/company/vadatech
 hq: Henderson, Nevada, United States
 uk-region: South East
+country-code: GB
 founded: 2005
 sources-verified: 2026-06-30
 location-source: region

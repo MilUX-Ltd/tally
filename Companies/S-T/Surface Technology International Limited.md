@@ -4,6 +4,7 @@ name: Surface Technology International Limited
 website: https://www.sti-limited.com
 hq: Hook, United Kingdom
 uk-region: South East
+country-code: GB
 sources-verified: 2026-06-30
 lat: 51.28247
 lon: -0.96254

@@ -4,6 +4,7 @@ name: Hive Mind Medical
 website: https://www.unlockthehivemind.com
 hq: Nottingham, United Kingdom
 uk-region: East Midlands
+country-code: GB
 size: micro
 sources-verified: 2026-11-20
 lat: 52.9548

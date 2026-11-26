@@ -5,6 +5,7 @@ website: https://umaritime.com/
 linkedin: https://www.linkedin.com/company/ultramaritime
 hq: Greenford, United Kingdom
 uk-region: London
+country-code: GB
 size: large
 headcount: ~2000 (global)
 sources-verified: 2026-06-29

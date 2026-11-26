@@ -4,6 +4,7 @@ name: P3M Works Ltd
 website: https://www.p3mworks.co.uk
 hq: Cheltenham, United Kingdom
 uk-region: South West
+country-code: GB
 founded: 2021
 sources-verified: 2026-07-05
 lat: 51.90073

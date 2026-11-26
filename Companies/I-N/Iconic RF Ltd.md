@@ -4,6 +4,7 @@ name: Iconic RF Ltd
 website: https://www.iconicrf.com
 hq: Belfast, United Kingdom
 uk-region: Northern Ireland
+country-code: GB
 founded: 2017
 sources-verified: 2026-07-04
 lat: 54.59639

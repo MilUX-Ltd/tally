@@ -4,6 +4,7 @@ name: TKMS ATLAS UK Limited
 website: https://www.tkmsgroup.com/group/atlas-uk
 hq: Kiel, Germany
 uk-region: South West
+country-code: GB
 size: medium
 sources-verified: 2026-06-30
 location-source: region

@@ -4,6 +4,7 @@ name: Specialised Polymer Engineering Ltd
 website: https://www.specpol.co.uk
 hq: Southampton, United Kingdom
 uk-region: South East
+country-code: GB
 sources-verified: 2026-06-30
 lat: 50.90489
 lon: -1.40431

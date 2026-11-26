@@ -6,6 +6,7 @@ linkedin: https://uk.linkedin.com/company/msi-defence-systems-ltd
 companies-house: 00954839
 hq: Norwich, United Kingdom
 uk-region: East of England
+country-code: GB
 size: medium
 sources-verified: 2026-07-05
 postcode: NR7 9AY

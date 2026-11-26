@@ -10,6 +10,7 @@ postcode: BS1 4ND
 lat: 51.44961
 lon: -2.59373
 location-source: website
+country-code: GB
 tags:
   - defence
   - data

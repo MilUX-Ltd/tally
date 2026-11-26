@@ -6,6 +6,7 @@ linkedin: https://www.linkedin.com/company/mercator-media-ltd
 companies-house: "02427909"
 hq: Fareham, United Kingdom
 uk-region: South East
+country-code: GB
 founded: 1989
 sources-verified: 2026-11-19
 postcode: PO16 8SD

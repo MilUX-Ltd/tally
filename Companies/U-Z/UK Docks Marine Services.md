@@ -6,6 +6,7 @@ linkedin: https://www.linkedin.com/company/uk-docks-marine-services-limited/
 companies-house: "01297874"
 hq: South Shields, United Kingdom
 uk-region: North East
+country-code: GB
 founded: 1992
 size: medium
 sources-verified: 2026-11-19

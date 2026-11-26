@@ -4,6 +4,7 @@ name: Vitec Ltd
 website: https://www.vitec.com
 hq: Dalgety Bay, United Kingdom
 uk-region: Scotland
+country-code: GB
 sources-verified: 2026-07-01
 lat: 56.03836
 lon: -3.35727

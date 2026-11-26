@@ -6,6 +6,7 @@ linkedin: https://www.linkedin.com/company/agentycs
 companies-house: 16066135
 hq: Hythe, United Kingdom
 uk-region: South East
+country-code: GB
 founded: 2024
 size: micro
 sources-verified: 2026-07-03

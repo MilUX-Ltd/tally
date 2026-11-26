@@ -4,6 +4,7 @@ name: PhillipsManley Ltd
 website: https://www.phillipsmanley.co.uk
 hq: Derby, United Kingdom
 uk-region: East Midlands
+country-code: GB
 sources-verified: 2026-07-05
 lat: 52.92469
 lon: -1.47805

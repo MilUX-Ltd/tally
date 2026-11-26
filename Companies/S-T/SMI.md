@@ -5,6 +5,7 @@ website: https://www.smi.group
 companies-house: "02766825"
 hq: Andover, United Kingdom
 uk-region: South East
+country-code: GB
 founded: 1992
 sources-verified: 2026-11-19
 postcode: SP10 5AZ

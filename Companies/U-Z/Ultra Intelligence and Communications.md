@@ -5,6 +5,7 @@ website: https://www.ultra-ic.com
 linkedin: https://www.linkedin.com/company/ultra-ic
 hq: Greenford, London
 uk-region: London
+country-code: GB
 sources-verified: 2026-06-30
 lat: 51.52748
 lon: -0.35234

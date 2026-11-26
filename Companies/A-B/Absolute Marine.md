@@ -6,6 +6,7 @@ linkedin: https://www.linkedin.com/company/absolutemarine/
 companies-house: "15830944"
 hq: Cowes, United Kingdom
 uk-region: South East
+country-code: GB
 founded: 2024
 size: micro
 sources-verified: 2026-11-19

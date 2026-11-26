@@ -6,6 +6,7 @@ linkedin: https://www.linkedin.com/company/beagle-technology-group
 companies-house: 00968265
 hq: Christchurch, United Kingdom
 uk-region: South West
+country-code: GB
 founded: 1969
 size: medium
 sources-verified: 2026-07-03

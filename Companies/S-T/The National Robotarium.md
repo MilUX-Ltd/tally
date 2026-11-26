@@ -4,6 +4,7 @@ name: The National Robotarium
 website: https://thenationalrobotarium.com
 hq: Edinburgh, United Kingdom
 uk-region: Scotland
+country-code: GB
 sources-verified: 2026-06-30
 lat: 55.95334
 lon: -3.18911

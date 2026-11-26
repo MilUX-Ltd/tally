@@ -4,6 +4,7 @@ name: NIOA UK Ltd
 website: https://nioa.com.au
 hq: Brisbane, Australia
 uk-region: South West
+country-code: GB
 sources-verified: 2026-07-05
 location-source: region
 location-note: UK location not published

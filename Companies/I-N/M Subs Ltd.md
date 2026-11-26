@@ -4,6 +4,7 @@ name: M Subs Ltd
 website: https://www.msubs.com
 hq: Plymouth, United Kingdom
 uk-region: South West
+country-code: GB
 founded: 1986
 sources-verified: 2026-07-04
 lat: 50.37001

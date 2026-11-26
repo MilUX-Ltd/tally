@@ -5,6 +5,7 @@ website: https://www.aurigatech.co.uk
 companies-house: 16589364
 hq: Bicester, United Kingdom
 uk-region: South East
+country-code: GB
 founded: 2025
 size: micro
 sources-verified: 2026-07-16

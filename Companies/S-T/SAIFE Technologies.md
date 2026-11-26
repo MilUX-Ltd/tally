@@ -5,6 +5,7 @@ website: https://scaipe.ai
 companies-house: 11937602
 hq: Trowbridge, Wiltshire
 uk-region: South West
+country-code: GB
 founded: 2019
 sources-verified: 2026-11-25
 postcode: BA14 7PY

@@ -4,6 +4,7 @@ name: Splunk Services UK Limited
 website: https://www.splunk.com
 hq: San Francisco, United States
 uk-region: London
+country-code: GB
 sources-verified: 2026-06-30
 location-source: region
 location-note: UK location not published

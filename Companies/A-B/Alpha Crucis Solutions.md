@@ -4,6 +4,7 @@ name: Alpha Crucis Solutions Ltd
 companies-house: 11885777
 hq: Bristol, United Kingdom
 uk-region: South West
+country-code: GB
 founded: 2019
 size: micro
 sources-verified: 2026-07-03

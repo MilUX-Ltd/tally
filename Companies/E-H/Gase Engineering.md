@@ -5,6 +5,7 @@ website: https://gaseaero.com
 linkedin: https://www.linkedin.com/company/gase-marine-and-general-engineering-services-limited
 hq: Dartford, United Kingdom
 uk-region: South East
+country-code: GB
 founded: 1964
 size: small
 headcount: 60

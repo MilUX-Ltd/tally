@@ -5,6 +5,7 @@ website: https://www.crimeandfire.com
 companies-house: "03745288"
 hq: Ashby-de-la-Zouch, United Kingdom
 uk-region: East Midlands
+country-code: GB
 founded: 1994
 size: small
 headcount: 47

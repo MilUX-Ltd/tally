@@ -5,6 +5,7 @@ website: https://heligangroup.com
 linkedin: https://www.linkedin.com/company/heligan-group-llp-
 hq: Birmingham, United Kingdom
 uk-region: West Midlands
+country-code: GB
 founded: 2015
 size: small
 sources-verified: 2026-07-04

@@ -5,6 +5,7 @@ website: https://www.dewarbrothers.com
 companies-house: SC135296
 hq: Tillicoultry, United Kingdom
 uk-region: Scotland
+country-code: GB
 founded: 1973
 size: small
 sources-verified: 2026-07-04

@@ -4,6 +4,7 @@ name: Innoviz Ltd
 website: https://innovizl.com
 hq: Cranfield, United Kingdom
 uk-region: East of England
+country-code: GB
 sources-verified: 2026-07-04
 lat: 52.06902
 lon: -0.60793

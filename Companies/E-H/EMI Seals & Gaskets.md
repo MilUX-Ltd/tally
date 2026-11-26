@@ -5,6 +5,7 @@ website: https://emiseals.com
 companies-house: "05562401"
 hq: Lymington, United Kingdom
 uk-region: South East
+country-code: GB
 founded: 2005
 size: micro
 sources-verified: 2026-07-04

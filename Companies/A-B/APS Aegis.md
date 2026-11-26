@@ -5,6 +5,7 @@ website: http://www.apsaegis.co.uk
 companies-house: 06192679
 hq: Hove, United Kingdom
 uk-region: South East
+country-code: GB
 founded: 2007
 size: small
 sources-verified: 2026-07-03

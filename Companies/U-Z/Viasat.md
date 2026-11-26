@@ -11,6 +11,7 @@ size: large
 headcount: ~6000
 sources-verified: 2026-06-29
 country: United States
+country-code: US
 tags:
   - defence
   - space

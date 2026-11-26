@@ -4,6 +4,7 @@ name: NVIDIA Ltd
 website: https://www.nvidia.com
 hq: Santa Clara, United States
 uk-region: South East
+country-code: GB
 size: large
 sources-verified: 2026-07-05
 location-source: region

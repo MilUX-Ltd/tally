@@ -5,6 +5,7 @@ website: https://www.i3works.co.uk/
 linkedin: https://www.linkedin.com/company/i3works
 hq: Bristol, United Kingdom
 uk-region: South West
+country-code: GB
 founded: 2014
 size: medium
 sources-verified: 2026-07-05

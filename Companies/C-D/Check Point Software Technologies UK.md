@@ -6,6 +6,7 @@ linkedin: https://www.linkedin.com/company/check-point-software-technologies
 companies-house: 03201839
 hq: Tel Aviv, Israel
 uk-region: London
+country-code: GB
 founded: 1996
 size: large
 sources-verified: 2026-07-04

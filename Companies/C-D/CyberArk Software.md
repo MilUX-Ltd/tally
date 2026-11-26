@@ -5,6 +5,7 @@ website: https://www.cyberark.com
 companies-house: "06525901"
 hq: Petah Tikva, Israel
 uk-region: London
+country-code: GB
 founded: 2008
 size: large
 postcode: EC2N 4BQ

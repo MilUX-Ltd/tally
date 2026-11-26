@@ -6,6 +6,7 @@ linkedin: https://www.linkedin.com/company/duo-technology-ltd
 companies-house: "09018590"
 hq: Canterbury, United Kingdom
 uk-region: South East
+country-code: GB
 founded: 2014
 size: micro
 sources-verified: 2026-07-04

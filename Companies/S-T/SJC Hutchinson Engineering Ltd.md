@@ -4,6 +4,7 @@ name: SJC Hutchinson Engineering Ltd
 website: https://www.hutchinson-engineering.co.uk
 hq: Kilrea, United Kingdom
 uk-region: Northern Ireland
+country-code: GB
 sources-verified: 2026-06-30
 lat: 54.95017
 lon: -6.55646

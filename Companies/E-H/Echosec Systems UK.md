@@ -6,6 +6,7 @@ linkedin: https://www.linkedin.com/company/echosec-systems
 companies-house: "09923693"
 hq: Victoria, Canada
 uk-region: Wales
+country-code: GB
 founded: 2015
 size: small
 headcount: 11-50

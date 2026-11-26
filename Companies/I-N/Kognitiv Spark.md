@@ -9,6 +9,7 @@ founded: 2016
 size: small
 sources-verified: 2026-07-04
 country: Canada
+country-code: CA
 tags:
   - defence
   - mbr-ads

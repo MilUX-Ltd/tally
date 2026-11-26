@@ -5,6 +5,7 @@ website: https://elendil.uk
 companies-house: "16849566"
 hq: Chichester, UK
 uk-region: South East
+country-code: GB
 founded: 2025
 size: micro
 sources-verified: 2026-07-04

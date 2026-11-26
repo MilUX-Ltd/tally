@@ -7,6 +7,7 @@ postcode: W1B 3HH
 lat: 51.51733
 lon: -0.14238
 location-source: companies-house
+country-code: GB
 tags:
   - defence
   - mbr-ads

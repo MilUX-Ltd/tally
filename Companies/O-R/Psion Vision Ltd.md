@@ -6,6 +6,7 @@ linkedin: https://uk.linkedin.com/company/psion-vision
 companies-house: 06603020
 hq: Lee-on-the-Solent, Hampshire, England
 uk-region: South East
+country-code: GB
 founded: 2008
 size: micro
 sources-verified: 2026-07-05

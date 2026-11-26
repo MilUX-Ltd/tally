@@ -6,6 +6,7 @@ linkedin: https://www.linkedin.com/company/bluecube-telecommunications-ltd
 companies-house: "06726232"
 hq: Lincoln, United Kingdom
 uk-region: East Midlands
+country-code: GB
 founded: 2008
 sources-verified: 2026-11-19
 postcode: LN1 3EE

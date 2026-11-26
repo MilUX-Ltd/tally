@@ -6,6 +6,7 @@ linkedin: https://uk.linkedin.com/company/cds-defence-support
 companies-house: 10459658
 hq: Gloucester, United Kingdom
 uk-region: South West
+country-code: GB
 size: medium
 sources-verified: 2026-07-04
 postcode: GL51 8HE

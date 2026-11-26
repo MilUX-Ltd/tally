@@ -6,6 +6,7 @@ linkedin: https://www.linkedin.com/company/candy-group
 companies-house: "08178113"
 hq: Borehamwood, United Kingdom
 uk-region: East of England
+country-code: GB
 founded: 2012
 size: micro
 sources-verified: 2026-07-04

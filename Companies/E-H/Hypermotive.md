@@ -5,6 +5,7 @@ website: https://www.hyper-motive.com/
 linkedin: https://uk.linkedin.com/company/hypermotive-ltd
 hq: Northampton, United Kingdom
 uk-region: East Midlands
+country-code: GB
 founded: 2016
 size: small
 sources-verified: 2026-07-04

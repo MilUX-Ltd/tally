@@ -4,6 +4,7 @@ name: SVGC Limited
 website: https://www.svgc.co.uk
 hq: Salisbury, United Kingdom
 uk-region: South West
+country-code: GB
 sources-verified: 2026-06-30
 lat: 51.07037
 lon: -1.79643

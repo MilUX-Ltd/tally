@@ -6,6 +6,7 @@ linkedin: https://www.linkedin.com/company/captec
 companies-house: "11281644"
 hq: Fareham, United Kingdom
 uk-region: South East
+country-code: GB
 founded: 1985
 size: medium
 sources-verified: 2026-07-04

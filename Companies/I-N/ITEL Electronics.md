@@ -6,6 +6,7 @@ linkedin: https://uk.linkedin.com/company/itel-electronics-swindon
 companies-house: 03368428
 hq: Swindon, United Kingdom
 uk-region: South West
+country-code: GB
 founded: 1997
 size: small
 sources-verified: 2026-07-04

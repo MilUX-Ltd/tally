@@ -6,6 +6,7 @@ linkedin: https://www.linkedin.com/company/i3-gen
 companies-house: 09936307
 hq: Winchester, United Kingdom
 uk-region: South East
+country-code: GB
 founded: 2016
 size: micro
 sources-verified: 2026-07-05

@@ -4,6 +4,7 @@ name: Sterling Computers Corporation (UK) Ltd
 website: https://sterling.com/uk/
 hq: South Dakota, United States
 uk-region: South East
+country-code: GB
 sources-verified: 2026-06-30
 location-source: region
 location-note: UK location not published

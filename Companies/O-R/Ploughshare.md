@@ -4,6 +4,7 @@ name: Ploughshare
 website: https://www.ploughshare.co.uk
 hq: Porton Down, Wiltshire
 uk-region: South West
+country-code: GB
 sources-verified: 2026-07-05
 location-source: region
 location-note: UK location not published

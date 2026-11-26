@@ -4,6 +4,7 @@ name: Ryobi Aluminium Casting UK Ltd
 website: http://www.ryobi.co.uk
 hq: Osaka, Japan
 uk-region: Northern Ireland
+country-code: GB
 size: large
 sources-verified: 2026-07-05
 location-source: region

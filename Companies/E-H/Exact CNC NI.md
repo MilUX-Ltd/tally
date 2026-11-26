@@ -6,6 +6,7 @@ linkedin: https://www.linkedin.com/company/exact-cnc-ni-ltd
 companies-house: NI616344
 hq: Newry, United Kingdom
 uk-region: Northern Ireland
+country-code: GB
 founded: 2013
 size: small
 headcount: 81

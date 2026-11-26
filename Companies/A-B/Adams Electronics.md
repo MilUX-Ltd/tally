@@ -5,6 +5,7 @@ website: http://www.adamsinc.com
 companies-house: 03546816
 hq: East Grinstead, United Kingdom
 uk-region: South East
+country-code: GB
 founded: 1965
 size: micro
 sources-verified: 2026-07-03

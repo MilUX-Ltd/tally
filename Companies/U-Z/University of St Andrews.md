@@ -4,6 +4,7 @@ name: University of St Andrews
 website: https://www.st-andrews.ac.uk
 hq: St Andrews, United Kingdom
 uk-region: Scotland
+country-code: GB
 sources-verified: 2026-06-30
 lat: 56.33941
 lon: -2.79503

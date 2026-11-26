@@ -4,6 +4,7 @@ name: Knight Precision Wire Limited
 website: https://www.knight-precision-wire.co.uk
 hq: Potters Bar, United Kingdom
 uk-region: East of England
+country-code: GB
 sources-verified: 2026-07-04
 lat: 51.69589
 lon: -0.18489

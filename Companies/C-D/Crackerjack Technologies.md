@@ -5,6 +5,7 @@ website: https://cj-tech.uk
 companies-house: "14333627"
 hq: London, United Kingdom
 uk-region: London
+country-code: GB
 founded: 2022
 size: micro
 sources-verified: 2026-07-04

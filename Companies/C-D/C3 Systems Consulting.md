@@ -5,6 +5,7 @@ website: https://www.c3sc.co.uk/
 companies-house: 07084523
 hq: Salisbury, United Kingdom
 uk-region: South West
+country-code: GB
 founded: 2009
 size: micro
 sources-verified: 2026-07-04

@@ -8,6 +8,7 @@ founded: 1992
 size: large
 sources-verified: 2026-07-16
 country: Switzerland
+country-code: CH
 tags:
   - defence
   - space

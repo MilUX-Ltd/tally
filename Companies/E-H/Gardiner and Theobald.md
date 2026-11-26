@@ -5,6 +5,7 @@ website: https://www.gardiner.com
 companies-house: OC307124
 hq: London, United Kingdom
 uk-region: London
+country-code: GB
 size: large
 headcount: 1800-2000
 sources-verified: 2026-07-04

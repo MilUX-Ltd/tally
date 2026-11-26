@@ -5,6 +5,7 @@ website: https://www.highscopemedia.com
 companies-house: "14481486"
 hq: Southampton, United Kingdom
 uk-region: South East
+country-code: GB
 founded: 2022
 sources-verified: 2026-11-19
 lat: 50.90489

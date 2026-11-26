@@ -6,6 +6,7 @@ linkedin: https://www.linkedin.com/company/ferchau
 companies-house: "07494353"
 hq: Gummersbach, Germany
 uk-region: South West
+country-code: GB
 founded: 2011
 size: large
 headcount: 10000+

@@ -4,6 +4,7 @@ name: NiTech Solutions Ltd
 website: https://www.nitechsolutions.co.uk
 hq: Edinburgh, United Kingdom
 uk-region: Scotland
+country-code: GB
 sources-verified: 2026-07-05
 lat: 55.95334
 lon: -3.18911

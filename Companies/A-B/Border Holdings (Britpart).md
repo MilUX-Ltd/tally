@@ -5,6 +5,7 @@ website: https://www.britpart.com/
 companies-house: 01664243
 hq: Craven Arms, United Kingdom
 uk-region: West Midlands
+country-code: GB
 founded: 1982
 size: medium
 sources-verified: 2026-07-04

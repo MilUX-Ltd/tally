@@ -4,6 +4,7 @@ name: Jarvis Manufacturing Limited
 website: https://www.jarvismanufacturing.co.uk
 hq: Eastbourne, United Kingdom
 uk-region: South East
+country-code: GB
 size: micro
 sources-verified: 2026-07-04
 lat: 50.76644

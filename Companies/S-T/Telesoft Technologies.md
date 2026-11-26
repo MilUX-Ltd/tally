@@ -6,6 +6,7 @@ linkedin: https://www.linkedin.com/company/telesoft-technologies
 companies-house: 02344740
 hq: Blandford Forum, United Kingdom
 uk-region: South West
+country-code: GB
 founded: 1989
 size: medium
 headcount: ~94

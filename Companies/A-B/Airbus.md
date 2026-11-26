@@ -6,6 +6,7 @@ linkedin: https://www.linkedin.com/company/airbus-defence-and-space
 companies-house: 02449259
 hq: Stevenage, United Kingdom
 uk-region: East of England
+country-code: GB
 founded: 2014
 size: large
 headcount: 2,600+ across Stevenage and Portsmouth

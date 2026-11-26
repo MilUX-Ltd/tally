@@ -6,6 +6,7 @@ linkedin: https://www.linkedin.com/company/qualitetch-components-ltd
 companies-house: "02465687"
 hq: March, United Kingdom
 uk-region: East of England
+country-code: GB
 founded: 1990
 sources-verified: 2026-11-19
 postcode: PE15 8QW

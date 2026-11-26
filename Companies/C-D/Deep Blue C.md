@@ -6,6 +6,7 @@ linkedin: https://www.linkedin.com/company/deep-blue-c-technologies-ltd
 companies-house: "04092967"
 hq: Fareham, United Kingdom
 uk-region: South East
+country-code: GB
 founded: 2000
 size: micro
 sources-verified: 2026-07-04

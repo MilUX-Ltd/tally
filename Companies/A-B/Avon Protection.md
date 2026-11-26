@@ -6,6 +6,7 @@ linkedin: https://www.linkedin.com/company/avonprotection
 companies-house: 02676395
 hq: Melksham, UK
 uk-region: South West
+country-code: GB
 size: large
 sources-verified: 2026-07-04
 postcode: SN12 6NB

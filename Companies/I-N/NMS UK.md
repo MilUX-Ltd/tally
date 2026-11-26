@@ -5,6 +5,7 @@ website: https://www.nmsuk.co.uk
 linkedin: https://www.linkedin.com/company/nurol-makina-uk/
 hq: Royal Leamington Spa, United Kingdom
 uk-region: West Midlands
+country-code: GB
 sources-verified: 2026-07-05
 lat: 52.29196
 lon: -1.53581

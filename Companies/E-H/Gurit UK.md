@@ -5,6 +5,7 @@ website: https://www.gurit.com
 companies-house: "01368806"
 hq: Newport, Isle of Wight, United Kingdom
 uk-region: South East
+country-code: GB
 sources-verified: 2026-11-19
 postcode: PO30 5WU
 lat: 50.71293

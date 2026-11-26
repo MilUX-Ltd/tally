@@ -6,6 +6,7 @@ linkedin: https://www.linkedin.com/company/viabledata
 companies-house: 08244724
 hq: Slough, United Kingdom
 uk-region: South East
+country-code: GB
 founded: 2012
 size: small
 sources-verified: 2026-07-16

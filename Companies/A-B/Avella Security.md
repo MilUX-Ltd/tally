@@ -6,6 +6,7 @@ linkedin: https://www.linkedin.com/company/avellasecurity
 companies-house: 09393211
 hq: London, United Kingdom
 uk-region: London
+country-code: GB
 founded: 2015
 size: small
 sources-verified: 2026-07-08

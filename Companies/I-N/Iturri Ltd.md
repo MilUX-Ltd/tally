@@ -4,6 +4,7 @@ name: Iturri Ltd
 website: https://www.iturri.com
 hq: Madrid, Spain
 uk-region: South East
+country-code: GB
 sources-verified: 2026-07-04
 location-source: region
 location-note: UK location not published

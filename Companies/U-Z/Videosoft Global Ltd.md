@@ -6,6 +6,7 @@ linkedin: https://www.linkedin.com/company/videosoftglobal
 companies-house: 12929217
 hq: London, England
 uk-region: London
+country-code: GB
 size: small
 sources-verified: 2026-07-16
 postcode: HP9 1NB

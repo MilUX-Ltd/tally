@@ -4,6 +4,7 @@ name: Archangel Imaging
 website: https://www.archangelautonomy.com
 hq: Oxford, England
 uk-region: South East
+country-code: GB
 size: small
 sources-verified: 2026-07-16
 lat: 51.75198

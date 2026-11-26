@@ -6,6 +6,7 @@ linkedin: https://www.linkedin.com/company/apel-ltd
 companies-house: 00851208
 hq: Wilmslow, UK
 uk-region: North West
+country-code: GB
 founded: 1965
 size: small
 sources-verified: 2026-07-03

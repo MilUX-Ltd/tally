@@ -6,6 +6,7 @@ linkedin: https://uk.linkedin.com/company/drone-defence
 companies-house: 10886588
 hq: Retford, United Kingdom
 uk-region: East Midlands
+country-code: GB
 founded: 2017
 size: small
 sources-verified: 2026-07-04

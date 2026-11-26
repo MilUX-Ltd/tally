@@ -6,6 +6,7 @@ linkedin: https://uk.linkedin.com/company/plastron-uk
 companies-house: 12957275
 hq: Taunton, United Kingdom
 uk-region: South West
+country-code: GB
 founded: 2020
 size: small
 sources-verified: 2026-07-16

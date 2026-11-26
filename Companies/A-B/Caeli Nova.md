@@ -6,6 +6,7 @@ linkedin: https://www.linkedin.com/company/caelinova
 companies-house: 11304154
 hq: London, UK
 uk-region: London
+country-code: GB
 founded: 2018
 size: micro
 sources-verified: 2026-07-04

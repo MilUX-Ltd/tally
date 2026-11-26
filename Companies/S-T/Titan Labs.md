@@ -4,6 +4,7 @@ name: Titan Labs
 website: https://titan-labs.co.uk
 hq: Aldermaston, United Kingdom
 uk-region: South East
+country-code: GB
 sources-verified: 2026-06-30
 lat: 51.38189
 lon: -1.15168

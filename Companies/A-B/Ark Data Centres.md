@@ -6,6 +6,7 @@ linkedin: https://www.linkedin.com/company/ark-continuity
 companies-house: 05656968
 hq: Corsham, United Kingdom
 uk-region: South West
+country-code: GB
 founded: 2005
 size: medium
 headcount: 51-200

@@ -6,6 +6,7 @@ linkedin: https://www.linkedin.com/company/drone-band
 companies-house: 14618097
 hq: London, United Kingdom
 uk-region: London
+country-code: GB
 founded: 2023
 size: micro
 sources-verified: 2026-07-04

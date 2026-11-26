@@ -6,6 +6,7 @@ linkedin: https://www.linkedin.com/company/pragmatics-3d
 companies-house: "14075573"
 hq: Lincoln, United Kingdom
 uk-region: East Midlands
+country-code: GB
 size: micro
 sources-verified: 2026-11-19
 postcode: LN2 2LL

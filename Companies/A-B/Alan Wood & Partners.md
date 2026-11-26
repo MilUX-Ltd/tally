@@ -5,6 +5,7 @@ website: https://www.alanwood.co.uk
 linkedin: https://www.linkedin.com/company/alanwoodandpartners/
 hq: Hull, United Kingdom
 uk-region: East Midlands
+country-code: GB
 founded: 1968
 sources-verified: 2026-11-19
 postcode: LN1 2XG

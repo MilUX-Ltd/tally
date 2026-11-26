@@ -6,6 +6,7 @@ linkedin: https://www.linkedin.com/company/falteceurope
 companies-house: 02385379
 hq: Kawasaki, Japan
 uk-region: North East
+country-code: GB
 founded: 1989
 size: medium
 headcount: 450

@@ -6,6 +6,7 @@ linkedin: https://www.linkedin.com/company/diamond-executive-aviation-ltd
 companies-house: 05728943
 hq: Retford, UK
 uk-region: East Midlands
+country-code: GB
 founded: 2006
 size: medium
 headcount: 200-230

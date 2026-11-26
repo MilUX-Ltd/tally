@@ -6,6 +6,7 @@ linkedin: https://www.linkedin.com/company/agincourt-io
 companies-house: "11356694"
 hq: Lincoln, United Kingdom
 uk-region: East Midlands
+country-code: GB
 sources-verified: 2026-11-19
 postcode: LN1 1XW
 lat: 53.22955

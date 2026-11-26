@@ -4,6 +4,7 @@ name: Southbourne Rubber Ltd
 website: https://www.sbr.aero
 hq: Waterlooville, United Kingdom
 uk-region: South East
+country-code: GB
 sources-verified: 2026-06-30
 lat: 50.87925
 lon: -1.03223

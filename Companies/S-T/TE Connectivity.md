@@ -4,6 +4,7 @@ name: TE Connectivity
 website: https://www.te.com
 hq: Schaffhausen, Switzerland
 uk-region: South West
+country-code: GB
 size: large
 sources-verified: 2026-06-30
 location-source: region

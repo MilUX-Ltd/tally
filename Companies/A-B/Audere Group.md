@@ -6,6 +6,7 @@ linkedin: https://www.linkedin.com/company/audere-international
 companies-house: 15034255
 hq: London, United Kingdom
 uk-region: London
+country-code: GB
 founded: 2015
 size: small
 headcount: 30-50

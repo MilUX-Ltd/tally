@@ -6,6 +6,7 @@ linkedin: https://www.linkedin.com/company/841149
 companies-house: SC168649
 hq: Barnstaple, United Kingdom
 uk-region: South West
+country-code: GB
 founded: 1996
 size: medium
 sources-verified: 2026-07-04

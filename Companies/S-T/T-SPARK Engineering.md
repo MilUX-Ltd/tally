@@ -7,6 +7,7 @@ hq: Ternopil, Ukraine
 uk-region: Overseas
 sources-verified: 2026-06-30
 country: Ukraine
+country-code: UA
 tags:
   - defence
   - sensors

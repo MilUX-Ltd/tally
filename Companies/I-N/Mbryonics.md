@@ -6,6 +6,7 @@ hq: Galway, Ireland
 uk-region: Overseas
 sources-verified: 2026-07-05
 country: Ireland
+country-code: IE
 tags:
   - defence
   - mbr-ads

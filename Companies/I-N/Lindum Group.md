@@ -6,6 +6,7 @@ linkedin: https://www.linkedin.com/company/lindumgroup
 companies-house: "01236338"
 hq: Lincoln, United Kingdom
 uk-region: East Midlands
+country-code: GB
 founded: 1956
 size: large
 headcount: 600

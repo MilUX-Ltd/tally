@@ -4,6 +4,7 @@ name: Law Enforcement International Ltd
 companies-house: "02010109"
 hq: St. Albans, United Kingdom
 uk-region: East of England
+country-code: GB
 founded: 1987
 size: micro
 sources-verified: 2026-07-04

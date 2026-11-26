@@ -8,6 +8,7 @@ uk-region: Overseas
 founded: 
 sources-verified: 2026-07-05
 country: Australia
+country-code: AU
 tags:
   - defence
   - training

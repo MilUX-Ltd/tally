@@ -4,6 +4,7 @@ name: Materialise UK
 website: https://www.materialise.com
 hq: Leuven, Belgium
 uk-region: Yorkshire and The Humber
+country-code: GB
 sources-verified: 2026-07-05
 location-source: region
 location-note: UK location not published

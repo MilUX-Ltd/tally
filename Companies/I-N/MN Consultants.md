@@ -5,6 +5,7 @@ website: https://mnconsult.uk
 companies-house: "16666226"
 hq: Basingstoke, United Kingdom
 uk-region: South East
+country-code: GB
 sources-verified: 2026-11-19
 postcode: RG24 9RD
 lat: 51.28144

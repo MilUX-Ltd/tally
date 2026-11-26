@@ -4,6 +4,7 @@ name: North Product Design Ltd
 website: https://npd.studio
 hq: Preston, UK
 uk-region: North West
+country-code: GB
 size: micro
 sources-verified: 2026-07-05
 lat: 53.76055

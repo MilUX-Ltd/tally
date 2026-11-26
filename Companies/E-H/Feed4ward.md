@@ -5,6 +5,7 @@ website: https://www.feed4ward.com
 companies-house: "04482877"
 hq: Portsmouth, United Kingdom
 uk-region: South East
+country-code: GB
 founded: 2002
 sources-verified: 2026-11-19
 postcode: PO3 5JW

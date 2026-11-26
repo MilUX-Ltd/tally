@@ -4,6 +4,7 @@ name: TR Fastenings Ltd
 website: https://www.trfastenings.com
 hq: Uckfield, United Kingdom
 uk-region: South East
+country-code: GB
 size: large
 sources-verified: 2026-06-30
 lat: 50.96949

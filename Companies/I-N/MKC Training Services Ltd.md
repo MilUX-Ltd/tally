@@ -4,6 +4,7 @@ name: MKC Training Services Ltd
 website: https://www.mkctraining.com
 hq: Chatham, United Kingdom
 uk-region: South East
+country-code: GB
 sources-verified: 2026-07-05
 lat: 51.38491
 lon: 0.52552

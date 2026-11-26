@@ -10,6 +10,7 @@ size: medium
 headcount: 51-200
 sources-verified: 2026-07-04
 country: United States
+country-code: US
 tags:
   - defence
   - sensors

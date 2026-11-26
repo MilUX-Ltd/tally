@@ -6,6 +6,7 @@ linkedin: https://uk.linkedin.com/company/cambridge-design-partnership
 companies-house: 06786351
 hq: Cambridge, United Kingdom
 uk-region: East of England
+country-code: GB
 founded: 1996
 size: medium
 headcount: 200-300

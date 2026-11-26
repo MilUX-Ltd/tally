@@ -6,6 +6,7 @@ linkedin: https://www.linkedin.com/company/interpro-technology-solutions-ltd/
 companies-house: 07250370
 hq: Fareham, United Kingdom
 uk-region: South East
+country-code: GB
 founded: 2005
 size: small
 headcount: 11-50

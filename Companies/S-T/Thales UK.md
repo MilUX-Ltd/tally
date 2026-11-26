@@ -5,6 +5,7 @@ website: https://www.thalesgroup.com/en/worldwide/united-kingdom
 companies-house: "00868273"
 hq: Reading, United Kingdom
 uk-region: Wales
+country-code: GB
 size: large
 headcount: ~7800
 sources-verified: 2026-11-19

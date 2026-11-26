@@ -5,6 +5,7 @@ website: https://www.rockwoodcomposites.com
 companies-house: "07325480"
 hq: Paignton, United Kingdom
 uk-region: South West
+country-code: GB
 founded: 2010
 size: small
 sources-verified: 2026-07-05

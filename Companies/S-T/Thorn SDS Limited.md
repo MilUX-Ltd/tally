@@ -4,6 +4,7 @@ name: Thorn SDS Limited
 website: https://www.thornsds.co.uk
 hq: Alton, United Kingdom
 uk-region: South East
+country-code: GB
 sources-verified: 2026-06-30
 lat: 51.14864
 lon: -0.97584

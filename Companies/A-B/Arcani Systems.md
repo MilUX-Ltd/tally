@@ -6,6 +6,7 @@ linkedin: https://www.linkedin.com/company/arcani-systems
 companies-house: "15836688"
 hq: London, United Kingdom
 uk-region: London
+country-code: GB
 founded: 2024
 size: micro
 sources-verified: 2026-07-03

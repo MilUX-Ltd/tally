@@ -4,6 +4,7 @@ name: Syensqo
 website: https://www.syensqo.com
 hq: Brussels, Belgium
 uk-region: Wales
+country-code: GB
 size: large
 sources-verified: 2026-06-30
 location-source: region

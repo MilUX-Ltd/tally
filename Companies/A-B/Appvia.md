@@ -5,6 +5,7 @@ website: https://www.appvia.io
 companies-house: 10653692
 hq: London, United Kingdom
 uk-region: London
+country-code: GB
 founded: 2017
 size: medium
 sources-verified: 2026-07-03

@@ -6,6 +6,7 @@ linkedin: https://www.linkedin.com/company/jolly-good-web
 companies-house: "12899639"
 hq: Lincoln, United Kingdom
 uk-region: East Midlands
+country-code: GB
 founded: 2020
 size: small
 sources-verified: 2026-11-19

@@ -4,6 +4,7 @@ name: iRed
 website: https://ired.co.uk
 hq: Emsworth, United Kingdom
 uk-region: South East
+country-code: GB
 sources-verified: 2026-07-05
 lat: 50.84808
 lon: -0.9371

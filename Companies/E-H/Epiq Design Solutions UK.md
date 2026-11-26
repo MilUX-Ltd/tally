@@ -6,6 +6,7 @@ linkedin: https://www.linkedin.com/company/epiq-solutions
 companies-house: "14694112"
 hq: Rolling Meadows, United States
 uk-region: North West
+country-code: GB
 founded: 2009
 size: small
 headcount: 135

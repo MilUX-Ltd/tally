@@ -6,6 +6,7 @@ linkedin: https://www.linkedin.com/company/elbit-systems-uk
 companies-house: "05241591"
 hq: Haifa, Israel
 uk-region: South East
+country-code: GB
 founded: 2004
 size: large
 headcount: 680

@@ -5,6 +5,7 @@ website: https://hvm.catapult.org.uk
 linkedin: https://www.linkedin.com/company/high-value-manufacturing-catapult
 hq: Birmingham, United Kingdom
 uk-region: West Midlands
+country-code: GB
 size: large
 sources-verified: 2026-07-04
 lat: 52.47928

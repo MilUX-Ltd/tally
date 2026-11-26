@@ -4,6 +4,7 @@ name: Telecetera Ltd
 website: https://www.telecetera.co.uk
 hq: Worcester, United Kingdom
 uk-region: West Midlands
+country-code: GB
 sources-verified: 2026-06-30
 lat: 52.19293
 lon: -2.22109

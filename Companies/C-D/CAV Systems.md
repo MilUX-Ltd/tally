@@ -6,6 +6,7 @@ linkedin: https://www.linkedin.com/company/cavsystems
 companies-house: 10715185
 hq: New Tredegar, Wales (group); manufacturing at Consett, England
 uk-region: North East
+country-code: GB
 founded: 1942
 size: small
 sources-verified: 2026-07-04

@@ -6,6 +6,7 @@ linkedin: https://www.linkedin.com/company/cervus-defence
 companies-house: 08375349
 hq: Salisbury, United Kingdom
 uk-region: South West
+country-code: GB
 founded: 2013
 size: small
 headcount: 15

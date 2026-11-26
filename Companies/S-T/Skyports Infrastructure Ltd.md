@@ -4,6 +4,7 @@ name: Skyports Infrastructure Ltd
 website: https://www.skyports.net
 hq: Billericay, United Kingdom
 uk-region: East of England
+country-code: GB
 sources-verified: 2026-06-30
 lat: 51.62455
 lon: 0.41676

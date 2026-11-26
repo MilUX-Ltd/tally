@@ -6,6 +6,7 @@ linkedin: https://www.linkedin.com/company/robosysautomation
 companies-house: "12369867"
 hq: Hamble, United Kingdom
 uk-region: South East
+country-code: GB
 size: small
 headcount: ~17
 sources-verified: 2026-07-05

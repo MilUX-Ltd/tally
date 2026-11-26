@@ -4,6 +4,7 @@ name: RLC Engineering Group
 website: https://www.rlc-group.com
 hq: Ballasalla, Isle of Man
 uk-region: North West
+country-code: GB
 size: medium
 sources-verified: 2026-07-05
 location-source: region

@@ -10,6 +10,7 @@ size: small
 headcount: 44
 sources-verified: 2026-07-03
 country: Australia
+country-code: AU
 tags:
   - defence
   - logistics

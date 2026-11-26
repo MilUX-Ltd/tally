@@ -4,6 +4,7 @@ name: Special Quality Alloys Ltd
 website: https://www.specialqualityalloys.com
 hq: Sheffield, United Kingdom
 uk-region: Yorkshire and The Humber
+country-code: GB
 sources-verified: 2026-06-30
 lat: 53.38251
 lon: -1.46854

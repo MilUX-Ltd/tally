@@ -6,6 +6,7 @@ linkedin: https://www.linkedin.com/company/egis-in-the-uk
 companies-house: "11475428"
 hq: Versailles, France
 uk-region: London
+country-code: GB
 founded: 1970
 size: large
 headcount: 1000

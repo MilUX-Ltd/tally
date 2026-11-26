@@ -6,6 +6,7 @@ linkedin: https://www.linkedin.com/company/echa-microbiology-ltd
 companies-house: "02282264"
 hq: Cardiff, United Kingdom
 uk-region: Wales
+country-code: GB
 founded: 1983
 size: small
 sources-verified: 2026-11-19

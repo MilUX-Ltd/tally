@@ -6,6 +6,7 @@ linkedin: https://www.linkedin.com/company/cp-cases
 companies-house: 01111889
 hq: Isleworth, United Kingdom
 uk-region: London
+country-code: GB
 founded: 1971
 size: medium
 sources-verified: 2026-07-04

@@ -4,6 +4,7 @@ name: University of Lincoln
 website: https://www.lincoln.ac.uk
 hq: Lincoln, United Kingdom
 uk-region: East Midlands
+country-code: GB
 sources-verified: 2026-11-19
 postcode: LN6 7TS
 lat: 53.22849

@@ -4,6 +4,7 @@ name: Radio Design Ltd
 website: https://www.radiodesign.eu
 hq: Shipley, United Kingdom
 uk-region: Yorkshire and The Humber
+country-code: GB
 size: micro
 sources-verified: 2026-07-05
 lat: 53.8339

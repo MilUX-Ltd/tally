@@ -4,6 +4,7 @@ name: MDH Defence
 website: https://www.mdhdefence.com
 hq: Amesbury, United Kingdom
 uk-region: South West
+country-code: GB
 sources-verified: 2026-07-05
 lat: 51.1719
 lon: -1.78052

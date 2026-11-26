@@ -6,6 +6,7 @@ linkedin: https://www.linkedin.com/company/consultred
 companies-house: 06688270
 hq: Shipley, United Kingdom
 uk-region: Yorkshire and The Humber
+country-code: GB
 founded: 2003
 size: medium
 sources-verified: 2026-07-04

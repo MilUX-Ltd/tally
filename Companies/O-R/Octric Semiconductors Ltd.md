@@ -4,6 +4,7 @@ name: Octric Semiconductors Ltd
 website: https://www.octric.com
 hq: Newton Aycliffe, United Kingdom
 uk-region: North East
+country-code: GB
 sources-verified: 2026-07-05
 headcount: ~130
 size: small

@@ -12,6 +12,7 @@ postcode: EC4M 9AF
 lat: 51.51362
 lon: -0.09595
 location-source: companies-house
+country-code: GB
 tags:
   - defence
   - software

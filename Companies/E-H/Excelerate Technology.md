@@ -6,6 +6,7 @@ linkedin: https://www.linkedin.com/company/excelerate-technology
 companies-house: 04260093
 hq: Cardiff, United Kingdom
 uk-region: Wales
+country-code: GB
 founded: 2001
 size: small
 headcount: 39

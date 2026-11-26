@@ -4,6 +4,7 @@ name: Velox Precision Ltd
 website: https://www.veloxprecision.com
 hq: Faringdon, United Kingdom
 uk-region: South East
+country-code: GB
 size: micro
 sources-verified: 2026-07-16
 lat: 51.65814

@@ -4,6 +4,7 @@ name: HII Unmanned Systems Inc
 website: https://hii.com
 hq: Pocasset, United States
 uk-region: South East
+country-code: GB
 size: large
 sources-verified: 2026-07-04
 location-source: region

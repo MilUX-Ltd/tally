@@ -6,6 +6,7 @@ linkedin: https://uk.linkedin.com/company/nyk-component-solutions-limited
 companies-house: 06394374
 hq: Southampton, United Kingdom
 uk-region: South East
+country-code: GB
 founded: 2007
 size: micro
 sources-verified: 2026-07-05

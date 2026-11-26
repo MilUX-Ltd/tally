@@ -4,6 +4,7 @@ name: Fearnaught Limited
 companies-house: 08387113
 hq: Odiham, UK
 uk-region: South East
+country-code: GB
 founded: 2013
 size: micro
 sources-verified: 2026-07-04

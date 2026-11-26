@@ -5,6 +5,7 @@ website: https://bandsl.com/
 companies-house: 11630211
 hq: Maryport, United Kingdom
 uk-region: North West
+country-code: GB
 founded: 2018
 size: micro
 sources-verified: 2026-07-03

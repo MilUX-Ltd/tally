@@ -6,6 +6,7 @@ linkedin: https://www.linkedin.com/company/forcys-ltd
 companies-house: "13988990"
 hq: Yateley, United Kingdom
 uk-region: South East
+country-code: GB
 founded: 2022
 size: small
 sources-verified: 2026-07-04

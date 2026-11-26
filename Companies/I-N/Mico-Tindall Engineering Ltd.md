@@ -4,6 +4,7 @@ name: Mico-Tindall Engineering Ltd
 website: https://www.mico-tindall.com
 hq: Oldham, United Kingdom
 uk-region: North West
+country-code: GB
 sources-verified: 2026-07-05
 lat: 53.54216
 lon: -2.11596

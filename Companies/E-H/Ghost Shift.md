@@ -11,6 +11,7 @@ postcode: BB3 0DG
 lat: 53.71517
 lon: -2.4765
 location-source: companies-house
+country-code: GB
 tags:
   - defence
   - cyber

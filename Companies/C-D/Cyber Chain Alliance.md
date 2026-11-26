@@ -5,6 +5,7 @@ website: https://cyberchainalliance.com
 companies-house: "11706569"
 hq: Sutton Coldfield, UK
 uk-region: West Midlands
+country-code: GB
 founded: 2018
 size: micro
 sources-verified: 2026-07-04

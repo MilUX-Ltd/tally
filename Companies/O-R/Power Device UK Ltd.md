@@ -4,6 +4,7 @@ name: Power Device UK Ltd
 website: http://www.ddc-web.co.uk
 hq: Ryde, United Kingdom
 uk-region: South East
+country-code: GB
 sources-verified: 2026-07-05
 lat: 50.73001
 lon: -1.16322

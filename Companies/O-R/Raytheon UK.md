@@ -6,6 +6,7 @@ linkedin: https://www.linkedin.com/company/raytheon-uk
 companies-house: "00406809"
 hq: Harlow, United Kingdom
 uk-region: East of England
+country-code: GB
 founded: 1946
 size: large
 headcount: 2000+

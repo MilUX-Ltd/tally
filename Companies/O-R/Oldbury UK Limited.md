@@ -4,6 +4,7 @@ name: Oldbury UK Limited
 website: https://www.oldburyuk.co.uk
 hq: Wolverhampton, United Kingdom
 uk-region: West Midlands
+country-code: GB
 sources-verified: 2026-07-05
 founded: 1861
 lat: 52.5862

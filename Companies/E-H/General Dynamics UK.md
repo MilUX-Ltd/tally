@@ -6,6 +6,7 @@ linkedin: https://www.linkedin.com/company/general-dynamics-uk-limited
 companies-house: "01911653"
 hq: Falls Church, United States
 uk-region: Wales
+country-code: GB
 founded: 1985
 size: large
 headcount: 1000+

@@ -6,6 +6,7 @@ linkedin: https://www.linkedin.com/company/10604828/
 companies-house: "10214873"
 hq: London, United Kingdom
 uk-region: London
+country-code: GB
 founded: 2016
 sources-verified: 2026-11-19
 postcode: EC2A 4NE

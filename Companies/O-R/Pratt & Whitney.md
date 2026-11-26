@@ -4,6 +4,7 @@ name: Pratt & Whitney
 website: https://www.prattwhitney.com/
 hq: East Hartford, United States
 uk-region: London
+country-code: GB
 sources-verified: 2026-07-05
 location-source: region
 location-note: UK location not published

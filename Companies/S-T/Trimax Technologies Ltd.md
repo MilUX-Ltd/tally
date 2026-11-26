@@ -4,6 +4,7 @@ name: Trimax Technologies Ltd
 website: https://www.trimaxtech.com
 hq: Thatcham, United Kingdom
 uk-region: South East
+country-code: GB
 size: small
 sources-verified: 2026-06-30
 lat: 51.40328

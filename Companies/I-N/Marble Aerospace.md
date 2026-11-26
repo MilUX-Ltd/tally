@@ -6,6 +6,7 @@ linkedin: https://www.linkedin.com/company/marble-aerospace
 companies-house: 10183391
 hq: Chippenham, United Kingdom
 uk-region: South West
+country-code: GB
 founded: 2016
 size: micro
 sources-verified: 2026-07-05

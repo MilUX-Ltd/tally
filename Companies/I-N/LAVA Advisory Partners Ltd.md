@@ -4,6 +4,7 @@ name: LAVA Advisory Partners Ltd
 website: https://www.lavaadvisory.com
 hq: London, United Kingdom
 uk-region: London
+country-code: GB
 size: small
 headcount: 18
 sources-verified: 2026-08-10

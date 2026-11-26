@@ -4,6 +4,7 @@ name: TT Electronics
 website: https://www.ttelectronics.com
 hq: Woking, United Kingdom
 uk-region: South East
+country-code: GB
 size: large
 sources-verified: 2026-06-30
 lat: 51.31835

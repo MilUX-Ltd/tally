@@ -9,6 +9,7 @@ founded: 2005
 size: small
 sources-verified: 2026-07-03
 country: United States
+country-code: US
 tags:
   - defence
   - simulation

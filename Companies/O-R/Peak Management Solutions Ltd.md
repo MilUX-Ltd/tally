@@ -3,6 +3,7 @@ type: organisation
 name: Peak Management Solutions Ltd
 hq: Pinner, United Kingdom
 uk-region: South East
+country-code: GB
 sources-verified: 2026-07-05
 location-source: region
 location-note: UK location not published

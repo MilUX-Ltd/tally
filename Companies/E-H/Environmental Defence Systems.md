@@ -5,6 +5,7 @@ website: https://edslimited.co.uk
 companies-house: 06300190
 hq: Huddersfield, United Kingdom
 uk-region: Yorkshire and The Humber
+country-code: GB
 founded: 2007
 size: small
 sources-verified: 2026-07-04

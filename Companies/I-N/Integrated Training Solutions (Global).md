@@ -6,6 +6,7 @@ linkedin: https://www.linkedin.com/company/integrated-training-solutions-global/
 companies-house: 
 hq: Oxfordshire, UK
 uk-region: South East
+country-code: GB
 founded: 
 size: small
 headcount: 

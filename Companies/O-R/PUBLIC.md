@@ -5,6 +5,7 @@ website: https://www.public.io
 linkedin: https://www.linkedin.com/company/public.io
 hq: London, UK
 uk-region: London
+country-code: GB
 size: small
 sources-verified: 2026-07-03
 lat: 51.50741

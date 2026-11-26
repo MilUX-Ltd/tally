@@ -4,6 +4,7 @@ name: JET Engineering System Solutions
 website: https://www.jet-eng.com
 hq: Halesowen, UK
 uk-region: West Midlands
+country-code: GB
 sources-verified: 2026-07-04
 lat: 52.45341
 lon: -2.06091

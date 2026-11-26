@@ -6,6 +6,7 @@ linkedin: https://www.linkedin.com/company/nine23
 companies-house: "08118696"
 hq: Southampton, United Kingdom
 uk-region: South East
+country-code: GB
 founded: 2012
 sources-verified: 2026-11-19
 postcode: SO16 7NP

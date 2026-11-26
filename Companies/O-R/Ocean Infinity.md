@@ -6,6 +6,7 @@ linkedin: https://www.linkedin.com/company/ocean-infinity-llc
 companies-house: 03072527
 hq: Southampton, UK / Austin, USA
 uk-region: South East
+country-code: GB
 founded: 2017
 size: large
 headcount: ~500

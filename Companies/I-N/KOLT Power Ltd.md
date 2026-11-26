@@ -5,6 +5,7 @@ website: https://www.koltpower.com
 linkedin: https://www.linkedin.com/company/koltpower/
 hq: Fareham, United Kingdom
 uk-region: South East
+country-code: GB
 sources-verified: 2026-07-03
 lat: 50.85235
 lon: -1.17591

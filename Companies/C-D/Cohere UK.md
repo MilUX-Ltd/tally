@@ -6,6 +6,7 @@ linkedin: https://www.linkedin.com/company/cohere-ai
 companies-house: 13987418
 hq: Toronto, Canada
 uk-region: London
+country-code: GB
 founded: 2019
 size: large
 headcount: 800+

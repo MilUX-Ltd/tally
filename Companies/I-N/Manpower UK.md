@@ -6,6 +6,7 @@ linkedin: https://www.linkedin.com/company/manpower-uk
 companies-house: "03841918"
 hq: Bridgend, United Kingdom
 uk-region: Wales
+country-code: GB
 size: large
 sources-verified: 2026-11-19
 postcode: CF31 1HX

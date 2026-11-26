@@ -3,6 +3,7 @@ type: organisation
 name: IMP Castle Associates Ltd
 hq: Gloucestershire, United Kingdom
 uk-region: South West
+country-code: GB
 size: micro
 founded: 2010
 sources-verified: 2026-07-04

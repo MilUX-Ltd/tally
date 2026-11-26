@@ -6,6 +6,7 @@ linkedin: https://www.linkedin.com/company/angoka
 companies-house: NI658717
 hq: Belfast, United Kingdom
 uk-region: Northern Ireland
+country-code: GB
 founded: 2019
 size: small
 headcount: 20-30

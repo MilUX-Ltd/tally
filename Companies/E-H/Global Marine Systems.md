@@ -6,6 +6,7 @@ linkedin: https://www.linkedin.com/company/gmsl
 companies-house: "01708481"
 hq: Singapore
 uk-region: East of England
+country-code: GB
 founded: 1999
 size: large
 headcount: 800

@@ -8,6 +8,7 @@ uk-region: Overseas
 founded: 2025
 sources-verified: 2026-07-04
 country: Canada
+country-code: CA
 tags:
   - defence
   - autonomy

@@ -6,6 +6,7 @@ linkedin: https://uk.linkedin.com/company/booz-allen-hamilton-international-u.k.
 companies-house: 04078740
 hq: McLean, United States
 uk-region: East of England
+country-code: GB
 founded: 2000
 size: large
 sources-verified: 2026-07-04

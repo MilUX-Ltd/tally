@@ -9,6 +9,7 @@ founded: 2017
 size: medium
 sources-verified: 2026-07-04
 country: Ukraine
+country-code: UA
 tags:
   - defence
   - ew

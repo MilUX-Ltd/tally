@@ -5,6 +5,7 @@ website: https://www.madetech.com
 companies-house: "06591591"
 hq: London, United Kingdom
 uk-region: London
+country-code: GB
 founded: 2008
 sources-verified: 2026-11-19
 postcode: E1 6BX

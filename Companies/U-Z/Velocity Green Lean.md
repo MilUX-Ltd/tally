@@ -6,6 +6,7 @@ linkedin: https://www.linkedin.com/company/velocity-green-lean
 companies-house: "08200856"
 hq: Altrincham, United Kingdom
 uk-region: North West
+country-code: GB
 founded: 2012
 size: micro
 headcount: 2-10

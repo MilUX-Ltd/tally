@@ -11,6 +11,7 @@ postcode: DA2 6QD
 lat: 51.45566
 lon: 0.24881
 location-source: website
+country-code: GB
 tags:
   - defence
   - cyber

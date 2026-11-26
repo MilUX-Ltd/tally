@@ -5,6 +5,7 @@ website: https://www.nammo.com/location/westcott/
 linkedin: https://uk.linkedin.com/company/nammo-westcott
 hq: Raufoss, Norway
 uk-region: South East
+country-code: GB
 sources-verified: 2026-07-05
 location-source: region
 location-note: UK location not published

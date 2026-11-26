@@ -5,6 +5,7 @@ website: https://www.gtweed.com
 linkedin: https://www.linkedin.com/company/greene-tweed
 hq: Kulpsville, Pennsylvania, USA
 uk-region: East Midlands
+country-code: GB
 size: large
 sources-verified: 2026-07-04
 location-source: region

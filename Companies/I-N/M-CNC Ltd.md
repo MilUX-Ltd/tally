@@ -4,6 +4,7 @@ name: M-CNC Ltd
 website: http://www.m-cnc.co.uk
 hq: Bridgwater, United Kingdom
 uk-region: South West
+country-code: GB
 sources-verified: 2026-07-04
 lat: 51.12778
 lon: -3.00641

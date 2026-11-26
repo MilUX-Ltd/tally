@@ -4,6 +4,7 @@ name: The Nacelle Group - Resonate Testing Ltd
 website: https://www.TheNacelleGroup.com
 hq: Newry, United Kingdom
 uk-region: Northern Ireland
+country-code: GB
 sources-verified: 2026-06-30
 lat: 54.17753
 lon: -6.33751

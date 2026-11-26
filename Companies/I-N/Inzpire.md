@@ -4,6 +4,7 @@ name: Inzpire
 website: https://www.inzpire.com
 hq: Lincoln, United Kingdom
 uk-region: East Midlands
+country-code: GB
 sources-verified: 2026-06-29
 lat: 53.23484
 lon: -0.53844

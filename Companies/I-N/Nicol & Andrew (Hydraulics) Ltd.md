@@ -4,6 +4,7 @@ name: Nicol & Andrew (Hydraulics) Ltd
 website: https://www.hydraulic-ram.co.uk
 hq: Glasgow, UK
 uk-region: Scotland
+country-code: GB
 sources-verified: 2026-07-05
 lat: 55.86363
 lon: -4.23688

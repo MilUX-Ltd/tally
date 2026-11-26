@@ -6,6 +6,7 @@ linkedin: https://www.linkedin.com/company/first-response-europe
 companies-house: "07917007"
 hq: London, UK
 uk-region: London
+country-code: GB
 founded: 2012
 size: small
 sources-verified: 2026-07-04

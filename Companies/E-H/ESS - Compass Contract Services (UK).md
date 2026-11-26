@@ -6,6 +6,7 @@ linkedin: https://uk.linkedin.com/company/ess-defence-government-services
 companies-house: 02114954
 hq: Birmingham, United Kingdom
 uk-region: West Midlands
+country-code: GB
 founded: 1987
 size: large
 sources-verified: 2026-07-04

@@ -6,6 +6,7 @@ linkedin: https://www.linkedin.com/company/pa-consulting/
 companies-house: 00414220
 hq: London, UK
 uk-region: London
+country-code: GB
 founded: 1943
 size: large
 headcount: 4000

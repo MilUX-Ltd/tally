@@ -6,6 +6,7 @@ linkedin: https://www.linkedin.com/company/elemendar
 companies-house: "10736268"
 hq: London, United Kingdom
 uk-region: London
+country-code: GB
 founded: 2017
 size: small
 headcount: 11-50

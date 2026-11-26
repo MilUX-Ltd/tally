@@ -4,6 +4,7 @@ name: Cascade Aviation & Marine Ltd
 website: https://www.cascadeaviation.co.uk
 hq: Leicester, England
 uk-region: East Midlands
+country-code: GB
 size: micro
 sources-verified: 2026-07-16
 lat: 52.63361

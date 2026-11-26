@@ -4,6 +4,7 @@ name: Portsmouth Aviation Ltd
 website: https://www.portav.com
 hq: Portsmouth, United Kingdom
 uk-region: South East
+country-code: GB
 sources-verified: 2026-07-05
 lat: 50.79685
 lon: -1.09117

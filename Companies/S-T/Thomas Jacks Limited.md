@@ -4,6 +4,7 @@ name: Thomas Jacks Limited
 website: https://www.thomasjacks.co.uk
 hq: Stratford-upon-Avon, United Kingdom
 uk-region: West Midlands
+country-code: GB
 sources-verified: 2026-06-30
 lat: 52.19269
 lon: -1.70635

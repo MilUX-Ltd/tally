@@ -4,6 +4,7 @@ name: TFD Europe Ltd
 website: https://www.tfdeurope.com
 hq: Tamworth, United Kingdom
 uk-region: West Midlands
+country-code: GB
 sources-verified: 2026-06-30
 lat: 52.63343
 lon: -1.69245

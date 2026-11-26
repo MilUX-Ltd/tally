@@ -4,6 +4,7 @@ name: National Composites Centre
 website: https://nccuk.com
 hq: Bristol, United Kingdom
 uk-region: South West
+country-code: GB
 headcount: ~350
 sources-verified: 2026-07-05
 lat: 51.45313

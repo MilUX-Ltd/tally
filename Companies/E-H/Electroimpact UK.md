@@ -6,6 +6,7 @@ linkedin: https://www.linkedin.com/company/electroimpact
 companies-house: "04008853"
 hq: Hawarden, United Kingdom
 uk-region: Wales
+country-code: GB
 founded: 2000
 size: medium
 headcount: 123

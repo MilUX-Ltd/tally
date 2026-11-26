@@ -4,6 +4,7 @@ name: Sellectronics Ltd
 website: http://www.sellectronics.co.uk
 hq: Falmouth, United Kingdom
 uk-region: South West
+country-code: GB
 sources-verified: 2026-06-30
 lat: 50.15349
 lon: -5.07403

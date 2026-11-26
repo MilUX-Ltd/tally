@@ -4,6 +4,7 @@ name: Scott Logic Ltd
 website: https://www.scottlogic.com
 hq: Newcastle upon Tyne, United Kingdom
 uk-region: North East
+country-code: GB
 size: medium
 sources-verified: 2026-06-30
 lat: 54.97801

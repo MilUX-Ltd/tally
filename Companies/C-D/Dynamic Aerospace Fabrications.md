@@ -6,6 +6,7 @@ linkedin: https://www.linkedin.com/company/dynamicaero
 companies-house: 12020639
 hq: Michigan, United States
 uk-region: East Midlands
+country-code: GB
 founded: 2019
 size: medium
 headcount: 100

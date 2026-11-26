@@ -6,6 +6,7 @@ linkedin: https://www.linkedin.com/company/arbuthnot-latham
 companies-house: "00819519"
 hq: London, United Kingdom
 uk-region: London
+country-code: GB
 founded: 1833
 size: large
 sources-verified: 2026-11-19

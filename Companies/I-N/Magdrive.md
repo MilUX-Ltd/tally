@@ -4,6 +4,7 @@ name: Magdrive Ltd
 website: https://www.magdrivespace.com
 hq: Oxford, United Kingdom
 uk-region: South East
+country-code: GB
 founded: 2019
 sources-verified: 2026-07-05
 lat: 51.75198

@@ -6,6 +6,7 @@ linkedin: https://uk.linkedin.com/showcase/cinch-connectivity-solutions/
 companies-house: 02086232
 hq: Lombard, United States
 uk-region: East of England
+country-code: GB
 size: medium
 sources-verified: 2026-07-04
 postcode: CM1 2UP

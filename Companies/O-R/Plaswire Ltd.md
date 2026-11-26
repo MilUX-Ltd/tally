@@ -4,6 +4,7 @@ name: Plaswire Ltd
 website: https://plaswire.com
 hq: Lurgan, United Kingdom
 uk-region: Northern Ireland
+country-code: GB
 sources-verified: 2026-07-05
 lat: 54.46082
 lon: -6.32925

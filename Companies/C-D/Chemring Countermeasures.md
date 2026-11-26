@@ -6,6 +6,7 @@ linkedin: https://www.linkedin.com/company/chemring-countermeasures
 companies-house: 00218229
 hq: Salisbury, United Kingdom
 uk-region: South West
+country-code: GB
 size: medium
 sources-verified: 2026-07-04
 postcode: SO51 0ZN

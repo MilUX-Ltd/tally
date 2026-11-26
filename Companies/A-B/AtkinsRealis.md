@@ -6,6 +6,7 @@ linkedin: https://www.linkedin.com/company/atkinsrealis
 companies-house: 00688424
 hq: Montreal, Canada
 uk-region: South East
+country-code: GB
 founded: 1961
 size: large
 headcount: 250+

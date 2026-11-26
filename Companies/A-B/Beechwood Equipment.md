@@ -6,6 +6,7 @@ linkedin: https://www.linkedin.com/company/beechwood-equipment
 companies-house: 04086923
 hq: Guildford, United Kingdom
 uk-region: South East
+country-code: GB
 founded: 1987
 size: small
 sources-verified: 2026-07-03

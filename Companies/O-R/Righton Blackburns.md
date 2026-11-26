@@ -4,6 +4,7 @@ name: Righton Blackburns
 website: https://www.rightonblackburns.co.uk
 hq: Kingswinford, West Midlands, United Kingdom
 uk-region: West Midlands
+country-code: GB
 sources-verified: 2026-07-05
 lat: 52.49767
 lon: -2.16576

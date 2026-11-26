@@ -5,6 +5,7 @@ website: https://assureddigitaltech.com
 linkedin: https://www.linkedin.com/company/assured-digital-tech
 hq: Bristol, United Kingdom
 uk-region: South West
+country-code: GB
 size: small
 sources-verified: 2026-07-05
 lat: 51.45313

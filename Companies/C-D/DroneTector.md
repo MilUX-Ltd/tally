@@ -6,6 +6,7 @@ linkedin: https://www.linkedin.com/company/dronetector
 companies-house: SC790858
 hq: Glasgow, United Kingdom
 uk-region: Scotland
+country-code: GB
 founded: 2023
 size: micro
 headcount: "3"

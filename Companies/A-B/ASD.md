@@ -6,6 +6,7 @@ linkedin: https://www.linkedin.com/company/asd-metal-services
 companies-house: 01370600
 hq: Leeds, United Kingdom
 uk-region: Yorkshire and The Humber
+country-code: GB
 founded: 1978
 size: large
 headcount: 250+

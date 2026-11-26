@@ -10,6 +10,7 @@ size: large
 headcount: 500+
 sources-verified: 2026-07-05
 country: France
+country-code: FR
 tags:
   - defence
   - ai

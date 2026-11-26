@@ -5,6 +5,7 @@ website: https://avantisperformance.com/
 companies-house: 14688080
 hq: Cirencester, United Kingdom
 uk-region: South West
+country-code: GB
 founded: 2023
 size: small
 sources-verified: 2026-07-04

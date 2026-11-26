@@ -10,6 +10,7 @@ size: large
 headcount: 514
 sources-verified: 2026-07-05
 country: Sweden
+country-code: SE
 tags:
   - defence
   - hardware

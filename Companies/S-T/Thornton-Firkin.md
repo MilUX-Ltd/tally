@@ -5,6 +5,7 @@ website: https://www.thorntonfirkin.com
 companies-house: "OC348151"
 hq: Birmingham, United Kingdom
 uk-region: East Midlands
+country-code: GB
 founded: 2009
 sources-verified: 2026-11-19
 postcode: LN2 2LL

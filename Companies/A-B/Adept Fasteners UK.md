@@ -6,6 +6,7 @@ linkedin: https://www.linkedin.com/company/adeptfasteners
 companies-house: "10033937"
 hq: Gateshead, United Kingdom
 uk-region: North East
+country-code: GB
 founded: 2001
 size: medium
 sources-verified: 2026-11-19

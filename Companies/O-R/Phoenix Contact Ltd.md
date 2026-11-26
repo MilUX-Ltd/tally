@@ -4,6 +4,7 @@ name: Phoenix Contact Ltd
 website: https://www.phoenixcontact.co.uk
 hq: Blomberg, Germany
 uk-region: West Midlands
+country-code: GB
 sources-verified: 2026-07-05
 location-source: region
 location-note: UK location not published

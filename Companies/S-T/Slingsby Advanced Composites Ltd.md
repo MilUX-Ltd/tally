@@ -4,6 +4,7 @@ name: Slingsby Advanced Composites Ltd
 website: https://www.slingsbyac.com
 hq: Kirkbymoorside, United Kingdom
 uk-region: Yorkshire and The Humber
+country-code: GB
 sources-verified: 2026-06-30
 lat: 54.26951
 lon: -0.93119

@@ -6,6 +6,7 @@ linkedin: https://www.linkedin.com/company/global-technologies-racing-limited/
 companies-house: "04633827"
 hq: Fontwell, United Kingdom
 uk-region: South East
+country-code: GB
 sources-verified: 2026-11-19
 postcode: BN18 0SU
 lat: 50.85512

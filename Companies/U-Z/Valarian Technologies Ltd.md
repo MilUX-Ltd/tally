@@ -4,6 +4,7 @@ name: Valarian Technologies Ltd
 website: https://www.valarian.com/
 hq: London, United Kingdom
 uk-region: London
+country-code: GB
 sources-verified: 2026-06-30
 lat: 51.50741
 lon: -0.12772

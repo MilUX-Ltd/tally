@@ -4,6 +4,7 @@ name: CA Models Ltd
 website: https://www.camodels.co.uk/
 hq: Stirling, United Kingdom
 uk-region: Scotland
+country-code: GB
 founded: 1983
 size: small
 sources-verified: 2026-07-04

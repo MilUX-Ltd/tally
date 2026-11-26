@@ -6,6 +6,7 @@ linkedin: https://www.linkedin.com/company/datactics
 companies-house: "03847379"
 hq: Belfast, United Kingdom
 uk-region: Northern Ireland
+country-code: GB
 founded: 1999
 size: small
 headcount: 48-74

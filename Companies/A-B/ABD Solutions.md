@@ -5,6 +5,7 @@ website: https://www.abdsolutions.com/
 linkedin: https://uk.linkedin.com/company/abdsolutions
 hq: United Kingdom
 uk-region: South West
+country-code: GB
 size: small
 sources-verified: 2026-07-03
 location-source: region

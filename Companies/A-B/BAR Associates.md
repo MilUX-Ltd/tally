@@ -6,6 +6,7 @@ linkedin: https://www.linkedin.com/company/bar-associates-ltd
 companies-house: "09380601"
 hq: Okehampton, United Kingdom
 uk-region: South West
+country-code: GB
 founded: 2015
 size: micro
 sources-verified: 2026-07-04

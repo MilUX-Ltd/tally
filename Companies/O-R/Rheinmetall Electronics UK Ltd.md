@@ -4,6 +4,7 @@ name: Rheinmetall Electronics UK Ltd
 website: https://www.rheinmetall.com
 hq: Newport, Isle of Wight, United Kingdom
 uk-region: South East
+country-code: GB
 sources-verified: 2026-07-05
 lat: 50.70023
 lon: -1.29367

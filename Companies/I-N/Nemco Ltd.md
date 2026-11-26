@@ -4,6 +4,7 @@ name: Nemco Ltd
 website: https://www.nemco.co.uk
 hq: Stevenage, United Kingdom
 uk-region: East of England
+country-code: GB
 sources-verified: 2026-07-05
 lat: 51.90167
 lon: -0.20272

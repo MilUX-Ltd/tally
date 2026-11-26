@@ -6,6 +6,7 @@ linkedin: https://www.linkedin.com/company/decisionlab-uk
 companies-house: "07768830"
 hq: Loughborough, United Kingdom
 uk-region: East Midlands
+country-code: GB
 founded: 2011
 size: small
 headcount: 13

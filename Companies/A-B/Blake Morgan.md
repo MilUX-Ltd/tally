@@ -6,6 +6,7 @@ linkedin: https://www.linkedin.com/company/blake-morgan-llp/
 companies-house: "OC392078"
 hq: Eastleigh, United Kingdom
 uk-region: South East
+country-code: GB
 size: large
 sources-verified: 2026-11-19
 postcode: SO53 3LG

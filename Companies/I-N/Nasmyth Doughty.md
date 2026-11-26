@@ -4,6 +4,7 @@ name: Nasmyth Doughty
 website: http://www.doughtype.com
 hq: Nottingham, United Kingdom
 uk-region: East Midlands
+country-code: GB
 sources-verified: 2026-07-05
 lat: 52.9562
 lon: -1.1512

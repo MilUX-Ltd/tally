@@ -6,6 +6,7 @@ linkedin: https://uk.linkedin.com/company/delta-xd
 companies-house: 15112049
 hq: Basingstoke, United Kingdom
 uk-region: South East
+country-code: GB
 founded: 2023
 size: micro
 sources-verified: 2026-07-04

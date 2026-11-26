@@ -4,6 +4,7 @@ name: ZeroAvia Ltd
 website: https://zeroavia.com
 hq: Cranfield, United Kingdom
 uk-region: South West
+country-code: GB
 sources-verified: 2026-07-01
 location-source: region
 location-note: UK location not published

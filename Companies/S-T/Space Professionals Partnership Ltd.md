@@ -4,6 +4,7 @@ name: Space Professionals Partnership Ltd
 website: https://space-professionals.com
 hq: Harrow, United Kingdom
 uk-region: South East
+country-code: GB
 size: micro
 sources-verified: 2026-06-30
 location-source: region

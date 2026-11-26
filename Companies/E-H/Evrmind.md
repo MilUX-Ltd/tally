@@ -6,6 +6,7 @@ linkedin: https://www.linkedin.com/company/evrmind/
 companies-house: "16752278"
 hq: London, United Kingdom
 uk-region: London
+country-code: GB
 founded: 2025
 size: micro
 headcount: 2-10

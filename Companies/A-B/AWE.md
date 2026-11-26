@@ -5,6 +5,7 @@ website: https://www.awe.co.uk/
 companies-house: 02763902
 hq: Aldermaston, United Kingdom
 uk-region: South East
+country-code: GB
 founded: 1950
 size: large
 headcount: 250+

@@ -6,6 +6,7 @@ linkedin: https://www.linkedin.com/company/forepoint-limited
 companies-house: "02738086"
 hq: Preston, United Kingdom
 uk-region: North West
+country-code: GB
 founded: 1992
 size: small
 sources-verified: 2026-07-04

@@ -6,6 +6,7 @@ linkedin: https://uk.linkedin.com/company/tecosim-uk
 companies-house: "03729504"
 hq: Basildon, United Kingdom
 uk-region: East of England
+country-code: GB
 sources-verified: 2026-11-19
 postcode: SS15 6SL
 lat: 51.57761

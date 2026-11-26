@@ -4,6 +4,7 @@ name: Toray Advanced Composites UK Ltd
 website: https://www.toraytac.com
 hq: Ehime, Japan
 uk-region: East Midlands
+country-code: GB
 sources-verified: 2026-06-30
 location-source: region
 location-note: UK location not published

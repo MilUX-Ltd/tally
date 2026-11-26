@@ -6,6 +6,7 @@ linkedin: https://uk.linkedin.com/company/cunning-running-software-limited
 companies-house: 02236737
 hq: United Kingdom
 uk-region:
+country-code: GB
 founded: 1988
 size: small
 sources-verified: 2026-07-04

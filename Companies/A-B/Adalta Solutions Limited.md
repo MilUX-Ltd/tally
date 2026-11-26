@@ -5,6 +5,7 @@ website: https://adalta-solutions.com
 companies-house: 07031508
 hq: Cheadle Hulme, United Kingdom
 uk-region: North West
+country-code: GB
 size: small
 sources-verified: 2026-07-03
 postcode: SK8 7BS

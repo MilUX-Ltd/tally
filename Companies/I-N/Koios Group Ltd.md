@@ -6,6 +6,7 @@ linkedin: https://uk.linkedin.com/company/koios-group-limited
 companies-house: "05058221"
 hq: Malvern, United Kingdom
 uk-region: West Midlands
+country-code: GB
 founded: 2004
 size: small
 sources-verified: 2026-07-04

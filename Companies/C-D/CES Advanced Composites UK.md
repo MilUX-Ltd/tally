@@ -6,6 +6,7 @@ linkedin: https://www.linkedin.com/company/cesarmour
 companies-house: 11393836
 hq: Ankara, Turkey
 uk-region: West Midlands
+country-code: GB
 founded: 2018
 size: small
 sources-verified: 2026-07-04

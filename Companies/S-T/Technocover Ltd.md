@@ -4,6 +4,7 @@ name: Technocover Ltd
 website: https://www.technocover.co.uk
 hq: Welshpool, United Kingdom
 uk-region: Wales
+country-code: GB
 sources-verified: 2026-06-30
 lat: 52.66007
 lon: -3.14742

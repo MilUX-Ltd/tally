@@ -6,6 +6,7 @@ linkedin: https://www.linkedin.com/company/frewer-engineering
 companies-house: "04917527"
 hq: Dorking, United Kingdom
 uk-region: South East
+country-code: GB
 founded: 2003
 size: micro
 sources-verified: 2026-07-04

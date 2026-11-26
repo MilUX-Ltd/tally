@@ -6,6 +6,7 @@ linkedin: https://www.linkedin.com/company/energetics-technology-ltd
 companies-house: "07446614"
 hq: Derbyshire, United Kingdom
 uk-region: East Midlands
+country-code: GB
 founded: 2010
 size: micro
 sources-verified: 2026-07-04

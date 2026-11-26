@@ -8,6 +8,7 @@ size: medium
 headcount: 125
 sources-verified: 2026-06-30
 country: United States
+country-code: US
 tags:
   - defence
   - ai

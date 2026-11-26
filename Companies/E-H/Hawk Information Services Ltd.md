@@ -4,6 +4,7 @@ name: Hawk Information Services Ltd
 website: https://www.hawkinformation.com
 hq: Moreton-in-Marsh, United Kingdom
 uk-region: South West
+country-code: GB
 size: micro
 sources-verified: 2026-07-04
 lat: 51.98997

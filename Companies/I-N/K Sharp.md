@@ -6,6 +6,7 @@ linkedin: https://uk.linkedin.com/company/k-sharp-ltd
 companies-house: 07890457
 hq: Carmarthen, United Kingdom
 uk-region: Wales
+country-code: GB
 size: micro
 sources-verified: 2026-07-04
 postcode: SA17 5TE

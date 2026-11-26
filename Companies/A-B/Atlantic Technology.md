@@ -6,6 +6,7 @@ linkedin: https://www.linkedin.com/company/atlantic-technology
 companies-house: 09998409
 hq: Godalming, England
 uk-region: South East
+country-code: GB
 founded: 2016
 size: micro
 headcount: ~6

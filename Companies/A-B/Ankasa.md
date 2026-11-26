@@ -6,6 +6,7 @@ linkedin: https://www.linkedin.com/company/ankasa-ltd
 companies-house: "09876876"
 hq: Cheltenham, United Kingdom
 uk-region: South West
+country-code: GB
 founded: 2015
 size: micro
 sources-verified: 2026-07-03

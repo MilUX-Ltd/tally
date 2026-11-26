@@ -4,6 +4,7 @@ name: Propak Sheet Metal Ltd
 website: https://www.propak.co.uk
 hq: Stevenage, UK
 uk-region: East of England
+country-code: GB
 sources-verified: 2026-07-05
 lat: 51.90167
 lon: -0.20272

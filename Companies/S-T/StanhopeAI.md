@@ -5,6 +5,7 @@ website: https://www.stanhopeai.com/
 linkedin: https://www.linkedin.com/company/stanhopeai/
 hq: London
 uk-region: London
+country-code: GB
 founded: 2021
 sources-verified: 2026-06-29
 lat: 51.50741

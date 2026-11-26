@@ -6,6 +6,7 @@ linkedin: https://uk.linkedin.com/company/commerce-decisions
 companies-house: 04157081
 hq: Chippenham, United Kingdom
 uk-region: South West
+country-code: GB
 founded: 2001
 size: small
 sources-verified: 2026-07-04

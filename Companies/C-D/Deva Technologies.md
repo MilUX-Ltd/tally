@@ -6,6 +6,7 @@ linkedin: https://www.linkedin.com/company/deva-technologies-limited
 companies-house: "08658964"
 hq: Wrexham, United Kingdom
 uk-region: Wales
+country-code: GB
 founded: 1993
 size: micro
 sources-verified: 2026-07-04

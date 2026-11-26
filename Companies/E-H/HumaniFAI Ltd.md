@@ -4,6 +4,7 @@ name: HumaniFAI Ltd
 website: https://www.humanifai.co.uk
 hq: Cwmbran, United Kingdom
 uk-region: Wales
+country-code: GB
 sources-verified: 2026-06-29
 lat: 51.65364
 lon: -3.02082

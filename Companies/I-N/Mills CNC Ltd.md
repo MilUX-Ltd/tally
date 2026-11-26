@@ -4,6 +4,7 @@ name: Mills CNC Ltd
 website: http://www.millscnc.co.uk
 hq: Leamington Spa, United Kingdom
 uk-region: West Midlands
+country-code: GB
 founded: 1974
 size: medium
 headcount: ~140

@@ -4,6 +4,7 @@ name: SPS a Marubeni-Itochu Steel Inc Company
 website: https://www.sps-bmsteel.co.uk
 hq: Tokyo, Japan
 uk-region: Scotland
+country-code: GB
 sources-verified: 2026-06-30
 location-source: region
 location-note: UK location not published

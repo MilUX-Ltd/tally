@@ -6,6 +6,7 @@ linkedin: https://uk.linkedin.com/company/nexor
 companies-house: 05152465
 hq: Nottingham, United Kingdom
 uk-region: East Midlands
+country-code: GB
 size: small
 sources-verified: 2026-07-05
 postcode: NG2 1AE

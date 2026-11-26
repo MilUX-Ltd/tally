@@ -5,6 +5,7 @@ website: https://altana.ai/
 companies-house: 13668201
 hq: New York, United States
 uk-region: London
+country-code: GB
 founded: 2021
 size: medium
 sources-verified: 2026-07-03

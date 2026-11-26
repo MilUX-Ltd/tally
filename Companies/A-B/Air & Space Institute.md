@@ -5,6 +5,7 @@ website: https://asi-newark.co.uk/
 linkedin: https://www.linkedin.com/company/asi-newark/
 hq: Newark, United Kingdom
 uk-region: East Midlands
+country-code: GB
 sources-verified: 2026-11-19
 postcode: NG24 1BL
 lat: 53.07982

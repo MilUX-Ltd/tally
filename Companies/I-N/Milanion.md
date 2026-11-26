@@ -10,6 +10,7 @@ founded: 2020
 size: micro
 sources-verified: 2026-07-05
 country: United Arab Emirates
+country-code: AE
 tags:
   - defence
   - autonomy

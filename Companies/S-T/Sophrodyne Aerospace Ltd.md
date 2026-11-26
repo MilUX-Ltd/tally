@@ -4,6 +4,7 @@ name: Sophrodyne Aerospace Ltd
 website: https://sophrodyne-aerospace.com
 hq: Glasgow, Scotland, UK
 uk-region: Scotland
+country-code: GB
 founded: 2015
 size: micro
 sources-verified: 2026-07-03

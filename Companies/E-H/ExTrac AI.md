@@ -6,6 +6,7 @@ linkedin: https://www.linkedin.com/company/extracrisk
 companies-house: 14532778
 hq: London, UK
 uk-region: London
+country-code: GB
 founded: 2022
 size: micro
 sources-verified: 2026-07-04

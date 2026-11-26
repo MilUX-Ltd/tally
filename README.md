@@ -47,6 +47,10 @@ Three more files sit beside the company pages, for the Tally site and anyone els
 
 All three are written by `scripts/export_clusters_events.py` as part of the weekly refresh, and checked by `tests/acceptance/test_cluster_events.py` and `tests/acceptance/test_opportunities.py`.
 
+## Countries
+
+Every company page carries its country as an ISO code (`country-code`, `GB` for the UK), and `countries.json` lists the countries Tally knows, with a flag for those shown on the Tally site. Today only the UK is switched on; companies elsewhere are listed by country. See `docs/countries-data.md`.
+
 ## Tags
 
 Companies are tagged by capability and by a set of prefixed facets: size (`size-`), organisation type (`type-`), ownership (`owned-` / `backed-`), frameworks (`fw-`), accreditations (`accr-`), programmes (`prog-`), and memberships (`mbr-`). See `Tagging.md` for the full list.

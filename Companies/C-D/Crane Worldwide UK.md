@@ -6,6 +6,7 @@ linkedin: https://www.linkedin.com/company/crane-worldwide-logistics_2
 companies-house: SC346327
 hq: Houston, United States
 uk-region: Scotland
+country-code: GB
 founded: 2008
 size: large
 headcount: 3500

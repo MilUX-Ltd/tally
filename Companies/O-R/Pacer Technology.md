@@ -5,6 +5,7 @@ website: https://pacer-technology.com
 companies-house: "16022338"
 hq: West Chiltington, United Kingdom
 uk-region: South East
+country-code: GB
 size: micro
 sources-verified: 2026-11-19
 lat: 50.95553

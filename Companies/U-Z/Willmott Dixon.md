@@ -6,6 +6,7 @@ linkedin: https://www.linkedin.com/company/willmott-dixon
 companies-house: "00768173"
 hq: Letchworth Garden City, United Kingdom
 uk-region: East of England
+country-code: GB
 founded: 1852
 size: large
 sources-verified: 2026-11-19

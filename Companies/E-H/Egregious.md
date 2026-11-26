@@ -6,6 +6,7 @@ linkedin: https://www.linkedin.com/company/egregious
 companies-house: "15013438"
 hq: London, United Kingdom
 uk-region: London
+country-code: GB
 founded: 2023
 size: micro
 headcount: 7

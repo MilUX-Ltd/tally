@@ -4,6 +4,7 @@ name: Ontic Engineering & Manufacturing Ltd
 website: https://www.ontic.com
 hq: Cheltenham, United Kingdom
 uk-region: South West
+country-code: GB
 size: large
 sources-verified: 2026-07-05
 lat: 51.90073

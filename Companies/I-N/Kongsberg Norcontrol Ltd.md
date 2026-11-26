@@ -4,6 +4,7 @@ name: Kongsberg Norcontrol Ltd
 website: https://www.kongsberg.com
 hq: Kongsberg, Norway
 uk-region: South West
+country-code: GB
 size: large
 sources-verified: 2026-07-04
 location-source: region

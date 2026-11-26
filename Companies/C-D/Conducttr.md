@@ -6,6 +6,7 @@ linkedin: https://uk.linkedin.com/company/conducttr
 companies-house: 07460263
 hq: London, United Kingdom
 uk-region: London
+country-code: GB
 founded: 2010
 size: small
 sources-verified: 2026-07-04

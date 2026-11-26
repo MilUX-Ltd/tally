@@ -4,6 +4,7 @@ name: Skylift UAV Ltd
 website: https://www.skyliftuav.co.uk
 hq: Syston, United Kingdom
 uk-region: East Midlands
+country-code: GB
 sources-verified: 2026-06-30
 lat: 52.69921
 lon: -1.07281

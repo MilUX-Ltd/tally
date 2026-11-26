@@ -4,6 +4,7 @@ name: PRP Optoelectronics Limited
 website: http://www.prpopto.com
 hq: Swindon, UK
 uk-region: South West
+country-code: GB
 sources-verified: 2026-07-05
 lat: 51.56153
 lon: -1.78546

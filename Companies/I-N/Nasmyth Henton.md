@@ -4,6 +4,7 @@ name: Nasmyth Henton
 website: http://www.hentonengineering.com
 hq: Hinckley, United Kingdom
 uk-region: East Midlands
+country-code: GB
 headcount: ~65
 sources-verified: 2026-07-05
 lat: 52.54105

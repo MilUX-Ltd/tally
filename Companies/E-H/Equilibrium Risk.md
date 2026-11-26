@@ -4,6 +4,7 @@ name: Equilibrium Risk
 website: https://www.equilibriumrisk.com
 hq: Huddersfield, England
 uk-region: Yorkshire and The Humber
+country-code: GB
 size: micro
 sources-verified: 2026-07-16
 lat: 53.64428

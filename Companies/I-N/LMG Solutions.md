@@ -6,6 +6,7 @@ linkedin: https://www.linkedin.com/company/lmg-solutions-ltd
 companies-house: "03780036"
 hq: Bridgend, United Kingdom
 uk-region: Wales
+country-code: GB
 founded: 1999
 size: small
 sources-verified: 2026-11-19

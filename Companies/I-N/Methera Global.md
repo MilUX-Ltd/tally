@@ -4,6 +4,7 @@ name: Methera Global
 website: https://www.metheraglobal.com
 hq: Didcot, United Kingdom
 uk-region: South East
+country-code: GB
 size: small
 sources-verified: 2026-07-16
 lat: 51.60638

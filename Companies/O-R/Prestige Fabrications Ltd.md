@@ -4,6 +4,7 @@ name: Prestige Fabrications Ltd
 website: https://www.prestige-fabrications.co.uk
 hq: East Kilbride, UK
 uk-region: Scotland
+country-code: GB
 founded: 1994
 sources-verified: 2026-07-05
 lat: 55.75807

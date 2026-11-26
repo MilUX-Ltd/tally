@@ -6,6 +6,7 @@ linkedin: https://www.linkedin.com/company/exotopic
 companies-house: 09238982
 hq: London, United Kingdom
 uk-region: London
+country-code: GB
 founded: 2014
 size: micro
 sources-verified: 2026-07-04

@@ -4,6 +4,7 @@ name: Northside Precision Tooling Ltd
 website: http://www.northsideprecision.com
 hq: Glasgow, UK
 uk-region: Scotland
+country-code: GB
 sources-verified: 2026-07-05
 lat: 55.86363
 lon: -4.23688

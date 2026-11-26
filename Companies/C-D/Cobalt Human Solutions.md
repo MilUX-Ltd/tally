@@ -5,6 +5,7 @@ website: https://cobalths.co.uk
 companies-house: "12983928"
 hq: Lincoln, United Kingdom
 uk-region: East Midlands
+country-code: GB
 founded: 2020
 sources-verified: 2026-11-19
 postcode: LN6 7DQ

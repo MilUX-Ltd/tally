@@ -4,6 +4,7 @@ name: Safran UK Ltd
 website: https://www.safran-group.com
 hq: Paris, France
 uk-region: South East
+country-code: GB
 size: large
 sources-verified: 2026-06-30
 location-source: region

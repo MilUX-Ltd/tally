@@ -4,6 +4,7 @@ name: Primary Networks
 website: https://www.primarynetworks.co.uk
 hq: London, UK
 uk-region: London
+country-code: GB
 companies-house: 05529842
 founded: 2005
 sources-verified: 2026-07-05

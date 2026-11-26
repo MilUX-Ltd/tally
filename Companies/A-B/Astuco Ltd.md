@@ -6,6 +6,7 @@ linkedin: https://www.linkedin.com/company/astuco
 companies-house: "14636601"
 hq: Wimborne, United Kingdom
 uk-region: South West
+country-code: GB
 founded: 2023
 size: small
 sources-verified: 2026-07-04

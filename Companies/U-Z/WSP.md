@@ -4,6 +4,7 @@ name: WSP
 website: https://www.wsp.com/en-GB/
 hq: Montreal, Canada
 uk-region: London
+country-code: GB
 size: large
 sources-verified: 2026-07-01
 location-source: region

@@ -4,6 +4,7 @@ name: University of South Wales
 website: https://www.southwales.ac.uk
 hq: Pontypridd, United Kingdom
 uk-region: Wales
+country-code: GB
 founded: 2013
 size: large
 sources-verified: 2026-11-19

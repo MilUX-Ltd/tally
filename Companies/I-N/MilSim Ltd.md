@@ -5,6 +5,7 @@ website: https://milsim.uk
 companies-house: 14443724
 hq: London, United Kingdom
 uk-region: London
+country-code: GB
 founded: 2022
 size: micro
 sources-verified: 2026-07-05

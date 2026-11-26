@@ -4,6 +4,7 @@ name: Keysight Technologies UK Ltd
 website: https://www.keysight.com
 hq: Santa Rosa, United States
 uk-region: South East
+country-code: GB
 sources-verified: 2026-07-04
 location-source: region
 location-note: UK location not published

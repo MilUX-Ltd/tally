@@ -5,6 +5,7 @@ website: https://myprintpod.com
 companies-house: "10946820"
 hq: Fareham, United Kingdom
 uk-region: South East
+country-code: GB
 size: micro
 sources-verified: 2026-11-19
 postcode: PO17 6EA

@@ -6,6 +6,7 @@ linkedin: https://uk.linkedin.com/company/metcloud
 companies-house: 03594373
 hq: Birmingham, United Kingdom
 uk-region: West Midlands
+country-code: GB
 founded: 1998
 size: small
 sources-verified: 2026-07-05

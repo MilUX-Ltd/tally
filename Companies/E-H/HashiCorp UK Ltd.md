@@ -4,6 +4,7 @@ name: HashiCorp UK Ltd
 website: https://www.hashicorp.com
 hq: San Francisco, United States
 uk-region: South West
+country-code: GB
 sources-verified: 2026-07-04
 location-source: region
 location-note: UK location not published

@@ -6,6 +6,7 @@ linkedin: https://www.linkedin.com/company/eagle-eye-innovations-ltd
 companies-house: "08631843"
 hq: Lincoln, UK
 uk-region: East Midlands
+country-code: GB
 founded: 2013
 size: small
 headcount: 60

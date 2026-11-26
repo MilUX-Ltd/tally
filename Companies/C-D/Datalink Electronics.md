@@ -6,6 +6,7 @@ linkedin: https://www.linkedin.com/company/datalink-electronics
 companies-house: "01664664"
 hq: Loughborough, United Kingdom
 uk-region: East Midlands
+country-code: GB
 founded: 1983
 size: small
 headcount: 38-50

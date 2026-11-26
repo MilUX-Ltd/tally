@@ -6,6 +6,7 @@ linkedin: https://www.linkedin.com/company/pme-power-systems-group-limited/
 companies-house: "03289194"
 hq: Plymouth, United Kingdom
 uk-region: South West
+country-code: GB
 sources-verified: 2026-11-19
 postcode: PL7 5EY
 lat: 50.38642

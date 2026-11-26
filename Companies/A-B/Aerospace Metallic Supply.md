@@ -6,6 +6,7 @@ linkedin: https://www.linkedin.com/company/aerospace-metallic-supply-limited
 companies-house: 07008118
 hq: Reading, United Kingdom
 uk-region: South East
+country-code: GB
 founded: 2009
 size: small
 sources-verified: 2026-07-03

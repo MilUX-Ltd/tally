@@ -5,6 +5,7 @@ website: https://www.matchtech.com
 companies-house: "04426336"
 hq: Fareham, United Kingdom
 uk-region: South East
+country-code: GB
 founded: 2002
 sources-verified: 2026-11-19
 postcode: PO15 7AF

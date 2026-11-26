@@ -3,6 +3,7 @@ type: organisation
 name: Crowdangel
 website: https://crowdangel.co.uk
 uk-region: East of England
+country-code: GB
 size: micro
 sources-verified: 2026-07-16
 location-source: region

@@ -6,6 +6,7 @@ linkedin: https://www.linkedin.com/company/ecs-special-projects-limited
 companies-house: "07487578"
 hq: Dorchester, United Kingdom
 uk-region: South West
+country-code: GB
 founded: 2011
 size: micro
 headcount: 4

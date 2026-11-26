@@ -5,6 +5,7 @@ website: http://www.rtaintl.com
 companies-house: NI035726
 hq: Kilkeel, United Kingdom
 uk-region: Northern Ireland
+country-code: GB
 founded: 1989
 sources-verified: 2026-07-05
 postcode: BT34 4ZR

@@ -5,6 +5,7 @@ website: https://www.dataminr.com
 companies-house: "09232100"
 hq: New York, United States
 uk-region: London
+country-code: GB
 founded: 2009
 size: large
 sources-verified: 2026-07-04

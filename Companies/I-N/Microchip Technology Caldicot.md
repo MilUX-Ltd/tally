@@ -6,6 +6,7 @@ linkedin: https://www.linkedin.com/company/microchip-technology
 companies-house: "00705031"
 hq: Caldicot, United Kingdom
 uk-region: Wales
+country-code: GB
 size: medium
 sources-verified: 2026-11-19
 postcode: NP26 5YW

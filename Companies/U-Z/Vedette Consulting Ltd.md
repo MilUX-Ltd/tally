@@ -4,6 +4,7 @@ name: Vedette Consulting Ltd
 website: https://www.vedetteconsulting.com
 hq: Maidenhead, United Kingdom
 uk-region: South East
+country-code: GB
 sources-verified: 2026-07-01
 lat: 51.52275
 lon: -0.72021

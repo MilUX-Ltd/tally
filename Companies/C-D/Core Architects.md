@@ -5,6 +5,7 @@ website: https://www.core-architects.co.uk
 companies-house: "07016284"
 hq: Lincoln, United Kingdom
 uk-region: East Midlands
+country-code: GB
 sources-verified: 2026-11-19
 postcode: LN2 1BD
 lat: 53.23137

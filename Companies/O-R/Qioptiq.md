@@ -4,6 +4,7 @@ name: Qioptiq
 website: https://www.qioptiq.com
 hq: St Asaph, United Kingdom
 uk-region: Wales
+country-code: GB
 sources-verified: 2026-07-05
 lat: 53.25786
 lon: -3.4457

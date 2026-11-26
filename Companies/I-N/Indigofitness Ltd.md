@@ -4,6 +4,7 @@ name: Indigofitness Ltd
 website: https://www.indigofitness.com
 hq: Nuneaton, United Kingdom
 uk-region: West Midlands
+country-code: GB
 sources-verified: 2026-07-04
 lat: 52.52214
 lon: -1.46773

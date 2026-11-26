@@ -5,6 +5,7 @@ website: https://physicore.ai
 linkedin: https://www.linkedin.com/company/physicore-ai/
 hq: London
 uk-region: London
+country-code: GB
 sources-verified: 2026-11-23
 postcode: W2 6BD
 lat: 51.51911

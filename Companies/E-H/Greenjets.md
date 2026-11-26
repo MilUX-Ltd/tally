@@ -6,6 +6,7 @@ linkedin: https://www.linkedin.com/company/greenjetsltd/
 companies-house: 14513490
 hq: Watford, Hertfordshire
 uk-region: East of England
+country-code: GB
 founded: 2022
 size: micro
 sources-verified: 2026-07-04

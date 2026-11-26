@@ -5,6 +5,7 @@ website:
 companies-house: 11644298
 hq: Stockton-on-Tees, United Kingdom
 uk-region: North East
+country-code: GB
 founded: 2018
 size: micro
 sources-verified: 2026-07-05

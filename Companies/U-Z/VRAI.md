@@ -8,6 +8,7 @@ uk-region: Overseas
 founded: 2017
 sources-verified: 2026-06-30
 country: Ireland
+country-code: IE
 tags:
   - defence
   - simulation

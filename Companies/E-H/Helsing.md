@@ -6,6 +6,7 @@ linkedin: https://www.linkedin.com/company/helsing
 companies-house: "13447361"
 hq: Munich, Germany
 uk-region: South West
+country-code: GB
 founded: 2021
 size: large
 sources-verified: 2026-07-04

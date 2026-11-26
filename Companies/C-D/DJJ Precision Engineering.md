@@ -6,6 +6,7 @@ linkedin: https://www.linkedin.com/company/djj-engineering
 companies-house: 01763682
 hq: Pontypool, UK
 uk-region: Wales
+country-code: GB
 founded: 1976
 size: small
 sources-verified: 2026-07-04

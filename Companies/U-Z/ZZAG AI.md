@@ -8,6 +8,7 @@ postcode: SK7 2BE
 lat: 53.35856
 lon: -2.16781
 location-source: website
+country-code: GB
 tags:
   - defence
   - mbr-ads

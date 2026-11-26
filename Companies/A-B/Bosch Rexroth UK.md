@@ -6,6 +6,7 @@ linkedin: https://www.linkedin.com/company/bosch-rexroth-uk
 companies-house: "00768471"
 hq: St Neots, United Kingdom
 uk-region: East of England
+country-code: GB
 sources-verified: 2026-11-19
 postcode: PE19 2ES
 lat: 52.22045

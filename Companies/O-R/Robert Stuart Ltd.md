@@ -5,6 +5,7 @@ website: https://www.robert-stuart.co.uk
 companies-house: "00398525"
 hq: Harlow, United Kingdom
 uk-region: East of England
+country-code: GB
 founded: 1945
 size: small
 headcount: 50-100

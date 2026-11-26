@@ -5,6 +5,7 @@ website: https://hnosispace.com
 companies-house: "16031724"
 hq: Hemel Hempstead, United Kingdom
 uk-region: East of England
+country-code: GB
 founded: 2024
 sources-verified: 2026-11-19
 postcode: HP1 1ES

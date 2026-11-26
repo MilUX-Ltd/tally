@@ -11,6 +11,7 @@ postcode: GL51 6TQ
 lat: 51.89896
 lon: -2.1563
 location-source: companies-house
+country-code: GB
 tags:
   - defence
   - software

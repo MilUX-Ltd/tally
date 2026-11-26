@@ -6,6 +6,7 @@ linkedin: https://uk.linkedin.com/company/conjay
 companies-house: 01751156
 hq: Monmouth, United Kingdom
 uk-region: Wales
+country-code: GB
 founded: 1954
 size: micro
 sources-verified: 2026-07-04

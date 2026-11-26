@@ -6,6 +6,7 @@ linkedin: https://www.linkedin.com/company/pela-systems
 companies-house: 08685676
 hq: Westbury, Wiltshire, United Kingdom
 uk-region: South West
+country-code: GB
 size: micro
 sources-verified: 2026-07-05
 postcode: BA13 4HR

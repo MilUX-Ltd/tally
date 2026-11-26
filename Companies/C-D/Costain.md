@@ -6,6 +6,7 @@ linkedin: https://www.linkedin.com/company/costain
 companies-house: 1393773
 hq: Maidenhead, United Kingdom
 uk-region: South East
+country-code: GB
 size: large
 sources-verified: 2026-07-04
 lat: 51.52275

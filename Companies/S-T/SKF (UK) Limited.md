@@ -4,6 +4,7 @@ name: SKF (UK) Limited
 website: https://www.skf.com/group/industries/aerospace
 hq: Gothenburg, Sweden
 uk-region: South West
+country-code: GB
 size: large
 sources-verified: 2026-06-30
 location-source: region

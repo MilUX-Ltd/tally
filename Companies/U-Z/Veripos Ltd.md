@@ -4,6 +4,7 @@ name: Veripos Ltd
 website: http://www.veripos.com
 hq: Aberdeen, United Kingdom
 uk-region: Scotland
+country-code: GB
 sources-verified: 2026-07-01
 lat: 57.14985
 lon: -2.09376

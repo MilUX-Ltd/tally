@@ -9,6 +9,7 @@ founded: 2025
 size: small
 sources-verified: 2026-07-17
 country: Türkiye
+country-code: TR
 tags:
   - defence
   - hardware

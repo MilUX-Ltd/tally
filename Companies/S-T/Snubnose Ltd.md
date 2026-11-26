@@ -4,6 +4,7 @@ name: Snubnose Ltd
 website: https://www.snubnose.io
 hq: Thrapston, United Kingdom
 uk-region: East Midlands
+country-code: GB
 sources-verified: 2026-06-30
 lat: 52.39698
 lon: -0.53804

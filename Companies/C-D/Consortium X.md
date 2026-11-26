@@ -5,6 +5,7 @@ website: https://consortiumx.co.uk
 companies-house: 14347267
 hq: Cardiff, United Kingdom
 uk-region: Wales
+country-code: GB
 founded: 2022
 size: small
 sources-verified: 2026-07-04

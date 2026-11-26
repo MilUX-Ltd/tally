@@ -6,6 +6,7 @@ linkedin: https://www.linkedin.com/company/gardner-aerospace
 companies-house: 07978111
 hq: Derby, United Kingdom
 uk-region: East Midlands
+country-code: GB
 size: large
 headcount: 2000
 sources-verified: 2026-07-04

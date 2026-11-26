@@ -5,6 +5,7 @@ website: https://www.motionapplied.com/
 linkedin: https://www.linkedin.com/company/motionapplied/
 hq: Surrey, UK
 uk-region: South East
+country-code: GB
 sources-verified: 2026-07-05
 lat: 51.27153
 lon: -0.34145

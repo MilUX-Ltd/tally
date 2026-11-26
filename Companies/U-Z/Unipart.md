@@ -4,6 +4,7 @@ name: Unipart
 website: https://www.unipart.com/aerospace/
 hq: Oxford, United Kingdom
 uk-region: South East
+country-code: GB
 size: large
 sources-verified: 2026-06-30
 lat: 51.75198

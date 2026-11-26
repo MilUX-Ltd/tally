@@ -5,6 +5,7 @@ website: https://www.rtc.co.uk
 companies-house: "02587032"
 hq: Bristol, United Kingdom
 uk-region: South West
+country-code: GB
 sources-verified: 2026-07-05
 postcode: WR5 2RY
 lat: 52.17573

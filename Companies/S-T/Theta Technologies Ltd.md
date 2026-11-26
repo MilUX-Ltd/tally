@@ -4,6 +4,7 @@ name: Theta Technologies Ltd
 website: https://www.thetaNDT.com
 hq: Exeter, United Kingdom
 uk-region: South West
+country-code: GB
 sources-verified: 2026-06-30
 lat: 50.72258
 lon: -3.5326

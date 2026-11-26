@@ -4,6 +4,7 @@ name: UKC Group
 website: https://www.ukc.group
 hq: Latchingdon, UK
 uk-region: East of England
+country-code: GB
 sources-verified: 2026-06-30
 lat: 51.65978
 lon: 0.72481

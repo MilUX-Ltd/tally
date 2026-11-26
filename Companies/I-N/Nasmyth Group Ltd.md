@@ -4,6 +4,7 @@ name: Nasmyth Group Ltd
 website: http://www.nasmyth.com
 hq: Coventry, United Kingdom
 uk-region: West Midlands
+country-code: GB
 headcount: 500+
 sources-verified: 2026-07-05
 lat: 52.40771

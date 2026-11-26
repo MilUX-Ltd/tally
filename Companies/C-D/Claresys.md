@@ -6,6 +6,7 @@ linkedin: https://www.linkedin.com/company/claresys-ltd
 companies-house: 06501929
 hq: Abingdon, United Kingdom
 uk-region: South East
+country-code: GB
 founded: 2008
 size: micro
 headcount: 8

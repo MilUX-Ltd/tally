@@ -6,6 +6,7 @@ linkedin: https://www.linkedin.com/company/avl-in-the-united-kingdom
 companies-house: 05442936
 hq: Graz, Austria
 uk-region: East of England
+country-code: GB
 founded: 2005
 size: medium
 sources-verified: 2026-07-03

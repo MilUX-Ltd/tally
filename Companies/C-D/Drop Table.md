@@ -6,6 +6,7 @@ linkedin: https://www.linkedin.com/company/drop-table-io
 companies-house: 13389739
 hq: Leicester, United Kingdom
 uk-region: East Midlands
+country-code: GB
 founded: 2021
 size: small
 sources-verified: 2026-07-04

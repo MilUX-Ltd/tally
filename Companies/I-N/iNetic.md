@@ -6,6 +6,7 @@ linkedin: https://www.linkedin.com/company/ineticltd
 companies-house: "04322550"
 hq: Andover, United Kingdom
 uk-region: South East
+country-code: GB
 sources-verified: 2026-11-19
 postcode: SP10 3SJ
 lat: 51.21129

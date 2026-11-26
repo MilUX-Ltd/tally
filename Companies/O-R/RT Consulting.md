@@ -9,6 +9,7 @@ lat: 52.35341
 lon: 0.50075
 location-source: companies-house
 location-note: registered office of the company with this exact name on the register
+country-code: GB
 tags:
   - defence
   - cyber

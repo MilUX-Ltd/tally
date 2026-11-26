@@ -4,6 +4,7 @@ name: Photo-Sonics International Ltd
 website: https://www.photo-sonics.co.uk
 hq: Thame, United Kingdom
 uk-region: South East
+country-code: GB
 sources-verified: 2026-07-05
 lat: 51.74822
 lon: -0.9795

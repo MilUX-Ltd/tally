@@ -4,6 +4,7 @@ name: University of Surrey
 website: https://www.surrey.ac.uk
 hq: Guildford, United Kingdom
 uk-region: South East
+country-code: GB
 sources-verified: 2026-11-19
 postcode: GU2 7XH
 lat: 51.24269

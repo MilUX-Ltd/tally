@@ -5,6 +5,7 @@ website: https://www.chess-dynamics.com
 linkedin: https://uk.linkedin.com/company/chess-dynamics-ltd
 hq: Horsham, United Kingdom
 uk-region: South East
+country-code: GB
 founded: 2005
 size: medium
 headcount: 200+

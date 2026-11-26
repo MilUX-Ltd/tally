@@ -6,6 +6,7 @@ linkedin: https://www.linkedin.com/company/quantexa/
 companies-house: "10045407"
 hq: London, United Kingdom
 uk-region: London
+country-code: GB
 founded: 2016
 sources-verified: 2026-11-19
 postcode: SE1 7ND

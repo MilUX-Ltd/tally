@@ -4,6 +4,7 @@ name: Grainger & Worral Ltd
 website: https://www.gwcast.com
 hq: Bridgnorth, United Kingdom
 uk-region: West Midlands
+country-code: GB
 size: medium
 sources-verified: 2026-07-04
 lat: 52.53584

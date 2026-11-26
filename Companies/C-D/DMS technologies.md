@@ -5,6 +5,7 @@ website: https://www.dmstech.co.uk
 companies-house: "01553793"
 hq: Romsey, United Kingdom
 uk-region: South East
+country-code: GB
 founded: 1986
 size: small
 sources-verified: 2026-07-04

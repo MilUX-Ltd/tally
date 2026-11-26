@@ -5,6 +5,7 @@ website: https://www.ford-engineering.com
 companies-house: "00384775"
 hq: South Shields, United Kingdom
 uk-region: North East
+country-code: GB
 founded: 1944
 size: small
 headcount: 95

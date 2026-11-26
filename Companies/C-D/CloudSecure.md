@@ -6,6 +6,7 @@ linkedin: https://www.linkedin.com/company/cloudsecure-ltd
 companies-house: 12245545
 hq: Loughborough, United Kingdom
 uk-region: East Midlands
+country-code: GB
 founded: 2019
 size: small
 sources-verified: 2026-07-04

@@ -4,6 +4,7 @@ name: Hyde Aero Products Limited
 website: https://www.hydegroup.com
 hq: Dukinfield, United Kingdom
 uk-region: North West
+country-code: GB
 sources-verified: 2026-07-04
 lat: 53.47702
 lon: -2.08193

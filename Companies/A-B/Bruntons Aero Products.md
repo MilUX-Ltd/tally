@@ -6,6 +6,7 @@ linkedin: https://uk.linkedin.com/company/bruntons-aero-products
 companies-house: 00045894
 hq: Musselburgh, Scotland
 uk-region: Scotland
+country-code: GB
 founded: 1895
 size: small
 sources-verified: 2026-07-04

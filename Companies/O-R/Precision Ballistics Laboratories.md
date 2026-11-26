@@ -4,6 +4,7 @@ name: Precision Ballistics Laboratories
 website: https://precisionballistics.co.uk
 hq: Shrivenham, United Kingdom
 uk-region: South East
+country-code: GB
 size: small
 sources-verified: 2026-07-16
 lat: 51.59844

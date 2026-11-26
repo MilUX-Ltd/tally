@@ -6,6 +6,7 @@ linkedin: https://www.linkedin.com/company/airbox-systems
 companies-house: 06534784
 hq: Wantage, United Kingdom
 uk-region: South East
+country-code: GB
 founded: 2008
 size: small
 sources-verified: 2026-07-03

@@ -6,6 +6,7 @@ linkedin: https://www.linkedin.com/company/drakon-group-ltd
 companies-house: 10044783
 hq: Bicester, United Kingdom
 uk-region: South East
+country-code: GB
 founded: 2016
 size: micro
 sources-verified: 2026-07-04

@@ -6,6 +6,7 @@ linkedin: https://www.linkedin.com/company/faun-trackway
 companies-house: 09283749
 hq: Llangefni, UK
 uk-region: Wales
+country-code: GB
 founded: 1940
 size: small
 sources-verified: 2026-07-04

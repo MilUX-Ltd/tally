@@ -4,6 +4,7 @@ name: Martin Precision Ltd
 website: https://www.martin-precision.co.uk
 hq: Lanark, UK
 uk-region: Scotland
+country-code: GB
 sources-verified: 2026-07-05
 lat: 55.67382
 lon: -3.77588

@@ -4,6 +4,7 @@ name: Mercia Ventures
 website: https://www.merciaventures.co.uk
 hq: Henley-in-Arden, United Kingdom
 uk-region: West Midlands
+country-code: GB
 sources-verified: 2026-11-19
 postcode: B95 5AA
 lat: 52.29602

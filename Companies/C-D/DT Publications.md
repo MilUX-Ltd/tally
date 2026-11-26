@@ -5,6 +5,7 @@ website: http://dt-publications.com
 companies-house: 05803170
 hq: Derby, United Kingdom
 uk-region: East Midlands
+country-code: GB
 size: micro
 sources-verified: 2026-07-04
 postcode: DE1 2RJ

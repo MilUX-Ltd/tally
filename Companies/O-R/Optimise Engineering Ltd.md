@@ -4,6 +4,7 @@ name: Optimise Engineering Ltd
 website: https://www.optimise-engineering.co.uk
 hq: Sleaford, United Kingdom
 uk-region: East Midlands
+country-code: GB
 sources-verified: 2026-07-05
 lat: 52.99945
 lon: -0.41038

@@ -5,6 +5,7 @@ website: https://amfni.com/
 companies-house: NI042958
 hq: Ballymena, Northern Ireland
 uk-region: Northern Ireland
+country-code: GB
 founded: 2002
 size: small
 headcount: 11

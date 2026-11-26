@@ -4,6 +4,7 @@ name: Stellar Solutions Aerospace Ltd
 website: https://www.stellaraerospace.co.uk
 hq: El Segundo, United States
 uk-region: South East
+country-code: GB
 sources-verified: 2026-06-30
 location-source: region
 location-note: UK location not published

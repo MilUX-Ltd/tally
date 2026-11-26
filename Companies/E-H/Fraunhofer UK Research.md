@@ -6,6 +6,7 @@ linkedin: https://www.linkedin.com/company/fraunhofer-uk-research-limited
 companies-house: SC419797
 hq: Glasgow, United Kingdom
 uk-region: Scotland
+country-code: GB
 founded: 2012
 size: small
 sources-verified: 2026-07-04

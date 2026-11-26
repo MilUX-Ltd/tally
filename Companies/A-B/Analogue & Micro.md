@@ -5,6 +5,7 @@ website: https://www.analogue-micro.com
 companies-house: "03281763"
 hq: Cwmbran, United Kingdom
 uk-region: Wales
+country-code: GB
 founded: 1996
 size: small
 sources-verified: 2026-11-19

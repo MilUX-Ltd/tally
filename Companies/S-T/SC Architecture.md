@@ -5,6 +5,7 @@ website: https://www.sc-architecture.co.uk
 companies-house: "07884313"
 hq: Chandler's Ford, United Kingdom
 uk-region: South East
+country-code: GB
 founded: 2011
 sources-verified: 2026-11-19
 postcode: SO53 4DY

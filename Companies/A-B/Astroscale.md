@@ -6,6 +6,7 @@ linkedin: https://www.linkedin.com/company/astroscale
 companies-house: 10689249
 hq: Tokyo, Japan
 uk-region: South East
+country-code: GB
 founded: 2017
 size: large
 headcount: 250+

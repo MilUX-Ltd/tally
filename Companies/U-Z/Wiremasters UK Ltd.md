@@ -5,6 +5,7 @@ website: https://www.wiremasters.co.uk
 companies-house: BR022813
 hq: Swindon, United Kingdom
 uk-region: South West
+country-code: GB
 size: small
 sources-verified: 2026-07-16
 postcode: SN3 1NG

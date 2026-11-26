@@ -6,6 +6,7 @@ linkedin: https://www.linkedin.com/company/beyond-blue-limited
 companies-house: SC625508
 hq: Edinburgh, United Kingdom
 uk-region: Scotland
+country-code: GB
 founded: 2019
 size: small
 sources-verified: 2026-07-04

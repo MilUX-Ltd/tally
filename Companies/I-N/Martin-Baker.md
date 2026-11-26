@@ -4,6 +4,7 @@ name: Martin-Baker Aircraft Company Limited
 website: https://www.martin-baker.com
 hq: Denham, UK
 uk-region: South East
+country-code: GB
 sources-verified: 2026-07-05
 lat: 51.5675
 lon: -0.50218

@@ -6,6 +6,7 @@ linkedin: https://uk.linkedin.com/company/antillion
 companies-house: 07887122
 hq: Bristol, United Kingdom
 uk-region: South West
+country-code: GB
 founded: 2011
 size: small
 sources-verified: 2026-07-03

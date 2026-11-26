@@ -4,6 +4,7 @@ name: Newton Europe Ltd
 website: https://newtonimpact.com
 hq: Oxfordshire, UK
 uk-region: South East
+country-code: GB
 sources-verified: 2026-07-05
 lat: 51.83333
 lon: -1.25

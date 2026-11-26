@@ -6,6 +6,7 @@ linkedin: https://www.linkedin.com/company/airnesco-group-ltd
 companies-house: 03183992
 hq: Maidstone, United Kingdom
 uk-region: South East
+country-code: GB
 founded: 1996
 size: micro
 sources-verified: 2026-07-03

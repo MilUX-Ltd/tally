@@ -4,6 +4,7 @@ name: Simutec Systems Ltd
 website: https://www.simutecsystems.com
 hq: Biggleswade, United Kingdom
 uk-region: East of England
+country-code: GB
 sources-verified: 2026-06-30
 lat: 52.0882
 lon: -0.2589

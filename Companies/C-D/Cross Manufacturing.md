@@ -6,6 +6,7 @@ linkedin: https://www.linkedin.com/company/cross-manufacturing-company-1938-ltd/
 companies-house: "00342798"
 hq: Bath, United Kingdom
 uk-region: South West
+country-code: GB
 founded: 1938
 size: medium
 headcount: 550

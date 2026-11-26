@@ -4,6 +4,7 @@ name: Verify Europe Ltd
 website: http://www.verify-europe.com
 hq: Milton Keynes, United Kingdom
 uk-region: South East
+country-code: GB
 sources-verified: 2026-07-01
 lat: 52.04302
 lon: -0.75406

@@ -4,6 +4,7 @@ name: Vital Seating & Systems Limited
 website: https://www.vitalseatingsystems.com
 hq: Chelmsford, United Kingdom
 uk-region: East of England
+country-code: GB
 sources-verified: 2026-07-01
 lat: 51.73453
 lon: 0.47305

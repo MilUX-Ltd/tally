@@ -6,6 +6,7 @@ linkedin: https://uk.linkedin.com/company/accrofab
 companies-house: 11700293
 hq: Alcester, England
 uk-region: West Midlands
+country-code: GB
 founded: 2018
 size: small
 sources-verified: 2026-07-03

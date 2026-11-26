@@ -5,6 +5,7 @@ website: https://www.erinacus.com
 companies-house: "16101266"
 hq: Ropley, United Kingdom
 uk-region: South East
+country-code: GB
 founded: 2024
 size: micro
 sources-verified: 2026-11-19

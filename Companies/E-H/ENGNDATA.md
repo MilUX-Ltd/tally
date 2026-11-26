@@ -5,6 +5,7 @@ website: https://www.engndata.com
 companies-house: "15522929"
 hq: Gosport, United Kingdom
 uk-region: South East
+country-code: GB
 founded: 2024
 size: micro
 sources-verified: 2026-11-19

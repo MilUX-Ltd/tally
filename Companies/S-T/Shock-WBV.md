@@ -4,6 +4,7 @@ name: Shock-WBV
 website: https://shock-wbv.com
 hq: Warsash, United Kingdom
 uk-region: South East
+country-code: GB
 sources-verified: 2026-06-30
 lat: 50.85315
 lon: -1.29637

@@ -6,6 +6,7 @@ linkedin: https://www.linkedin.com/company/blacksmiths-group-ltd
 companies-house: 09875845
 hq: Cheltenham, United Kingdom
 uk-region: South West
+country-code: GB
 founded: 2015
 size: small
 sources-verified: 2026-07-04

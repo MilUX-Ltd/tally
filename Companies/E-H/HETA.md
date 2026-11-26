@@ -5,6 +5,7 @@ website: https://www.heta.co.uk
 companies-house: "01007353"
 hq: Hull, United Kingdom
 uk-region: Yorkshire and The Humber
+country-code: GB
 founded: 1967
 sources-verified: 2026-11-19
 postcode: HU8 7LA

@@ -4,6 +4,7 @@ name: NUMA Innovation Ltd
 website: https://www.numa-innovation.com
 hq: Belfast, United Kingdom
 uk-region: Northern Ireland
+country-code: GB
 size: micro
 sources-verified: 2026-07-05
 lat: 54.59639

@@ -4,6 +4,7 @@ name: Stream Defence Ltd
 website: https://streamdefence.co.uk
 hq: Kings Langley, United Kingdom
 uk-region: East of England
+country-code: GB
 sources-verified: 2026-06-30
 lat: 51.71356
 lon: -0.4503

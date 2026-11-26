@@ -4,6 +4,7 @@ name: KYOCERA AVX Components Ltd
 website: https://www.kyocera-avx.com
 hq: Kyoto, Japan
 uk-region: South East
+country-code: GB
 size: large
 sources-verified: 2026-07-03
 location-source: region

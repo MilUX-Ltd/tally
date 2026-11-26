@@ -6,6 +6,7 @@ linkedin: https://www.linkedin.com/company/efficio
 companies-house: "04010379"
 hq: London, United Kingdom
 uk-region: London
+country-code: GB
 founded: 2000
 size: large
 headcount: 1300

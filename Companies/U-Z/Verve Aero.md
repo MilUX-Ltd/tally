@@ -6,6 +6,7 @@ linkedin: https://www.linkedin.com/company/verveaero
 companies-house: "14911380"
 hq: Pontypool, United Kingdom
 uk-region: Wales
+country-code: GB
 founded: 2023
 size: micro
 sources-verified: 2026-11-19

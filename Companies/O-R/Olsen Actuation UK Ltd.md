@@ -4,6 +4,7 @@ name: Olsen Actuation UK Ltd
 website: https://www.olsenactuators.com
 hq: Daresbury, United Kingdom
 uk-region: North West
+country-code: GB
 founded: 2009
 sources-verified: 2026-07-05
 lat: 53.33409

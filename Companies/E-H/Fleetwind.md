@@ -6,6 +6,7 @@ linkedin: https://www.linkedin.com/company/fleetwind
 companies-house: "11942466"
 hq: Polruan, United Kingdom
 uk-region: South West
+country-code: GB
 founded: 2019
 size: micro
 sources-verified: 2026-07-04

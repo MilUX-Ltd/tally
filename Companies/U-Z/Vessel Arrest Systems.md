@@ -4,6 +4,7 @@ name: Vessel Arrest Systems Limited
 website: https://www.vesselarrestsystems.co.uk
 hq: King's Lynn, United Kingdom
 uk-region: East of England
+country-code: GB
 founded: 2009
 size: micro
 sources-verified: 2026-06-29

@@ -5,6 +5,7 @@ website: https://araldo.co.uk
 companies-house: 06634009
 hq: Alton, United Kingdom
 uk-region: South East
+country-code: GB
 founded: 2008
 size: micro
 sources-verified: 2026-07-03

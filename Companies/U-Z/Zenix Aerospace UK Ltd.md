@@ -4,6 +4,7 @@ name: Zenix Aerospace UK Ltd
 website: https://www.zenixaerospace.com
 hq: Earby, United Kingdom
 uk-region: North West
+country-code: GB
 sources-verified: 2026-07-01
 lat: 53.91654
 lon: -2.13983

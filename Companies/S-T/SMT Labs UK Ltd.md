@@ -4,6 +4,7 @@ name: SMT Labs UK Ltd
 website: https://www.smtcorp.com
 hq: Rochester, United Kingdom
 uk-region: South East
+country-code: GB
 sources-verified: 2026-06-30
 lat: 51.38979
 lon: 0.50363

@@ -4,6 +4,7 @@ name: Saviynt Europe Ltd
 website: https://www.saviynt.com
 hq: El Segundo, United States
 uk-region: London
+country-code: GB
 sources-verified: 2026-06-30
 location-source: region
 location-note: UK location not published

@@ -5,6 +5,7 @@ website: https://www.indicatura.com
 linkedin: https://www.linkedin.com/company/indicatura-ltd/
 hq: Manchester, United Kingdom
 uk-region: North West
+country-code: GB
 founded: 2012
 sources-verified: 2026-07-04
 lat: 53.47894

@@ -6,6 +6,7 @@ linkedin: https://www.linkedin.com/company/dre-digital-limited
 companies-house: 08326698
 hq: Winchester, United Kingdom
 uk-region: South East
+country-code: GB
 founded: 2012
 size: micro
 sources-verified: 2026-07-04

@@ -6,6 +6,7 @@ linkedin: https://www.linkedin.com/company/developconsulting
 companies-house: "07128306"
 hq: Coventry, United Kingdom
 uk-region: West Midlands
+country-code: GB
 size: small
 headcount: 11-50
 sources-verified: 2026-11-19

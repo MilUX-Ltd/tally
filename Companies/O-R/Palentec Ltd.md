@@ -4,6 +4,7 @@ name: Palentec Ltd
 website: https://www.palentec.com
 hq: Newbury, United Kingdom
 uk-region: South East
+country-code: GB
 sources-verified: 2026-07-03
 lat: 51.40027
 lon: -1.32305

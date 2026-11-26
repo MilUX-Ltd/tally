@@ -4,6 +4,7 @@ name: Juma Communications Ltd
 website: https://www.jumacommunications.com
 hq: Ashbourne, UK
 uk-region: East Midlands
+country-code: GB
 sources-verified: 2026-07-04
 lat: 53.01772
 lon: -1.73173

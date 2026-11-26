@@ -6,6 +6,7 @@ linkedin: https://www.linkedin.com/company/womble-bond-dickinson-uk-llp/
 companies-house: "OC317661"
 hq: London, United Kingdom
 uk-region: South East
+country-code: GB
 size: large
 sources-verified: 2026-11-19
 postcode: SO15 1GA

@@ -6,6 +6,7 @@ linkedin: https://www.linkedin.com/company/custom-fittings
 companies-house: "01565833"
 hq: Cleckheaton, UK
 uk-region: Yorkshire and The Humber
+country-code: GB
 founded: 1981
 size: small
 sources-verified: 2026-07-04

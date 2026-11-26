@@ -5,6 +5,7 @@ website: https://www.lentro.co.uk
 companies-house: "09637983"
 hq: London, United Kingdom
 uk-region: London
+country-code: GB
 size: micro
 sources-verified: 2026-07-04
 postcode: W5 2JP

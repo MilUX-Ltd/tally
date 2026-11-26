@@ -8,6 +8,7 @@ uk-region: Overseas
 size: small
 sources-verified: 2026-07-04
 country: United States
+country-code: US
 tags:
   - defence
   - gis

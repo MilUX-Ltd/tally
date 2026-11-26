@@ -6,6 +6,7 @@ linkedin: https://www.linkedin.com/company/cundall
 companies-house: OC300389
 hq: Newcastle upon Tyne, UK
 uk-region: North East
+country-code: GB
 founded: 2001
 size: large
 headcount: 1059

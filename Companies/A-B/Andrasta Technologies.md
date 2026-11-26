@@ -5,6 +5,7 @@ website: https://www.andrasta.tech
 companies-house: "17370889"
 hq: London, United Kingdom
 uk-region: London
+country-code: GB
 founded: 2026
 sources-verified: 2026-11-19
 postcode: EC2A 4NA

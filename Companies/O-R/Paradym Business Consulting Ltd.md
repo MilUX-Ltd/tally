@@ -4,6 +4,7 @@ name: Paradym Business Consulting Ltd
 website: https://www.paradymbc.co.uk
 hq: Stirling, United Kingdom
 uk-region: Scotland
+country-code: GB
 size: micro
 sources-verified: 2026-07-05
 lat: 56.11546

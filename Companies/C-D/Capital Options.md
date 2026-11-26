@@ -5,6 +5,7 @@ website: https://www.capitaloptions.co.uk
 companies-house: "06071810"
 hq: Shrewsbury, United Kingdom
 uk-region: West Midlands
+country-code: GB
 founded: 2007
 size: micro
 sources-verified: 2026-11-19

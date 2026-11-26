@@ -6,6 +6,7 @@ linkedin: https://www.linkedin.com/company/brownej
 companies-house: "OC306448"
 hq: Nottingham, United Kingdom
 uk-region: Wales
+country-code: GB
 size: large
 sources-verified: 2026-11-19
 postcode: CF10 1FS

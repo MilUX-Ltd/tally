@@ -4,6 +4,7 @@ name: ubloquity Ltd
 website: https://www.ubloquity.io
 hq: Scarva, UK
 uk-region: Northern Ireland
+country-code: GB
 sources-verified: 2026-06-30
 lat: 54.33175
 lon: -6.36654

@@ -6,6 +6,7 @@ linkedin: https://www.linkedin.com/company/archangellightworks
 companies-house: 10746274
 hq: Oxford, England
 uk-region: South East
+country-code: GB
 size: small
 sources-verified: 2026-07-16
 postcode: OX2 0ES

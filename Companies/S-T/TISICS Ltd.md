@@ -4,6 +4,7 @@ name: TISICS Ltd
 website: https://www.tisics.co.uk
 hq: Farnborough, United Kingdom
 uk-region: South East
+country-code: GB
 sources-verified: 2026-06-30
 lat: 51.29041
 lon: -0.75475

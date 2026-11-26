@@ -5,6 +5,7 @@ website: https://oxcyber.org
 companies-house: 15290302
 hq: Beaconsfield, United Kingdom
 uk-region: South East
+country-code: GB
 founded: 2023
 size: micro
 sources-verified: 2026-07-16

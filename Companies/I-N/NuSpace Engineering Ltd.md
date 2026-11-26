@@ -4,6 +4,7 @@ name: NuSpace Engineering Ltd
 website: https://www.nuspace.tech
 hq: Reading, United Kingdom
 uk-region: South East
+country-code: GB
 size: micro
 sources-verified: 2026-07-05
 lat: 51.4538

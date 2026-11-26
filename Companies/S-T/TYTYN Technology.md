@@ -4,6 +4,7 @@ name: TYTYN Technology (UK) Ltd
 website: https://www.tytyn.io
 hq: Hereford, UK
 uk-region: West Midlands
+country-code: GB
 sources-verified: 2026-06-30
 lat: 52.05598
 lon: -2.71755

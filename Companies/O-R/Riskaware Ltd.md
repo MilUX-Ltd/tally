@@ -5,6 +5,7 @@ website: https://www.riskaware.co.uk
 companies-house: "03812608"
 hq: Bristol, United Kingdom
 uk-region: South West
+country-code: GB
 founded: 1999
 size: small
 headcount: 11-50

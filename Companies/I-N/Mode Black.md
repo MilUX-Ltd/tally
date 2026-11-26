@@ -4,6 +4,7 @@ name: Mode Black
 website: https://mode.black/
 hq: South West, UK
 uk-region: South West
+country-code: GB
 founded: 2022
 sources-verified: 2026-07-05
 location-source: region

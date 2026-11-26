@@ -6,6 +6,7 @@ linkedin: https://www.linkedin.com/company/hpi-sas/
 hq: Chennevières-sur-Marne, France
 uk-region: Overseas
 country: France
+country-code: FR
 founded: 1966
 size: medium
 headcount: 180

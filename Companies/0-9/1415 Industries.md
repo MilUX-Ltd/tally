@@ -3,6 +3,7 @@ type: organisation
 name: 1415 Industries
 linkedin: https://www.linkedin.com/company/107442049
 uk-region: South West
+country-code: GB
 founded: 2025
 sources-verified: 2026-07-03
 location-source: region

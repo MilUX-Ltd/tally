@@ -4,6 +4,7 @@ name: Optalysys Ltd
 website: https://www.optalysys.com
 hq: Leeds, United Kingdom
 uk-region: Yorkshire and The Humber
+country-code: GB
 sources-verified: 2026-07-05
 lat: 53.8007
 lon: -1.55026

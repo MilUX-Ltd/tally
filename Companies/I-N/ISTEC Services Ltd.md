@@ -5,6 +5,7 @@ website: https://istec.co.uk
 linkedin: https://www.linkedin.com/company/istec-services-limited/
 hq: Hertford, United Kingdom
 uk-region: East of England
+country-code: GB
 founded: 1989
 sources-verified: 2026-07-04
 lat: 51.79574

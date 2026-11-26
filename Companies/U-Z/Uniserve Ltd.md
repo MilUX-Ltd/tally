@@ -4,6 +4,7 @@ name: Uniserve Ltd
 website: https://www.uniserve.co.uk
 hq: Feltham, United Kingdom
 uk-region: South East
+country-code: GB
 size: large
 sources-verified: 2026-06-30
 location-source: region

@@ -6,6 +6,7 @@ linkedin: https://www.linkedin.com/company/espanaro
 companies-house: "12836498"
 hq: Newtown, UK
 uk-region: Wales
+country-code: GB
 founded: 2020
 size: small
 sources-verified: 2026-07-04

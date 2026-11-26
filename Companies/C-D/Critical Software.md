@@ -6,6 +6,7 @@ linkedin: https://www.linkedin.com/company/critical-software
 companies-house: "05256049"
 hq: Coimbra, Portugal
 uk-region: South East
+country-code: GB
 founded: 1998
 size: large
 headcount: 1400

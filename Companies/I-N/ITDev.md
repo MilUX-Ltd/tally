@@ -6,6 +6,7 @@ linkedin: https://www.linkedin.com/company/itdev/
 companies-house: "04693711"
 hq: Southampton, United Kingdom
 uk-region: South East
+country-code: GB
 founded: 2000
 sources-verified: 2026-11-19
 postcode: SO16 7NS

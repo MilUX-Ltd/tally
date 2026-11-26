@@ -6,6 +6,7 @@ linkedin:
 companies-house: 
 hq: Needham Market, UK
 uk-region: East of England
+country-code: GB
 founded: 
 size: small
 headcount: 

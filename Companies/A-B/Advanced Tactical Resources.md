@@ -6,6 +6,7 @@ linkedin: https://uk.linkedin.com/company/advanced-tactical-resources-limted
 companies-house: 08151240
 hq: Reading, England
 uk-region: South East
+country-code: GB
 founded: 2012
 size: micro
 headcount: 2-10

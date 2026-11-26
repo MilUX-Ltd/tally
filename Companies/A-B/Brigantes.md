@@ -6,6 +6,7 @@ linkedin: https://uk.linkedin.com/company/brigantes-consulting-ltd
 companies-house: 08834019
 hq: Exeter, United Kingdom
 uk-region: South West
+country-code: GB
 founded: 2014
 size: small
 sources-verified: 2026-07-04

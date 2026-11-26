@@ -4,6 +4,7 @@ name: Shipley Limited
 website: https://www.shipleywins.co.uk
 hq: Yeovil, United Kingdom
 uk-region: South West
+country-code: GB
 sources-verified: 2026-06-30
 lat: 50.94077
 lon: -2.63352

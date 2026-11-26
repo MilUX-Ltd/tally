@@ -6,6 +6,7 @@ linkedin: https://www.linkedin.com/company/electus-recruitment-solutions
 companies-house: "04636093"
 hq: Bournemouth, United Kingdom
 uk-region: South West
+country-code: GB
 founded: 2003
 sources-verified: 2026-11-19
 postcode: BH1 1BZ

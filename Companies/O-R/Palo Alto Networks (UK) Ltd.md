@@ -4,6 +4,7 @@ name: Palo Alto Networks (UK) Ltd
 website: https://www.paloaltonetworks.co.uk
 hq: Santa Clara, United States
 uk-region: London
+country-code: GB
 founded: 2005
 size: large
 sources-verified: 2026-07-03

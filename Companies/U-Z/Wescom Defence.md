@@ -4,6 +4,7 @@ name: Wescom Defence
 website: https://www.wescomdefence.com
 hq: Draycott, UK
 uk-region: East Midlands
+country-code: GB
 sources-verified: 2026-07-01
 lat: 52.89515
 lon: -1.34345

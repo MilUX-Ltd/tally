@@ -5,6 +5,7 @@ website: https://www.cae.com
 companies-house: 00921122
 hq: Montreal, Canada
 uk-region: South East
+country-code: GB
 founded: 1967
 size: large
 sources-verified: 2026-07-04

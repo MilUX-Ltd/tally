@@ -6,6 +6,7 @@ linkedin: https://www.linkedin.com/company/arcanum-information-security-limited
 companies-house: "06567907"
 hq: Caerphilly, United Kingdom
 uk-region: Wales
+country-code: GB
 founded: 2008
 size: medium
 headcount: 62

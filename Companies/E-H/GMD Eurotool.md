@@ -6,6 +6,7 @@ linkedin: https://www.linkedin.com/company/gmd-eurotool
 companies-house: "04483337"
 hq: Plymouth, UK
 uk-region: South West
+country-code: GB
 founded: 2002
 size: small
 sources-verified: 2026-07-04

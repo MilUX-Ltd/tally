@@ -6,6 +6,7 @@ linkedin: https://www.linkedin.com/company/erebus-uk-ltd
 companies-house: "06558262"
 hq: Hereford, UK
 uk-region: West Midlands
+country-code: GB
 founded: 2008
 size: micro
 sources-verified: 2026-07-04

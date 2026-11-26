@@ -6,6 +6,7 @@ linkedin: https://www.linkedin.com/company/angloco-limited
 companies-house: 01958909
 hq: Batley, United Kingdom
 uk-region: Yorkshire and The Humber
+country-code: GB
 founded: 1965
 size: medium
 sources-verified: 2026-07-03

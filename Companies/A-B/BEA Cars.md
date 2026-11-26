@@ -5,6 +5,7 @@ website: https://www.beacars.co.uk
 companies-house: "12658394"
 hq: Fareham, United Kingdom
 uk-region: South East
+country-code: GB
 founded: 2020
 size: micro
 sources-verified: 2026-11-19

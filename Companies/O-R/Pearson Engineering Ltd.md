@@ -4,6 +4,7 @@ name: Pearson Engineering Ltd
 website: https://www.pearson-eng.com
 hq: Newcastle upon Tyne, United Kingdom
 uk-region: North East
+country-code: GB
 sources-verified: 2026-07-05
 lat: 54.97801
 lon: -1.61019

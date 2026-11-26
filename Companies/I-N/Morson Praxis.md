@@ -6,6 +6,7 @@ linkedin: https://www.linkedin.com/company/morson-praxis/
 companies-house: 01457298
 hq: Salford, United Kingdom
 uk-region: North West
+country-code: GB
 sources-verified: 2026-07-05
 postcode: M50 1RD
 lat: 53.48069

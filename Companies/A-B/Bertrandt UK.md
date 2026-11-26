@@ -6,6 +6,7 @@ linkedin: https://www.linkedin.com/company/bertrandt-group
 companies-house: 03129107
 hq: Ehningen, Germany
 uk-region: West Midlands
+country-code: GB
 founded: 1995
 size: medium
 sources-verified: 2026-07-04

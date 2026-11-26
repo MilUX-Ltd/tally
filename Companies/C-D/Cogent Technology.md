@@ -6,6 +6,7 @@ linkedin: https://www.linkedin.com/company/cogent-technology
 companies-house: "01855453"
 hq: Felixstowe, United Kingdom
 uk-region: East of England
+country-code: GB
 founded: 1984
 size: small
 headcount: 105

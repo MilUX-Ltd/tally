@@ -9,6 +9,7 @@ founded: 1991
 size: large
 sources-verified: 2026-07-03
 country: India
+country-code: IN
 tags:
   - defence
   - size-large

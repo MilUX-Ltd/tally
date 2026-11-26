@@ -6,6 +6,7 @@ linkedin: https://www.linkedin.com/company/nquiringminds
 companies-house: "07452630"
 hq: Southampton, United Kingdom
 uk-region: South East
+country-code: GB
 founded: 2010
 size: small
 headcount: 11-50

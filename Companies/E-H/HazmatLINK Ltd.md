@@ -4,6 +4,7 @@ name: HazmatLINK Ltd
 website: http://www.hazmatlink.com
 hq: Cheltenham, United Kingdom
 uk-region: South West
+country-code: GB
 founded: 2004
 size: micro
 sources-verified: 2026-07-04

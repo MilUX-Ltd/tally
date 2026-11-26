@@ -5,6 +5,7 @@ website: https://www.stable.co.uk
 companies-house: "04312513"
 hq: Cardiff, United Kingdom
 uk-region: Wales
+country-code: GB
 founded: 2001
 sources-verified: 2026-11-19
 postcode: CF11 9BW

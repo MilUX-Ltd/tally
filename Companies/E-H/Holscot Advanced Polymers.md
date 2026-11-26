@@ -6,6 +6,7 @@ linkedin: https://www.linkedin.com/company/holscot/
 companies-house: "01721982"
 hq: Grantham, United Kingdom
 uk-region: East Midlands
+country-code: GB
 founded: 1970
 size: small
 sources-verified: 2026-11-19

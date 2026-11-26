@@ -9,6 +9,7 @@ founded: 1985
 size: large
 sources-verified: 2026-06-29
 country: Denmark
+country-code: DK
 tags:
   - defence
   - c2

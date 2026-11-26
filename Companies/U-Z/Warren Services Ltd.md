@@ -4,6 +4,7 @@ name: Warren Services Ltd
 website: https://www.warrenservices.co.uk
 hq: Thetford, UK
 uk-region: East of England
+country-code: GB
 sources-verified: 2026-07-01
 lat: 52.4156
 lon: 0.74871

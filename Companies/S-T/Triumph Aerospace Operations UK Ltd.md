@@ -4,6 +4,7 @@ name: Triumph Aerospace Operations UK Ltd
 website: https://www.triumphgroup.com
 hq: Berwyn, United States
 uk-region: Wales
+country-code: GB
 size: large
 sources-verified: 2026-06-30
 location-source: region

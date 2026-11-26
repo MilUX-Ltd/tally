@@ -6,6 +6,7 @@ linkedin: https://www.linkedin.com/company/seacht-group/
 companies-house: "12502699"
 hq: Ringwood, United Kingdom
 uk-region: South East
+country-code: GB
 founded: 2020
 sources-verified: 2026-11-19
 postcode: BH24 3FA

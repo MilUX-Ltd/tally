@@ -5,6 +5,7 @@ website: https://lightmark-technologies.com
 linkedin: https://www.linkedin.com/company/lightmarktechnologies/
 hq: London, England
 uk-region: London
+country-code: GB
 founded: 2025
 sources-verified: 2026-07-04
 lat: 51.50741

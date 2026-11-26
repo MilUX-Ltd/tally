@@ -6,6 +6,7 @@ linkedin: https://uk.linkedin.com/company/airtanker-services
 companies-house: 06279646
 hq: Carterton, United Kingdom
 uk-region: South East
+country-code: GB
 founded: 2007
 size: large
 headcount: ~702

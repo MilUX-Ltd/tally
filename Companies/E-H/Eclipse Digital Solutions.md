@@ -6,6 +6,7 @@ linkedin: https://www.linkedin.com/company/eclipse-digital-solutions-ltd
 companies-house: "04146087"
 hq: Melton Mowbray, United Kingdom
 uk-region: East Midlands
+country-code: GB
 founded: 2001
 size: small
 headcount: 11-50

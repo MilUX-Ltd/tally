@@ -6,6 +6,7 @@ linkedin: https://www.linkedin.com/company/jet-connectivity
 companies-house: 14386396
 hq: Bromsgrove, United Kingdom
 uk-region: West Midlands
+country-code: GB
 founded: 2020
 size: micro
 sources-verified: 2026-07-04

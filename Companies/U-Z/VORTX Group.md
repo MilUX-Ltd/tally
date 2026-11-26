@@ -6,6 +6,7 @@ linkedin: https://www.linkedin.com/company/vortxgroupltd
 companies-house: "17202428"
 hq: Southampton, United Kingdom
 uk-region: South East
+country-code: GB
 founded: 2026
 sources-verified: 2026-11-19
 postcode: SO14 3LP

@@ -4,6 +4,7 @@ name: Overview Ltd
 website: https://overview.co.uk
 hq: Woking, Surrey
 uk-region: South East
+country-code: GB
 founded: 1985
 sources-verified: 2026-07-05
 location-source: region

@@ -4,6 +4,7 @@ name: Hephaestus OME
 website: https://hephaestus-ome.co.uk
 hq: Bristol, United Kingdom
 uk-region: South West
+country-code: GB
 size: micro
 sources-verified: 2026-07-04
 lat: 51.45313

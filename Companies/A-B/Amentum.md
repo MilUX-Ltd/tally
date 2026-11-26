@@ -6,6 +6,7 @@ linkedin: https://www.linkedin.com/company/amentumcorp
 companies-house: 03909808
 hq: Warrington, United Kingdom
 uk-region: North West
+country-code: GB
 size: large
 headcount: 6,000+ in the UK
 sources-verified: 2026-07-03

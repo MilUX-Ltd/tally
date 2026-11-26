@@ -4,6 +4,7 @@ name: Solstrand Technologies
 website: https://solstrandindustries.com
 hq: High Wycombe, England
 uk-region: South East
+country-code: GB
 size: small
 sources-verified: 2026-07-16
 lat: 51.62876

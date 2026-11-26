@@ -6,6 +6,7 @@ linkedin: https://www.linkedin.com/company/citation-cyber
 companies-house: 08314901
 hq: Wilmslow, United Kingdom
 uk-region: North West
+country-code: GB
 founded: 2012
 size: small
 headcount: 29

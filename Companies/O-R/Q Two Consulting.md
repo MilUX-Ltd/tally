@@ -6,6 +6,7 @@ linkedin: https://www.linkedin.com/company/qtwo
 companies-house: "14982946"
 hq: Kings Somborne, United Kingdom
 uk-region: South East
+country-code: GB
 founded: 2023
 sources-verified: 2026-11-19
 postcode: SO20 6PH

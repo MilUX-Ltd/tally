@@ -4,6 +4,7 @@ name: Howco Group Plc
 website: https://www.howcogroup.com
 hq: Glasgow, United Kingdom
 uk-region: Scotland
+country-code: GB
 founded: 1982
 sources-verified: 2026-07-04
 lat: 55.86363

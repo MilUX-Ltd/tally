@@ -5,6 +5,7 @@ website: https://www.kispe.co.uk
 linkedin: https://www.linkedin.com/company/kispe
 hq: Farnborough, United Kingdom
 uk-region: South East
+country-code: GB
 founded: 2016
 size: micro
 sources-verified: 2026-07-03

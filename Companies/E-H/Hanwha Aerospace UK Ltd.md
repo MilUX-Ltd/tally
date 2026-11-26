@@ -5,6 +5,7 @@ website: https://www.hanwha.com/companies/hanwha-aerospace.do
 companies-house: "15125292"
 hq: Seoul, South Korea
 uk-region: London
+country-code: GB
 founded: 2023
 size: large
 sources-verified: 2026-07-04

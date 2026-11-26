@@ -6,6 +6,7 @@ linkedin: https://www.linkedin.com/company/easol-limited
 companies-house: "12820120"
 hq: Gosport, UK
 uk-region: South East
+country-code: GB
 founded: 2020
 size: micro
 headcount: 8

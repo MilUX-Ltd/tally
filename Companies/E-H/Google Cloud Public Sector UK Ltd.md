@@ -4,6 +4,7 @@ name: Google Cloud Public Sector UK Ltd
 website: https://cloud.google.com/solutions/public-sector
 hq: Mountain View, USA
 uk-region: London
+country-code: GB
 size: large
 sources-verified: 2026-07-04
 location-source: region

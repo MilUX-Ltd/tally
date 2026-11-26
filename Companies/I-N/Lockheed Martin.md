@@ -11,6 +11,7 @@ size: large
 headcount: ~120000
 sources-verified: 2026-07-04
 country: United States
+country-code: US
 tags:
   - defence
   - air

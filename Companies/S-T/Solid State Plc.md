@@ -4,6 +4,7 @@ name: Solid State Plc
 website: https://www.solidstateplc.com
 hq: Redditch, United Kingdom
 uk-region: West Midlands
+country-code: GB
 size: medium
 headcount: "over 425 (group, UK and USA)"
 sources-verified: 2026-07-03

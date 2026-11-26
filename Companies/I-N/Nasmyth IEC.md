@@ -4,6 +4,7 @@ name: Nasmyth IEC
 website: http://www.nasmythgroup.com
 hq: Rustington, United Kingdom
 uk-region: South East
+country-code: GB
 sources-verified: 2026-07-05
 lat: 50.81052
 lon: -0.50824

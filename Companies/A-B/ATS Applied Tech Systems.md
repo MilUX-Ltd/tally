@@ -6,6 +6,7 @@ linkedin: https://www.linkedin.com/company/ats-global
 companies-house: 02601465
 hq: Haarlem, Netherlands
 uk-region: West Midlands
+country-code: GB
 founded: 1991
 size: medium
 headcount: 51-200

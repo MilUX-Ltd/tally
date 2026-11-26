@@ -6,6 +6,7 @@ linkedin: https://www.linkedin.com/company/escend-uk
 companies-house: "06927146"
 hq: Gloucester, UK
 uk-region: South West
+country-code: GB
 founded: 2009
 size: micro
 sources-verified: 2026-07-04

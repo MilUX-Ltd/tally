@@ -4,6 +4,7 @@ name: Verotec Ltd
 website: http://www.verotec.co.uk
 hq: Southampton, United Kingdom
 uk-region: South East
+country-code: GB
 sources-verified: 2026-07-01
 lat: 50.90489
 lon: -1.40431

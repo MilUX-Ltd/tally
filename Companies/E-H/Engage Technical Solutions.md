@@ -6,6 +6,7 @@ linkedin: https://www.linkedin.com/company/engage-technical-solutions-ltd
 companies-house: 07825541
 hq: Chippenham, United Kingdom
 uk-region: South West
+country-code: GB
 founded: 2011
 size: small
 headcount: 77

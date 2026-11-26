@@ -6,6 +6,7 @@ linkedin: https://uk.linkedin.com/company/accles-and-pollock-limited
 companies-house: 09931307
 hq: Oldbury, England
 uk-region: West Midlands
+country-code: GB
 founded: 1896
 size: small
 sources-verified: 2026-07-03

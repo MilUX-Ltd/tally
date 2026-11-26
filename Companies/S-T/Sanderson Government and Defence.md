@@ -5,6 +5,7 @@ website: https://www.sandersonplc.com/specialist-government-defence
 companies-house: "04546820"
 hq: Bristol, United Kingdom
 uk-region: South West
+country-code: GB
 founded: 2002
 sources-verified: 2026-11-19
 postcode: BS8 2NH

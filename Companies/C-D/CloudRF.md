@@ -6,6 +6,7 @@ linkedin: https://www.linkedin.com/company/cloudrf
 companies-house: 07838632
 hq: Gloucester, United Kingdom
 uk-region: South West
+country-code: GB
 founded: 2012
 size: micro
 sources-verified: 2026-07-04

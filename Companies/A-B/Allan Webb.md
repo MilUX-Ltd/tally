@@ -6,6 +6,7 @@ linkedin: https://www.linkedin.com/company/allan-webb-ltd
 companies-house: 01780818
 hq: Stonehouse, United Kingdom
 uk-region: South West
+country-code: GB
 founded: 1983
 size: large
 sources-verified: 2026-06-29

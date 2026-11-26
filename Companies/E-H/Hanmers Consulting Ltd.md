@@ -5,6 +5,7 @@ website:
 companies-house: "09613081"
 hq: Royal Wootton Bassett, United Kingdom
 uk-region: South West
+country-code: GB
 founded: 2015
 size: micro
 sources-verified: 2026-07-04

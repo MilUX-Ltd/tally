@@ -6,6 +6,7 @@ linkedin: https://www.linkedin.com/company/argomrt
 companies-house: "11634843"
 hq: Honiton, United Kingdom
 uk-region: South West
+country-code: GB
 size: small
 headcount: 11-50
 sources-verified: 2026-11-19

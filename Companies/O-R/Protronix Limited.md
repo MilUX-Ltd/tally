@@ -4,6 +4,7 @@ name: Protronix Limited
 website: https://protronix-uk.com
 hq: Bellshill, UK
 uk-region: Scotland
+country-code: GB
 size: small
 sources-verified: 2026-07-05
 lat: 55.81883

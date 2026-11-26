@@ -6,6 +6,7 @@ linkedin: https://www.linkedin.com/company/delkialtd
 companies-house: "07339803"
 hq: Haydock, United Kingdom
 uk-region: North West
+country-code: GB
 founded: 2010
 size: small
 headcount: 47

@@ -6,6 +6,7 @@ linkedin: https://www.linkedin.com/company/c3ia/
 companies-house: "05746584"
 hq: Poole, United Kingdom
 uk-region: South West
+country-code: GB
 founded: 2006
 size: medium
 headcount: 80+ permanent staff

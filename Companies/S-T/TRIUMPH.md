@@ -5,6 +5,7 @@ website: https://www.triumphgroup.com
 linkedin: https://www.linkedin.com/company/triumph-group/
 hq: Radnor, Pennsylvania, USA
 uk-region: Wales
+country-code: GB
 founded: 1993
 size: large
 headcount: 3000

@@ -5,6 +5,7 @@ website: https://www.3ds.com
 companies-house: 03482081
 hq: Vélizy-Villacoublay, France
 uk-region: West Midlands
+country-code: GB
 founded: 1981
 size: large
 headcount: ~26000

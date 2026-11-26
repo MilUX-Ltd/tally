@@ -6,6 +6,7 @@ linkedin: https://www.linkedin.com/company/electrosciences-ltd
 companies-house: "06677527"
 hq: Farnham, UK
 uk-region: South East
+country-code: GB
 founded: 2008
 size: micro
 sources-verified: 2026-07-03

@@ -6,6 +6,7 @@ linkedin: https://uk.linkedin.com/company/mollisgroup
 companies-house: 11853522
 hq: London, United Kingdom
 uk-region: London
+country-code: GB
 founded: 2019
 size: micro
 sources-verified: 2026-07-05

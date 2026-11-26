@@ -4,6 +4,7 @@ name: Nothreat Ltd
 website: https://nothreat.io
 hq: London, United Kingdom
 uk-region: London
+country-code: GB
 size: small
 sources-verified: 2026-07-16
 lat: 51.50741

@@ -4,6 +4,7 @@ name: Premier Hytemp Ltd
 website: http://www.premierhytemp.com
 hq: Kirknewton, United Kingdom
 uk-region: Scotland
+country-code: GB
 sources-verified: 2026-07-05
 lat: 55.88737
 lon: -3.42012

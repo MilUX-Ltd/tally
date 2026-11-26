@@ -6,6 +6,7 @@ linkedin: https://www.linkedin.com/company/havant-sheet-metal-company-limited-th
 companies-house: "00371060"
 hq: Havant, United Kingdom
 uk-region: South East
+country-code: GB
 founded: 1939
 sources-verified: 2026-11-19
 postcode: PO9 2NN

@@ -5,6 +5,7 @@ website: https://www.teledynedefence.co.uk
 linkedin: https://www.linkedin.com/company/teledynedefence&space
 hq: Shipley, UK
 uk-region: Yorkshire and The Humber
+country-code: GB
 size: medium
 sources-verified: 2026-06-29
 lat: 53.8339

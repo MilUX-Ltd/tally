@@ -6,6 +6,7 @@ linkedin: https://www.linkedin.com/company/centimany
 companies-house: 06469755
 hq: Swindon, United Kingdom
 uk-region: South West
+country-code: GB
 founded: 2008
 size: micro
 sources-verified: 2026-07-04

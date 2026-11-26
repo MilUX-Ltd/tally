@@ -6,6 +6,7 @@ linkedin: https://www.linkedin.com/company/butser-rubber-limited
 companies-house: 01358212
 hq: Liss, England
 uk-region: South East
+country-code: GB
 founded: 1978
 size: small
 sources-verified: 2026-07-04

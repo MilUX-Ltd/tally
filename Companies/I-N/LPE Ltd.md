@@ -4,6 +4,7 @@ name: LPE Ltd
 website: https://www.laserproto.com
 hq: Belfast, United Kingdom
 uk-region: Northern Ireland
+country-code: GB
 sources-verified: 2026-07-04
 lat: 54.59639
 lon: -5.93018

@@ -4,6 +4,7 @@ name: Tekh Ltd
 website: https://tekh.co.uk
 hq: Bourne, United Kingdom
 uk-region: East Midlands
+country-code: GB
 size: micro
 sources-verified: 2026-06-30
 lat: 52.76824

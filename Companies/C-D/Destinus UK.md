@@ -6,6 +6,7 @@ linkedin: https://www.linkedin.com/company/destinus1
 companies-house: 15594732
 hq: Amsterdam, Netherlands
 uk-region: London
+country-code: GB
 founded: 2021
 size: large
 sources-verified: 2026-07-04

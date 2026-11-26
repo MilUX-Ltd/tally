@@ -5,6 +5,7 @@ linkedin: https://www.linkedin.com/company/threshold-isr-ltd
 companies-house: 15994821
 hq: Brandon, United Kingdom
 uk-region: East of England
+country-code: GB
 founded: 2024
 size: micro
 sources-verified: 2026-06-29

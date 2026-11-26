@@ -4,6 +4,7 @@ name: Zscaler UK Ltd
 website: https://www.zscaler.com
 hq: San Jose, United States
 uk-region: London
+country-code: GB
 size: large
 sources-verified: 2026-07-01
 location-source: region

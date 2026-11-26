@@ -6,6 +6,7 @@ linkedin: https://www.linkedin.com/company/bonwyke
 companies-house: "01494986"
 hq: Fareham, United Kingdom
 uk-region: South East
+country-code: GB
 founded: 1980
 sources-verified: 2026-11-19
 postcode: PO16 0SU

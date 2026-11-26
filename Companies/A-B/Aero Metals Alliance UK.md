@@ -6,6 +6,7 @@ linkedin: https://www.linkedin.com/company/aerometalsalliance
 companies-house: 09306909
 hq: Wednesbury, West Midlands, United Kingdom
 uk-region: West Midlands
+country-code: GB
 founded: 2014
 size: medium
 headcount:

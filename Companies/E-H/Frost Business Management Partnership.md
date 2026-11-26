@@ -6,6 +6,7 @@ linkedin: https://www.linkedin.com/company/fbmp
 companies-house: 15342481
 hq: Portishead, United Kingdom
 uk-region: South West
+country-code: GB
 founded: 2023
 size: micro
 sources-verified: 2026-07-04

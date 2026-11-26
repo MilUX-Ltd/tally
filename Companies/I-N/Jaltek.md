@@ -6,6 +6,7 @@ linkedin: https://uk.linkedin.com/company/jaltek-systems-ltd
 companies-house: 02312905
 hq: Luton, United Kingdom
 uk-region: East of England
+country-code: GB
 founded: 1988
 size: small
 sources-verified: 2026-07-04

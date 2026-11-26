@@ -6,6 +6,7 @@ linkedin: https://www.linkedin.com/company/latitude-recruitment-ltd/
 companies-house: "12196335"
 hq: Southampton, United Kingdom
 uk-region: South East
+country-code: GB
 founded: 2019
 size: micro
 sources-verified: 2026-11-19

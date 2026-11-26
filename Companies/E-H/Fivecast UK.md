@@ -6,6 +6,7 @@ linkedin: https://www.linkedin.com/company/fivecast
 companies-house: "13861067"
 hq: Adelaide, Australia
 uk-region: London
+country-code: GB
 founded: 2017
 size: medium
 headcount: 130-150

@@ -6,6 +6,7 @@ linkedin:
 companies-house: "03352452"
 hq: 
 uk-region:
+country-code: GB
 founded: 
 size: micro
 headcount: 

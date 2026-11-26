@@ -5,6 +5,7 @@ website: https://www.casperltd.com/defence/
 companies-house: "04499784"
 hq: Middlesbrough, United Kingdom
 uk-region: North East
+country-code: GB
 size: small
 sources-verified: 2026-11-19
 postcode: TS3 6AH

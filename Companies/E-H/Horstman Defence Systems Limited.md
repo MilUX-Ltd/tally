@@ -4,6 +4,7 @@ name: Horstman Defence Systems Limited
 website: https://www.horstmangroup.com
 hq: Bath, United Kingdom
 uk-region: South West
+country-code: GB
 sources-verified: 2026-07-04
 lat: 51.3828
 lon: -2.35929

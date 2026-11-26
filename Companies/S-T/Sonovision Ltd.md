@@ -4,6 +4,7 @@ name: Sonovision Ltd
 website: https://www.sonovision.co.uk
 hq: Letchworth Garden City, UK
 uk-region: East of England
+country-code: GB
 founded: 1987
 sources-verified: 2026-07-03
 lat: 51.9795

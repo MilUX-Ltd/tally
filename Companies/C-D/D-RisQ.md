@@ -6,6 +6,7 @@ linkedin: https://www.linkedin.com/company/d-risq-ltd
 companies-house: 07754903
 hq: Malvern, United Kingdom
 uk-region: West Midlands
+country-code: GB
 founded: 2011
 size: micro
 sources-verified: 2026-07-04

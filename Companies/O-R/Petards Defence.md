@@ -4,6 +4,7 @@ name: Petards Defence
 website: https://www.petards.com
 hq: Gateshead, United Kingdom
 uk-region: North East
+country-code: GB
 sources-verified: 2026-07-05
 lat: 54.95991
 lon: -1.60495

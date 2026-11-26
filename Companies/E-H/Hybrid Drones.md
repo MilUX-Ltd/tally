@@ -6,6 +6,7 @@ linkedin: https://uk.linkedin.com/company/hydradrones
 companies-house: 12259467
 hq: London, United Kingdom
 uk-region: London
+country-code: GB
 founded: 2019
 size: micro
 sources-verified: 2026-07-04

@@ -6,6 +6,7 @@ linkedin: https://www.linkedin.com/company/geometric-manufacturing-ltd
 companies-house: "04515690"
 hq: Tewkesbury, United Kingdom
 uk-region: South West
+country-code: GB
 founded: 2002
 size: small
 headcount: 32

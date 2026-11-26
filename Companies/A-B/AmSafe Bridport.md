@@ -6,6 +6,7 @@ linkedin: https://www.linkedin.com/company/amsafe-bridport
 companies-house: 00140449
 hq: Bridport, United Kingdom
 uk-region: South West
+country-code: GB
 size: medium
 sources-verified: 2026-07-03
 postcode: DT6 3QU

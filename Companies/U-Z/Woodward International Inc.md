@@ -4,6 +4,7 @@ name: Woodward International Inc
 website: https://www.woodward.com
 hq: Fort Collins, United States
 uk-region: Scotland
+country-code: GB
 sources-verified: 2026-07-01
 location-source: region
 location-note: UK location not published

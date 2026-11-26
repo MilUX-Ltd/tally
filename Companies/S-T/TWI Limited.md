@@ -4,6 +4,7 @@ name: TWI Limited
 website: https://www.twi.co.uk
 hq: Cambridge, UK
 uk-region: East of England
+country-code: GB
 sources-verified: 2026-06-30
 lat: 52.19758
 lon: 0.13915

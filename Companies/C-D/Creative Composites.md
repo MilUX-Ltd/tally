@@ -6,6 +6,7 @@ linkedin: https://www.linkedin.com/company/creative-composites
 companies-house: NI038590
 hq: Lisburn, United Kingdom
 uk-region: Northern Ireland
+country-code: GB
 founded: 2000
 size: medium
 headcount: 201-500

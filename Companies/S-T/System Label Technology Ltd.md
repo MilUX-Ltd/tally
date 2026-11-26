@@ -6,6 +6,7 @@ hq: Roscommon, Ireland
 uk-region: Overseas
 sources-verified: 2026-06-30
 country: Ireland
+country-code: IE
 tags:
   - defence
   - mbr-ads

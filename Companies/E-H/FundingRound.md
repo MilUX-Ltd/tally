@@ -6,6 +6,7 @@ linkedin: https://www.linkedin.com/company/funding-round-ltd
 companies-house: "09415587"
 hq: Newark, United Kingdom
 uk-region: East Midlands
+country-code: GB
 founded: 2015
 sources-verified: 2026-11-19
 postcode: NG24 4TS

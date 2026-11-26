@@ -6,6 +6,7 @@ linkedin: https://www.linkedin.com/company/cysiam
 companies-house: 11422969
 hq: Newport Pagnell, United Kingdom
 uk-region: South East
+country-code: GB
 founded: 2018
 size: small
 headcount: 44

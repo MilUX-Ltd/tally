@@ -4,6 +4,7 @@ name: Tods Technology
 website: https://www.tods.co.uk
 hq: Portland, United Kingdom
 uk-region: South West
+country-code: GB
 sources-verified: 2026-06-30
 lat: 51.1291
 lon: -2.75316

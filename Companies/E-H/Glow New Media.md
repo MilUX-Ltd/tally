@@ -5,6 +5,7 @@ website: https://glow-internet.com
 linkedin: https://uk.linkedin.com/company/glownewmedia
 hq: Warrington, United Kingdom
 uk-region: North West
+country-code: GB
 founded: 2007
 size: micro
 sources-verified: 2026-07-04

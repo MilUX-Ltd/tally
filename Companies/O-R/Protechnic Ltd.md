@@ -4,6 +4,7 @@ name: Protechnic Ltd
 website: https://www.protechnic.com
 hq: Nailsea, UK
 uk-region: South West
+country-code: GB
 size: small
 sources-verified: 2026-07-05
 lat: 51.4333

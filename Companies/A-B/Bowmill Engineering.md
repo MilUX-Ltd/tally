@@ -6,6 +6,7 @@ linkedin: https://www.linkedin.com/company/bowmill-engineering-ltd
 companies-house: 00981453
 hq: Poole, United Kingdom
 uk-region: South West
+country-code: GB
 founded: 1970
 size: medium
 headcount: 175

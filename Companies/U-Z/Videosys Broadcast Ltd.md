@@ -6,6 +6,7 @@ linkedin: https://www.linkedin.com/company/videosys-broadcast-limited
 companies-house: 06669235
 hq: Crawley, West Sussex
 uk-region: South East
+country-code: GB
 founded: 2008
 size: small
 headcount: ~16

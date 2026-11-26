@@ -5,6 +5,7 @@ website: https://www.rsadvisors.com
 companies-house: "07496185"
 hq: Washington DC, United States
 uk-region: London
+country-code: GB
 founded: 2011
 sources-verified: 2026-07-05
 postcode: SW1Y 5ES

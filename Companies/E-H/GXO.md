@@ -4,6 +4,7 @@ name: GXO Logistics
 website: https://gxo.com/
 hq: Greenwich, CT, United States
 uk-region: West Midlands
+country-code: GB
 size: large
 sources-verified: 2026-07-04
 location-source: region

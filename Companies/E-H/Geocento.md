@@ -6,6 +6,7 @@ linkedin: https://www.linkedin.com/company/geocento
 companies-house: 07868159
 hq: Andover, United Kingdom
 uk-region: South East
+country-code: GB
 founded: 2011
 size: micro
 sources-verified: 2026-07-16

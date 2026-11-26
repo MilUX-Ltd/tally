@@ -8,6 +8,7 @@ lat: 51.41507
 lon: 0.08669
 location-source: companies-house
 location-note: registered office of the company with this exact name on the register
+country-code: GB
 tags:
   - defence
   - type-consultancy

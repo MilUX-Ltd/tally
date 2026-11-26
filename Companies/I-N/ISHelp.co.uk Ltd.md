@@ -10,6 +10,7 @@ lat: 50.69931
 lon: -3.52392
 location-source: companies-house
 location-note: registered office of the company with this exact name on the register
+country-code: GB
 tags:
   - defence
   - mbr-ads

@@ -6,6 +6,7 @@ linkedin: https://www.linkedin.com/company/fspconsulting
 companies-house: 07717182
 hq: Reading, United Kingdom
 uk-region: South East
+country-code: GB
 founded: 2011
 size: medium
 headcount: 400-450

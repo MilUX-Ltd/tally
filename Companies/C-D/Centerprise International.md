@@ -6,6 +6,7 @@ linkedin: https://uk.linkedin.com/company/centerprise-international
 companies-house: "01738519"
 hq: Basingstoke, United Kingdom
 uk-region: South East
+country-code: GB
 founded: 1983
 sources-verified: 2026-11-19
 postcode: RG24 8GQ

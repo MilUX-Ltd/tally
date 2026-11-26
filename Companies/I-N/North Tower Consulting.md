@@ -4,6 +4,7 @@ name: North Tower Consulting
 website: https://www.northtowerconsulting.co.uk
 hq: Cheltenham, UK
 uk-region: South West
+country-code: GB
 companies-house: "11961662"
 founded: 2019
 size: small

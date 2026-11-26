@@ -6,6 +6,7 @@ linkedin: https://www.linkedin.com/company/daetech-systems-uk-limited
 companies-house: 03941896
 hq: Manchester, United Kingdom
 uk-region: North West
+country-code: GB
 founded: 2000
 size: micro
 sources-verified: 2026-07-04

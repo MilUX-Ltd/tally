@@ -4,6 +4,7 @@ name: Assaye Defence Consultancy Ltd
 companies-house: "11680797"
 hq: Wool, England
 uk-region: South West
+country-code: GB
 founded: 2018
 size: micro
 sources-verified: 2026-07-04

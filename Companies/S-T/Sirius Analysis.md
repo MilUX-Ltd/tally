@@ -6,6 +6,7 @@ linkedin: https://www.linkedin.com/company/sirius-analysis-limited
 companies-house: 12326135
 hq: Portsmouth, United Kingdom
 uk-region: South East
+country-code: GB
 founded: 2019
 size: small
 sources-verified: 2026-06-29

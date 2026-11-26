@@ -4,6 +4,7 @@ name: riskHive Technical Services Ltd
 website: https://www.riskhive.com
 hq: Boncath, United Kingdom
 uk-region: Wales
+country-code: GB
 sources-verified: 2026-07-05
 lat: 52.01402
 lon: -4.61733

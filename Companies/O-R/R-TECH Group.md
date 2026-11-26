@@ -6,6 +6,7 @@ linkedin: https://www.linkedin.com/company/r-tech_materials
 companies-house: "04547830"
 hq: Port Talbot, United Kingdom
 uk-region: Wales
+country-code: GB
 founded: 2002
 size: small
 headcount: 11-50

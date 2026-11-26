@@ -10,6 +10,7 @@ size: micro
 headcount: 2-10
 sources-verified: 2026-07-05
 country: United States
+country-code: US
 tags:
   - defence
   - type-consultancy

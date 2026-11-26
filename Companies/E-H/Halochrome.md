@@ -6,6 +6,7 @@ linkedin: https://www.linkedin.com/company/halochrome
 companies-house: "12622146"
 hq: Bath
 uk-region: South West
+country-code: GB
 founded: 2020
 sources-verified: 2026-07-04
 postcode: BA1 1LB

@@ -4,6 +4,7 @@ name: Stonefort Consultants Ltd
 website: http://www.stonefortconsultants.co.uk
 hq: Enniskillen, United Kingdom
 uk-region: Northern Ireland
+country-code: GB
 sources-verified: 2026-06-30
 lat: 54.34482
 lon: -7.63891

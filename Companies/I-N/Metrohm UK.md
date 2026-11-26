@@ -4,6 +4,7 @@ name: Metrohm UK Ltd
 website: http://www.metrohm.co.uk
 hq: Runcorn, UK
 uk-region: North West
+country-code: GB
 sources-verified: 2026-07-05
 lat: 53.34171
 lon: -2.7313

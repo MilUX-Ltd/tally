@@ -4,6 +4,7 @@ name: Livelink Aerospace Ltd
 website: https://www.livelinkaerospace.com
 hq: Lavant, UK
 uk-region: South East
+country-code: GB
 sources-verified: 2026-07-04
 lat: 50.87046
 lon: -0.78443

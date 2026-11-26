@@ -4,6 +4,7 @@ name: XRC Robotics Ltd
 website: https://www.xrcrobotics.co.uk
 hq: Datchet, United Kingdom
 uk-region: South East
+country-code: GB
 sources-verified: 2026-07-01
 lat: 51.48398
 lon: -0.57852

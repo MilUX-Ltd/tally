@@ -5,6 +5,7 @@ website: https://mildef.com
 companies-house: "05756627"
 hq: St Athan, United Kingdom
 uk-region: Wales
+country-code: GB
 size: small
 sources-verified: 2026-11-19
 postcode: CF62 4AF

@@ -5,6 +5,7 @@ website: https://deeptech.legal/
 companies-house: "16873933"
 hq: London, United Kingdom
 uk-region: London
+country-code: GB
 founded: 2025
 size: micro
 sources-verified: 2026-07-04

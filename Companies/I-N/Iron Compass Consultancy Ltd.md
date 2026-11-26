@@ -4,6 +4,7 @@ name: Iron Compass Consultancy Ltd
 website: https://www.icconsultancy.co.uk
 hq: Oxford, United Kingdom
 uk-region: South East
+country-code: GB
 size: micro
 sources-verified: 2026-07-04
 lat: 51.75198

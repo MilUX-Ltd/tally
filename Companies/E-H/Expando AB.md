@@ -9,6 +9,7 @@ founded: 2000
 size: small
 sources-verified: 2026-07-04
 country: Sweden
+country-code: SE
 tags:
   - defence
   - hardware

@@ -6,6 +6,7 @@ linkedin: https://www.linkedin.com/company/meritustalent
 companies-house: "15676459"
 hq: Cardiff, United Kingdom
 uk-region: Wales
+country-code: GB
 founded: 2024
 size: micro
 headcount: 2-10

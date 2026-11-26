@@ -4,6 +4,7 @@ name: RHH Franks Ltd
 website: https://www.rhhfranks.co.uk
 hq: New Milton, Hampshire, United Kingdom
 uk-region: South East
+country-code: GB
 sources-verified: 2026-07-05
 lat: 50.75311
 lon: -1.65507

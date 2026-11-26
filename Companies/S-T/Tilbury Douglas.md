@@ -6,6 +6,7 @@ linkedin: https://www.linkedin.com/company/tilburydouglas
 companies-house: "00303359"
 hq: Exeter, United Kingdom
 uk-region: South West
+country-code: GB
 size: large
 sources-verified: 2026-11-19
 postcode: EX1 3QD

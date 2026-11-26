@@ -6,6 +6,7 @@ linkedin: https://uk.linkedin.com/company/acuity-risk-management
 companies-house: 12369714
 hq: London, England
 uk-region: London
+country-code: GB
 founded: 2019
 size: small
 sources-verified: 2026-07-03

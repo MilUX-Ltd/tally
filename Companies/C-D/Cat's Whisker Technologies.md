@@ -4,6 +4,7 @@ name: Cat's Whisker Technologies Limited
 companies-house: 07003395
 hq: Ashtead, United Kingdom
 uk-region: South East
+country-code: GB
 founded: 2009
 size: micro
 sources-verified: 2026-07-04

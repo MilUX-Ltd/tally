@@ -4,6 +4,7 @@ name: Modux Limited
 website: https://www.modux.co.uk
 hq: London, United Kingdom
 uk-region: London
+country-code: GB
 sources-verified: 2026-07-05
 lat: 51.50741
 lon: -0.12772

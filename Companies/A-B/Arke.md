@@ -6,6 +6,7 @@ linkedin: https://uk.linkedin.com/company/arke-ltd
 companies-house: 05715322
 hq: Westbury, United Kingdom
 uk-region: South West
+country-code: GB
 founded: 2006
 size: small
 sources-verified: 2026-07-04

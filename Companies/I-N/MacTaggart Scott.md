@@ -6,6 +6,7 @@ linkedin: https://uk.linkedin.com/company/mactaggart-scott
 companies-house: SC055532
 hq: Loanhead, United Kingdom
 uk-region: Scotland
+country-code: GB
 founded: 1898
 size: large
 headcount: 350

@@ -5,6 +5,7 @@ website: https://uk.arrk.com/
 companies-house: 03418673
 hq: Osaka, Japan
 uk-region: South West
+country-code: GB
 founded: 1997
 size: medium
 sources-verified: 2026-07-03

@@ -5,6 +5,7 @@ website: https://www.infinity-systems.co.uk
 linkedin: https://www.linkedin.com/company/infinity-systems-engineering-ltd/
 hq: Bristol, United Kingdom
 uk-region: South West
+country-code: GB
 founded: 2019
 size: micro
 sources-verified: 2026-07-04

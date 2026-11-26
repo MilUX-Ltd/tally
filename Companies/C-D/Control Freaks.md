@@ -6,6 +6,7 @@ linkedin: https://www.linkedin.com/company/control-freaks-ltd
 companies-house: "05753668"
 hq: Holbeach, United Kingdom
 uk-region: East Midlands
+country-code: GB
 sources-verified: 2026-11-19
 postcode: PE12 7PT
 lat: 52.80994

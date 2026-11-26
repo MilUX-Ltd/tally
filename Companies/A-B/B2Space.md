@@ -6,6 +6,7 @@ linkedin: https://www.linkedin.com/company/b2space
 companies-house: "10220212"
 hq: Newport, United Kingdom
 uk-region: Wales
+country-code: GB
 founded: 2016
 size: small
 sources-verified: 2026-11-19

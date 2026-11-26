@@ -6,6 +6,7 @@ linkedin: https://www.linkedin.com/company/atch-ltd
 companies-house: "14108959"
 hq: Christchurch, United Kingdom
 uk-region: South West
+country-code: GB
 founded: 2022
 size: micro
 sources-verified: 2026-07-03

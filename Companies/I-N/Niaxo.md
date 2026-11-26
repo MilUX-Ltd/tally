@@ -6,6 +6,7 @@ linkedin: https://www.linkedin.com/company/niaxo
 companies-house: 12185096
 hq: London, United Kingdom
 uk-region: London
+country-code: GB
 founded: 2019
 size: small
 sources-verified: 2026-07-05

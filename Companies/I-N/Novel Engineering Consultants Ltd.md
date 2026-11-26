@@ -4,6 +4,7 @@ name: Novel Engineering Consultants Ltd
 website: http://www.novelengc.com
 hq: Nailsworth, UK
 uk-region: South West
+country-code: GB
 sources-verified: 2026-07-05
 lat: 51.69386
 lon: -2.22022

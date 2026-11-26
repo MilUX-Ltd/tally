@@ -4,6 +4,7 @@ name: Surevine Limited
 website: https://www.surevine.com
 hq: Guildford, United Kingdom
 uk-region: South East
+country-code: GB
 sources-verified: 2026-06-30
 lat: 51.23945
 lon: -0.57591

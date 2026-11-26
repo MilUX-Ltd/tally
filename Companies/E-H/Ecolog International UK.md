@@ -6,6 +6,7 @@ linkedin: https://www.linkedin.com/company/ecolog-international
 companies-house: "10762455"
 hq: Dubai, United Arab Emirates
 uk-region: East of England
+country-code: GB
 founded: 1999
 size: large
 headcount: 12000

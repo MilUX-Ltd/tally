@@ -4,6 +4,7 @@ name: Rigetti Computing UK
 website: https://www.rigetti.com
 hq: Abingdon, England
 uk-region: South East
+country-code: GB
 size: medium
 sources-verified: 2026-07-16
 lat: 51.67148

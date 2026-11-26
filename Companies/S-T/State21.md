@@ -5,6 +5,7 @@ website: https://state21.co.uk
 linkedin: https://www.linkedin.com/company/state21
 hq: London
 uk-region: London
+country-code: GB
 founded: 2015
 sources-verified: 2026-06-29
 lat: 51.50741

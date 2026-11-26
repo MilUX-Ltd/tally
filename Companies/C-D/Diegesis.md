@@ -6,6 +6,7 @@ linkedin: https://www.linkedin.com/company/diegesis-limited
 companies-house: "06459593"
 hq: London, United Kingdom
 uk-region: London
+country-code: GB
 founded: 2007
 size: micro
 sources-verified: 2026-07-04

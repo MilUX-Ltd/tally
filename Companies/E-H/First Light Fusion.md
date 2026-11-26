@@ -6,6 +6,7 @@ linkedin: https://www.linkedin.com/company/first-light-fusion
 companies-house: "07555858"
 hq: Kidlington, UK
 uk-region: South East
+country-code: GB
 founded: 2011
 size: medium
 headcount: ~84

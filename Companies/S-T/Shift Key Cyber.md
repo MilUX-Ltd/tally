@@ -6,6 +6,7 @@ linkedin: https://www.linkedin.com/company/shift-key-cyber/
 companies-house: "13676908"
 hq: Lincoln, United Kingdom
 uk-region: East Midlands
+country-code: GB
 founded: 2021
 size: micro
 sources-verified: 2026-11-19

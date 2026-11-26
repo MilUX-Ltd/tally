@@ -6,6 +6,7 @@ linkedin: https://www.linkedin.com/company/advent-im
 companies-house: 04626377
 hq: Halesowen, West Midlands, United Kingdom
 uk-region: West Midlands
+country-code: GB
 founded: 2002
 size: small
 headcount:

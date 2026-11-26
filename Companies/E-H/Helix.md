@@ -5,6 +5,7 @@ website: https://www.ehelix.com
 linkedin: https://www.linkedin.com/company/helix-powertrain
 hq: Milton Keynes, United Kingdom
 uk-region: South East
+country-code: GB
 size: small
 sources-verified: 2026-07-04
 lat: 52.04302

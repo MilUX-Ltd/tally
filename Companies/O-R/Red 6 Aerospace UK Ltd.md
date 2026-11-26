@@ -4,6 +4,7 @@ name: Red 6 Aerospace UK Ltd
 website: https://www.red6ar.com
 hq: Orlando, United States
 uk-region: London
+country-code: GB
 founded: 2018
 sources-verified: 2026-07-05
 location-source: region

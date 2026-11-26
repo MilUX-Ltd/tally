@@ -5,6 +5,7 @@ website: https://www.archer.com/
 companies-house: 16896066
 hq: San Jose, United States
 uk-region: South West
+country-code: GB
 founded: 2025
 size: small
 sources-verified: 2026-07-03

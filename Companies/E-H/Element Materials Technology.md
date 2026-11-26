@@ -6,6 +6,7 @@ linkedin: https://www.linkedin.com/company/element-materials-technology
 companies-house: "09915743"
 hq: London, UK
 uk-region: London
+country-code: GB
 founded: 2010
 size: large
 headcount: 7000-9000

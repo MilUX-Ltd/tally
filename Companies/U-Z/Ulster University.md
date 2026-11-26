@@ -4,6 +4,7 @@ name: Ulster University
 website: https://www.ulster.ac.uk
 hq: Newtownabbey, United Kingdom
 uk-region: Northern Ireland
+country-code: GB
 size: large
 sources-verified: 2026-06-30
 lat: 54.67788

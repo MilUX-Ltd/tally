@@ -4,6 +4,7 @@ name: Shield Space Ltd
 website: https://shieldspace.co.uk
 hq: Grantham, United Kingdom
 uk-region: East Midlands
+country-code: GB
 sources-verified: 2026-06-30
 lat: 52.91209
 lon: -0.64224

@@ -6,6 +6,7 @@ linkedin: https://www.linkedin.com/company/mass
 companies-house: "01705804"
 hq: St Neots, United Kingdom
 uk-region: East Midlands
+country-code: GB
 founded: 1983
 sources-verified: 2026-11-19
 postcode: LN6 3AD

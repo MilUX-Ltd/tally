@@ -6,6 +6,7 @@ linkedin: https://www.linkedin.com/company/inink
 companies-house: 14616659
 hq: Broadstairs, UK
 uk-region: South East
+country-code: GB
 founded: 2023
 size: micro
 headcount: 2

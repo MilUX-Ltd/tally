@@ -6,6 +6,7 @@ linkedin: https://www.linkedin.com/company/cts-gb-ltd
 companies-house: 03461836
 hq: Silchester, UK
 uk-region: South East
+country-code: GB
 founded: 1997
 size: small
 sources-verified: 2026-07-04

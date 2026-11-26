@@ -4,6 +4,7 @@ name: Techtest Ltd
 website: https://www.hr-smith.com
 hq: Hereford, United Kingdom
 uk-region: West Midlands
+country-code: GB
 sources-verified: 2026-06-30
 lat: 52.05598
 lon: -2.71755

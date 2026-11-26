@@ -6,6 +6,7 @@ linkedin: https://www.linkedin.com/company/flowlensclouderp/
 companies-house: "NI601290"
 hq: Belfast, United Kingdom
 uk-region: Northern Ireland
+country-code: GB
 sources-verified: 2026-11-19
 postcode: BT4 1GW
 lat: 54.60048

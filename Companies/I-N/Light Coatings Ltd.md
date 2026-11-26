@@ -4,6 +4,7 @@ name: Light Coatings Ltd
 website: https://lightcoatings.co.uk
 hq: Daresbury, UK
 uk-region: North West
+country-code: GB
 size: micro
 sources-verified: 2026-07-04
 lat: 53.33409

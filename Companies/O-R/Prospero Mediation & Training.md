@@ -5,6 +5,7 @@ website: https://www.prosperomediationandtraining.co.uk
 linkedin: https://www.linkedin.com/company/prospero-professional-solutions/
 hq: Retford, United Kingdom
 uk-region: East Midlands
+country-code: GB
 sources-verified: 2026-11-19
 lat: 53.32263
 lon: -0.94246

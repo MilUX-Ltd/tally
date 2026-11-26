@@ -5,6 +5,7 @@ website: https://www.heckler-koch.com
 companies-house:
 hq: Oberndorf am Neckar, Germany
 uk-region: East Midlands
+country-code: GB
 founded:
 size: large
 headcount:

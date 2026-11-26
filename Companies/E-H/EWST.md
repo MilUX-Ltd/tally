@@ -6,6 +6,7 @@ linkedin: https://www.linkedin.com/company/electronic-warfare-simulation-technol
 companies-house: 14834450
 hq: Farnborough, UK
 uk-region: South East
+country-code: GB
 founded: 2023
 size: small
 headcount: 55

@@ -6,6 +6,7 @@ linkedin: https://www.linkedin.com/company/ignegroup
 companies-house: 14747649
 hq: Ross-on-Wye, United Kingdom
 uk-region: West Midlands
+country-code: GB
 founded: 2023
 size: medium
 sources-verified: 2026-07-04

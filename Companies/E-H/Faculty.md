@@ -6,6 +6,7 @@ linkedin: https://uk.linkedin.com/company/facultyai
 companies-house: 08873131
 hq: London, UK
 uk-region: London
+country-code: GB
 founded: 2014
 size: medium
 headcount: 201-500

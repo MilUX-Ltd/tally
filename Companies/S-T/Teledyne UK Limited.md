@@ -4,6 +4,7 @@ name: Teledyne UK Limited
 website: https://www.teledyne-e2v.com
 hq: Thousand Oaks, United States
 uk-region: East of England
+country-code: GB
 size: large
 sources-verified: 2026-06-30
 location-source: region

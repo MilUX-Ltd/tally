@@ -6,6 +6,7 @@ linkedin: https://www.linkedin.com/company/overwatch-group-uk
 companies-house: 12449472
 hq: Wolverhampton, United Kingdom
 uk-region: West Midlands
+country-code: GB
 founded: 2020
 size: small
 sources-verified: 2026-07-16

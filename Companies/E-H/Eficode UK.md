@@ -6,6 +6,7 @@ linkedin: https://www.linkedin.com/company/eficode
 companies-house: "05643578"
 hq: Helsinki, Finland
 uk-region: South East
+country-code: GB
 founded: 2005
 size: medium
 headcount: 550

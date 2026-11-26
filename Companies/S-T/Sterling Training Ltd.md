@@ -4,6 +4,7 @@ name: Sterling Training Ltd
 website: http://www.sterlingtraining.org.uk
 hq: Southampton, United Kingdom
 uk-region: South East
+country-code: GB
 sources-verified: 2026-06-30
 lat: 50.90489
 lon: -1.40431

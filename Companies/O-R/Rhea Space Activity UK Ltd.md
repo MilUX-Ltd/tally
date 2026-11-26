@@ -4,6 +4,7 @@ name: Rhea Space Activity UK Ltd
 website: https://www.rheaspaceactivity.com
 hq: Washington DC, United States
 uk-region: London
+country-code: GB
 sources-verified: 2026-07-05
 location-source: region
 location-note: UK location not published

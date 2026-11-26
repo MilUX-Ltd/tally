@@ -5,6 +5,7 @@ website: https://www.magload.co.uk
 companies-house: "11687543"
 hq: Havant, United Kingdom
 uk-region: South East
+country-code: GB
 founded: 2018
 size: micro
 sources-verified: 2026-11-19

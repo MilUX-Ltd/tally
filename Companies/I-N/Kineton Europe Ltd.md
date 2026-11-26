@@ -4,6 +4,7 @@ name: Kineton Europe Ltd
 website: https://www.kinetoneurope.co.uk
 hq: Naples, Italy
 uk-region: London
+country-code: GB
 sources-verified: 2026-07-04
 location-source: region
 location-note: UK location not published

@@ -5,6 +5,7 @@ website: https://www.futronics.net/
 companies-house: 04035327
 hq: Woking, United Kingdom
 uk-region: South East
+country-code: GB
 founded: 2000
 size: micro
 sources-verified: 2026-07-04

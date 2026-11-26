@@ -6,6 +6,7 @@ linkedin: https://www.linkedin.com/company/fugro
 companies-house: 01135456
 hq: Leidschendam, Netherlands
 uk-region: South East
+country-code: GB
 founded: 1973
 size: large
 sources-verified: 2026-07-04

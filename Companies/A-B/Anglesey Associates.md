@@ -6,6 +6,7 @@ linkedin: https://www.linkedin.com/company/anglesey-associates-ltd
 companies-house: 13878631
 hq: London, United Kingdom
 uk-region: London
+country-code: GB
 founded: 2022
 size: micro
 headcount: <10

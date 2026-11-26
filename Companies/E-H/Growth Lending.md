@@ -6,6 +6,7 @@ linkedin: https://www.linkedin.com/company/growth-lending
 companies-house: "12395628"
 hq: London, United Kingdom
 uk-region: London
+country-code: GB
 founded: 2013
 sources-verified: 2026-11-19
 postcode: N1 9SQ

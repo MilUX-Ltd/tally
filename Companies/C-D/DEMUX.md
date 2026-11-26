@@ -6,6 +6,7 @@ linkedin: https://www.linkedin.com/company/demux-video/
 companies-house: "05005400"
 hq: Marston Moretaine, United Kingdom
 uk-region: East of England
+country-code: GB
 sources-verified: 2026-11-19
 postcode: MK43 0XT
 lat: 52.06710

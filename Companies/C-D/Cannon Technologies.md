@@ -6,6 +6,7 @@ linkedin: https://www.linkedin.com/company/cannon-technologies-ltd
 companies-house: "01374913"
 hq: New Milton, United Kingdom
 uk-region: South East
+country-code: GB
 founded: 1978
 size: small
 sources-verified: 2026-11-19

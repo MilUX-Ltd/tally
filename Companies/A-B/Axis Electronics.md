@@ -5,6 +5,7 @@ website: https://www.axis-electronics.com/
 linkedin: https://uk.linkedin.com/company/axis-electronics-ltd
 hq: Bedford, United Kingdom
 uk-region: East of England
+country-code: GB
 founded: 1995
 size: medium
 sources-verified: 2026-07-04

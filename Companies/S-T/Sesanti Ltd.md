@@ -4,6 +4,7 @@ name: Sesanti Ltd
 website: http://www.sesanti.com
 hq: Weyhill, United Kingdom
 uk-region: South East
+country-code: GB
 sources-verified: 2026-06-30
 lat: 51.21768
 lon: -1.54633

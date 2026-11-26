@@ -6,6 +6,7 @@ linkedin: https://www.linkedin.com/company/zenotech-ltd
 companies-house: 07926926
 hq: Bristol, UK
 uk-region: South West
+country-code: GB
 size: micro
 sources-verified: 2026-06-29
 postcode: BS16 7FR

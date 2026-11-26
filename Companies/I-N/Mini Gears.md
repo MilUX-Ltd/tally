@@ -4,6 +4,7 @@ name: Mini Gears
 website: https://www.minigears.co.uk
 hq: Stockport, United Kingdom
 uk-region: North West
+country-code: GB
 size: small
 sources-verified: 2026-07-05
 lat: 53.40802

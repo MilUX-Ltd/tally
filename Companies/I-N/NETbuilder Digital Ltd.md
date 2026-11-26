@@ -4,6 +4,7 @@ name: NETbuilder Digital Ltd
 website: https://www.netbuilder.com
 hq: Brighton, United Kingdom
 uk-region: South East
+country-code: GB
 sources-verified: 2026-07-05
 lat: 50.82237
 lon: -0.13768

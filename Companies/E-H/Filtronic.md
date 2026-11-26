@@ -6,6 +6,7 @@ linkedin: https://uk.linkedin.com/company/filtronic
 companies-house: 02891064
 hq: Sedgefield, UK
 uk-region: North East
+country-code: GB
 founded: 1977
 size: small
 headcount: 175

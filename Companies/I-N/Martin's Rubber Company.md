@@ -4,6 +4,7 @@ name: Martin's Rubber Company Ltd
 website: https://www.martins-rubber.co.uk
 hq: Southampton, UK
 uk-region: South East
+country-code: GB
 sources-verified: 2026-07-05
 lat: 50.90489
 lon: -1.40431

@@ -5,6 +5,7 @@ website: https://www.marlboroughcomms.com
 linkedin: https://www.linkedin.com/company/marlborough-communications-limited
 hq: Horley, United Kingdom
 uk-region: South East
+country-code: GB
 founded: 1980
 sources-verified: 2026-07-05
 lat: 51.17174

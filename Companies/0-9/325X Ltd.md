@@ -5,6 +5,7 @@ website: https://www.325x.ltd
 companies-house: 16196127
 hq: London, United Kingdom
 uk-region: London
+country-code: GB
 size: micro
 sources-verified: 2026-07-16
 postcode: N1 7GU

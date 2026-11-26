@@ -9,6 +9,7 @@ founded: 2005
 size: small
 sources-verified: 2026-06-29
 country: Canada
+country-code: CA
 tags:
   - defence
   - simulation

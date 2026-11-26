@@ -9,6 +9,7 @@ founded: 2023
 size: small
 sources-verified: 2026-07-04
 country: France
+country-code: FR
 tags:
   - defence
   - ai

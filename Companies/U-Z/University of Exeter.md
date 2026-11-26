@@ -4,6 +4,7 @@ name: University of Exeter
 website: https://www.exeter.ac.uk
 hq: Exeter, United Kingdom
 uk-region: South West
+country-code: GB
 size: large
 sources-verified: 2026-06-30
 lat: 50.72258

@@ -4,6 +4,7 @@ name: Surrey Satellite Technology Limited (SSTL)
 website: https://www.sstl.co.uk
 hq: Guildford, United Kingdom
 uk-region: South East
+country-code: GB
 sources-verified: 2026-06-30
 lat: 51.23945
 lon: -0.57591

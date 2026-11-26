@@ -6,6 +6,7 @@ linkedin: https://www.linkedin.com/company/fac-technology
 companies-house: 07591421
 hq: London, UK
 uk-region: London
+country-code: GB
 founded: 2011
 size: micro
 sources-verified: 2026-07-04

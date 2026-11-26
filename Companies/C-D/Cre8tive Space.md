@@ -6,6 +6,7 @@ linkedin: https://www.linkedin.com/company/cre8tive-space-ltd/
 companies-house: "08638861"
 hq: Farnborough, United Kingdom
 uk-region: South East
+country-code: GB
 founded: 2013
 size: small
 sources-verified: 2026-11-19

@@ -4,6 +4,7 @@ name: Zeals Consulting Ltd
 website: https://www.zealsconsulting.com
 hq: Warminster, United Kingdom
 uk-region: South West
+country-code: GB
 sources-verified: 2026-07-01
 lat: 51.20492
 lon: -2.18119

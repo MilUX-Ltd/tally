@@ -6,6 +6,7 @@ linkedin: https://www.linkedin.com/company/augur-net
 companies-house: "13636887"
 hq: London, United Kingdom
 uk-region: London
+country-code: GB
 founded: 2021
 size: small
 headcount: 30

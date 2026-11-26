@@ -6,6 +6,7 @@ linkedin: https://www.linkedin.com/company/high-tor-capital
 companies-house: "15733891"
 hq: London, United Kingdom
 uk-region: London
+country-code: GB
 founded: 2024
 size: micro
 sources-verified: 2026-07-04

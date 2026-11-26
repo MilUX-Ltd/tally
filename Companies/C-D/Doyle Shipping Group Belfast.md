@@ -5,6 +5,7 @@ website: https://www.doyleshipping.uk/
 companies-house: R0000401
 hq: Dublin, Ireland
 uk-region: Northern Ireland
+country-code: GB
 founded: 1921
 size: large
 headcount: 700

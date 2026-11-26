@@ -6,6 +6,7 @@ linkedin: https://www.linkedin.com/company/cygnus-resilience-limited
 companies-house: "13359286"
 hq: London, United Kingdom
 uk-region: London
+country-code: GB
 founded: 2021
 size: micro
 sources-verified: 2026-07-04

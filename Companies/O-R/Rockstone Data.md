@@ -5,6 +5,7 @@ website: https://www.rockstonedata.co.uk
 companies-house: "11846470"
 hq: Winchester, United Kingdom
 uk-region: South East
+country-code: GB
 size: micro
 sources-verified: 2026-11-19
 postcode: SO23 9EH

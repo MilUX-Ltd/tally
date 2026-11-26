@@ -9,6 +9,7 @@ founded: 2024
 size: medium
 sources-verified: 2026-06-29
 country: Germany
+country-code: DE
 tags:
   - defence
   - uas

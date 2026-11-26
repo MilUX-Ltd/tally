@@ -6,6 +6,7 @@ linkedin: https://www.linkedin.com/company/booth-welsh
 companies-house: 02374159
 hq: Irvine, Scotland
 uk-region: Scotland
+country-code: GB
 founded: 1989
 size: medium
 headcount: 150-160

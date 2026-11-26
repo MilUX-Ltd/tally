@@ -6,6 +6,7 @@ linkedin: https://www.linkedin.com/company/nova-systems-international
 companies-house: 03752187
 hq: Adelaide, Australia
 uk-region: South West
+country-code: GB
 founded: 2000
 size: large
 headcount: 1000+

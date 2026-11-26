@@ -5,6 +5,7 @@ website: https://www.precogsystems.co.uk/
 linkedin: https://www.linkedin.com/company/precog-security-inc
 hq: London, United Kingdom
 uk-region: London
+country-code: GB
 founded: 2017
 size: micro
 sources-verified: 2026-07-05

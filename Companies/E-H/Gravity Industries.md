@@ -6,6 +6,7 @@ linkedin: https://www.linkedin.com/company/gravity-industries
 companies-house: 10605602
 hq: Salisbury, UK
 uk-region: South West
+country-code: GB
 founded: 2017
 size: micro
 sources-verified: 2026-07-04

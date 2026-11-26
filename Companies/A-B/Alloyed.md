@@ -6,6 +6,7 @@ linkedin: https://www.linkedin.com/company/alloyed
 companies-house: 10687859
 hq: Yarnton, United Kingdom
 uk-region: South East
+country-code: GB
 founded: 2017
 size: medium
 sources-verified: 2026-07-03

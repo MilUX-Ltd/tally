@@ -5,6 +5,7 @@ website: https://www.tricorder-systems.com
 companies-house: 17254785
 hq: London
 uk-region: London
+country-code: GB
 founded: 2026
 sources-verified: 2026-11-24
 postcode: WC2R 3DA

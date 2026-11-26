@@ -5,6 +5,7 @@ website: https://www.heatsensecables.co.uk
 companies-house:
 hq: Rochdale, United Kingdom
 uk-region: North West
+country-code: GB
 founded:
 size: small
 headcount:

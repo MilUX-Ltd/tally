@@ -4,6 +4,7 @@ name: Cardiff University
 website: https://www.cardiff.ac.uk
 hq: Cardiff, United Kingdom
 uk-region: Wales
+country-code: GB
 sources-verified: 2026-11-19
 lat: 51.48
 lon: -3.17686

@@ -4,6 +4,7 @@ name: Planned Link Ltd
 website: https://www.plannedlink.io
 hq: Swindon, United Kingdom
 uk-region: South West
+country-code: GB
 sources-verified: 2026-07-05
 lat: 51.56153
 lon: -1.78546

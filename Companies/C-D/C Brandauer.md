@@ -5,6 +5,7 @@ website: https://brandauer.co.uk/
 companies-house: 00071835
 hq: Birmingham, United Kingdom
 uk-region: West Midlands
+country-code: GB
 founded: 1862
 size: small
 headcount: 64

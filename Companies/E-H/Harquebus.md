@@ -4,6 +4,7 @@ name: Harquebus
 website: https://harquebus.co.uk
 hq: London, UK
 uk-region: London
+country-code: GB
 size: small
 sources-verified: 2026-07-04
 lat: 51.50741

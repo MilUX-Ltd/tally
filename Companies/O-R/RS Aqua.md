@@ -6,6 +6,7 @@ linkedin: https://www.linkedin.com/company/rs-aqua-ltd
 companies-house: "01661817"
 hq: Portsmouth, United Kingdom
 uk-region: South East
+country-code: GB
 founded: 1982
 size: small
 headcount: ~20-24

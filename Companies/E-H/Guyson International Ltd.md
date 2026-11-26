@@ -5,6 +5,7 @@ website: https://www.guyson.co.uk
 companies-house: "1549447"
 hq: Skipton, United Kingdom
 uk-region: Yorkshire and The Humber
+country-code: GB
 size: medium
 sources-verified: 2026-07-04
 lat: 53.96021

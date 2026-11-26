@@ -4,6 +4,7 @@ name: Sora Aviation
 website: https://soraaviation.com
 hq: Bristol, UK
 uk-region: South West
+country-code: GB
 founded: 2023
 size: micro
 headcount: 16

@@ -5,6 +5,7 @@ website: https://rougemontsecurity.com
 linkedin: https://www.linkedin.com/company/rougemont-security
 hq: Basingstoke, United Kingdom
 uk-region: South East
+country-code: GB
 sources-verified: 2026-11-19
 postcode: RG21 4HG
 lat: 51.26805

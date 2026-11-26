@@ -6,6 +6,7 @@ linkedin: https://www.linkedin.com/company/apc-technology-group
 companies-house: 01635609
 hq: Rochester, UK
 uk-region: South East
+country-code: GB
 founded: 1982
 size: medium
 sources-verified: 2026-07-03

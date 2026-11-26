@@ -6,6 +6,7 @@ linkedin: https://www.linkedin.com/company/epicor
 companies-house: "02338274"
 hq: Austin, United States
 uk-region: South East
+country-code: GB
 founded: 1972
 size: large
 headcount: 6200

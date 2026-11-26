@@ -5,6 +5,7 @@ website: https://www.ga-asi.com
 companies-house: "07433765"
 hq: San Diego, United States
 uk-region: London
+country-code: GB
 founded: 2010
 size: small
 sources-verified: 2026-07-04

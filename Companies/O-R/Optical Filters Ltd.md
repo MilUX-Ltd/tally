@@ -5,6 +5,7 @@ website: https://www.opticalfilters.co.uk
 companies-house: 02289077
 hq: Thame, United Kingdom
 uk-region: South East
+country-code: GB
 size: small
 sources-verified: 2026-07-16
 postcode: OX9 3XA

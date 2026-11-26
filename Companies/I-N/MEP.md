@@ -5,6 +5,7 @@ website: https://www.mep.co.uk
 linkedin: https://uk.linkedin.com/company/mep-ltd
 hq: Aylesford, United Kingdom
 uk-region: South East
+country-code: GB
 founded: 1972
 sources-verified: 2026-07-05
 lat: 51.30362

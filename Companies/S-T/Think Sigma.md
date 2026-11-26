@@ -5,6 +5,7 @@ website: https://thinksigma.co.uk
 companies-house: "12563321"
 hq: Andover, United Kingdom
 uk-region: South East
+country-code: GB
 size: micro
 sources-verified: 2026-11-19
 lat: 51.2075

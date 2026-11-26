@@ -6,6 +6,7 @@ linkedin: https://www.linkedin.com/company/aq-rockford
 companies-house: 01838700
 hq: Vasteras, Sweden
 uk-region: East of England
+country-code: GB
 founded: 1978
 size: medium
 headcount: 112

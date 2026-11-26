@@ -4,6 +4,7 @@ name: IDV Defence Vehicles UK Ltd
 website: https://www.idvgroup.com
 hq: Turin, Italy
 uk-region: West Midlands
+country-code: GB
 sources-verified: 2026-07-04
 location-source: region
 location-note: UK location not published

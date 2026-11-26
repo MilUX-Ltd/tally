@@ -6,6 +6,7 @@ linkedin: https://www.linkedin.com/company/gibson-robotics/
 companies-house: SC650555
 hq: Glasgow, United Kingdom
 uk-region: Scotland
+country-code: GB
 founded: 2020
 size: micro
 headcount: 2-10

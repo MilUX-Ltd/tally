@@ -5,6 +5,7 @@ website: https://ccpi-europe.com
 companies-house: 05726866
 hq: Sheffield, United Kingdom
 uk-region: Yorkshire and The Humber
+country-code: GB
 founded: 2006
 size: small
 sources-verified: 2026-07-04

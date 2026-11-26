@@ -6,6 +6,7 @@ linkedin: https://www.linkedin.com/company/datum-design-ltd
 companies-house: NI033661
 hq: Lisburn, United Kingdom
 uk-region: Northern Ireland
+country-code: GB
 founded: 1998
 size: small
 headcount: 32-50

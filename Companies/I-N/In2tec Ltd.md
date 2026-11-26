@@ -4,6 +4,7 @@ name: In2tec Ltd
 website: https://www.in2tec.com
 hq: Kettering, United Kingdom
 uk-region: East Midlands
+country-code: GB
 sources-verified: 2026-07-04
 lat: 52.39995
 lon: -0.72831
