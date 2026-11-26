@@ -17,6 +17,7 @@ tags:
   - type-sme
   - type-manufacturer
   - owned-veteran
+  - mbr-spearhead
 ---
 
 # TYTYN Technology (UK) Ltd

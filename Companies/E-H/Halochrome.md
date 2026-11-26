@@ -21,6 +21,7 @@ tags:
   - software
   - type-sme
   - type-consultancy
+  - mbr-spearhead
 ---
 # Halochrome
 > Bath-based IT and business-change consultancy specialising in sovereign high-grade encryption, post-quantum cryptography, and complex defence and security programme delivery.

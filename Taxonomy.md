@@ -43,6 +43,7 @@ JOSCAR is an accreditation. Framework and membership `joscar` tags were merged i
 | `mbr-naudi` | NAUDI |
 | `mbr-scrdsc` | South Central RDSC |
 | `mbr-smi` | SMi |
+| `mbr-spearhead` | Spearhead |
 | `mbr-techuk` | techUK |
 | `mbr-walesdsc` | Defence Wales |
 

@@ -16,6 +16,7 @@ tags:
   - type-consultancy
   - type-sme
   - owned-uk
+  - mbr-spearhead
 ---
 
 # HuSys Ltd

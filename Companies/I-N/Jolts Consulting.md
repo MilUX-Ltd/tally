@@ -22,6 +22,7 @@ tags:
   - type-sme
   - owned-veteran
   - obsolescence
+  - mbr-spearhead
 ---
 # JOLTS Consulting
 

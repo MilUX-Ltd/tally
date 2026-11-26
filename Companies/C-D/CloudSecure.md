@@ -26,6 +26,7 @@ tags:
   - accr-ce
   - accr-joscar
   - mbr-ads
+  - mbr-spearhead
 ---
 
 # CloudSecure

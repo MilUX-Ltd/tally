@@ -17,6 +17,7 @@ tags:
   - consultancy
   - type-consultancy
   - owned-uk
+  - mbr-spearhead
 ---
 
 # Indicatura Ltd

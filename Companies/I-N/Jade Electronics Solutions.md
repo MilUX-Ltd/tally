@@ -24,6 +24,7 @@ tags:
   - size-micro
   - type-manufacturer
   - accr-iso9001
+  - mbr-spearhead
 ---
 
 # Jade Electronics Solutions Ltd

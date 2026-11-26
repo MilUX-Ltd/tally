@@ -33,6 +33,7 @@ tags:
   - accr-iso27001
   - accr-iso14001
   - mbr-ads
+  - mbr-spearhead
 ---
 
 # CDS Defence & Security
