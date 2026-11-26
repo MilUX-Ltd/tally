@@ -6,6 +6,7 @@ linkedin: https://www.linkedin.com/company/abptechnologies
 companies-house: "00889363"
 hq: Poole, United Kingdom
 uk-region: South West
+country-code: GB
 founded: 1966
 size: small
 sources-verified: 2026-07-03

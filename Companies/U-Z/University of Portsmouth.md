@@ -4,6 +4,7 @@ name: University of Portsmouth
 website: https://www.port.ac.uk
 hq: Portsmouth, United Kingdom
 uk-region: South East
+country-code: GB
 sources-verified: 2026-11-19
 postcode: PO1 2EG
 lat: 50.79480

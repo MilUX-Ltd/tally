@@ -5,6 +5,7 @@ website: https://www.parkerjonesgroup.com
 companies-house: "11557242"
 hq: Farnham, United Kingdom
 uk-region: South East
+country-code: GB
 founded: 2018
 sources-verified: 2026-11-19
 postcode: GU9 7QU

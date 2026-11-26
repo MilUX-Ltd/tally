@@ -4,6 +4,7 @@ name: Produmax Limited
 website: https://www.produmax.co.uk
 hq: Baildon, UK
 uk-region: Yorkshire and The Humber
+country-code: GB
 sources-verified: 2026-07-05
 lat: 53.85341
 lon: -1.76631

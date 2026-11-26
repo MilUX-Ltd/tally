@@ -5,6 +5,7 @@ website: https://www.harland-wolff.com/
 linkedin: https://www.linkedin.com/company/harland-wolff/
 hq: Belfast, United Kingdom
 uk-region: Northern Ireland
+country-code: GB
 founded: 1861
 size: large
 sources-verified: 2026-07-04

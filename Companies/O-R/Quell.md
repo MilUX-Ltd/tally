@@ -4,6 +4,7 @@ name: Quell
 website: https://quell.scot
 hq: Edinburgh, United Kingdom
 uk-region: Scotland
+country-code: GB
 size: small
 sources-verified: 2026-07-05
 lat: 55.95334

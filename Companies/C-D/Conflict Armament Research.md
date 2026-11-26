@@ -6,6 +6,7 @@ linkedin: https://www.linkedin.com/company/conflict-armament-research
 companies-house: 07762809
 hq: London, United Kingdom
 uk-region: London
+country-code: GB
 founded: 2011
 size: medium
 sources-verified: 2026-07-04

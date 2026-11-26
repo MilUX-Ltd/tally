@@ -4,6 +4,7 @@ name: Xpedite Group of Companies Ltd
 website: https://www.xpeditegoc.com
 hq: Bath, United Kingdom
 uk-region: South West
+country-code: GB
 sources-verified: 2026-07-01
 lat: 51.3828
 lon: -2.35929

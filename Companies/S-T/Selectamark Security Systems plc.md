@@ -4,6 +4,7 @@ name: Selectamark Security Systems plc
 website: https://www.selectamark.co.uk
 hq: Locksbottom, United Kingdom
 uk-region: South East
+country-code: GB
 sources-verified: 2026-06-30
 location-source: region
 location-note: UK location not published

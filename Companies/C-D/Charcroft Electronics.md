@@ -6,6 +6,7 @@ linkedin: https://www.linkedin.com/company/charcroft-electronics
 companies-house: "01181853"
 hq: Llanwrtyd Wells, United Kingdom
 uk-region: Wales
+country-code: GB
 founded: 1974
 size: medium
 sources-verified: 2026-11-19

@@ -5,6 +5,7 @@ website: https://antennadynamics.com
 companies-house: "08066403"
 hq: Cowfold, United Kingdom
 uk-region: South East
+country-code: GB
 size: micro
 sources-verified: 2026-11-19
 postcode: RH13 8BB

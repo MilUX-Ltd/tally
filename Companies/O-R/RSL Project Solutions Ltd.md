@@ -6,6 +6,7 @@ linkedin: https://www.linkedin.com/company/rsl-project-solutions-ltd
 companies-house: 08441172
 hq: Salisbury, United Kingdom
 uk-region: South West
+country-code: GB
 founded: 2013
 size: small
 sources-verified: 2026-07-05

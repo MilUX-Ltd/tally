@@ -5,6 +5,7 @@ website: https://www.anprcameras.com
 linkedin: https://www.linkedin.com/company/mav-systems-limited/
 hq: Eynsford, United Kingdom
 uk-region: South East
+country-code: GB
 founded: 2007
 sources-verified: 2026-07-05
 lat: 51.36869

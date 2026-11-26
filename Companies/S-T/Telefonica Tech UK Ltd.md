@@ -4,6 +4,7 @@ name: Telefonica Tech UK Ltd
 website: https://telefonicatech.uk
 hq: Madrid, Spain
 uk-region: London
+country-code: GB
 size: large
 sources-verified: 2026-06-30
 location-source: region

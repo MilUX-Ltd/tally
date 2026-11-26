@@ -6,6 +6,7 @@ linkedin: https://www.linkedin.com/company/76988065
 companies-house: "07860991"
 hq: Oxford, United Kingdom
 uk-region: South East
+country-code: GB
 sources-verified: 2026-11-19
 postcode: OX1 4EH
 lat: 51.75178

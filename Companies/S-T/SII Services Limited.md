@@ -4,6 +4,7 @@ name: SII Services Limited
 website: https://www.sii-group.uk/en
 hq: Paris, France
 uk-region: South East
+country-code: GB
 sources-verified: 2026-06-30
 location-source: region
 location-note: UK location not published

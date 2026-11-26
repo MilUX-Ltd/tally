@@ -6,6 +6,7 @@ linkedin: https://www.linkedin.com/company/amulet-hotkey
 companies-house: 02505963
 hq: Newton Abbot, United Kingdom
 uk-region: South West
+country-code: GB
 founded: 1990
 size: medium
 sources-verified: 2026-07-03

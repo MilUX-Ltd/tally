@@ -6,6 +6,7 @@ linkedin: https://www.linkedin.com/company/dantech-electronic-engineering
 companies-house: 01181752
 hq: Maldon, UK
 uk-region: East of England
+country-code: GB
 size: micro
 sources-verified: 2026-07-04
 postcode: CM9 4XD

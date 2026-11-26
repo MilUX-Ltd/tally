@@ -4,6 +4,7 @@ name: MilScrum
 website: https://milscrum.co.uk
 hq: Gloucestershire, United Kingdom
 uk-region: South West
+country-code: GB
 founded: 2023
 size: micro
 headcount: 2-10

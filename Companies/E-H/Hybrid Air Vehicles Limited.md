@@ -4,6 +4,7 @@ name: Hybrid Air Vehicles Limited
 website: https://www.hybridairvehicles.com
 hq: Bedford, United Kingdom
 uk-region: East of England
+country-code: GB
 sources-verified: 2026-07-04
 lat: 52.13638
 lon: -0.4675

@@ -6,6 +6,7 @@ linkedin: https://www.linkedin.com/company/becgroupuk/
 companies-house: "04637135"
 hq: New Milton, United Kingdom
 uk-region: South East
+country-code: GB
 sources-verified: 2026-11-19
 postcode: BH25 6SA
 lat: 50.75286

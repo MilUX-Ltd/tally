@@ -6,6 +6,7 @@ linkedin: https://www.linkedin.com/company/delian-ai
 companies-house: "15897040"
 hq: Athens, Greece
 uk-region: East of England
+country-code: GB
 founded: 2021
 size: small
 headcount: 21-50

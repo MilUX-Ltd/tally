@@ -6,6 +6,7 @@ linkedin: https://www.linkedin.com/company/galvion
 companies-house: "09713398"
 hq: Montreal, Canada
 uk-region: London
+country-code: GB
 founded: 2003
 size: medium
 sources-verified: 2026-07-04

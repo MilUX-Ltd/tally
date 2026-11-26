@@ -4,6 +4,7 @@ name: Parallel Track Ltd
 website: https://www.paralleltrack.co.uk
 hq: London, United Kingdom
 uk-region: London
+country-code: GB
 size: micro
 sources-verified: 2026-07-05
 lat: 51.50741

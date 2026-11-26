@@ -4,6 +4,7 @@ name: Issured Ltd
 website: https://www.issured.com
 hq: Milton Keynes, United Kingdom
 uk-region: South East
+country-code: GB
 sources-verified: 2026-07-04
 lat: 52.04302
 lon: -0.75406

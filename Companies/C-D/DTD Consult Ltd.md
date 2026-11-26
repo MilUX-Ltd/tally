@@ -5,6 +5,7 @@ website: https://www.dtdconsult.com
 companies-house: 15325445
 hq: Sandwich, Kent
 uk-region: South East
+country-code: GB
 founded: 2015
 size: micro
 sources-verified: 2026-07-17

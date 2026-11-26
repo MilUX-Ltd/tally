@@ -5,6 +5,7 @@ website: https://fulcrum-defence.com
 companies-house: 12942834
 hq: Monmouth, UK
 uk-region: Wales
+country-code: GB
 founded: 2020
 size: micro
 sources-verified: 2026-07-04

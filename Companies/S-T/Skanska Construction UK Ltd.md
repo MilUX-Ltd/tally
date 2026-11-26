@@ -7,6 +7,7 @@ uk-region: Overseas
 size: large
 sources-verified: 2026-06-30
 country: Sweden
+country-code: SE
 tags:
   - defence
   - size-large

@@ -6,6 +6,7 @@ linkedin: https://www.linkedin.com/company/frazer-nash-consultancy
 companies-house: 02562870
 hq: Leatherhead, UK
 uk-region: South East
+country-code: GB
 size: large
 headcount: 1400+
 sources-verified: 2026-07-04

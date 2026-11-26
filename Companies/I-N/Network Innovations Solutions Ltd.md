@@ -4,6 +4,7 @@ name: Network Innovations Solutions Ltd
 website: https://www.networkinv.com
 hq: Calgary, Canada
 uk-region: West Midlands
+country-code: GB
 sources-verified: 2026-07-05
 location-source: region
 location-note: UK location not published

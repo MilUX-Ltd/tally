@@ -6,6 +6,7 @@ linkedin: https://www.linkedin.com/company/cunninghamcovers
 companies-house: NI020664
 hq: Maghera, UK
 uk-region: Northern Ireland
+country-code: GB
 founded: 1969
 size: small
 sources-verified: 2026-07-04

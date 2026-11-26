@@ -6,6 +6,7 @@ linkedin: https://www.linkedin.com/company/neptune-north/
 companies-house: 15788509
 hq: Newcastle upon Tyne, United Kingdom
 uk-region: North East
+country-code: GB
 founded: 2024
 size: medium
 sources-verified: 2026-07-05

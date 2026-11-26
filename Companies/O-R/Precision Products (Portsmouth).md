@@ -5,6 +5,7 @@ website: https://www.airshaft.co.uk
 companies-house: "03916238"
 hq: Havant, United Kingdom
 uk-region: South East
+country-code: GB
 sources-verified: 2026-11-19
 postcode: PO9 1QY
 lat: 50.8441

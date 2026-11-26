@@ -5,6 +5,7 @@ website: https://www.rohde-schwarz.com
 companies-house: "00539607"
 hq: Munich, Germany
 uk-region: South East
+country-code: GB
 founded: 1933
 size: large
 headcount: 14000+

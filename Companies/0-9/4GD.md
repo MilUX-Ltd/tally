@@ -5,6 +5,7 @@ website: https://www.4gd.co.uk
 linkedin: https://www.linkedin.com/company/4gd
 hq: London, UK
 uk-region: London
+country-code: GB
 founded: 2016
 size: small
 headcount: ~50

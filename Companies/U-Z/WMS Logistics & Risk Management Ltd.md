@@ -5,6 +5,7 @@ website: https://wmsrisk.co.uk
 companies-house: 14560001
 hq: London, United Kingdom
 uk-region: London
+country-code: GB
 size: small
 sources-verified: 2026-07-16
 postcode: N1 7GU

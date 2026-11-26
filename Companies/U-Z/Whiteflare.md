@@ -5,6 +5,7 @@ website: https://whiteflare.co.uk
 companies-house: "08471073"
 hq: Royal Wootton Bassett, United Kingdom
 uk-region: South West
+country-code: GB
 founded: 2013
 sources-verified: 2026-11-19
 postcode: SN4 7DB

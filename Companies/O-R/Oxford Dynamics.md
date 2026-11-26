@@ -6,6 +6,7 @@ linkedin: https://www.linkedin.com/company/oxford-dynamics
 companies-house: 12274185
 hq: Harwell, UK
 uk-region: South East
+country-code: GB
 founded: 2020
 size: small
 sources-verified: 2026-07-05

@@ -5,6 +5,7 @@ website: https://www.smgeurope.com/
 companies-house: "01306320"
 hq: Plymouth, United Kingdom
 uk-region: South West
+country-code: GB
 founded: 1972
 sources-verified: 2026-11-19
 postcode: PL6 5XP

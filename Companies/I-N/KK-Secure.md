@@ -6,6 +6,7 @@ linkedin: https://www.linkedin.com/company/kk-secure/
 companies-house: "10296974"
 hq: Lincoln, United Kingdom
 uk-region: East Midlands
+country-code: GB
 founded: 2016
 sources-verified: 2026-11-19
 postcode: LN6 7GZ

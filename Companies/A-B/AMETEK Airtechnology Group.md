@@ -5,6 +5,7 @@ website: https://www.ametek-airtechnology.com
 linkedin: https://www.linkedin.com/company/ametek-airtechnology-group
 hq: Basingstoke, UK
 uk-region: South East
+country-code: GB
 size: large
 sources-verified: 2026-07-03
 lat: 51.26775

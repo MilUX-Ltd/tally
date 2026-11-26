@@ -5,6 +5,7 @@ website: https://bylight.com/
 companies-house: 15483743
 hq: McLean, Virginia, United States
 uk-region: North West
+country-code: GB
 founded: 2024
 size: small
 sources-verified: 2026-07-04

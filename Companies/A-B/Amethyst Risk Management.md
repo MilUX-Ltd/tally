@@ -5,6 +5,7 @@ website: https://amethystrisk.com
 companies-house: "06240100"
 hq: Basingstoke, United Kingdom
 uk-region: South East
+country-code: GB
 founded: 2007
 sources-verified: 2026-11-19
 postcode: RG23 8PX

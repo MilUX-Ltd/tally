@@ -6,6 +6,7 @@ linkedin: https://uk.linkedin.com/company/llanelec-precision-engineering-company
 companies-house: 02134577
 hq: Neath, United Kingdom
 uk-region: Wales
+country-code: GB
 founded: 1984
 size: small
 sources-verified: 2026-07-04

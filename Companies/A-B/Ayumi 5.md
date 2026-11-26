@@ -4,6 +4,7 @@ name: Ayumi 5
 website: https://www.ayumi5.co.uk
 hq: Hampshire, United Kingdom
 uk-region: South East
+country-code: GB
 sources-verified: 2026-11-19
 location-source: region
 location-note: UK location not published

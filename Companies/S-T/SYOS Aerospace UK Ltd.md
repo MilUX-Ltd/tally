@@ -4,6 +4,7 @@ name: SYOS Aerospace UK Ltd
 website: https://syos-aerospace.com/
 hq: Fareham, United Kingdom
 uk-region: South East
+country-code: GB
 sources-verified: 2026-06-30
 lat: 50.85235
 lon: -1.17591

@@ -6,6 +6,7 @@ linkedin: https://www.linkedin.com/company/esi-technology-ltd
 companies-house: "02523392"
 hq: Wrexham, United Kingdom
 uk-region: Wales
+country-code: GB
 founded: 1984
 size: small
 headcount: 11-50

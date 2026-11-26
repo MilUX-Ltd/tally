@@ -6,6 +6,7 @@ linkedin: https://www.linkedin.com/company/opswat
 companies-house: 09402526
 hq: Tampa, United States
 uk-region: London
+country-code: GB
 founded: 2002
 size: micro
 sources-verified: 2026-07-05

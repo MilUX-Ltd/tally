@@ -6,6 +6,7 @@ linkedin: https://www.linkedin.com/company/copello-global/
 companies-house: "11528975"
 hq: Whiteley, United Kingdom
 uk-region: South East
+country-code: GB
 founded: 2018
 sources-verified: 2026-11-19
 postcode: PO15 7AH

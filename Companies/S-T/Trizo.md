@@ -5,6 +5,7 @@ website: https://www.trizo.com
 companies-house: 06400243
 hq: Bridgwater, Somerset
 uk-region: South West
+country-code: GB
 founded: 2007
 sources-verified: 2026-11-24
 postcode: TA6 4FJ

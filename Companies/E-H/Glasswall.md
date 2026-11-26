@@ -6,6 +6,7 @@ linkedin: https://www.linkedin.com/company/glasswall-solutions-limited/
 companies-house: 05573793
 hq: London, United Kingdom
 uk-region: London
+country-code: GB
 founded: 2005
 size: small
 headcount: 100-200

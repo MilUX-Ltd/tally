@@ -4,6 +4,7 @@ name: Teleplan Forsberg Ltd
 website: http://www.teleplanforsberg.com
 hq: Heysham, United Kingdom
 uk-region: North West
+country-code: GB
 sources-verified: 2026-06-30
 lat: 54.04813
 lon: -2.89223

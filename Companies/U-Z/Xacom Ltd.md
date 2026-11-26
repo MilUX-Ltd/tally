@@ -4,6 +4,7 @@ name: Xacom Ltd
 website: https://xacom-projectcontrols.com
 hq: Preston, United Kingdom
 uk-region: North West
+country-code: GB
 sources-verified: 2026-07-01
 lat: 53.76055
 lon: -2.69853

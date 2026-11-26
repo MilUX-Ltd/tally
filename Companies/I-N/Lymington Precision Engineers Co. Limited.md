@@ -4,6 +4,7 @@ name: Lymington Precision Engineers Co. Limited
 website: http://www.lymingtonprecision.co.uk
 hq: Lymington, United Kingdom
 uk-region: South East
+country-code: GB
 sources-verified: 2026-07-04
 lat: 50.75829
 lon: -1.54204

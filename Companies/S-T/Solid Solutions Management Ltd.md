@@ -4,6 +4,7 @@ name: Solid Solutions Management Ltd
 website: https://www.solidsolutions.co.uk
 hq: Kenilworth, United Kingdom
 uk-region: West Midlands
+country-code: GB
 sources-verified: 2026-06-30
 lat: 52.34256
 lon: -1.5791

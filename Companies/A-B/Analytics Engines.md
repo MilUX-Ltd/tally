@@ -6,6 +6,7 @@ linkedin: https://www.linkedin.com/company/analytics-engines
 companies-house: NI070848
 hq: Belfast, United Kingdom
 uk-region: Northern Ireland
+country-code: GB
 founded: 2008
 size: small
 headcount: ~20

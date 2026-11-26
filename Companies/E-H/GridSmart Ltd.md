@@ -5,6 +5,7 @@ website: https://www.gridsmart.co.uk
 companies-house: 03296028
 hq: Exeter, UK
 uk-region: South West
+country-code: GB
 size: micro
 sources-verified: 2026-07-04
 postcode: EX2 8PW

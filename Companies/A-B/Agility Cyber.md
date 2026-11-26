@@ -6,6 +6,7 @@ linkedin: https://www.linkedin.com/company/agility-cyber
 companies-house: 15236270
 hq: Warwick, United Kingdom
 uk-region: West Midlands
+country-code: GB
 founded: 2023
 size: micro
 sources-verified: 2026-07-03

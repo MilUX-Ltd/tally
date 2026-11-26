@@ -6,6 +6,7 @@ linkedin: https://www.linkedin.com/company/sms-aero-training-and-consultancy/
 companies-house: "09805034"
 hq: Sleaford, United Kingdom
 uk-region: East Midlands
+country-code: GB
 sources-verified: 2026-11-19
 postcode: NG34 8HB
 lat: 53.03579

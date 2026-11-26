@@ -4,6 +4,7 @@ name: Solent University
 website: https://www.solent.ac.uk
 hq: Southampton, United Kingdom
 uk-region: South East
+country-code: GB
 sources-verified: 2026-11-19
 postcode: SO14 0YN
 lat: 50.90758

@@ -6,6 +6,7 @@ linkedin: https://www.linkedin.com/company/urban-hawk-data-intelligence-limited
 companies-house: 10615898
 hq: Bristol, United Kingdom
 uk-region: South West
+country-code: GB
 founded: 2017
 size: micro
 sources-verified: 2026-06-29

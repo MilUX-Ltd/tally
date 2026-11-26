@@ -4,6 +4,7 @@ name: J P Adams Consulting Ltd
 website: https://www.jpac.engineer
 hq: Bristol, United Kingdom
 uk-region: South West
+country-code: GB
 sources-verified: 2026-07-04
 lat: 51.45313
 lon: -2.60098

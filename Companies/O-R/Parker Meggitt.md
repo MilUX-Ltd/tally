@@ -5,6 +5,7 @@ website: https://discover.parker.com/meggitt
 linkedin: https://www.linkedin.com/company/meggitt
 hq: Coventry, United Kingdom
 uk-region: West Midlands
+country-code: GB
 founded: 1948
 size: large
 headcount: 9000+

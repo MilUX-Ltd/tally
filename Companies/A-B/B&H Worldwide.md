@@ -6,6 +6,7 @@ linkedin: https://www.linkedin.com/company/bh-worldwide
 companies-house: 02232679
 hq: West Drayton, United Kingdom
 uk-region: London
+country-code: GB
 founded: 1988
 size: medium
 sources-verified: 2026-07-04

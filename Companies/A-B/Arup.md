@@ -5,6 +5,7 @@ website: https://www.arup.com
 companies-house: "01312453"
 hq: London, United Kingdom
 uk-region: London
+country-code: GB
 founded: 1946
 size: large
 sources-verified: 2026-11-19

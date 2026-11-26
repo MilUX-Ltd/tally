@@ -4,6 +4,7 @@ name: Same Day PLC Guardian Service
 website: http://www.guardian-service.co.uk
 hq: Northwich, United Kingdom
 uk-region: North West
+country-code: GB
 sources-verified: 2026-06-30
 lat: 53.2607
 lon: -2.51196

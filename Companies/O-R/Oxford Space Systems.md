@@ -5,6 +5,7 @@ website: https://oxford.space
 linkedin: https://www.linkedin.com/company/oxford-space-systems
 hq: Harwell, England
 uk-region: South East
+country-code: GB
 founded: 2013
 size: medium
 headcount: 100+

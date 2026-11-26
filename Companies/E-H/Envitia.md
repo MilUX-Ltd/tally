@@ -6,6 +6,7 @@ linkedin: https://uk.linkedin.com/company/envitia
 companies-house: 02348404
 hq: Horsham, United Kingdom
 uk-region: South East
+country-code: GB
 founded: 1989
 size: medium
 sources-verified: 2026-07-04

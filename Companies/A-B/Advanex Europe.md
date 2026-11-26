@@ -6,6 +6,7 @@ linkedin: https://www.linkedin.com/company/advanex-europe-ltd
 companies-house: 02301464
 hq: Southwell, Nottinghamshire, United Kingdom
 uk-region: East Midlands
+country-code: GB
 founded: 1988
 size: medium
 headcount:

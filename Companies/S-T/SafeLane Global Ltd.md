@@ -4,6 +4,7 @@ name: SafeLane Global Ltd
 website: https://www.safelaneglobal.com
 hq: Ross-on-Wye, United Kingdom
 uk-region: West Midlands
+country-code: GB
 sources-verified: 2026-06-30
 lat: 51.91394
 lon: -2.58369

@@ -5,6 +5,7 @@ website: https://www.wartsila.com/gbr
 companies-house: "01004816"
 hq: Fareham, United Kingdom
 uk-region: South East
+country-code: GB
 size: large
 sources-verified: 2026-11-19
 postcode: PO16 8SD

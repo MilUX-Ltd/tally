@@ -4,6 +4,7 @@ name: Staubli UK Ltd
 website: https://www.staubli.co.uk
 hq: Pfäffikon, Switzerland
 uk-region: West Midlands
+country-code: GB
 size: large
 sources-verified: 2026-06-30
 location-source: region

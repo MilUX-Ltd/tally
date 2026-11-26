@@ -4,6 +4,7 @@ name: LiveU UK Ltd
 website: https://www.liveu.tv
 hq: Tel Aviv, Israel
 uk-region: West Midlands
+country-code: GB
 sources-verified: 2026-07-04
 location-source: region
 location-note: UK location not published

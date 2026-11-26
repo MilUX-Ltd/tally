@@ -6,6 +6,7 @@ linkedin: https://www.linkedin.com/company/clydesdale-engineering-ltd
 companies-house: 09907518
 hq: West Midlands, United Kingdom
 uk-region: West Midlands
+country-code: GB
 size: medium
 headcount: 240
 sources-verified: 2026-07-04

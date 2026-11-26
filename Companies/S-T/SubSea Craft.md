@@ -6,6 +6,7 @@ linkedin: https://www.linkedin.com/company/subseacraft-limited
 companies-house: 08930367
 hq: Portsmouth, England
 uk-region: South East
+country-code: GB
 founded: 2014
 size: medium
 sources-verified: 2026-06-29

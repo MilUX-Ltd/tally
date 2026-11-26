@@ -6,6 +6,7 @@ linkedin: https://www.linkedin.com/company/ghyston
 companies-house: "09304061"
 hq: Bristol, United Kingdom
 uk-region: South West
+country-code: GB
 founded: 2012
 size: small
 headcount: 50

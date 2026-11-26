@@ -5,6 +5,7 @@ website: https://www.heathcoat.co.uk
 companies-house:
 hq: Tiverton, United Kingdom
 uk-region: South West
+country-code: GB
 founded:
 size: large
 headcount: 430

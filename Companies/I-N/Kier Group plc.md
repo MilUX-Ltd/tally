@@ -4,6 +4,7 @@ name: Kier Group plc
 website: https://www.kier.co.uk
 hq: Salford, United Kingdom
 uk-region: North West
+country-code: GB
 size: large
 sources-verified: 2026-07-04
 lat: 53.48064

@@ -5,6 +5,7 @@ website: https://ascoworld.com
 companies-house: SC029934
 hq: Aberdeen, United Kingdom
 uk-region: Scotland
+country-code: GB
 founded: 1954
 size: large
 headcount: 900+

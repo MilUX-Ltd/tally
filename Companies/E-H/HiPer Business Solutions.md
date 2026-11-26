@@ -6,6 +6,7 @@ linkedin: https://www.linkedin.com/company/hiper-solutions
 companies-house: "17002127"
 hq: Newark-on-Trent, United Kingdom
 uk-region: East Midlands
+country-code: GB
 founded: 2026
 sources-verified: 2026-11-19
 lat: 53.07582

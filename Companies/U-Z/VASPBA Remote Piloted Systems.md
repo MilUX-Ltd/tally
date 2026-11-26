@@ -4,6 +4,7 @@ name: VASPBA Remote Piloted Systems
 website: https://www.vaspba.co.uk
 hq: Dorset Innovation Park, Winfrith, Dorset
 uk-region: South West
+country-code: GB
 size: micro
 sources-verified: 2026-06-30
 location-source: region

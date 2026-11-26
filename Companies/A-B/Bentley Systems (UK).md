@@ -6,6 +6,7 @@ linkedin: https://www.linkedin.com/company/bentley-systems
 companies-house: 02957722
 hq: Exton, Pennsylvania, United States
 uk-region: London
+country-code: GB
 size: large
 sources-verified: 2026-07-03
 postcode: EC2N 4BQ

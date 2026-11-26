@@ -6,6 +6,7 @@ linkedin: https://www.linkedin.com/company/emberion
 companies-house: 10255178
 hq: Paris, France
 uk-region: East of England
+country-code: GB
 founded: 2016
 size: micro
 headcount: 30

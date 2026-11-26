@@ -5,6 +5,7 @@ website: https://www.quantum-dice.com
 linkedin: https://www.linkedin.com/company/quantum-dice
 hq: Oxford, England
 uk-region: South East
+country-code: GB
 founded: 2020
 size: small
 sources-verified: 2026-07-16

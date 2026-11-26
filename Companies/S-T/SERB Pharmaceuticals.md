@@ -4,6 +4,7 @@ name: SERB Pharmaceuticals
 website: https://www.serb.com
 hq: Brussels, Belgium
 uk-region: Wales
+country-code: GB
 sources-verified: 2026-06-30
 location-source: region
 location-note: UK location not published

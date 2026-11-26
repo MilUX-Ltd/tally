@@ -6,6 +6,7 @@ linkedin: https://www.linkedin.com/company/chemringenergetics
 companies-house: SC237472
 hq: Stevenston, United Kingdom
 uk-region: Scotland
+country-code: GB
 size: medium
 sources-verified: 2026-07-04
 postcode: KA20 3LN

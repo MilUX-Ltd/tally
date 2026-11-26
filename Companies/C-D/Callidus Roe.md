@@ -6,6 +6,7 @@ linkedin: https://www.linkedin.com/company/callidus-roe
 companies-house: "10074821"
 hq: Longhope, United Kingdom
 uk-region: South West
+country-code: GB
 founded: 2016
 size: micro
 headcount: 8

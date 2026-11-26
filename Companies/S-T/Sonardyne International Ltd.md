@@ -4,6 +4,7 @@ name: Sonardyne International Ltd
 website: https://www.sonardyne.com
 hq: Yateley, UK
 uk-region: South East
+country-code: GB
 size: medium
 sources-verified: 2026-07-03
 lat: 51.34025

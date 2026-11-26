@@ -4,6 +4,7 @@ name: Imperial College London
 website: https://www.imperial.ac.uk
 hq: London, United Kingdom
 uk-region: London
+country-code: GB
 sources-verified: 2026-11-19
 postcode: SW7 2AZ
 lat: 51.49933

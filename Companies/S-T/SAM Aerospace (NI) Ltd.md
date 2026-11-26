@@ -4,6 +4,7 @@ name: SAM Aerospace (NI) Ltd
 website: https://jwkane.co.uk/
 hq: Singapore, Singapore
 uk-region: Northern Ireland
+country-code: GB
 sources-verified: 2026-06-30
 location-source: region
 location-note: UK location not published

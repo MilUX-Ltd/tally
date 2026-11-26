@@ -4,6 +4,7 @@ name: Quantamatic
 website: https://www.quantamatic.co.uk
 hq: Hinckley, United Kingdom
 uk-region: East Midlands
+country-code: GB
 founded: 1989
 sources-verified: 2026-07-05
 lat: 52.54105

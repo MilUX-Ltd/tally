@@ -4,6 +4,7 @@ name: Speedlink International Logistics
 website: https://www.speedlink.ie
 hq: Lisburn, United Kingdom
 uk-region: Northern Ireland
+country-code: GB
 sources-verified: 2026-06-30
 lat: 54.51129
 lon: -6.04672

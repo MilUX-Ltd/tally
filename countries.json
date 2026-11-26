@@ -1,0 +1,204 @@
+{
+  "generated": "2026-11-26",
+  "note": "Countries Tally knows. Every company page carries one of these codes as country-code (ISO 3166-1 alpha-2; ZZ for a country not known). A country shows on the site only when live is true; a live country needs its bounds (west, south, east, north) and its first-level regions. Russia is never live.",
+  "countries": [
+    {
+      "code": "GB",
+      "name": "United Kingdom",
+      "bloc": "europe",
+      "live": true,
+      "bounds": [
+        -8.7,
+        49.8,
+        1.9,
+        60.9
+      ],
+      "regions": [
+        "North East",
+        "North West",
+        "Yorkshire and The Humber",
+        "East Midlands",
+        "West Midlands",
+        "East of England",
+        "London",
+        "South East",
+        "South West",
+        "Scotland",
+        "Wales",
+        "Northern Ireland"
+      ]
+    },
+    {
+      "code": "AE",
+      "name": "United Arab Emirates",
+      "bloc": "other",
+      "live": false
+    },
+    {
+      "code": "AU",
+      "name": "Australia",
+      "bloc": "other",
+      "live": false
+    },
+    {
+      "code": "BE",
+      "name": "Belgium",
+      "bloc": "europe",
+      "live": false
+    },
+    {
+      "code": "CA",
+      "name": "Canada",
+      "bloc": "north-america",
+      "live": false
+    },
+    {
+      "code": "CH",
+      "name": "Switzerland",
+      "bloc": "europe",
+      "live": false
+    },
+    {
+      "code": "CN",
+      "name": "China",
+      "bloc": "other",
+      "live": false
+    },
+    {
+      "code": "DE",
+      "name": "Germany",
+      "bloc": "europe",
+      "live": false
+    },
+    {
+      "code": "DK",
+      "name": "Denmark",
+      "bloc": "europe",
+      "live": false
+    },
+    {
+      "code": "EE",
+      "name": "Estonia",
+      "bloc": "europe",
+      "live": false
+    },
+    {
+      "code": "FI",
+      "name": "Finland",
+      "bloc": "europe",
+      "live": false
+    },
+    {
+      "code": "FR",
+      "name": "France",
+      "bloc": "europe",
+      "live": false
+    },
+    {
+      "code": "HR",
+      "name": "Croatia",
+      "bloc": "europe",
+      "live": false
+    },
+    {
+      "code": "IE",
+      "name": "Ireland",
+      "aliases": [
+        "Republic of Ireland"
+      ],
+      "bloc": "europe",
+      "live": false
+    },
+    {
+      "code": "IL",
+      "name": "Israel",
+      "bloc": "other",
+      "live": false
+    },
+    {
+      "code": "IN",
+      "name": "India",
+      "bloc": "other",
+      "live": false
+    },
+    {
+      "code": "IT",
+      "name": "Italy",
+      "bloc": "europe",
+      "live": false
+    },
+    {
+      "code": "LU",
+      "name": "Luxembourg",
+      "bloc": "europe",
+      "live": false
+    },
+    {
+      "code": "NL",
+      "name": "Netherlands",
+      "aliases": [
+        "The Netherlands"
+      ],
+      "bloc": "europe",
+      "live": false
+    },
+    {
+      "code": "NO",
+      "name": "Norway",
+      "bloc": "europe",
+      "live": false
+    },
+    {
+      "code": "SE",
+      "name": "Sweden",
+      "bloc": "europe",
+      "live": false
+    },
+    {
+      "code": "SK",
+      "name": "Slovakia",
+      "bloc": "europe",
+      "live": false
+    },
+    {
+      "code": "TR",
+      "name": "Türkiye",
+      "aliases": [
+        "Turkey"
+      ],
+      "bloc": "europe",
+      "live": false
+    },
+    {
+      "code": "TW",
+      "name": "Taiwan",
+      "bloc": "other",
+      "live": false
+    },
+    {
+      "code": "UA",
+      "name": "Ukraine",
+      "bloc": "europe",
+      "live": false
+    },
+    {
+      "code": "US",
+      "name": "United States",
+      "aliases": [
+        "USA",
+        "United States of America"
+      ],
+      "bloc": "north-america",
+      "live": false
+    },
+    {
+      "code": "ZZ",
+      "name": "Country not known",
+      "aliases": [
+        "Europe (country not stated)"
+      ],
+      "bloc": "europe",
+      "live": false
+    }
+  ]
+}

@@ -5,6 +5,7 @@ website: https://www.sensiphi.co.uk
 companies-house: "15855458"
 hq: Southampton, United Kingdom
 uk-region: South East
+country-code: GB
 founded: 2024
 sources-verified: 2026-11-19
 postcode: SO17 1DL

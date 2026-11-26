@@ -6,6 +6,7 @@ linkedin: https://www.linkedin.com/company/isembard
 companies-house: 15989684
 hq: London, UK
 uk-region: London
+country-code: GB
 founded: 2024
 size: small
 sources-verified: 2026-07-04

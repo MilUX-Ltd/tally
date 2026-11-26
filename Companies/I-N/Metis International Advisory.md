@@ -4,6 +4,7 @@ name: Metis International Advisory Ltd
 website: http://www.metisintl.com
 hq: Nottingham, UK
 uk-region: East Midlands
+country-code: GB
 sources-verified: 2026-07-05
 lat: 52.9562
 lon: -1.1512

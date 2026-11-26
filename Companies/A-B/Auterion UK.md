@@ -10,6 +10,7 @@ founded: 2017
 size: medium
 sources-verified: 2026-07-04
 country: United States
+country-code: US
 tags:
   - defence
   - uas

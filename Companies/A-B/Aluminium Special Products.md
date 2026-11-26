@@ -6,6 +6,7 @@ linkedin: https://www.linkedin.com/company/aluminium-special-products-limited
 companies-house: 04822805
 hq: Kingswinford, United Kingdom
 uk-region: West Midlands
+country-code: GB
 founded: 2003
 size: small
 sources-verified: 2026-07-03

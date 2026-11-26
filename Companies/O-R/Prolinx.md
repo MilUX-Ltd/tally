@@ -6,6 +6,7 @@ linkedin: https://www.linkedin.com/company/prolinx
 companies-house: "03379531"
 hq: Watchfield, United Kingdom
 uk-region: South West
+country-code: GB
 founded: 1997
 size: small
 sources-verified: 2026-07-05

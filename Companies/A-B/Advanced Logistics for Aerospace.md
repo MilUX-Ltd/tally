@@ -6,6 +6,7 @@ linkedin: https://www.linkedin.com/company/advanced-logistics-for-aerospace-uk-l
 companies-house: 02265000
 hq: Naples, Italy
 uk-region: South East
+country-code: GB
 founded: 1988
 size: small
 headcount:

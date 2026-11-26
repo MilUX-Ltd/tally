@@ -5,6 +5,7 @@ website: https://www.hydrogroup-uk.com
 companies-house: SC132331
 hq: Aberdeen, United Kingdom
 uk-region: Scotland
+country-code: GB
 founded: 1991
 size: medium
 headcount: ~105 (Aberdeen)

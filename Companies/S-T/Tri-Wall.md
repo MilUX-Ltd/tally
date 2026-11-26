@@ -5,6 +5,7 @@ website: https://www.tri-wall.co.uk
 companies-house: "08311508"
 hq: Monmouth, United Kingdom
 uk-region: Wales
+country-code: GB
 size: large
 sources-verified: 2026-11-19
 postcode: NP25 5TW

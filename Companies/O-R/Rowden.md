@@ -5,6 +5,7 @@ website: https://www.rowdentech.com
 companies-house: "09981110"
 hq: Bristol, United Kingdom
 uk-region: South West
+country-code: GB
 founded: 2016
 size: medium
 sources-verified: 2026-07-05

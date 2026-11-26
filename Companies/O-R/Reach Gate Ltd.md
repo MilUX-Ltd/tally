@@ -4,6 +4,7 @@ name: Reach Gate Ltd
 companies-house: "13181481"
 hq: Cheltenham, United Kingdom
 uk-region: South West
+country-code: GB
 founded: 2021
 sources-verified: 2026-07-05
 postcode: GL52 2LY

@@ -4,6 +4,7 @@ name: OSL Technology
 website: https://www.operationalsolutions.co.uk
 hq: Padworth Common, UK
 uk-region: South East
+country-code: GB
 sources-verified: 2026-07-05
 lat: 51.37911
 lon: -1.1113

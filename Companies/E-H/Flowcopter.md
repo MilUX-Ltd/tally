@@ -6,6 +6,7 @@ linkedin: https://www.linkedin.com/company/flowcopter
 companies-house: SC637173
 hq: Loanhead, Midlothian, UK
 uk-region: Scotland
+country-code: GB
 founded: 2019
 size: micro
 sources-verified: 2026-07-04

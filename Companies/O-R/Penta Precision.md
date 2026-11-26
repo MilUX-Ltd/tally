@@ -6,6 +6,7 @@ linkedin: https://www.linkedin.com/company/penta-precision-engineering-ltd/
 companies-house: "03478011"
 hq: Fareham, United Kingdom
 uk-region: South East
+country-code: GB
 founded: 1998
 sources-verified: 2026-11-19
 postcode: PO16 9RD

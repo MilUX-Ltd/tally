@@ -5,6 +5,7 @@ website: https://www.altair.com/
 companies-house: 03051069
 hq: Troy, Michigan, United States
 uk-region: West Midlands
+country-code: GB
 founded: 1985
 size: large
 sources-verified: 2026-07-03

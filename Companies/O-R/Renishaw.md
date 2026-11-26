@@ -6,6 +6,7 @@ linkedin: https://www.linkedin.com/company/renishaw
 companies-house: "01106260"
 hq: Wotton-under-Edge, United Kingdom
 uk-region: South West
+country-code: GB
 founded: 1973
 size: large
 headcount: ~5000

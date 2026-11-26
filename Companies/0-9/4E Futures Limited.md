@@ -6,6 +6,7 @@ linkedin: https://www.linkedin.com/company/4e-futures
 companies-house: "09998380"
 hq: Salisbury, Wiltshire
 uk-region: South West
+country-code: GB
 founded: 2016
 size: small
 headcount: 11-50

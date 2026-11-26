@@ -6,6 +6,7 @@ linkedin: https://www.linkedin.com/company/cy2-limited
 companies-house: "12173292"
 hq: Cheltenham, UK
 uk-region: South West
+country-code: GB
 founded: 2019
 size: small
 headcount: 11-50

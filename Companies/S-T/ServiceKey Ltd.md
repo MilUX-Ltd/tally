@@ -4,6 +4,7 @@ name: ServiceKey Ltd
 website: http://www.servicekey.uk
 hq: Manchester, United Kingdom
 uk-region: North West
+country-code: GB
 sources-verified: 2026-06-30
 lat: 53.47894
 lon: -2.24528

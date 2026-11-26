@@ -4,6 +4,7 @@ name: Safran Landing Systems UK Ltd
 website: https://www.safran-landing-systems.com
 hq: Gloucester, United Kingdom
 uk-region: South West
+country-code: GB
 size: large
 sources-verified: 2026-06-30
 lat: 51.86455

@@ -6,6 +6,7 @@ linkedin: https://uk.linkedin.com/company/awerian-uk
 companies-house: 13173806
 hq: Melbourn, United Kingdom
 uk-region: East of England
+country-code: GB
 founded: 2021
 size: medium
 headcount: 31

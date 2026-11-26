@@ -4,6 +4,7 @@ name: Olive Jar Digital
 website: https://www.olivejar.co.uk
 hq: London
 uk-region: London
+country-code: GB
 founded: 2015
 sources-verified: 2026-07-05
 lat: 51.50741

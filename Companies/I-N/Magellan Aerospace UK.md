@@ -5,6 +5,7 @@ website: https://magellan.aero
 companies-house: "04909329"
 hq: Wrexham, United Kingdom
 uk-region: Wales
+country-code: GB
 founded: 2003
 size: large
 sources-verified: 2026-11-19

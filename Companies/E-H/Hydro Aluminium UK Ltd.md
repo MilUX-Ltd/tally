@@ -4,6 +4,7 @@ name: Hydro Aluminium UK Ltd
 website: https://www.hydro.com
 hq: Oslo, Norway
 uk-region: East Midlands
+country-code: GB
 sources-verified: 2026-07-04
 location-source: region
 location-note: UK location not published

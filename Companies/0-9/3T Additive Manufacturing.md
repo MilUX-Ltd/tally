@@ -6,6 +6,7 @@ linkedin: https://www.linkedin.com/company/3t-am/
 companies-house: "03333366"
 hq: Thatcham, United Kingdom
 uk-region: South East
+country-code: GB
 founded: 1997
 sources-verified: 2026-11-19
 postcode: RG19 6HN

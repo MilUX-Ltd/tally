@@ -5,6 +5,7 @@ website: https://www.messengerbcr.co.uk
 companies-house: "08203415"
 hq: Stamford, United Kingdom
 uk-region: East Midlands
+country-code: GB
 founded: 2011
 size: medium
 headcount: 100

@@ -4,6 +4,7 @@ name: L&T Technology Services Ltd
 website: https://www.ltts.com
 hq: Vadodara, India
 uk-region: London
+country-code: GB
 size: large
 sources-verified: 2026-07-04
 location-source: region

@@ -4,6 +4,7 @@ name: JJ Churchill Ltd
 website: https://www.jjchurchill.com
 hq: Market Bosworth, UK
 uk-region: West Midlands
+country-code: GB
 founded: 1937
 size: small
 headcount: ~100-130

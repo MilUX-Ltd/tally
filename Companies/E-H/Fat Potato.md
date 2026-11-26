@@ -6,6 +6,7 @@ linkedin: https://www.linkedin.com/company/fat-potato
 companies-house: 09960235
 hq: Cheltenham, UK
 uk-region: South West
+country-code: GB
 founded: 2016
 size: small
 headcount: 20

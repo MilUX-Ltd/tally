@@ -4,6 +4,7 @@ name: SKD Systems
 website: https://skd.systems
 hq: Munich, Germany
 uk-region: South West
+country-code: GB
 founded: 2024
 sources-verified: 2026-06-30
 location-source: region

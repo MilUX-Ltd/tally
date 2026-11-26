@@ -4,6 +4,7 @@ name: JOTA Holdings
 website: https://www.jotagroup.com
 hq: Tunbridge Wells, UK
 uk-region: South East
+country-code: GB
 founded: 2015
 sources-verified: 2026-07-04
 lat: 51.13715

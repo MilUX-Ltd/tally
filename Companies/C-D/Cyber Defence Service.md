@@ -6,6 +6,7 @@ linkedin: https://uk.linkedin.com/company/cyber-defence-service-ltd
 companies-house: "10290462"
 hq: Manchester, United Kingdom
 uk-region: North West
+country-code: GB
 founded: 2016
 size: micro
 sources-verified: 2026-07-04

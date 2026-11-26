@@ -6,6 +6,7 @@ linkedin: https://uk.linkedin.com/company/arc-additive
 companies-house: SC794912
 hq: Livingston, Scotland
 uk-region: Scotland
+country-code: GB
 size: small
 sources-verified: 2026-07-03
 postcode: EH54 8SH

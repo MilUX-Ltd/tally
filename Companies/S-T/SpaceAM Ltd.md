@@ -4,6 +4,7 @@ name: SpaceAM Ltd
 website: http://www.spaceam.co.uk
 hq: Stonehouse, United Kingdom
 uk-region: South West
+country-code: GB
 size: micro
 sources-verified: 2026-06-30
 lat: 51.74592

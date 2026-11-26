@@ -6,6 +6,7 @@ linkedin: https://www.linkedin.com/company/raptor-photonics-ltd/
 companies-house: NI060799
 hq: Larne, United Kingdom
 uk-region: Northern Ireland
+country-code: GB
 founded: 2006
 size: small
 headcount: 11-50

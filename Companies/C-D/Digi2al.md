@@ -6,6 +6,7 @@ linkedin: https://www.linkedin.com/company/digi2al
 companies-house: 08407866
 hq: Hove, UK
 uk-region: South East
+country-code: GB
 founded: 2013
 size: small
 sources-verified: 2026-07-04

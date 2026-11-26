@@ -4,6 +4,7 @@ name: Teledyne Labtech
 website: https://www.teledynelabtech.com
 hq: Presteigne, United Kingdom
 uk-region: Wales
+country-code: GB
 founded: 1984
 size: large
 sources-verified: 2026-11-19

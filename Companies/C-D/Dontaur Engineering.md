@@ -6,6 +6,7 @@ linkedin: https://www.linkedin.com/company/dontaur-engineering-limited
 companies-house: NI012135
 hq: Ballymena, UK
 uk-region: Northern Ireland
+country-code: GB
 founded: 1976
 size: large
 sources-verified: 2026-07-04

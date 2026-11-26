@@ -4,6 +4,7 @@ name: Noxvayn Ltd
 website: https://www.noxvayn.com
 hq: London, United Kingdom
 uk-region: London
+country-code: GB
 size: micro
 sources-verified: 2026-07-05
 lat: 51.50741

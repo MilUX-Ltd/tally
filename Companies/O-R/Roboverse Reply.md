@@ -5,6 +5,7 @@ website: https://www.reply.com/roboverse-reply/en
 companies-house: "16969095"
 hq: London, United Kingdom
 uk-region: London
+country-code: GB
 founded: 2026
 sources-verified: 2026-11-19
 postcode: SW1W 0EB

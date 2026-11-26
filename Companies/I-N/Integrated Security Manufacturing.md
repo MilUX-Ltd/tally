@@ -6,6 +6,7 @@ linkedin: https://uk.linkedin.com/company/integrated-security-manufacturing-ltd
 companies-house: 02323770
 hq: Crawley, United Kingdom
 uk-region: South East
+country-code: GB
 founded: 1988
 sources-verified: 2026-07-04
 postcode: RH10 9FZ

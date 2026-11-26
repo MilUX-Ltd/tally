@@ -5,6 +5,7 @@ website: https://www.indigoics.co.uk
 founded: 2010
 hq: Poole, United Kingdom
 uk-region: South West
+country-code: GB
 sources-verified: 2026-07-04
 lat: 50.71893
 lon: -1.97983

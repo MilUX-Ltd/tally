@@ -6,6 +6,7 @@ linkedin: https://uk.linkedin.com/company/andurilindustries
 companies-house: 12316056
 hq: London, United Kingdom
 uk-region: London
+country-code: GB
 size: medium
 sources-verified: 2026-07-03
 postcode: EC4A 3BZ

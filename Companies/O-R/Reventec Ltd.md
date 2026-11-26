@@ -5,6 +5,7 @@ website: http://www.reventec.com
 linkedin: https://uk.linkedin.com/company/reventec-ltd
 hq: Downton, United Kingdom
 uk-region: South West
+country-code: GB
 founded: 2013
 sources-verified: 2026-07-05
 lat: 50.99279

@@ -6,6 +6,7 @@ linkedin: https://www.linkedin.com/company/boyce-precision-engineering-ltd
 companies-house: NI061898
 hq: Portadown, United Kingdom
 uk-region: Northern Ireland
+country-code: GB
 founded: 2006
 size: small
 headcount: 27

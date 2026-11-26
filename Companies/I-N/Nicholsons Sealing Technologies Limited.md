@@ -4,6 +4,7 @@ name: Nicholsons Sealing Technologies Limited
 website: https://www.nicholsons.co.uk
 hq: Stanley, UK
 uk-region: North East
+country-code: GB
 sources-verified: 2026-07-05
 lat: 54.87227
 lon: -1.69381

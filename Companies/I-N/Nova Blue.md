@@ -4,6 +4,7 @@ name: Nova Blue
 website: http://defence.nova-blue.com
 hq: Staverton, UK
 uk-region: South West
+country-code: GB
 size: micro
 sources-verified: 2026-07-05
 lat: 51.91008

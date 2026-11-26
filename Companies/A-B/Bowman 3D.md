@@ -6,6 +6,7 @@ linkedin: https://www.linkedin.com/company/bowman3d
 companies-house: 02750164
 hq: Abingdon, United Kingdom
 uk-region: South East
+country-code: GB
 founded: 1992
 size: small
 sources-verified: 2026-07-04

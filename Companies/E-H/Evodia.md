@@ -6,6 +6,7 @@ linkedin: https://www.linkedin.com/company/evodia-ltd
 companies-house: "03473634"
 hq: Farnham, United Kingdom
 uk-region: South East
+country-code: GB
 founded: 1997
 sources-verified: 2026-11-19
 postcode: GU9 7LW

@@ -6,6 +6,7 @@ linkedin: https://uk.linkedin.com/company/denroy-plastics-ltd
 companies-house: NI012112
 hq: Bangor, United Kingdom
 uk-region: Northern Ireland
+country-code: GB
 founded: 1972
 size: small
 headcount: 95

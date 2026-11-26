@@ -5,6 +5,7 @@ website: https://www.adsgroup.org.uk/members/defence-contracts-experts-ltd-1/
 companies-house: "09615610"
 hq: Mitcheldean, United Kingdom
 uk-region: South West
+country-code: GB
 founded: 2015
 size: micro
 sources-verified: 2026-07-04

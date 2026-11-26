@@ -4,6 +4,7 @@ name: Mission Systems Wimborne Ltd (Eaton)
 website: https://cobhammissionsystems.com
 hq: Wimborne, United Kingdom
 uk-region: South West
+country-code: GB
 sources-verified: 2026-07-05
 lat: 51.87886
 lon: -2.07702

@@ -5,6 +5,7 @@ website: https://www.shentongroup.co.uk
 companies-house: "10427830"
 hq: Andover, United Kingdom
 uk-region: South East
+country-code: GB
 founded: 1982
 sources-verified: 2026-11-19
 postcode: SP10 5LH

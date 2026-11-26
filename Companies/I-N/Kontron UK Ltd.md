@@ -4,6 +4,7 @@ name: Kontron UK Ltd
 website: https://www.kontron.com
 hq: Augsburg, Germany
 uk-region: South East
+country-code: GB
 size: large
 sources-verified: 2026-07-04
 location-source: region

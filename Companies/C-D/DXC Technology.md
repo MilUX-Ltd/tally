@@ -6,6 +6,7 @@ linkedin: https://www.linkedin.com/company/dxc-technology
 companies-house: 07073335
 hq: Ashburn, United States
 uk-region: South East
+country-code: GB
 founded: 2017
 size: large
 headcount: 115000

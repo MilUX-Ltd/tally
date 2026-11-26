@@ -10,6 +10,7 @@ size: medium
 headcount: ~54
 sources-verified: 2026-07-03
 country: Ireland
+country-code: IE
 tags:
   - defence
   - air

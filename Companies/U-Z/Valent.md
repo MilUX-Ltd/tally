@@ -8,6 +8,7 @@ founded: 2019
 sources-verified: 2026-06-30
 location-source: region
 location-note: UK location not published
+country-code: GB
 tags:
   - defence
   - ai

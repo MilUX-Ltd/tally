@@ -6,6 +6,7 @@ linkedin: https://www.linkedin.com/company/delta-mobrey-ltd
 companies-house: "05369683"
 hq: Camberley, United Kingdom
 uk-region: South East
+country-code: GB
 founded: 2005
 size: small
 headcount: 51-200

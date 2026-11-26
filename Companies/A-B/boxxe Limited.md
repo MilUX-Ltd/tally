@@ -6,6 +6,7 @@ linkedin: https://www.linkedin.com/company/boxxe-uk
 companies-house: "02109168"
 hq: York, United Kingdom
 uk-region: Yorkshire and The Humber
+country-code: GB
 founded: 1987
 size: medium
 headcount: 350

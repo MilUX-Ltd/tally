@@ -4,6 +4,7 @@ name: Strider Technologies UK Ltd
 website: https://www.striderintel.com
 hq: Salt Lake City, United States
 uk-region: South East
+country-code: GB
 sources-verified: 2026-06-30
 location-source: region
 location-note: UK location not published

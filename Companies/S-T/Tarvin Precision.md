@@ -6,6 +6,7 @@ linkedin: https://www.linkedin.com/company/tarvin-precision-limited
 companies-house: "07031517"
 hq: Hawarden, United Kingdom
 uk-region: Wales
+country-code: GB
 founded: 1995
 size: small
 headcount: 11-50

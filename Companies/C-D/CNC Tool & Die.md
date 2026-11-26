@@ -5,6 +5,7 @@ website: https://cnctoolanddie.co.uk
 companies-house: NI053670
 hq: Lisburn, United Kingdom
 uk-region: Northern Ireland
+country-code: GB
 founded: 2005
 size: small
 sources-verified: 2026-07-04

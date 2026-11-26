@@ -4,6 +4,7 @@ name: Lincad Ltd
 website: https://www.lincad.co.uk
 hq: Ash Vale, UK
 uk-region: South East
+country-code: GB
 sources-verified: 2026-07-04
 lat: 51.27246
 lon: -0.72235

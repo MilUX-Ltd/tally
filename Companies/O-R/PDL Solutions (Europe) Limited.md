@@ -4,6 +4,7 @@ name: PDL Solutions (Europe) Limited
 website: https://www.pdl-group.com
 hq: Hexham, United Kingdom
 uk-region: North East
+country-code: GB
 founded: 2001
 sources-verified: 2026-07-05
 lat: 54.97178

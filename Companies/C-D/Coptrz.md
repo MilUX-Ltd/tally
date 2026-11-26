@@ -5,6 +5,7 @@ website: https://www.coptrz.com
 companies-house: 10048724
 hq: Leeds
 uk-region: Yorkshire and The Humber
+country-code: GB
 founded: 2016
 sources-verified: 2026-11-25
 postcode: LS1 5QX

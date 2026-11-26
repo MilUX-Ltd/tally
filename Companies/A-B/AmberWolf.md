@@ -6,6 +6,7 @@ linkedin: https://www.linkedin.com/company/amberwolf
 companies-house: 13661010
 hq: Harrogate, United Kingdom
 uk-region: Yorkshire and The Humber
+country-code: GB
 founded: 2021
 size: small
 sources-verified: 2026-07-03

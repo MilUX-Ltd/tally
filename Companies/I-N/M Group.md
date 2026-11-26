@@ -6,6 +6,7 @@ linkedin: https://www.linkedin.com/company/mgroupltd/
 companies-house: "10260164"
 hq: Stevenage, United Kingdom
 uk-region: East of England
+country-code: GB
 size: large
 sources-verified: 2026-11-19
 postcode: SG1 2ST

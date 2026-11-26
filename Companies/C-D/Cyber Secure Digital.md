@@ -5,6 +5,7 @@ website: https://www.cybersecure.digital
 companies-house: "13382563"
 hq: London, UK
 uk-region: London
+country-code: GB
 founded: 2021
 size: micro
 postcode: EC1V 2NX

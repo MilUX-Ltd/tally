@@ -6,6 +6,7 @@ linkedin: https://www.linkedin.com/company/aiimi/
 companies-house: "05648705"
 hq: Milton Keynes, England
 uk-region: South East
+country-code: GB
 founded: 2005
 size: medium
 headcount: 173

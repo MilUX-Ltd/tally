@@ -4,6 +4,7 @@ name: Spectrum Control Ltd
 website: https://www.apitech.com
 hq: Great Yarmouth, United Kingdom
 uk-region: East of England
+country-code: GB
 sources-verified: 2026-06-30
 lat: 52.60717
 lon: 1.73148

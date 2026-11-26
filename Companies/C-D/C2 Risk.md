@@ -11,6 +11,7 @@ postcode: ST4 4RJ
 lat: 52.98959
 lon: -2.18809
 location-source: companies-house
+country-code: GB
 tags:
   - defence
   - cyber

@@ -5,6 +5,7 @@ website: https://www.rws.com
 linkedin: https://www.linkedin.com/company/rws-group/
 hq: Maidenhead, United Kingdom
 uk-region: South East
+country-code: GB
 size: large
 sources-verified: 2026-07-05
 lat: 51.52275

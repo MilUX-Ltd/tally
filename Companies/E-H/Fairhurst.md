@@ -6,6 +6,7 @@ linkedin: https://www.linkedin.com/company/fairhurst-co-uk/
 companies-house: "SO307306"
 hq: Glasgow, United Kingdom
 uk-region: Scotland
+country-code: GB
 sources-verified: 2026-11-19
 postcode: G2 4JR
 lat: 55.86546

@@ -6,6 +6,7 @@ linkedin: https://uk.linkedin.com/company/aeroglow-int-limited
 companies-house: 09348632
 hq: Salisbury, Wiltshire, England
 uk-region: South West
+country-code: GB
 founded: 2014
 size: micro
 sources-verified: 2026-07-03

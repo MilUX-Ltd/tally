@@ -6,6 +6,7 @@ linkedin: https://www.linkedin.com/company/atl-transformers-ltd
 companies-house: 01557288
 hq: Manchester, England
 uk-region: North West
+country-code: GB
 founded: 1981
 size: small
 sources-verified: 2026-07-03

@@ -6,6 +6,7 @@ linkedin: https://www.linkedin.com/company/acua-ocean
 companies-house: 13021977
 hq: Plymouth, United Kingdom
 uk-region: South West
+country-code: GB
 founded: 2020
 size: micro
 sources-verified: 2026-07-03

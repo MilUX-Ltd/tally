@@ -5,6 +5,7 @@ website: https://www.axillium.com/
 linkedin: https://uk.linkedin.com/company/axillium-research
 hq: Daventry, United Kingdom
 uk-region: East Midlands
+country-code: GB
 size: small
 sources-verified: 2026-07-04
 lat: 52.25836

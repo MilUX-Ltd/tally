@@ -6,6 +6,7 @@ linkedin: https://www.linkedin.com/company/census
 companies-house: 09701924
 hq: Athens, Greece
 uk-region: London
+country-code: GB
 founded: 2008
 size: small
 sources-verified: 2026-07-04

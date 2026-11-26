@@ -4,6 +4,7 @@ name: Maersk Logistics & Services UK Ltd
 website: https://www.maersk.com
 hq: Copenhagen, Denmark
 uk-region: East Midlands
+country-code: GB
 size: large
 sources-verified: 2026-07-05
 location-source: region

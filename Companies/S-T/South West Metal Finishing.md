@@ -4,6 +4,7 @@ name: South West Metal Finishing
 website: https://www.swmf.co.uk
 hq: Exeter, United Kingdom
 uk-region: South West
+country-code: GB
 sources-verified: 2026-06-30
 lat: 50.72258
 lon: -3.5326

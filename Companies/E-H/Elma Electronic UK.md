@@ -6,6 +6,7 @@ linkedin: https://www.linkedin.com/company/elma-electronic
 companies-house: 03075401
 hq: Zurich, Switzerland
 uk-region: East of England
+country-code: GB
 founded: 1995
 size: medium
 sources-verified: 2026-07-04

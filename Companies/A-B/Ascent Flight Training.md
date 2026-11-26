@@ -6,6 +6,7 @@ linkedin: https://www.linkedin.com/company/ascent-flight-training/
 companies-house: "06522636"
 hq: Bristol, United Kingdom
 uk-region: East Midlands
+country-code: GB
 founded: 2008
 size: large
 headcount: 420+

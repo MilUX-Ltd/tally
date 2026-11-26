@@ -4,6 +4,7 @@ name: Raven Innovation
 website: https://www.raven-innovation.com/
 hq: London
 uk-region: London
+country-code: GB
 size: micro
 sources-verified: 2026-07-05
 lat: 51.50741

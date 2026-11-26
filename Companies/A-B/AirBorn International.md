@@ -6,6 +6,7 @@ linkedin: https://www.linkedin.com/company/airborn-int
 companies-house: 03734105
 hq: Edenbridge, United Kingdom
 uk-region: South East
+country-code: GB
 founded: 1999
 size: medium
 headcount: 50+

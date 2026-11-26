@@ -5,6 +5,7 @@ website: https://www.smithinst.co.uk
 companies-house: 03341743
 hq: Oxford, England
 uk-region: South East
+country-code: GB
 size: small
 sources-verified: 2026-07-16
 postcode: GU15 3YY

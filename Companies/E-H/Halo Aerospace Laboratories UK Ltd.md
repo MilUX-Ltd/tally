@@ -5,6 +5,7 @@ website: https://www.halolaboratoriesuk.com/
 companies-house: "06620992"
 hq: Morecambe, United Kingdom
 uk-region: North West
+country-code: GB
 founded: 2008
 size: small
 sources-verified: 2026-07-04

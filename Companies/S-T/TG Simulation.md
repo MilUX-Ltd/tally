@@ -5,6 +5,7 @@ website: https://tgsimulation.com/
 companies-house: "15850150"
 hq: Lincoln, United Kingdom
 uk-region: East Midlands
+country-code: GB
 size: micro
 sources-verified: 2026-11-19
 postcode: LN6 3QY

@@ -5,6 +5,7 @@ website: https://www.excellencepartnership.co.uk
 companies-house: "05312986"
 hq: Beverley, United Kingdom
 uk-region: Yorkshire and The Humber
+country-code: GB
 founded: 2004
 sources-verified: 2026-11-19
 postcode: HU17 8NU

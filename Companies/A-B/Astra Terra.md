@@ -6,6 +6,7 @@ linkedin: https://www.linkedin.com/company/astraterra
 companies-house: 08801839
 hq: London, United Kingdom
 uk-region: London
+country-code: GB
 founded: 2013
 size: micro
 headcount: 2-10

@@ -4,6 +4,7 @@ name: Intelligent Energy Ltd
 website: https://www.intelligent-energy.com
 hq: Loughborough, United Kingdom
 uk-region: East Midlands
+country-code: GB
 sources-verified: 2026-07-04
 lat: 52.7721
 lon: -1.20616

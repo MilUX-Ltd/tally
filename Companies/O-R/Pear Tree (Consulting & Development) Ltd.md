@@ -4,6 +4,7 @@ name: Pear Tree (Consulting & Development) Ltd
 website: https://www.peartreeltd.co.uk
 hq: Reading, United Kingdom
 uk-region: South East
+country-code: GB
 sources-verified: 2026-07-05
 lat: 51.4538
 lon: -0.97376

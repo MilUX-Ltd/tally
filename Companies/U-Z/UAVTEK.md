@@ -6,6 +6,7 @@ linkedin: https://www.linkedin.com/company/uavtek
 companies-house: 10445956
 hq: Cheltenham, United Kingdom
 uk-region: South West
+country-code: GB
 founded: 2016
 size: small
 sources-verified: 2026-06-29

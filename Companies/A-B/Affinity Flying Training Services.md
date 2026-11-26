@@ -6,6 +6,7 @@ linkedin: https://www.linkedin.com/company/affinity-flying-training-services-lim
 companies-house: "09805030"
 hq: Sleaford, United Kingdom
 uk-region: East Midlands
+country-code: GB
 founded: 2015
 sources-verified: 2026-11-19
 postcode: NG34 8HB

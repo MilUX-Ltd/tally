@@ -4,6 +4,7 @@ name: Whitespace Global
 website: https://white.space
 hq: Belfast, Northern Ireland
 uk-region: Northern Ireland
+country-code: GB
 sources-verified: 2026-06-30
 lat: 54.59639
 lon: -5.93018

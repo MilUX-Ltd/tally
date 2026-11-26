@@ -4,6 +4,7 @@ name: kc4Business Ltd
 website: https://kc4business.co.uk
 hq: Farnborough, United Kingdom
 uk-region: South East
+country-code: GB
 size: micro
 sources-verified: 2026-07-16
 lat: 51.29041

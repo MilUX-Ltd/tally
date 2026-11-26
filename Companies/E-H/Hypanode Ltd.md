@@ -5,6 +5,7 @@ website: https://www.hypanode.com
 companies-house: SC751726
 hq: Westhill, United Kingdom
 uk-region: Scotland
+country-code: GB
 founded: 2022
 size: micro
 headcount: under 10

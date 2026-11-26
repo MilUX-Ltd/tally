@@ -6,6 +6,7 @@ linkedin: https://www.linkedin.com/company/adacore
 companies-house: 11581444
 hq: New York, United States
 uk-region: South West
+country-code: GB
 founded: 2018
 size: medium
 sources-verified: 2026-07-03

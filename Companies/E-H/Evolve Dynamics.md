@@ -6,6 +6,7 @@ linkedin: https://www.linkedin.com/company/evolve-dynamics-uav
 companies-house: 10489160
 hq: Guildford, UK
 uk-region: South East
+country-code: GB
 size: medium
 sources-verified: 2026-07-04
 postcode: RH1 1RJ

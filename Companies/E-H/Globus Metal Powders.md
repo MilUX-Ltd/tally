@@ -6,6 +6,7 @@ linkedin: https://www.linkedin.com/company/globus-metal-powders-ltd
 companies-house: "11461388"
 hq: Middlesbrough, UK
 uk-region: North East
+country-code: GB
 founded: 2018
 size: small
 sources-verified: 2026-07-04

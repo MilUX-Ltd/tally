@@ -6,6 +6,7 @@ linkedin: https://www.linkedin.com/company/apache-ix
 companies-house: 09263201
 hq: Bristol, UK
 uk-region: South West
+country-code: GB
 founded: 2014
 size: small
 headcount: ~63

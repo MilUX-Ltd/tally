@@ -4,6 +4,7 @@ name: Marshall Advanced Composites
 website: https://www.marshalladvancedcomposites.com
 hq: Kirkbymoorside, UK
 uk-region: Yorkshire and The Humber
+country-code: GB
 sources-verified: 2026-07-05
 lat: 54.26951
 lon: -0.93119

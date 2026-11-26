@@ -7,6 +7,7 @@ hq: Kongsberg, Norway
 uk-region: Overseas
 sources-verified: 2026-07-04
 country: Norway
+country-code: NO
 tags:
   - defence
   - mbr-ads

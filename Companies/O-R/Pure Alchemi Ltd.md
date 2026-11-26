@@ -4,6 +4,7 @@ name: Pure Alchemi Ltd
 website: http://www.pure-alchemi.com
 hq: Glasgow, UK
 uk-region: Scotland
+country-code: GB
 sources-verified: 2026-07-05
 lat: 55.86363
 lon: -4.23688

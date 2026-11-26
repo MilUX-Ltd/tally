@@ -4,6 +4,7 @@ name: Panoptech Ltd
 website: https://www.panoptech.co.uk
 hq: Solihull, United Kingdom
 uk-region: West Midlands
+country-code: GB
 founded: 2000
 companies-house: 04356907
 sources-verified: 2026-07-03

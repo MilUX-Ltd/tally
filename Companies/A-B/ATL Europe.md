@@ -6,6 +6,7 @@ linkedin: https://www.linkedin.com/company/atleurope
 companies-house: 11888254
 hq: Christchurch, England
 uk-region: South West
+country-code: GB
 size: small
 sources-verified: 2026-07-03
 postcode: BH23 6NW

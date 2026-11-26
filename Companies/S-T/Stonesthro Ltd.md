@@ -5,6 +5,7 @@ website: https://www.stonesthro.co.uk
 companies-house: 15738727
 hq: London, United Kingdom
 uk-region: London
+country-code: GB
 founded: 2024
 size: micro
 sources-verified: 2026-07-16

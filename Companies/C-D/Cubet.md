@@ -5,6 +5,7 @@ website: https://cubetltd.com
 companies-house: "08588966"
 hq: Gainsborough, United Kingdom
 uk-region: East Midlands
+country-code: GB
 sources-verified: 2026-11-19
 lat: 53.40054
 lon: -0.77401

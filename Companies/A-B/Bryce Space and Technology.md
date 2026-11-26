@@ -6,6 +6,7 @@ linkedin: https://www.linkedin.com/company/brycespaceandtechnology
 companies-house: 11306005
 hq: Alexandria, Virginia, United States
 uk-region: South East
+country-code: GB
 founded: 2018
 size: small
 sources-verified: 2026-07-04

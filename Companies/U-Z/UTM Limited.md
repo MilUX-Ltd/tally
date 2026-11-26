@@ -4,6 +4,7 @@ name: UTM Limited
 website: https://www.utmworldwide.com
 hq: Mildenhall, United Kingdom
 uk-region: East of England
+country-code: GB
 sources-verified: 2026-06-30
 lat: 52.3456
 lon: 0.51277

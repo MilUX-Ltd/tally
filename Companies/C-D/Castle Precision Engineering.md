@@ -6,6 +6,7 @@ linkedin: https://www.linkedin.com/company/castle-precision-engineering
 companies-house: SC039355
 hq: Glasgow, United Kingdom
 uk-region: Scotland
+country-code: GB
 founded: 1951
 size: medium
 headcount: 120

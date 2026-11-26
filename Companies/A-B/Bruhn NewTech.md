@@ -6,6 +6,7 @@ linkedin: https://www.linkedin.com/company/bruhn-newtech-as
 companies-house: 03336119
 hq: Søborg, Denmark
 uk-region: South West
+country-code: GB
 founded: 1997
 size: small
 sources-verified: 2026-07-04

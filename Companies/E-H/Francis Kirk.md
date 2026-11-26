@@ -6,6 +6,7 @@ linkedin: https://www.linkedin.com/company/francis-kirk
 companies-house: "02391871"
 hq: Denton, United Kingdom
 uk-region: North West
+country-code: GB
 founded: 1868
 size: small
 sources-verified: 2026-07-04

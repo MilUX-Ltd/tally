@@ -6,6 +6,7 @@ linkedin: https://uk.linkedin.com/company/actica-consulting
 companies-house: 03396854
 hq: Guildford, United Kingdom
 uk-region: South East
+country-code: GB
 founded: 1997
 size: medium
 headcount: ~224

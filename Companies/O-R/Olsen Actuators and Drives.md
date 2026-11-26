@@ -4,6 +4,7 @@ name: Olsen Actuators and Drives
 website: https://olsenactuators.com
 hq: Daresbury, United Kingdom
 uk-region: North West
+country-code: GB
 founded: 2009
 size: small
 sources-verified: 2026-07-05

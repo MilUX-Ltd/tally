@@ -6,6 +6,7 @@ linkedin: https://www.linkedin.com/company/dtm-global
 companies-house: 07310816
 hq: Ivybridge, United Kingdom
 uk-region: South West
+country-code: GB
 founded: 2010
 size: micro
 sources-verified: 2026-07-04

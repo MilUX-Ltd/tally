@@ -4,6 +4,7 @@ name: KX
 website: https://kx.com/
 hq: Newry, United Kingdom
 uk-region: Northern Ireland
+country-code: GB
 sources-verified: 2026-07-03
 lat: 54.17753
 lon: -6.33751

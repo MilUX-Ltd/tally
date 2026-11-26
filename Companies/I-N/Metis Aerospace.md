@@ -4,6 +4,7 @@ name: Metis Aerospace Limited
 website: http://www.metisaerospace.com
 hq: Lincoln, UK
 uk-region: East Midlands
+country-code: GB
 sources-verified: 2026-07-05
 lat: 53.23484
 lon: -0.53844

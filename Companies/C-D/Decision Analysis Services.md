@@ -6,6 +6,7 @@ linkedin: https://www.linkedin.com/company/decision-analysis-services-ltd
 companies-house: "05980241"
 hq: Basingstoke, United Kingdom
 uk-region: South East
+country-code: GB
 founded: 2006
 size: medium
 headcount: 80

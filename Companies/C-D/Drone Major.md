@@ -6,6 +6,7 @@ linkedin: https://www.linkedin.com/company/dronemajor
 companies-house: 10395610
 hq: London, United Kingdom
 uk-region: London
+country-code: GB
 founded: 2016
 size: micro
 sources-verified: 2026-07-04

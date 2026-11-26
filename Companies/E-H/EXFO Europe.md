@@ -6,6 +6,7 @@ linkedin: https://www.linkedin.com/company/exfo
 companies-house: 02316168
 hq: Quebec City, Canada
 uk-region: South East
+country-code: GB
 founded: 1988
 size: small
 headcount: 1500

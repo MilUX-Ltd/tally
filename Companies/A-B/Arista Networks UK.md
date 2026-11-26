@@ -6,6 +6,7 @@ linkedin: https://www.linkedin.com/company/arista-networks-uk-ltd
 companies-house: 07003500
 hq: Santa Clara, United States
 uk-region: London
+country-code: GB
 founded: 2009
 size: large
 sources-verified: 2026-07-03

@@ -6,6 +6,7 @@ linkedin: https://www.linkedin.com/company/telent
 companies-house: "00703317"
 hq: Warwick, United Kingdom
 uk-region: West Midlands
+country-code: GB
 founded: 2006
 size: large
 headcount: ~2,500

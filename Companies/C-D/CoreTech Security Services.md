@@ -6,6 +6,7 @@ linkedin: https://www.linkedin.com/company/coretech-security
 companies-house: 12486085
 hq: Cheltenham, United Kingdom
 uk-region: South West
+country-code: GB
 founded: 2020
 size: medium
 headcount: 70

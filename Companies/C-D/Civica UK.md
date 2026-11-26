@@ -6,6 +6,7 @@ linkedin: https://www.linkedin.com/company/civica
 companies-house: 01628868
 hq: London, United Kingdom
 uk-region: London
+country-code: GB
 founded: 1982
 size: large
 headcount: 5000+

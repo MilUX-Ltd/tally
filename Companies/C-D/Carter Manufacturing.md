@@ -6,6 +6,7 @@ linkedin: https://www.linkedin.com/company/carter-manufacturing-ltd/
 companies-house: "04787182"
 hq: Abingdon, United Kingdom
 uk-region: South East
+country-code: GB
 sources-verified: 2026-11-19
 postcode: OX14 1DZ
 lat: 51.67502

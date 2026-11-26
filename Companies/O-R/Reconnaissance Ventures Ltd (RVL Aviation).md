@@ -4,6 +4,7 @@ name: Reconnaissance Ventures Ltd (RVL Aviation)
 website: https://www.rvl-group.com
 hq: Castle Donington, United Kingdom
 uk-region: East Midlands
+country-code: GB
 founded: 2007
 sources-verified: 2026-07-05
 lat: 52.84239

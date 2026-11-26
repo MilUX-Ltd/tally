@@ -6,6 +6,7 @@ linkedin: https://www.linkedin.com/company/portakabin-ltd
 companies-house: "00685303"
 hq: York, United Kingdom
 uk-region: Yorkshire and The Humber
+country-code: GB
 founded: 1961
 size: large
 sources-verified: 2026-11-19

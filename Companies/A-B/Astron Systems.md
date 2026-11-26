@@ -5,6 +5,7 @@ website: https://astronsystems.com
 companies-house: 13346875
 hq: Didcot, England
 uk-region: South East
+country-code: GB
 founded: 2019
 size: small
 sources-verified: 2026-07-16

@@ -4,6 +4,7 @@ name: Progressive Technology Ltd
 website: https://progressive-technology.co.uk
 hq: Newbury, UK
 uk-region: South East
+country-code: GB
 size: small
 sources-verified: 2026-07-05
 lat: 51.40027

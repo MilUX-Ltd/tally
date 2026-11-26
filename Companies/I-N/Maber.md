@@ -6,6 +6,7 @@ linkedin: https://www.linkedin.com/company/maber-architects-limited/
 companies-house: "02007082"
 hq: Nottingham, United Kingdom
 uk-region: East Midlands
+country-code: GB
 founded: 1986
 sources-verified: 2026-11-19
 postcode: NG1 1JU

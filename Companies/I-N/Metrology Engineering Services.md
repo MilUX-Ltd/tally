@@ -6,6 +6,7 @@ linkedin: https://www.linkedin.com/company/metrology-engineering-services
 companies-house: "14330147"
 hq: Newport, United Kingdom
 uk-region: Wales
+country-code: GB
 founded: 2022
 size: micro
 sources-verified: 2026-11-19

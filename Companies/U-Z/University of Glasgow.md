@@ -4,6 +4,7 @@ name: University of Glasgow
 website: https://www.gla.ac.uk/schools/engineering/aerospace
 hq: Glasgow, United Kingdom
 uk-region: Scotland
+country-code: GB
 sources-verified: 2026-06-30
 lat: 55.86363
 lon: -4.23688

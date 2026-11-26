@@ -4,6 +4,7 @@ name: Inmarsat Ltd
 website: https://www.inmarsat.com
 hq: Reston, United States
 uk-region: London
+country-code: GB
 size: large
 sources-verified: 2026-07-04
 location-source: region

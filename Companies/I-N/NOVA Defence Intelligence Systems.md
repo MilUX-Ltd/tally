@@ -4,6 +4,7 @@ name: NOVA Defence Intelligence Systems
 website: https://novaalliedtrainingllm.com
 hq: Bristol, UK
 uk-region: South West
+country-code: GB
 founded: 2025
 sources-verified: 2026-07-05
 lat: 51.45313

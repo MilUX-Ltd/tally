@@ -6,6 +6,7 @@ linkedin: https://www.linkedin.com/company/bcb-international-ltd
 companies-house: 01442485
 hq: Cardiff, United Kingdom
 uk-region: Wales
+country-code: GB
 founded: 1979
 size: medium
 sources-verified: 2026-07-04

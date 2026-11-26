@@ -4,6 +4,7 @@ name: Milltech Precision Engineering Ltd
 website: http://www.milltechgroup.co.uk
 hq: Norwich, United Kingdom
 uk-region: East of England
+country-code: GB
 founded: 1993
 size: small
 headcount: ~50

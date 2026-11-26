@@ -6,6 +6,7 @@ linkedin: https://www.linkedin.com/company/canary-zero
 companies-house: "14664394"
 hq: London, United Kingdom
 uk-region: London
+country-code: GB
 founded: 2023
 size: micro
 sources-verified: 2026-07-04

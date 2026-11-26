@@ -4,6 +4,7 @@ name: Southern United
 website: https://www.southernunited.co.uk
 hq: Portslade, United Kingdom
 uk-region: South East
+country-code: GB
 sources-verified: 2026-06-30
 lat: 50.83296
 lon: -0.20702

@@ -6,6 +6,7 @@ linkedin: https://www.linkedin.com/company/beaverfit
 companies-house: "07375020"
 hq: Church Stretton, United Kingdom
 uk-region: West Midlands
+country-code: GB
 founded: 2010
 size: small
 sources-verified: 2026-07-03

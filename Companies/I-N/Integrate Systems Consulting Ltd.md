@@ -6,6 +6,7 @@ linkedin: https://www.linkedin.com/company/integrate-systems-consulting-ltd
 companies-house: 14874749
 hq: Newton Abbot, United Kingdom
 uk-region: South West
+country-code: GB
 founded: 2023
 size: micro
 sources-verified: 2026-07-04

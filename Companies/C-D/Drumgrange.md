@@ -6,6 +6,7 @@ linkedin: https://www.linkedin.com/company/drumgrange-ltd
 companies-house: 1460044
 hq: Chertsey, United Kingdom
 uk-region: South East
+country-code: GB
 founded: 1979
 size: medium
 headcount: 100-149

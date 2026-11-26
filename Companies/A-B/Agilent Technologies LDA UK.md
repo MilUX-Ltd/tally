@@ -5,6 +5,7 @@ website: https://www.agilent.com
 companies-house: 08815891
 hq: Santa Clara, United States
 uk-region: North West
+country-code: GB
 founded: 2013
 size: large
 sources-verified: 2026-07-03

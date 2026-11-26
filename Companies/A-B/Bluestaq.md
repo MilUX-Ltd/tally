@@ -6,6 +6,7 @@ linkedin: https://www.linkedin.com/company/bluestaq
 companies-house: 16270771
 hq: Colorado Springs, United States
 uk-region: London
+country-code: GB
 founded: 2025
 size: micro
 headcount: 2-20

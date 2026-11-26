@@ -9,6 +9,7 @@ founded: 2024
 size: small
 sources-verified: 2026-07-04
 country: Finland
+country-code: FI
 tags:
   - defence
   - optronics

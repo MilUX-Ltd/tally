@@ -6,6 +6,7 @@ linkedin: https://www.linkedin.com/company/hellios-information
 companies-house: 08285399
 hq: Oxford, United Kingdom
 uk-region: South East
+country-code: GB
 founded: 2012
 size: medium
 sources-verified: 2026-07-16

@@ -6,6 +6,7 @@ linkedin: https://www.linkedin.com/company/lockonltd/
 companies-house: 11282660
 hq: Duxford, Cambridgeshire
 uk-region: East of England
+country-code: GB
 founded: 2018
 size: small
 sources-verified: 2026-07-04

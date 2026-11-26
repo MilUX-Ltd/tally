@@ -4,6 +4,7 @@ name: SiXworks
 website: https://www.sixworks.net
 hq: Farnborough
 uk-region: South East
+country-code: GB
 sources-verified: 2026-06-29
 lat: 51.29041
 lon: -0.75475

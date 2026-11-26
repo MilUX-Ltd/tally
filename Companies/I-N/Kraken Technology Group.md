@@ -6,6 +6,7 @@ linkedin: https://uk.linkedin.com/company/kraken-technology-group
 companies-house: "13099283"
 hq: Fareham, United Kingdom
 uk-region: South East
+country-code: GB
 founded: 2020
 size: small
 sources-verified: 2026-07-04

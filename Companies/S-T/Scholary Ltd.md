@@ -4,6 +4,7 @@ name: Scholary Ltd
 website: https://www.scholary.com
 hq: Chippenham, United Kingdom
 uk-region: South West
+country-code: GB
 sources-verified: 2026-06-30
 lat: 51.45823
 lon: -2.11394

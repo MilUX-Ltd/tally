@@ -6,6 +6,7 @@ linkedin: https://www.linkedin.com/company/g3-systems-limited
 companies-house: 04206095
 hq: Portland, UK
 uk-region: South West
+country-code: GB
 founded: 2001
 size: medium
 sources-verified: 2026-07-04

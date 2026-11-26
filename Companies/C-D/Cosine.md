@@ -6,6 +6,7 @@ linkedin: https://www.linkedin.com/company/cosine-ai
 companies-house: "14547479"
 hq: London, United Kingdom
 uk-region: London
+country-code: GB
 founded: 2022
 size: small
 headcount: 32

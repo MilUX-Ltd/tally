@@ -5,6 +5,7 @@ website: https://www.bcedefensive.com/
 companies-house: 14399445
 hq: Plymouth, United Kingdom
 uk-region: South West
+country-code: GB
 founded: 2022
 size: micro
 sources-verified: 2026-07-04

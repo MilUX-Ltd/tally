@@ -6,6 +6,7 @@ linkedin: https://www.linkedin.com/company/gallagher-security
 companies-house: "02668611"
 hq: Hamilton, New Zealand
 uk-region: West Midlands
+country-code: GB
 founded: 1938
 size: large
 headcount: 1300

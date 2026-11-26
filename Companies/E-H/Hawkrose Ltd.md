@@ -4,6 +4,7 @@ name: Hawkrose Ltd
 website: https://hawkrose.com
 hq: Rossendale, United Kingdom
 uk-region: North West
+country-code: GB
 size: micro
 sources-verified: 2026-07-04
 lat: 53.68488

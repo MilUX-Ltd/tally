@@ -6,6 +6,7 @@ linkedin: https://www.linkedin.com/company/walker-morris/
 companies-house: "OC338981"
 hq: Leeds, United Kingdom
 uk-region: Yorkshire and The Humber
+country-code: GB
 sources-verified: 2026-11-19
 postcode: LS1 4DL
 lat: 53.79615

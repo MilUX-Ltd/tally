@@ -4,6 +4,7 @@ name: Wrangu UK Ltd
 website: https://www.wrangu.com/
 hq: London, United Kingdom
 uk-region: London
+country-code: GB
 sources-verified: 2026-07-01
 lat: 51.50741
 lon: -0.12772

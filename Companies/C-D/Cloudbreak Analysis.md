@@ -6,6 +6,7 @@ linkedin: https://www.linkedin.com/company/cloudbreak-analysis
 companies-house: 07553436
 hq: Kingston upon Thames, United Kingdom
 uk-region: London
+country-code: GB
 founded: 2011
 size: micro
 headcount: 3

@@ -6,6 +6,7 @@ linkedin: https://www.linkedin.com/company/james-cowper-kreston
 companies-house: "OC341068"
 hq: Newbury, United Kingdom
 uk-region: South East
+country-code: GB
 founded: 1922
 sources-verified: 2026-11-19
 postcode: RG19 6AB

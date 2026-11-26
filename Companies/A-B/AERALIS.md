@@ -6,6 +6,7 @@ linkedin: https://www.linkedin.com/company/aeralis
 companies-house: 09752004
 hq: Bristol, United Kingdom
 uk-region: South West
+country-code: GB
 founded: 2015
 size: small
 sources-verified: 2026-07-03

@@ -3,6 +3,7 @@ type: organisation
 name: UAV Aerosystems
 hq: Dorset, UK
 uk-region: South West
+country-code: GB
 sources-verified: 2026-06-30
 lat: 50.79684
 lon: -2.34473

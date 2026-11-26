@@ -6,6 +6,7 @@ linkedin: https://www.linkedin.com/company/sherborne-sensors
 companies-house: "04477365"
 hq: Basingstoke, United Kingdom
 uk-region: South East
+country-code: GB
 founded: 2002
 size: small
 sources-verified: 2026-11-19

@@ -4,6 +4,7 @@ name: WAAM3D Ltd
 website: https://www.waam3d.com
 hq: Milton Keynes, UK
 uk-region: South East
+country-code: GB
 sources-verified: 2026-07-01
 lat: 52.04302
 lon: -0.75406

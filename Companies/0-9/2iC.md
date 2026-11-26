@@ -6,6 +6,7 @@ linkedin: https://www.linkedin.com/company/2icworld
 companies-house: 07183164
 hq: Southampton, UK
 uk-region: South East
+country-code: GB
 founded: 2010
 size: small
 sources-verified: 2026-07-03

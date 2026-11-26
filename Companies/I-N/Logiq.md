@@ -5,6 +5,7 @@ website: https://www.logiq.co.uk
 companies-house: 11307972
 hq: Bradley Stoke, Bristol
 uk-region: South West
+country-code: GB
 sources-verified: 2026-07-04
 postcode: BS32 4RU
 lat: 51.54812

@@ -8,6 +8,7 @@ uk-region: Overseas
 size: micro
 sources-verified: 2026-07-03
 country: Switzerland
+country-code: CH
 tags:
   - defence
   - size-micro

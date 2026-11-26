@@ -6,6 +6,7 @@ linkedin: https://www.linkedin.com/company/defendtex
 companies-house: "10694711"
 hq: Melbourne, Australia
 uk-region: South West
+country-code: GB
 founded: 2014
 size: small
 headcount: 48

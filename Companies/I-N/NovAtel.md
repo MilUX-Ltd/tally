@@ -4,6 +4,7 @@ name: NovAtel
 website: https://hexagonpositioning.com
 hq: Calgary, Canada
 uk-region: Scotland
+country-code: GB
 sources-verified: 2026-07-05
 location-source: region
 location-note: UK location not published

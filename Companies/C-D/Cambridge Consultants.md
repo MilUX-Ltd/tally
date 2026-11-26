@@ -5,6 +5,7 @@ website: https://www.cambridgeconsultants.com
 linkedin: https://www.linkedin.com/company/cambridge-consultants
 hq: Cambridge, United Kingdom
 uk-region: East of England
+country-code: GB
 founded: 1960
 size: large
 headcount: 900+

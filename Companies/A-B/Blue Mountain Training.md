@@ -5,6 +5,7 @@ website: https://bluemountaingroup.co.uk/
 companies-house: 11120773
 hq: Carmarthen, United Kingdom
 uk-region: Wales
+country-code: GB
 founded: 2017
 size: micro
 sources-verified: 2026-07-04

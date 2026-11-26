@@ -4,6 +4,7 @@ name: Malvern Optical Ltd
 website: https://www.malvernoptical.co.uk
 hq: Throckmorton, United Kingdom
 uk-region: West Midlands
+country-code: GB
 sources-verified: 2026-07-05
 lat: 52.14513
 lon: -2.03004

@@ -6,6 +6,7 @@ linkedin: https://www.linkedin.com/company/roke-manor-research
 companies-house: 00267550
 hq: Romsey, England
 uk-region: South East
+country-code: GB
 founded: 1956
 size: large
 sources-verified: 2026-07-05

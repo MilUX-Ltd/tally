@@ -6,6 +6,7 @@ linkedin: https://www.linkedin.com/company/copastechnologies
 companies-house: NI059633
 hq: Kilkeel, United Kingdom
 uk-region: Northern Ireland
+country-code: GB
 founded: 2006
 size: small
 sources-verified: 2026-07-04

@@ -5,6 +5,7 @@ website: https://www.heospace.com
 linkedin: https://www.linkedin.com/company/heospace
 hq: Sydney, Australia
 uk-region: London
+country-code: GB
 size: small
 sources-verified: 2026-07-04
 location-source: region

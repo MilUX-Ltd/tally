@@ -6,6 +6,7 @@ linkedin: https://www.linkedin.com/company/darter
 companies-house: 12090480
 hq: Southampton, UK
 uk-region: South East
+country-code: GB
 founded: 2019
 size: micro
 sources-verified: 2026-07-04

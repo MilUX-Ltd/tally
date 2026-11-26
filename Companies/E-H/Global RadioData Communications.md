@@ -6,6 +6,7 @@ linkedin: https://www.linkedin.com/company/grc-ltd
 companies-house: "06147265"
 hq: Hereford, United Kingdom
 uk-region: West Midlands
+country-code: GB
 founded: 2007
 size: small
 sources-verified: 2026-07-04

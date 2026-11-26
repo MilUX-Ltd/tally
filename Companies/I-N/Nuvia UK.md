@@ -4,6 +4,7 @@ name: Nuvia UK
 website: https://www.nuvia.com
 hq: Warrington, United Kingdom
 uk-region: North West
+country-code: GB
 size: large
 sources-verified: 2026-07-16
 lat: 53.38957

@@ -5,6 +5,7 @@ website: https://netcompany.com
 companies-house: "08568559"
 hq: London, United Kingdom
 uk-region: London
+country-code: GB
 founded: 2013
 sources-verified: 2026-11-19
 postcode: EC4R 9AT

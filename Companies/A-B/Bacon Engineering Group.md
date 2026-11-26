@@ -6,6 +6,7 @@ linkedin: https://www.linkedin.com/company/bacon-engineering/
 companies-house: "00178235"
 hq: Grimsby, United Kingdom
 uk-region: Yorkshire and The Humber
+country-code: GB
 founded: 1899
 sources-verified: 2026-11-19
 postcode: DN31 2TG

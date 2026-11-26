@@ -6,6 +6,7 @@ linkedin: https://www.linkedin.com/company/hempelspecialmetals
 companies-house: "01671717"
 hq: Dewsbury, United Kingdom
 uk-region: Yorkshire and The Humber
+country-code: GB
 founded: 1982
 size: small
 headcount: 18

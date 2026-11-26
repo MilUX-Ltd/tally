@@ -5,6 +5,7 @@ website: https://www.malloyaeronautics.com
 linkedin: https://www.linkedin.com/company/malloy-aeronautics-ltd
 hq: Maidenhead, United Kingdom
 uk-region: South East
+country-code: GB
 founded: 2012
 size: small
 sources-verified: 2026-07-05

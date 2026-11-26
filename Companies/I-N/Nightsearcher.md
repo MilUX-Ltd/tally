@@ -6,6 +6,7 @@ linkedin: https://www.linkedin.com/company/nightsearcher-limited
 companies-house: 04661749
 hq: Portsmouth, UK
 uk-region: South East
+country-code: GB
 founded: 1989
 size: small
 sources-verified: 2026-07-05

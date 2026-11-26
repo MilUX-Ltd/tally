@@ -5,6 +5,7 @@ website: https://www.lainternational.com
 companies-house: "01633646"
 hq: Stoke-on-Trent, United Kingdom
 uk-region: West Midlands
+country-code: GB
 founded: 1982
 sources-verified: 2026-11-19
 postcode: ST1 5UB

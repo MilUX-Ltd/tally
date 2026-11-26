@@ -4,6 +4,7 @@ name: Avsec Resilience Ltd
 website: https://avsec-resilience.com
 hq: Henley-on-Thames, England
 uk-region: South East
+country-code: GB
 size: micro
 sources-verified: 2026-07-16
 lat: 51.53755

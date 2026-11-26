@@ -4,6 +4,7 @@ name: ISS Aerospace
 website: https://www.issaerospace.com
 hq: Chieveley, United Kingdom
 uk-region: South East
+country-code: GB
 sources-verified: 2026-07-04
 lat: 51.46379
 lon: -1.31647

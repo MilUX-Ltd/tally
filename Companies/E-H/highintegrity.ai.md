@@ -6,6 +6,7 @@ linkedin:
 companies-house: 
 hq: Rochester, UK
 uk-region: South East
+country-code: GB
 founded: 2019
 size: micro
 headcount: 

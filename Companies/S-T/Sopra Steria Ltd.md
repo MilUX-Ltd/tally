@@ -4,6 +4,7 @@ name: Sopra Steria Ltd
 website: https://www.soprasteria.co.uk
 hq: Annecy, France
 uk-region: East of England
+country-code: GB
 size: large
 headcount: "c.7,000 (UK)"
 sources-verified: 2026-07-03

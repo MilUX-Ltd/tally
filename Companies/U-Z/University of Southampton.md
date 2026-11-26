@@ -4,6 +4,7 @@ name: University of Southampton
 website: https://www.southampton.ac.uk
 hq: Southampton, United Kingdom
 uk-region: South East
+country-code: GB
 sources-verified: 2026-11-19
 postcode: SO17 1BJ
 lat: 50.93409

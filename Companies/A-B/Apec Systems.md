@@ -5,6 +5,7 @@ website: https://apecsystems.co.uk
 companies-house: 06418325
 hq: Coventry, UK
 uk-region: West Midlands
+country-code: GB
 founded: 2007
 size: small
 sources-verified: 2026-07-03

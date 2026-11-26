@@ -5,6 +5,7 @@ website: https://www.knds.co.uk
 linkedin: https://uk.linkedin.com/company/knds-uk
 hq: Stockport, United Kingdom
 uk-region: North West
+country-code: GB
 sources-verified: 2026-07-03
 lat: 53.40802
 lon: -2.15896

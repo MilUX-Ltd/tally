@@ -6,6 +6,7 @@ linkedin: https://www.linkedin.com/company/celestica
 companies-house: 03228362
 hq: Toronto, Canada
 uk-region: West Midlands
+country-code: GB
 founded: 1994
 size: large
 headcount: 29000+ (global group)

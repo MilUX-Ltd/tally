@@ -6,6 +6,7 @@ linkedin: https://www.linkedin.com/company/daher
 companies-house: 00879470
 hq: Nantes, France
 uk-region: East Midlands
+country-code: GB
 founded: 1863
 size: large
 headcount: ~14500

@@ -4,6 +4,7 @@ name: Lakesend Ltd
 website: http://www.lakesendltd.com
 hq: Wisbech, UK
 uk-region: East of England
+country-code: GB
 size: micro
 sources-verified: 2026-07-04
 lat: 52.66517

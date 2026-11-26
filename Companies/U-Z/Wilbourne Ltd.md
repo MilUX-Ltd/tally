@@ -4,6 +4,7 @@ name: Wilbourne Ltd
 website: https://www.wilbourne.co.uk
 hq: Pinner, United Kingdom
 uk-region: South East
+country-code: GB
 sources-verified: 2026-07-01
 location-source: region
 location-note: UK location not published

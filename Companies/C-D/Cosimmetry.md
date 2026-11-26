@@ -6,6 +6,7 @@ linkedin: https://www.linkedin.com/company/cosimmetry
 companies-house: 14563343
 hq: Chichester, United Kingdom
 uk-region: South East
+country-code: GB
 founded: 2022
 size: micro
 sources-verified: 2026-07-04

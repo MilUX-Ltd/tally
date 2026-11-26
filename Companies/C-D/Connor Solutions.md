@@ -6,6 +6,7 @@ linkedin: https://uk.linkedin.com/company/connor-solutions
 companies-house: 03775671
 hq: Houghton le Spring, United Kingdom
 uk-region: North East
+country-code: GB
 size: medium
 headcount: 54
 sources-verified: 2026-07-04

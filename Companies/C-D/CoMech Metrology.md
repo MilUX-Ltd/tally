@@ -6,6 +6,7 @@ linkedin: https://uk.linkedin.com/company/comech-metrology
 companies-house: 05372441
 hq: Derby, United Kingdom
 uk-region: East Midlands
+country-code: GB
 founded: 1985
 size: small
 sources-verified: 2026-07-04

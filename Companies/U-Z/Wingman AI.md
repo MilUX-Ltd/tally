@@ -6,6 +6,7 @@ postcode: WC2R 0EX
 lat: 51.51053
 lon: -0.12087
 location-source: companies-house
+country-code: GB
 tags:
   - defence
   - mbr-ads

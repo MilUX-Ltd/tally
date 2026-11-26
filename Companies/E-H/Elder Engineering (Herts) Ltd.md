@@ -6,6 +6,7 @@ linkedin: https://www.linkedin.com/company/elder-engineering
 companies-house: 01473439
 hq: Welwyn Garden City, England
 uk-region: East of England
+country-code: GB
 founded: 1980
 size: small
 sources-verified: 2026-07-16

@@ -9,6 +9,7 @@ founded: 1999
 size: large
 sources-verified: 2026-07-04
 country: Israel
+country-code: IL
 tags:
   - defence
   - data

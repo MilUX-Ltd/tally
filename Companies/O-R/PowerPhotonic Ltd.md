@@ -4,6 +4,7 @@ name: PowerPhotonic Ltd
 website: http://www.powerphotonic.com
 hq: Dalgety Bay, United Kingdom
 uk-region: Scotland
+country-code: GB
 sources-verified: 2026-07-05
 lat: 56.03836
 lon: -3.35727

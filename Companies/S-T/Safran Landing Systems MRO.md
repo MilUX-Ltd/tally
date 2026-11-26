@@ -4,6 +4,7 @@ name: Safran Landing Systems MRO
 website: https://www.safran-landing-systems.com
 hq: Gloucester, United Kingdom
 uk-region: South West
+country-code: GB
 sources-verified: 2026-06-30
 lat: 51.86455
 lon: -2.24693

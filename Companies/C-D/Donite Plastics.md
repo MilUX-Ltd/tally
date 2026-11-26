@@ -6,6 +6,7 @@ linkedin: https://www.linkedin.com/company/donite-plastics
 companies-house: NI064142
 hq: Saintfield, UK
 uk-region: Northern Ireland
+country-code: GB
 founded: 1981
 size: micro
 headcount: 11-50

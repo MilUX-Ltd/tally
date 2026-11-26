@@ -6,6 +6,7 @@ linkedin: https://www.linkedin.com/company/cell-pack-solutions
 companies-house: 04177772
 hq: South Shields, United Kingdom
 uk-region: North East
+country-code: GB
 founded: 1998
 size: small
 headcount: ~30

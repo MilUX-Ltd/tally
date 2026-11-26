@@ -6,6 +6,7 @@ linkedin: https://www.linkedin.com/company/domo-tactical-communications-dtc-ltd
 companies-house: "01456922"
 hq: Whiteley, UK
 uk-region: South East
+country-code: GB
 founded: 1974
 size: small
 headcount: 140

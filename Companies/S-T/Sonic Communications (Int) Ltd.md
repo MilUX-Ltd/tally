@@ -4,6 +4,7 @@ name: Sonic Communications (Int) Ltd
 website: https://www.sonic-comms.com
 hq: Birmingham, UK
 uk-region: West Midlands
+country-code: GB
 sources-verified: 2026-07-03
 lat: 52.47928
 lon: -1.90294

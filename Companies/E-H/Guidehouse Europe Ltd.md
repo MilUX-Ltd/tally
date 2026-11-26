@@ -4,6 +4,7 @@ name: Guidehouse Europe Ltd
 website: https://www.guidehouse.com
 hq: McLean, United States
 uk-region: London
+country-code: GB
 size: large
 headcount: 18000
 sources-verified: 2026-07-04

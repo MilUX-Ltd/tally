@@ -5,6 +5,7 @@ website: https://www.heico-fasteners.co.uk
 companies-house: "02570756"
 hq: Hockley, United Kingdom
 uk-region: East of England
+country-code: GB
 founded: 1990
 size: micro
 headcount: 2-10

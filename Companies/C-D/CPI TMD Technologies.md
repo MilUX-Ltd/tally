@@ -6,6 +6,7 @@ linkedin: https://www.linkedin.com/company/tmd-technology
 companies-house: 00952502
 hq: Palo Alto, United States
 uk-region: London
+country-code: GB
 founded: 1969
 size: medium
 sources-verified: 2026-07-04

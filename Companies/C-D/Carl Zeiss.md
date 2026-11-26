@@ -5,6 +5,7 @@ website: https://www.zeiss.co.uk
 companies-house: 00542141
 hq: Oberkochen, Germany
 uk-region: West Midlands
+country-code: GB
 size: large
 sources-verified: 2026-07-04
 postcode: CB23 6DW

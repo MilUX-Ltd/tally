@@ -4,6 +4,7 @@ name: Smytec Ltd
 website: https://www.smytec-ltd.com
 hq: Market Harborough, United Kingdom
 uk-region: East Midlands
+country-code: GB
 sources-verified: 2026-06-30
 lat: 52.47953
 lon: -0.92269

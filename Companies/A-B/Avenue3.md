@@ -6,6 +6,7 @@ linkedin: https://www.linkedin.com/company/avenue3/
 companies-house: "13040131"
 hq: Leeds, England
 uk-region: Yorkshire and The Humber
+country-code: GB
 founded: 2020
 size: micro
 sources-verified: 2026-07-04

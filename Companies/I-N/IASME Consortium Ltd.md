@@ -5,6 +5,7 @@ website: https://www.iasme.co.uk
 companies-house: 07897132
 hq: Malvern, United Kingdom
 uk-region: West Midlands
+country-code: GB
 founded: 2012
 sources-verified: 2026-07-04
 postcode: WR13 6PL

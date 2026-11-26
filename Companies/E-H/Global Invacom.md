@@ -6,6 +6,7 @@ linkedin: https://www.linkedin.com/company/global-invacom-ltd
 companies-house: "02319127"
 hq: Whitstable, United Kingdom
 uk-region: South East
+country-code: GB
 founded: 1993
 size: medium
 sources-verified: 2026-07-04

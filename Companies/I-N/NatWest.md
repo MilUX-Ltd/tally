@@ -6,6 +6,7 @@ linkedin: https://www.linkedin.com/company/natwest
 companies-house: "00929027"
 hq: London, United Kingdom
 uk-region: London
+country-code: GB
 size: large
 sources-verified: 2026-11-19
 postcode: EC2M 4AA

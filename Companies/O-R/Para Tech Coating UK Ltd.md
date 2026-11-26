@@ -4,6 +4,7 @@ name: Para Tech Coating UK Ltd
 website: https://www.paratechcoating.co.uk
 hq: Northampton, United Kingdom
 uk-region: East Midlands
+country-code: GB
 sources-verified: 2026-07-05
 lat: 52.23786
 lon: -0.89505

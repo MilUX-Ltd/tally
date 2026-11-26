@@ -5,6 +5,7 @@ website: http://www.integrity-defence.co.uk
 companies-house: 15987740
 hq: Farnham, United Kingdom
 uk-region: Scotland
+country-code: GB
 founded: 2024
 sources-verified: 2026-07-04
 postcode: GU15 3SY

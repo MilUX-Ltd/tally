@@ -5,6 +5,7 @@ website: https://fieldgunsport.com
 companies-house: "12962770"
 hq: Southsea, United Kingdom
 uk-region: South East
+country-code: GB
 size: micro
 sources-verified: 2026-11-19
 postcode: PO4 0PP

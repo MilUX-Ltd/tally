@@ -4,6 +4,7 @@ name: Malstrom Ltd
 website: https://www.malstrom.co.uk
 hq: Warminster, United Kingdom
 uk-region: South West
+country-code: GB
 sources-verified: 2026-07-05
 lat: 51.20492
 lon: -2.18119

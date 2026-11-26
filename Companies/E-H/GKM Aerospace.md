@@ -6,6 +6,7 @@ linkedin: https://www.linkedin.com/company/gkm-aerospace/
 companies-house: 02030683
 hq: Basildon, United Kingdom
 uk-region: East of England
+country-code: GB
 founded: 1979
 size: small
 headcount: 35+

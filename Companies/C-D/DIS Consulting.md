@@ -6,6 +6,7 @@ linkedin: https://www.linkedin.com/company/dis-consultancy
 companies-house: "15027337"
 hq: Warminster, United Kingdom
 uk-region: South West
+country-code: GB
 founded: 2023
 size: micro
 sources-verified: 2026-07-04

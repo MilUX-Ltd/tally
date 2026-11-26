@@ -6,6 +6,7 @@ linkedin: https://www.linkedin.com/company/thinkittech
 companies-house: "12423413"
 hq: Daresbury, United Kingdom
 uk-region: North West
+country-code: GB
 founded: 2020
 size: micro
 sources-verified: 2026-11-19

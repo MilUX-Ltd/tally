@@ -6,6 +6,7 @@ linkedin: https://www.linkedin.com/company/palantir-technologies
 companies-house: 07042994
 hq: London, UK / Denver, USA
 uk-region: London
+country-code: GB
 founded: 2009
 size: large
 headcount: ~1,000 (UK)

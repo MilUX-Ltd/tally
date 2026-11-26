@@ -6,6 +6,7 @@ linkedin: https://www.linkedin.com/company/universal-defence-security-solutions
 companies-house: 11073592
 hq: Hungerford, United Kingdom
 uk-region: South East
+country-code: GB
 founded: 2017
 size: large
 headcount: 700+

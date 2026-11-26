@@ -6,6 +6,7 @@ linkedin: https://www.linkedin.com/company/doran-precision-engineering-ltd
 companies-house: NI652521
 hq: Newcastle, UK
 uk-region: Northern Ireland
+country-code: GB
 founded: 2018
 size: micro
 headcount: ~22

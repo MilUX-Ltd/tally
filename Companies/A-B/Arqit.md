@@ -5,6 +5,7 @@ website: https://arqitgroup.com/
 linkedin: https://www.linkedin.com/company/arqit
 hq: London, United Kingdom
 uk-region: London
+country-code: GB
 founded: 2017
 size: small
 sources-verified: 2026-07-04

@@ -4,6 +4,7 @@ name: Unbound Orbits Ltd
 website: https://www.unboundorbits.com
 hq: St Albans, United Kingdom
 uk-region: East of England
+country-code: GB
 sources-verified: 2026-06-30
 lat: 51.75305
 lon: -0.33797

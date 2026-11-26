@@ -4,6 +4,7 @@ name: Pera Prometheus Consulting Ltd
 website: https://pera-prometheus.com
 hq: Hull, United Kingdom
 uk-region: Yorkshire and The Humber
+country-code: GB
 sources-verified: 2026-07-05
 lat: 53.76239
 lon: -0.33012

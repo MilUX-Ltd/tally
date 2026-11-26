@@ -4,6 +4,7 @@ name: Space Forge Ltd
 website: https://www.spaceforge.co.uk
 hq: Cardiff, United Kingdom
 uk-region: Wales
+country-code: GB
 size: small
 sources-verified: 2026-06-30
 lat: 51.48

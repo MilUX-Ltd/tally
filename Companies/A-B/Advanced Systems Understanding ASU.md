@@ -12,6 +12,7 @@ postcode: SO15 2NP
 lat: 50.90993
 lon: -1.40865
 location-source: companies-house
+country-code: GB
 tags:
   - defence
   - simulation

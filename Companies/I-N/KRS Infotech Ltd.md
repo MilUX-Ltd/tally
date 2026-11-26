@@ -5,6 +5,7 @@ website: https://krsinfotech.co.uk/
 companies-house: "08546527"
 hq: Colchester, United Kingdom
 uk-region: East of England
+country-code: GB
 founded: 2013
 size: small
 sources-verified: 2026-08-01

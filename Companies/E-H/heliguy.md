@@ -6,6 +6,7 @@ linkedin: https://www.linkedin.com/company/heliguy
 companies-house: "05819252"
 hq: North Shields, United Kingdom
 uk-region: North East
+country-code: GB
 founded: 2006
 size: small
 headcount: 35+ staff

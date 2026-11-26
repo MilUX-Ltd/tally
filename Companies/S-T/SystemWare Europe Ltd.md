@@ -4,6 +4,7 @@ name: SystemWare Europe Ltd
 website: http://www.sysware-europe.com
 hq: St Neots, United Kingdom
 uk-region: East of England
+country-code: GB
 sources-verified: 2026-06-30
 lat: 52.22758
 lon: -0.27038

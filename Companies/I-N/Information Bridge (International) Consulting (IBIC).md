@@ -3,6 +3,7 @@ type: organisation
 name: Information Bridge (International) Consulting (IBIC)
 hq: Louth, United Kingdom
 uk-region: East Midlands
+country-code: GB
 founded: 2008
 size: micro
 sources-verified: 2026-07-04

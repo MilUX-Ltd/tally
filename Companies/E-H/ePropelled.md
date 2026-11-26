@@ -6,6 +6,7 @@ linkedin: https://www.linkedin.com/company/epropelled
 companies-house: "03681737"
 hq: Laconia, United States
 uk-region: West Midlands
+country-code: GB
 founded: 2018
 size: small
 headcount: 80

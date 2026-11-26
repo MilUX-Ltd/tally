@@ -4,6 +4,7 @@ name: i-4p Consulting Ltd
 website: https://i-4p.com
 hq: Laddingford, United Kingdom
 uk-region: South East
+country-code: GB
 sources-verified: 2026-07-05
 lat: 51.20791
 lon: 0.41831

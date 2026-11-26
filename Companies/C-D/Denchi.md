@@ -6,6 +6,7 @@ linkedin: https://uk.linkedin.com/company/denchi
 companies-house: 08676692
 hq: Thurso, United Kingdom
 uk-region: Scotland
+country-code: GB
 size: small
 headcount: 68
 sources-verified: 2026-07-04

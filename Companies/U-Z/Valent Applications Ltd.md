@@ -4,6 +4,7 @@ name: Valent Applications Ltd
 website: https://www.valentapps.co.uk
 hq: Willenhall, United Kingdom
 uk-region: West Midlands
+country-code: GB
 sources-verified: 2026-06-30
 lat: 52.58314
 lon: -2.05433

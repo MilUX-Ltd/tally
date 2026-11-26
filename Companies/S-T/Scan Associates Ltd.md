@@ -4,6 +4,7 @@ name: Scan Associates Ltd
 website: https://www.scanassociates.co.uk
 hq: Loughton, United Kingdom
 uk-region: East of England
+country-code: GB
 sources-verified: 2026-06-30
 lat: 51.64671
 lon: 0.05441

@@ -6,6 +6,7 @@ linkedin: https://www.linkedin.com/company/arx-robotics
 companies-house: 16424547
 hq: London, United Kingdom
 uk-region: London
+country-code: GB
 founded: 2025
 size: medium
 sources-verified: 2026-07-03

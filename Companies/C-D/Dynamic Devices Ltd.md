@@ -6,6 +6,7 @@ linkedin: https://www.linkedin.com/company/dynamic-devices-limited
 companies-house: "05010341"
 hq: Liverpool, United Kingdom
 uk-region: North West
+country-code: GB
 founded: 2004
 size: micro
 headcount: 1

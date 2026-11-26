@@ -6,6 +6,7 @@ linkedin: https://www.linkedin.com/company/stirling-dynamics
 companies-house: 02092114
 hq: Bristol, UK
 uk-region: South West
+country-code: GB
 founded: 1987
 size: medium
 headcount: 110+

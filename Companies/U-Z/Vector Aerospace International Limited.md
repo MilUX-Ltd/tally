@@ -4,6 +4,7 @@ name: Vector Aerospace International Limited
 website: https://www.standardaero.com
 hq: Scottsdale, United States
 uk-region: South East
+country-code: GB
 sources-verified: 2026-07-01
 location-source: region
 location-note: UK location not published

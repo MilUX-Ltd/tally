@@ -6,6 +6,7 @@ linkedin: https://www.linkedin.com/company/commercialintuition
 companies-house: "13357594"
 hq: Gloucester, United Kingdom
 uk-region: South West
+country-code: GB
 size: micro
 sources-verified: 2026-11-19
 postcode: GL2 2AT

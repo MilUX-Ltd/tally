@@ -9,6 +9,7 @@ founded: 2017
 size: micro
 sources-verified: 2026-07-04
 country: Australia
+country-code: AU
 tags:
   - defence
   - training

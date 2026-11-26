@@ -6,6 +6,7 @@ linkedin: https://www.linkedin.com/company/bi-engineering
 companies-house: 01228801
 hq: Wellingborough, United Kingdom
 uk-region: East Midlands
+country-code: GB
 founded: 1975
 size: small
 sources-verified: 2026-07-04

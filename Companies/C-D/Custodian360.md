@@ -5,6 +5,7 @@ website: https://custodian360.com/
 linkedin: https://www.linkedin.com/company/custodian360/
 hq: Twyford, Berkshire
 uk-region: South East
+country-code: GB
 founded: 2016
 size: small
 headcount: 11-50

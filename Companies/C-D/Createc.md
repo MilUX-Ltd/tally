@@ -6,6 +6,7 @@ linkedin: https://www.linkedin.com/company/createc
 companies-house: "07293648"
 hq: Cockermouth, United Kingdom
 uk-region: North West
+country-code: GB
 founded: 2010
 size: small
 headcount: 60

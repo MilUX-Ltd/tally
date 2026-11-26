@@ -6,6 +6,7 @@ linkedin: https://www.linkedin.com/company/emergency-protection-limited
 companies-house: "10083641"
 hq: Shrewsbury, United Kingdom
 uk-region: West Midlands
+country-code: GB
 founded: 2016
 size: micro
 sources-verified: 2026-07-04

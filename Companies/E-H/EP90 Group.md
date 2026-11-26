@@ -6,6 +6,7 @@ linkedin: https://www.linkedin.com/company/ep90group-ltd
 companies-house: "09758830"
 hq: Dorchester, UK
 uk-region: South West
+country-code: GB
 founded: 2015
 size: micro
 sources-verified: 2026-07-04

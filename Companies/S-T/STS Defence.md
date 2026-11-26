@@ -6,6 +6,7 @@ linkedin: https://www.linkedin.com/company/sts-defence-limited
 companies-house: "03193298"
 hq: Gosport, United Kingdom
 uk-region: South East
+country-code: GB
 size: medium
 headcount: ~150
 sources-verified: 2026-06-29

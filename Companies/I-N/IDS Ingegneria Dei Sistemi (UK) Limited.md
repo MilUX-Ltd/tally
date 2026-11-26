@@ -4,6 +4,7 @@ name: IDS Ingegneria Dei Sistemi (UK) Limited
 website: https://www.idscorporation.com
 hq: Pisa, Italy
 uk-region: South East
+country-code: GB
 sources-verified: 2026-07-04
 location-source: region
 location-note: UK location not published

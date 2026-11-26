@@ -6,6 +6,7 @@ linkedin: https://uk.linkedin.com/company/mgiengineering
 companies-house: 04960248
 hq: Witney, UK
 uk-region: South East
+country-code: GB
 founded: 2003
 sources-verified: 2026-07-05
 postcode: OX29 7EY

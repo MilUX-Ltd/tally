@@ -6,6 +6,7 @@ linkedin: https://www.linkedin.com/company/dorset-software
 companies-house: "02150469"
 hq: Poole, UK
 uk-region: South West
+country-code: GB
 founded: 1987
 size: small
 headcount: ~100

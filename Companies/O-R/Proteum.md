@@ -6,6 +6,7 @@ linkedin: https://www.linkedin.com/company/10176718
 companies-house: "06700208"
 hq: Southampton, United Kingdom
 uk-region: South East
+country-code: GB
 size: small
 sources-verified: 2026-11-19
 postcode: SO19 7GA

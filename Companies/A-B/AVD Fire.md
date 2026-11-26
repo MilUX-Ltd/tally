@@ -6,6 +6,7 @@ linkedin: https://www.linkedin.com/company/avdfire
 companies-house: 14933398
 hq: Stoke-on-Trent, United Kingdom
 uk-region: West Midlands
+country-code: GB
 founded: 2023
 size: small
 sources-verified: 2026-07-03

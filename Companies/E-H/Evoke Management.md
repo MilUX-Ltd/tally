@@ -6,6 +6,7 @@ linkedin: https://www.linkedin.com/company/evoke-management-limited
 companies-house: "09410766"
 hq: London, United Kingdom
 uk-region: London
+country-code: GB
 founded: 2015
 sources-verified: 2026-11-19
 postcode: W1W 5PF

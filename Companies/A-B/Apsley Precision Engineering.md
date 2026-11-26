@@ -5,6 +5,7 @@ website: https://www.apsleyeng.co.uk
 companies-house: "07143653"
 hq: Salisbury, United Kingdom
 uk-region: South West
+country-code: GB
 founded: 1984
 sources-verified: 2026-11-19
 postcode: SP4 6AT

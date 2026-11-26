@@ -6,6 +6,7 @@ linkedin: https://www.linkedin.com/company/cam-lock-uk
 companies-house: 02037550
 hq: Aldershot, United Kingdom
 uk-region: South East
+country-code: GB
 founded: 1986
 size: medium
 headcount: 100+

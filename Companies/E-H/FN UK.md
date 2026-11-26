@@ -5,6 +5,7 @@ website: https://fnherstal.com/en/news/fnh-uk/
 companies-house: "02093078"
 hq: Erith, Kent, UK
 uk-region: South East
+country-code: GB
 founded: 1987
 size: small
 sources-verified: 2026-07-04

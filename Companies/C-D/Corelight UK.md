@@ -6,6 +6,7 @@ linkedin: https://www.linkedin.com/company/corelight
 companies-house: 11252070
 hq: San Francisco, United States
 uk-region: London
+country-code: GB
 founded: 2018
 size: small
 sources-verified: 2026-07-04

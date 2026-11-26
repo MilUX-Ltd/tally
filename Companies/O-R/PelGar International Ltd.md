@@ -4,6 +4,7 @@ name: PelGar International Ltd
 website: https://www.pelgar.co.uk
 hq: Alton, United Kingdom
 uk-region: South East
+country-code: GB
 sources-verified: 2026-07-05
 lat: 51.14864
 lon: -0.97584

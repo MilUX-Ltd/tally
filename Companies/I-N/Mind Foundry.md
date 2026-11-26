@@ -6,6 +6,7 @@ linkedin: https://www.linkedin.com/company/mind-foundry
 companies-house: "09882159"
 hq: Oxford, United Kingdom
 uk-region: South East
+country-code: GB
 founded: 2016
 size: medium
 sources-verified: 2026-07-05

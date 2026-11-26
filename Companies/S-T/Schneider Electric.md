@@ -4,6 +4,7 @@ name: Schneider Electric
 website: https://www.se.com/uk/en/work/solutions/for-business/defence/
 hq: Rueil-Malmaison, France
 uk-region: West Midlands
+country-code: GB
 size: large
 sources-verified: 2026-06-30
 location-source: region

@@ -4,6 +4,7 @@ name: Intertek
 website: https://www.intertek.com
 hq: London, United Kingdom
 uk-region: East Midlands
+country-code: GB
 size: large
 sources-verified: 2026-07-04
 location-source: region

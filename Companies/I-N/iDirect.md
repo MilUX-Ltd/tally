@@ -6,6 +6,7 @@ linkedin: https://www.linkedin.com/company/st-engineering-idirect
 companies-house: 04338596
 hq: Eton, United Kingdom
 uk-region: South East
+country-code: GB
 founded: 1994
 size: medium
 sources-verified: 2026-07-05

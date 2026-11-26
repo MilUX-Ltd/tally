@@ -6,6 +6,7 @@ linkedin: https://www.linkedin.com/company/iguru-limited
 companies-house: 06953120
 hq: Wigan, United Kingdom
 uk-region: North West
+country-code: GB
 founded: 2009
 size: micro
 sources-verified: 2026-07-05

@@ -6,6 +6,7 @@ linkedin: https://www.linkedin.com/company/esoteric-ltd
 companies-house: "04441008"
 hq: Woking, UK
 uk-region: South East
+country-code: GB
 founded: 1998
 size: small
 headcount: 13

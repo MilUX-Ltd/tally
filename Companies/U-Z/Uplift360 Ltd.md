@@ -4,6 +4,7 @@ name: Uplift360 Ltd
 website: https://www.uplift360.tech
 hq: Luxembourg, Luxembourg
 uk-region: South West
+country-code: GB
 sources-verified: 2026-06-30
 location-source: region
 location-note: UK location not published

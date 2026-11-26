@@ -9,6 +9,7 @@ lat: 51.56912
 lon: -0.19534
 location-source: companies-house
 location-note: registered office of the company with this exact name on the register
+country-code: GB
 tags:
   - defence
   - uas

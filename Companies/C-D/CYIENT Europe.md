@@ -6,6 +6,7 @@ linkedin: https://www.linkedin.com/company/cyient
 companies-house: 02743776
 hq: Hyderabad, India
 uk-region: South East
+country-code: GB
 founded: 1991
 size: large
 headcount: 1053

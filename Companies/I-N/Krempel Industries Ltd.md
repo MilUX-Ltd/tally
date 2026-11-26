@@ -4,6 +4,7 @@ name: Krempel Industries Ltd
 website: https://krempel.com/en
 hq: Vaihingen an der Enz, Germany
 uk-region: South West
+country-code: GB
 sources-verified: 2026-07-04
 location-source: region
 location-note: UK location not published

@@ -4,6 +4,7 @@ name: Intelliconnect (Europe) Ltd
 website: http://www.intelliconnectgroup.com
 hq: Corby, United Kingdom
 uk-region: East Midlands
+country-code: GB
 sources-verified: 2026-07-04
 lat: 52.48768
 lon: -0.7013

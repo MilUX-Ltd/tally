@@ -6,6 +6,7 @@ linkedin: https://www.linkedin.com/company/etherstack
 companies-house: 07951056
 hq: Reading, UK
 uk-region: South East
+country-code: GB
 founded: 2012
 size: small
 sources-verified: 2026-07-04

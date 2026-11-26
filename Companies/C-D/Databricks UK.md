@@ -6,6 +6,7 @@ linkedin: https://www.linkedin.com/company/databricks
 companies-house: 10919206
 hq: San Francisco, USA
 uk-region: London
+country-code: GB
 founded: 2013
 size: large
 headcount: ~500

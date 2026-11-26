@@ -4,6 +4,7 @@ name: National Nuclear Laboratory
 website: https://www.nnl.co.uk
 hq: Warrington, United Kingdom
 uk-region: North West
+country-code: GB
 sources-verified: 2026-07-05
 lat: 53.38957
 lon: -2.5909

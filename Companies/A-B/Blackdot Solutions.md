@@ -6,6 +6,7 @@ linkedin: https://www.linkedin.com/company/blackdot-solutions-ltd
 companies-house: 07617704
 hq: Cambridge, United Kingdom
 uk-region: East of England
+country-code: GB
 founded: 2011
 size: small
 headcount: 40-50

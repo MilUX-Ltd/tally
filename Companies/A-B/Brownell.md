@@ -6,6 +6,7 @@ linkedin: https://uk.linkedin.com/company/brownell-limited
 companies-house: 04495331
 hq: London, United Kingdom
 uk-region: London
+country-code: GB
 founded: 1952
 size: small
 sources-verified: 2026-07-04

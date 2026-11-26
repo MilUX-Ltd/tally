@@ -4,6 +4,7 @@ name: Ovation Systems Ltd
 website: https://www.ovation.co.uk
 hq: Milton Common, UK
 uk-region: South East
+country-code: GB
 sources-verified: 2026-07-05
 lat: 51.7284
 lon: -1.06302

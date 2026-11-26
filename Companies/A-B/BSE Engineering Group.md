@@ -5,6 +5,7 @@ website: https://bse-eng.co.uk/
 companies-house: 15954668
 hq: Leighton Buzzard, England
 uk-region: East of England
+country-code: GB
 founded: 2024
 size: micro
 sources-verified: 2026-07-04

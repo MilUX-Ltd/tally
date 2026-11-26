@@ -6,6 +6,7 @@ linkedin: https://www.linkedin.com/company/glenside-commercial-interiors-llp
 companies-house: "14000423"
 hq: Reading, United Kingdom
 uk-region: South East
+country-code: GB
 founded: 1973
 sources-verified: 2026-11-19
 postcode: RG2 0QJ

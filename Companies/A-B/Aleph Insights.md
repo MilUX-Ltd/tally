@@ -6,6 +6,7 @@ linkedin: https://www.linkedin.com/company/aleph-insights
 companies-house: 09135108
 hq: Hoddesdon, United Kingdom
 uk-region: East of England
+country-code: GB
 founded: 2014
 size: micro
 sources-verified: 2026-07-03

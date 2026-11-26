@@ -6,6 +6,7 @@ linkedin: https://uk.linkedin.com/company/ymd-boon-ltd.
 companies-house: "05748517"
 hq: Market Harborough, United Kingdom
 uk-region: East Midlands
+country-code: GB
 sources-verified: 2026-11-19
 postcode: LN6 3TA
 lat: 53.20304

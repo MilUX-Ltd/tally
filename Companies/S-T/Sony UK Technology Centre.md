@@ -6,6 +6,7 @@ linkedin: https://www.linkedin.com/company/sony-uk-technology-centre
 companies-house: "15990239"
 hq: Pencoed, United Kingdom
 uk-region: Wales
+country-code: GB
 size: large
 sources-verified: 2026-11-19
 postcode: CF35 5HZ

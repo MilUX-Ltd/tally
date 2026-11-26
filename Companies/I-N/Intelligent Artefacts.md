@@ -6,6 +6,7 @@ linkedin:
 companies-house: 
 hq: London, UK
 uk-region: London
+country-code: GB
 founded: 
 size: small
 headcount: 

@@ -5,6 +5,7 @@ website: https://www.hdcorp.co.uk
 companies-house: "12581405"
 hq: Hereford, United Kingdom
 uk-region: West Midlands
+country-code: GB
 founded: 2020
 size: small
 headcount: 30+

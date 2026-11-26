@@ -6,6 +6,7 @@ linkedin: https://uk.linkedin.com/company/aclastechnics
 companies-house: SC229729
 hq: Livingston, Scotland
 uk-region: Scotland
+country-code: GB
 founded: 2002
 size: small
 sources-verified: 2026-07-03

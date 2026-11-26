@@ -4,6 +4,7 @@ name: Linwave Technology Ltd
 website: https://www.linwave.co.uk
 hq: Lincoln, UK
 uk-region: East Midlands
+country-code: GB
 sources-verified: 2026-07-04
 lat: 53.23484
 lon: -0.53844

@@ -5,6 +5,7 @@ website: https://www.l3harris.com
 linkedin: https://www.linkedin.com/company/l3harris-technologies
 hq: Melbourne, FL, USA
 uk-region: London
+country-code: GB
 size: large
 sources-verified: 2026-07-04
 location-source: region

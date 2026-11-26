@@ -5,6 +5,7 @@ website: https://www.polartechnology.co.uk
 companies-house: 07861070
 hq: Eynsham, United Kingdom
 uk-region: South East
+country-code: GB
 size: medium
 sources-verified: 2026-07-16
 postcode: OX29 4GF

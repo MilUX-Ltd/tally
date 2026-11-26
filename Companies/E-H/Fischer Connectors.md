@@ -6,6 +6,7 @@ linkedin: https://www.linkedin.com/company/fischer-connectors
 companies-house: "02259968"
 hq: Saint-Prex, Switzerland
 uk-region: South East
+country-code: GB
 founded: 1954
 size: medium
 headcount: 600-700

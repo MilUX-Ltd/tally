@@ -4,6 +4,7 @@ name: Winslow Adaptics Ltd
 website: https://www.winslowadaptics.com
 hq: Brecon, United Kingdom
 uk-region: Wales
+country-code: GB
 sources-verified: 2026-07-01
 lat: 51.9472
 lon: -3.3917

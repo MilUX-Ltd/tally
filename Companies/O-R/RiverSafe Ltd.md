@@ -5,6 +5,7 @@ website: https://www.riversafe.co.uk
 companies-house: "06715188"
 hq: London, United Kingdom
 uk-region: London
+country-code: GB
 founded: 2008
 size: small
 headcount: 51-200

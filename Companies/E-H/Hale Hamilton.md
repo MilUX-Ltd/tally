@@ -6,6 +6,7 @@ linkedin: https://www.linkedin.com/company/hale-hamilton
 companies-house: 01563775
 hq: Uxbridge, UK
 uk-region: London
+country-code: GB
 founded: 1947
 size: medium
 sources-verified: 2026-07-04

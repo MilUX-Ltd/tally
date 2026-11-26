@@ -4,6 +4,7 @@ name: WEC
 website: https://www.wecuk.com
 hq: Cheadle Hulme, UK
 uk-region: North West
+country-code: GB
 sources-verified: 2026-07-01
 lat: 53.37582
 lon: -2.18839

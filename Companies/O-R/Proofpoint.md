@@ -5,6 +5,7 @@ website: https://www.proofpoint.com
 companies-house: "05087111"
 hq: Reading, United Kingdom
 uk-region: South East
+country-code: GB
 sources-verified: 2026-11-19
 postcode: RG2 6UJ
 lat: 51.42583

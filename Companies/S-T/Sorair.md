@@ -4,6 +4,7 @@ name: Sorair
 website: https://sorair.co.uk
 hq: Aylesbury, England
 uk-region: South East
+country-code: GB
 size: micro
 sources-verified: 2026-07-16
 lat: 51.81711

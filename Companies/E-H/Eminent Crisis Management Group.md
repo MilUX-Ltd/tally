@@ -6,6 +6,7 @@ linkedin: https://www.linkedin.com/company/eminent-crisis-management-group-limit
 companies-house: "08737098"
 hq: Malvern, United Kingdom
 uk-region: West Midlands
+country-code: GB
 founded: 2013
 size: micro
 sources-verified: 2026-07-04

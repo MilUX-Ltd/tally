@@ -4,6 +4,7 @@ name: Smiths Detection
 website: https://www.smithsdetection.com
 hq: London, United Kingdom
 uk-region: East of England
+country-code: GB
 size: large
 sources-verified: 2026-06-30
 location-source: region

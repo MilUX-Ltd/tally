@@ -5,6 +5,7 @@ website: http://www.revector.com
 linkedin: https://www.linkedin.com/company/revector
 hq: Bath, United Kingdom
 uk-region: South West
+country-code: GB
 sources-verified: 2026-07-05
 lat: 51.3828
 lon: -2.35929

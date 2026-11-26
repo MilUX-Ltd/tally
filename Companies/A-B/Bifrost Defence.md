@@ -9,6 +9,7 @@ founded: 2025
 size: micro
 sources-verified: 2026-07-04
 country: Denmark
+country-code: DK
 tags:
   - defence
   - autonomy

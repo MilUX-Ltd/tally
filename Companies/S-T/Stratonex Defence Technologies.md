@@ -6,6 +6,7 @@ linkedin: https://www.linkedin.com/company/stratonex
 companies-house: 16883094
 hq: Hereford, United Kingdom
 uk-region: West Midlands
+country-code: GB
 founded: 2025
 size: micro
 sources-verified: 2026-07-16

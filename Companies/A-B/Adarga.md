@@ -6,6 +6,7 @@ linkedin: https://www.linkedin.com/company/adargaai/
 companies-house: 09742902
 hq: London, United Kingdom
 uk-region: London
+country-code: GB
 founded: 2016
 size: medium
 sources-verified: 2026-07-03

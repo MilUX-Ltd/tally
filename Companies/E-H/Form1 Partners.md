@@ -6,6 +6,7 @@ linkedin: https://www.linkedin.com/company/form1-partners
 companies-house: "14774350"
 hq: Letchworth Garden City, United Kingdom
 uk-region: East of England
+country-code: GB
 founded: 2023
 size: micro
 sources-verified: 2026-07-04

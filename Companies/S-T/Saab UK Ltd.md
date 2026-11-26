@@ -4,6 +4,7 @@ name: Saab UK Ltd
 website: https://www.saab.com/uk
 hq: Stockholm, Sweden
 uk-region: London
+country-code: GB
 size: large
 sources-verified: 2026-06-30
 location-source: region

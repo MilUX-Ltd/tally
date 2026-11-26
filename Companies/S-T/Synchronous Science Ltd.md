@@ -4,6 +4,7 @@ name: Synchronous Science Ltd
 website: https://www.synchronous-science.co.uk
 hq: Andover, United Kingdom
 uk-region: South East
+country-code: GB
 size: micro
 sources-verified: 2026-06-30
 lat: 51.2075

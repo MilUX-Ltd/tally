@@ -5,6 +5,7 @@ website: https://www.gads.uk.com
 companies-house: "09835950"
 hq: Aston Clinton, United Kingdom
 uk-region: South East
+country-code: GB
 founded: 2015
 size: micro
 sources-verified: 2026-07-04

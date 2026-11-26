@@ -4,6 +4,7 @@ name: Key-Tech Electronic Systems
 website: https://key-tech.co.uk
 hq: Kirkcaldy, United Kingdom
 uk-region: Scotland
+country-code: GB
 sources-verified: 2026-07-04
 lat: 56.10963
 lon: -3.16334

@@ -4,6 +4,7 @@ name: Somerford Associates
 website: http://www.somerfordassociates.com
 hq: Cirencester, UK
 uk-region: South West
+country-code: GB
 sources-verified: 2026-07-03
 lat: 51.717
 lon: -1.96838

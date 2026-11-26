@@ -4,6 +4,7 @@ name: GardaWorld
 website: https://www.garda.com
 hq: Montreal, Canada
 uk-region: London
+country-code: GB
 size: large
 headcount: 120000
 sources-verified: 2026-07-04

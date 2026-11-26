@@ -5,6 +5,7 @@ website: https://www.phinia.com
 companies-house: "03870587"
 hq: Auburn Hills, United States
 uk-region: South West
+country-code: GB
 sources-verified: 2026-11-19
 postcode: GL10 3SX
 lat: 51.7506

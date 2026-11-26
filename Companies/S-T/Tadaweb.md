@@ -10,6 +10,7 @@ size: medium
 headcount: 51-200
 sources-verified: 2026-06-29
 country: Luxembourg
+country-code: LU
 tags:
   - defence
   - isr

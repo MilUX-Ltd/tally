@@ -5,6 +5,7 @@ website: https://www.praetori.ai/
 linkedin: https://www.linkedin.com/company/praetori/
 sources-verified: 2026-07-05
 country: Europe (country not stated)
+country-code: ZZ
 tags:
   - defence
   - ai

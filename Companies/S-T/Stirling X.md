@@ -5,6 +5,7 @@ website: https://www.stirlingx.io
 companies-house: "13610180"
 hq: London
 uk-region: London
+country-code: GB
 sources-verified: 2026-06-29
 postcode: W1U 3RY
 lat: 51.51575

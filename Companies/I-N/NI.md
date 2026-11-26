@@ -4,6 +4,7 @@ name: NI
 website: https://www.ni.com
 hq: Austin, USA
 uk-region: South East
+country-code: GB
 sources-verified: 2026-07-05
 location-source: region
 location-note: UK location not published

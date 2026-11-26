@@ -5,6 +5,7 @@ website: https://www.seiche.com
 companies-house: "03475558"
 hq: Holsworthy, United Kingdom
 uk-region: South West
+country-code: GB
 founded: 1997
 sources-verified: 2026-11-19
 postcode: EX22 7SF

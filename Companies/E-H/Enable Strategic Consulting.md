@@ -5,6 +5,7 @@ website: https://enable-sc.com
 linkedin: https://www.linkedin.com/company/enable-strategic-consulting
 hq: London, United Kingdom
 uk-region: London
+country-code: GB
 size: micro
 sources-verified: 2026-07-04
 lat: 51.50741

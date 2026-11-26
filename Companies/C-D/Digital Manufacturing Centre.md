@@ -5,6 +5,7 @@ website: https://www.digitalmanufacturingcentre.com
 companies-house: 12228820
 hq: Silverstone, England
 uk-region: East Midlands
+country-code: GB
 size: small
 sources-verified: 2026-07-16
 postcode: NN12 8FU

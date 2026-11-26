@@ -4,6 +4,7 @@ name: Inspired Act Ltd
 website: http://www.inspiredact.co.uk
 hq: Corsham, United Kingdom
 uk-region: South West
+country-code: GB
 size: micro
 sources-verified: 2026-07-04
 lat: 51.43393

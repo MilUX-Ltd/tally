@@ -4,6 +4,7 @@ name: Foremost Electronics Ltd
 website: https://www.4most.co.uk
 hq: Essex, United Kingdom
 uk-region: East of England
+country-code: GB
 size: small
 sources-verified: 2026-07-16
 lat: 51.77047

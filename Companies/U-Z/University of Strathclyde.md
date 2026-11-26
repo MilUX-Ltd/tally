@@ -4,6 +4,7 @@ name: University of Strathclyde
 website: https://www.strath.ac.uk/engineering
 hq: Glasgow, United Kingdom
 uk-region: Scotland
+country-code: GB
 sources-verified: 2026-06-30
 lat: 55.86363
 lon: -4.23688

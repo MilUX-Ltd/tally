@@ -6,6 +6,7 @@ linkedin: https://www.linkedin.com/company/elite-electronic-systems
 companies-house: NI019286
 hq: Enniskillen, UK
 uk-region: Northern Ireland
+country-code: GB
 founded: 1986
 size: medium
 headcount: 300

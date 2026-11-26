@@ -6,6 +6,7 @@ linkedin: https://uk.linkedin.com/company/cablescan-limited
 companies-house: 04198380
 hq: Brough, United Kingdom
 uk-region: Yorkshire and The Humber
+country-code: GB
 founded: 2001
 size: small
 sources-verified: 2026-07-04

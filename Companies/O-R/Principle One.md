@@ -4,6 +4,7 @@ name: Principle One
 website: https://www.principleone.co.uk
 hq: London, UK
 uk-region: London
+country-code: GB
 size: medium
 sources-verified: 2026-07-05
 lat: 51.50741

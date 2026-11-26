@@ -6,6 +6,7 @@ linkedin: https://www.linkedin.com/company/electrogear-solutions-fareham-ltd
 companies-house: "13184956"
 hq: Fareham, United Kingdom
 uk-region: South East
+country-code: GB
 founded: 2021
 size: micro
 sources-verified: 2026-07-03

@@ -4,6 +4,7 @@ name: J & D Wilkie Ltd
 website: https://www.onewilkie.com
 hq: Kirriemuir, United Kingdom
 uk-region: Scotland
+country-code: GB
 sources-verified: 2026-07-04
 lat: 56.67312
 lon: -3.00447

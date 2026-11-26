@@ -5,6 +5,7 @@ website: https://www.racalacoustics.com
 linkedin: https://www.linkedin.com/company/racal-acoustics-ltd
 hq: Harrow, United Kingdom
 uk-region: South East
+country-code: GB
 size: small
 sources-verified: 2026-07-05
 location-source: region

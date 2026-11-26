@@ -4,6 +4,7 @@ name: Whitetree
 website: https://whitetree.co.uk
 hq: Wells, Somerset
 uk-region: South West
+country-code: GB
 sources-verified: 2026-06-30
 location-source: region
 location-note: UK location not published

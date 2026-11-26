@@ -5,6 +5,7 @@ website: https://www.fenner.com
 linkedin: https://www.linkedin.com/company/fenner-precision-polymers
 hq: Clermont-Ferrand, France
 uk-region: East Midlands
+country-code: GB
 size: large
 headcount: 900+
 sources-verified: 2026-07-04

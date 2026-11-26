@@ -5,6 +5,7 @@ website: https://www.rolandberger.com
 companies-house: "02454242"
 hq: Munich, Germany
 uk-region: London
+country-code: GB
 founded: 1967
 size: large
 headcount: ~2400

@@ -6,6 +6,7 @@ linkedin: https://www.linkedin.com/company/easyfairsuk
 companies-house: "05067979"
 hq: Brussels, Belgium
 uk-region: London
+country-code: GB
 founded: 2004
 size: large
 sources-verified: 2026-07-04

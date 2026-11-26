@@ -6,6 +6,7 @@ linkedin: https://www.linkedin.com/company/fc-lane-electronics-ltd
 companies-house: 00876597
 hq: Horsham, UK
 uk-region: South East
+country-code: GB
 founded: 1966
 size: small
 headcount: 70

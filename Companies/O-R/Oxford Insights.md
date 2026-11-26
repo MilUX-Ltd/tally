@@ -4,6 +4,7 @@ name: Oxford Insights
 website: https://www.oxfordinsights.com
 hq: Great Malvern, United Kingdom
 uk-region: West Midlands
+country-code: GB
 sources-verified: 2026-07-05
 lat: 52.11141
 lon: -2.32955

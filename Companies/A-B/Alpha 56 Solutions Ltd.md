@@ -6,6 +6,7 @@ linkedin: https://www.linkedin.com/company/alpha-56-solutions-ltd
 companies-house: "12392408"
 hq: Hereford, United Kingdom
 uk-region: West Midlands
+country-code: GB
 founded: 2020
 size: micro
 headcount: 4

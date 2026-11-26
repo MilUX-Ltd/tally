@@ -5,6 +5,7 @@ website: http://www.appliedspace.co.uk
 companies-house: 10713029
 hq: Camberley, United Kingdom
 uk-region: South East
+country-code: GB
 founded: 2017
 size: small
 sources-verified: 2026-07-03

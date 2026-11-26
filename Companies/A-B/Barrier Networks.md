@@ -6,6 +6,7 @@ linkedin: https://www.linkedin.com/company/barriernetworks
 companies-house: SC305542
 hq: Glasgow, United Kingdom
 uk-region: Scotland
+country-code: GB
 founded: 2006
 size: small
 headcount: 10-49

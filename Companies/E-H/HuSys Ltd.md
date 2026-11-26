@@ -4,6 +4,7 @@ name: HuSys Ltd
 website: https://www.husys.co.uk
 hq: Feltham, United Kingdom
 uk-region: South East
+country-code: GB
 founded: 2013
 sources-verified: 2026-07-04
 location-source: region

@@ -6,6 +6,7 @@ linkedin: https://www.linkedin.com/company/odu-uk
 companies-house: 03546482
 hq: Runcorn, United Kingdom
 uk-region: North West
+country-code: GB
 founded: 1998
 size: micro
 sources-verified: 2026-07-05

@@ -6,6 +6,7 @@ linkedin: https://www.linkedin.com/company/hadean
 companies-house: 09808169
 hq: London, UK
 uk-region: London
+country-code: GB
 founded: 2015
 size: medium
 sources-verified: 2026-07-04

@@ -4,6 +4,7 @@ name: Ruddy Nice Ltd
 website: http://www.ruddynice.com
 hq: Salisbury, United Kingdom
 uk-region: South West
+country-code: GB
 sources-verified: 2026-07-05
 lat: 51.07037
 lon: -1.79643

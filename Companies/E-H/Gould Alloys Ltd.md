@@ -4,6 +4,7 @@ name: Gould Alloys Ltd
 website: https://www.gouldalloys.com
 hq: Chesterfield, United Kingdom
 uk-region: East Midlands
+country-code: GB
 size: medium
 sources-verified: 2026-07-04
 lat: 53.23633

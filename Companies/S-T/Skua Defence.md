@@ -6,6 +6,7 @@ linkedin: https://www.linkedin.com/company/skua-defence
 companies-house: 16816686
 hq: London, United Kingdom
 uk-region: London
+country-code: GB
 founded: 2025
 size: micro
 sources-verified: 2026-06-29

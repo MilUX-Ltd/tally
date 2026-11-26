@@ -10,6 +10,7 @@ size: medium
 headcount: ~60
 sources-verified: 2026-07-04
 country: Estonia
+country-code: EE
 tags:
   - defence
   - cyber

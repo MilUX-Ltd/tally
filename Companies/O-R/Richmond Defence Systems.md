@@ -7,6 +7,7 @@ sources-verified: 2026-07-05
 lat: 52.40782
 lon: 0.99204
 location-source: town
+country-code: GB
 tags:
   - defence
   - mbr-ads

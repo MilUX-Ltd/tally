@@ -5,6 +5,7 @@ website: https://southsystem.co.uk
 companies-house: 02669295
 hq: Beech Hill, England
 uk-region: South East
+country-code: GB
 founded: 1991
 size: small
 sources-verified: 2026-07-16

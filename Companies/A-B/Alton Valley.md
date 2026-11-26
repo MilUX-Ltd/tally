@@ -6,6 +6,7 @@ linkedin: https://www.linkedin.com/company/altonvalley
 companies-house: 07081802
 hq: Derby, United Kingdom
 uk-region: East Midlands
+country-code: GB
 founded: 2009
 size: medium
 headcount: 80+

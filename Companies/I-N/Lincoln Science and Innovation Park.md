@@ -6,6 +6,7 @@ linkedin: https://www.linkedin.com/company/lincoln-science-and-innovation-park/
 companies-house: "08136850"
 hq: Lincoln, United Kingdom
 uk-region: East Midlands
+country-code: GB
 founded: 2012
 size: small
 sources-verified: 2026-11-19

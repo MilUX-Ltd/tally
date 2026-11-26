@@ -6,6 +6,7 @@ linkedin: https://www.linkedin.com/company/blacktree
 companies-house: 07897674
 hq: Worcester, United Kingdom
 uk-region: West Midlands
+country-code: GB
 founded: 2012
 size: small
 sources-verified: 2026-07-04

@@ -6,6 +6,7 @@ linkedin: https://www.linkedin.com/company/collins-aerospace
 companies-house: 00543016
 hq: Arlington, United States
 uk-region: West Midlands
+country-code: GB
 founded: 1955
 size: large
 headcount: 80000

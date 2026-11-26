@@ -5,6 +5,7 @@ website: https://www.elastic.co
 companies-house: "08362475"
 hq: San Francisco, United States
 uk-region: London
+country-code: GB
 founded: 2013
 size: large
 headcount: 3400

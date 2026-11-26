@@ -4,6 +4,7 @@ name: Wolf Network Security Ltd
 website: https://wolfnetworksecurity.co.uk
 hq: Manchester, United Kingdom
 uk-region: North West
+country-code: GB
 sources-verified: 2026-07-01
 lat: 53.47894
 lon: -2.24528

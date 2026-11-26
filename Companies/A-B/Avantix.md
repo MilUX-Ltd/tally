@@ -6,6 +6,7 @@ linkedin: https://www.linkedin.com/company/avantix-uk-limited
 companies-house: "13383931"
 hq: Pershore, United Kingdom
 uk-region: West Midlands
+country-code: GB
 founded: 2021
 size: micro
 sources-verified: 2026-07-04

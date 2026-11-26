@@ -5,6 +5,7 @@ website: https://www.dhl.com/gb-en/home/global-forwarding.html
 companies-house: "04056042"
 hq: Bonn, Germany
 uk-region: South East
+country-code: GB
 founded: 2000
 size: large
 sources-verified: 2026-07-04

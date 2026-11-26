@@ -4,6 +4,7 @@ name: Sirius Insight
 website: https://www.siriusinsight.ai
 hq: Godalming, United Kingdom
 uk-region: South East
+country-code: GB
 sources-verified: 2026-06-30
 lat: 51.18549
 lon: -0.61416

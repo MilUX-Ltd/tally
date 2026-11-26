@@ -6,6 +6,7 @@ linkedin: https://uk.linkedin.com/company/absl-power-solutions-ltd
 companies-house: 02840892
 hq: Reading, Pennsylvania, USA
 uk-region: South East
+country-code: GB
 founded: 1993
 size: medium
 sources-verified: 2026-07-03

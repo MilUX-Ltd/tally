@@ -6,6 +6,7 @@ linkedin: https://www.linkedin.com/company/elesa-uk
 companies-house: "00577223"
 hq: Monza, Italy
 uk-region: East Midlands
+country-code: GB
 founded: 1991
 size: small
 sources-verified: 2026-07-04

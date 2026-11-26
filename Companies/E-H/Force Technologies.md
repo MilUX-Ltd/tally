@@ -6,6 +6,7 @@ linkedin: https://www.linkedin.com/company/force-technologies-limited
 companies-house: "02028735"
 hq: Collingbourne Ducis, United Kingdom
 uk-region: South West
+country-code: GB
 founded: 1986
 sources-verified: 2026-11-19
 postcode: SN8 3EB

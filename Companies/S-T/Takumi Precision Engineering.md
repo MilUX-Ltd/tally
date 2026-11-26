@@ -7,6 +7,7 @@ uk-region: Overseas
 size: small
 sources-verified: 2026-06-30
 country: Ireland
+country-code: IE
 tags:
   - defence
   - mbr-ads

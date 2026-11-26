@@ -6,6 +6,7 @@ linkedin: https://www.linkedin.com/company/avpe-precision-engineering
 companies-house: 13143655
 hq: Bristol, UK
 uk-region: South West
+country-code: GB
 founded: 2021
 size: medium
 sources-verified: 2026-07-03

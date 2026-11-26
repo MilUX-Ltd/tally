@@ -6,6 +6,7 @@ linkedin: https://www.linkedin.com/company/aspire-management-consultancy-limited
 companies-house: "08137561"
 hq: Potterhanworth, United Kingdom
 uk-region: East Midlands
+country-code: GB
 size: micro
 sources-verified: 2026-11-19
 postcode: LN4 2DP

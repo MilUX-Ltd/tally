@@ -6,6 +6,7 @@ linkedin: https://www.linkedin.com/company/advanced-integrated-technologies-limi
 companies-house: "15508322"
 hq: St Ives, United Kingdom
 uk-region: East of England
+country-code: GB
 founded: 2024
 size: micro
 sources-verified: 2026-07-03

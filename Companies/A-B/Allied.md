@@ -6,6 +6,7 @@ linkedin: https://www.linkedin.com/company/allied-adaptive-industries/
 companies-house: 15247291
 hq: London
 uk-region: London
+country-code: GB
 sources-verified: 2026-07-03
 postcode: WA14 1PF
 lat: 53.38718

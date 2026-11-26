@@ -5,6 +5,7 @@ website: https://netria.ai
 companies-house: "17013801"
 hq: Lincoln, United Kingdom
 uk-region: East Midlands
+country-code: GB
 founded: 2026
 sources-verified: 2026-11-19
 postcode: LN6 7DQ

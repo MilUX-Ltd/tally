@@ -4,6 +4,7 @@ name: Tapeswitch Ltd
 website: https://www.tapeswitch.co.uk
 hq: Chorley, United Kingdom
 uk-region: North West
+country-code: GB
 sources-verified: 2026-06-30
 lat: 53.65433
 lon: -2.63281

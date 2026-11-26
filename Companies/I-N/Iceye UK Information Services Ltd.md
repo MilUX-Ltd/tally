@@ -5,6 +5,7 @@ website: https://www.iceye.com
 companies-house: 11323997
 hq: London, United Kingdom
 uk-region: London
+country-code: GB
 founded: 2018
 size: medium
 sources-verified: 2026-07-16

@@ -10,6 +10,7 @@ size: large
 headcount: ~400
 sources-verified: 2026-07-05
 country: Germany
+country-code: DE
 tags:
   - defence
   - uas

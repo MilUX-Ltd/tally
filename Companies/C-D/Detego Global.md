@@ -6,6 +6,7 @@ linkedin: https://www.linkedin.com/company/detegoforensics
 companies-house: "05196800"
 hq: Horsham, United Kingdom
 uk-region: South East
+country-code: GB
 founded: 2003
 size: small
 sources-verified: 2026-07-04

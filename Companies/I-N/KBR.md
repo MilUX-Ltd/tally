@@ -5,6 +5,7 @@ website: https://www.kbr.com
 linkedin: https://www.linkedin.com/company/kbr-uk-limited
 hq: Houston, United States
 uk-region: South East
+country-code: GB
 size: large
 sources-verified: 2026-07-03
 location-source: region

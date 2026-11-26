@@ -4,6 +4,7 @@ name: MDA Space and Robotics Limited
 website: https://www.mda.space
 hq: Brampton, Canada
 uk-region: South East
+country-code: GB
 sources-verified: 2026-07-05
 location-source: region
 location-note: UK location not published

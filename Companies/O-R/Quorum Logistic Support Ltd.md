@@ -4,6 +4,7 @@ name: Quorum Logistic Support Ltd
 website: https://www.qlsl.com
 hq: Stafford, United Kingdom
 uk-region: West Midlands
+country-code: GB
 founded: 2000
 sources-verified: 2026-07-05
 lat: 52.8058

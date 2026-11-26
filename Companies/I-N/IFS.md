@@ -4,6 +4,7 @@ name: IFS
 website: https://www.ifs.com/industries/aerospace-and-defense
 hq: Linköping, Sweden
 uk-region: South East
+country-code: GB
 size: large
 sources-verified: 2026-07-04
 location-source: region

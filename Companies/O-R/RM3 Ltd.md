@@ -3,6 +3,7 @@ type: organisation
 name: RM3 Ltd
 hq: Hereford, United Kingdom
 uk-region: West Midlands
+country-code: GB
 sources-verified: 2026-07-05
 lat: 52.05598
 lon: -2.71755

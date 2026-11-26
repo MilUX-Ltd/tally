@@ -6,6 +6,7 @@ linkedin: https://www.linkedin.com/company/clearspace-sa
 companies-house: 13249835
 hq: Renens, Switzerland
 uk-region: London
+country-code: GB
 founded: 2021
 size: small
 headcount: 10-49

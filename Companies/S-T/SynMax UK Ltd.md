@@ -4,6 +4,7 @@ name: SynMax UK Ltd
 website: https://www.synmax.com
 hq: Kidderminster, United Kingdom
 uk-region: West Midlands
+country-code: GB
 sources-verified: 2026-06-30
 lat: 52.3882
 lon: -2.24923

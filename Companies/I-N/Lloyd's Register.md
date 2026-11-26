@@ -3,6 +3,7 @@ type: organisation
 name: Lloyd's Register
 hq: London, United Kingdom
 uk-region: London
+country-code: GB
 size: large
 sources-verified: 2026-07-04
 lat: 51.50741

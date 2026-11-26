@@ -4,6 +4,7 @@ name: Latecoere IS UK Ltd
 website: https://www.latecoere.aero
 hq: Toulouse, France
 uk-region: South West
+country-code: GB
 size: large
 sources-verified: 2026-07-04
 location-source: region

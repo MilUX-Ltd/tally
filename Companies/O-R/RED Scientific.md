@@ -5,6 +5,7 @@ website: https://www.red-scientific.co.uk
 linkedin: https://www.linkedin.com/company/red-scientific-limited/
 hq: Alton, Hampshire
 uk-region: South East
+country-code: GB
 founded: 1990
 size: small
 headcount: 31

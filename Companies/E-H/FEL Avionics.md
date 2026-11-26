@@ -6,6 +6,7 @@ linkedin: https://www.linkedin.com/company/fel-avionics-ltd
 companies-house: "11820517"
 hq: Maldon, United Kingdom
 uk-region: East of England
+country-code: GB
 founded: 2019
 size: micro
 headcount: 2-10

@@ -4,6 +4,7 @@ name: Wincanton plc
 website: https://www.wincanton.co.uk/sectors/defence/
 hq: Chippenham, United Kingdom
 uk-region: South West
+country-code: GB
 sources-verified: 2026-07-01
 lat: 51.45823
 lon: -2.11394

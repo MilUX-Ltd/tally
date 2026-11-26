@@ -6,6 +6,7 @@ linkedin: https://www.linkedin.com/company/kinkinetics
 companies-house: "15832082"
 hq: Cardiff, United Kingdom
 uk-region: Wales
+country-code: GB
 founded: 2024
 size: micro
 sources-verified: 2026-11-19

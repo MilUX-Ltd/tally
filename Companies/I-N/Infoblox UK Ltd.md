@@ -4,6 +4,7 @@ name: Infoblox UK Ltd
 website: https://www.infoblox.com
 hq: Santa Clara, United States
 uk-region: London
+country-code: GB
 size: large
 sources-verified: 2026-07-04
 location-source: region

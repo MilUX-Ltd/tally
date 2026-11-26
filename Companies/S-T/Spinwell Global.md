@@ -5,6 +5,7 @@ website: https://spinwellglobal.com
 companies-house: "07527825"
 hq: Northampton, United Kingdom
 uk-region: East Midlands
+country-code: GB
 founded: 2011
 sources-verified: 2026-11-19
 postcode: NN4 7YB

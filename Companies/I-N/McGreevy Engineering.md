@@ -4,6 +4,7 @@ name: McGreevy Engineering Ltd
 website: https://www.mcgreevyengineering.co.uk
 hq: Belfast, United Kingdom
 uk-region: Northern Ireland
+country-code: GB
 sources-verified: 2026-07-05
 lat: 54.59639
 lon: -5.93018

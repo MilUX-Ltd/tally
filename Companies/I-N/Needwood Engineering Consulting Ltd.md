@@ -5,6 +5,7 @@ website: https://www.needwoodengineeringconsultingltd.co.uk
 companies-house: 12257829
 hq: Staffordshire, United Kingdom
 uk-region: West Midlands
+country-code: GB
 founded: 2019
 size: micro
 sources-verified: 2026-07-05

@@ -5,6 +5,7 @@ website: https://www.icomat.co.uk/
 linkedin: https://www.linkedin.com/company/icomat
 hq: Bristol, United Kingdom
 uk-region: South West
+country-code: GB
 founded: 2019
 size: small
 sources-verified: 2026-07-05

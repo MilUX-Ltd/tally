@@ -6,6 +6,7 @@ linkedin: https://www.linkedin.com/company/seabot-maritime
 companies-house: "11074380"
 hq: Portsmouth, United Kingdom
 uk-region: South East
+country-code: GB
 founded: 2017
 size: small
 sources-verified: 2026-11-19

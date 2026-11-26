@@ -4,6 +4,7 @@ name: RDDS Avionics Limited
 website: https://www.rdds.co.uk
 hq: Whitstable, United Kingdom
 uk-region: South East
+country-code: GB
 sources-verified: 2026-07-05
 lat: 51.35848
 lon: 1.02465

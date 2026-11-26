@@ -6,6 +6,7 @@ linkedin: https://uk.linkedin.com/company/lodestarspace
 companies-house: 14473705
 hq: London, United Kingdom
 uk-region: London
+country-code: GB
 founded: 2022
 size: small
 sources-verified: 2026-07-04

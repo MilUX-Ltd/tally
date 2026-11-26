@@ -4,6 +4,7 @@ name: Municipal Security Ltd
 website: http://www.municipalsecurity.co.uk
 hq: Haywards Heath, United Kingdom
 uk-region: South East
+country-code: GB
 size: micro
 sources-verified: 2026-07-05
 lat: 50.99594

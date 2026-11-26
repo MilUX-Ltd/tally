@@ -4,6 +4,7 @@ name: Prism Defence Ltd
 website: https://www.prismdefence.com
 hq: Emsworth, UK
 uk-region: South East
+country-code: GB
 sources-verified: 2026-07-05
 lat: 50.84808
 lon: -0.9371

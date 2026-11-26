@@ -6,6 +6,7 @@ linkedin: https://www.linkedin.com/company/amfax
 companies-house: 02079750
 hq: Blandford Forum, United Kingdom
 uk-region: South West
+country-code: GB
 founded: 1986
 size: small
 sources-verified: 2026-07-03

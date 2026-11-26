@@ -4,6 +4,7 @@ name: Nicol & Andrew Ltd
 website: https://www.nicolandandrew.com
 hq: High Wycombe, United Kingdom
 uk-region: South East
+country-code: GB
 sources-verified: 2026-07-05
 lat: 51.62876
 lon: -0.74946

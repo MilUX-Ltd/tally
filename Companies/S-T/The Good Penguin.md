@@ -6,6 +6,7 @@ linkedin: https://www.linkedin.com/company/the-good-penguin
 companies-house: "12374667"
 hq: Newport, United Kingdom
 uk-region: Wales
+country-code: GB
 founded: 2019
 size: small
 headcount: 15

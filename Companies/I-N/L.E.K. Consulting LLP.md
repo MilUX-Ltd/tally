@@ -4,6 +4,7 @@ name: L.E.K. Consulting LLP
 website: https://www.lek.com
 hq: London, UK
 uk-region: London
+country-code: GB
 size: large
 sources-verified: 2026-07-04
 lat: 51.50741

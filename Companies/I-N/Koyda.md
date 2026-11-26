@@ -6,6 +6,7 @@ linkedin: https://www.linkedin.com/company/koyda/
 companies-house: "05632312"
 hq: Lingfield, United Kingdom
 uk-region: South East
+country-code: GB
 founded: 2005
 size: micro
 sources-verified: 2026-11-19

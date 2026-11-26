@@ -4,6 +4,7 @@ name: Harwin
 website: https://www.harwin.com
 hq: Portsmouth, UK
 uk-region: South East
+country-code: GB
 size: medium
 sources-verified: 2026-07-04
 lat: 50.79685

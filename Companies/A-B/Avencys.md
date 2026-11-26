@@ -3,6 +3,7 @@ type: organisation
 name: Avencys
 hq: Berkshire, United Kingdom
 uk-region: South East
+country-code: GB
 size: small
 sources-verified: 2026-07-04
 lat: 51.45349

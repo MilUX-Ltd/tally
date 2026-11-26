@@ -5,6 +5,7 @@ website: https://lampata.co.uk
 companies-house: "12820181"
 hq: Cambridge, United Kingdom
 uk-region: East of England
+country-code: GB
 size: micro
 sources-verified: 2026-07-04
 postcode: CB1 1BH

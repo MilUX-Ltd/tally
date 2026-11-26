@@ -4,6 +4,7 @@ name: Labrys Technologies Ltd
 website: https://labrys.tech
 hq: Borehamwood, UK
 uk-region: East of England
+country-code: GB
 sources-verified: 2026-07-04
 lat: 51.65553
 lon: -0.27641

@@ -13,6 +13,7 @@ lat: 51.20869
 lon: -1.48051
 location-source: companies-house
 location-note: registered office of the company with this exact name on the register
+country-code: GB
 tags:
   - defence
   - human-factors

@@ -4,6 +4,7 @@ name: ThinkTank Maths Limited
 website: https://www.thinktankmaths.com
 hq: Edinburgh, United Kingdom
 uk-region: Scotland
+country-code: GB
 size: micro
 sources-verified: 2026-06-30
 lat: 55.95334

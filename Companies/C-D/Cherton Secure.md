@@ -6,6 +6,7 @@ linkedin: https://www.linkedin.com/company/cherton-secure
 companies-house: NI652896
 hq: Belfast, United Kingdom
 uk-region: Northern Ireland
+country-code: GB
 founded: 2018
 size: small
 sources-verified: 2026-07-04

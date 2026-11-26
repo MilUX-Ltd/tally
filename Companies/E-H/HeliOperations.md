@@ -4,6 +4,7 @@ name: HeliOperations
 website: https://helioperations.co
 hq: Portland, United Kingdom
 uk-region: South West
+country-code: GB
 size: small
 sources-verified: 2026-07-04
 lat: 51.1291

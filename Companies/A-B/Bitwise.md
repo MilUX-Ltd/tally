@@ -6,6 +6,7 @@ linkedin: https://www.linkedin.com/company/bitwise-ltd
 companies-house: SC107588
 hq: Dunfermline, United Kingdom
 uk-region: Scotland
+country-code: GB
 size: medium
 headcount: 80+
 sources-verified: 2026-07-04

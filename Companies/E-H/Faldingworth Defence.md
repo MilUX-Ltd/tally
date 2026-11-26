@@ -5,6 +5,7 @@ website: https://faldingworthdefence.co.uk
 companies-house: "06242927"
 hq: Market Rasen, United Kingdom
 uk-region: East Midlands
+country-code: GB
 size: micro
 sources-verified: 2026-11-19
 postcode: LN8 3SQ

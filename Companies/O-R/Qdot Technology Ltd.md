@@ -4,6 +4,7 @@ name: Qdot Technology Ltd
 website: https://qdot.tech
 hq: Kidlington, England
 uk-region: South East
+country-code: GB
 founded: 2020
 size: small
 sources-verified: 2026-07-16

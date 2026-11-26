@@ -6,6 +6,7 @@ linkedin: https://www.linkedin.com/company/npaerospace
 companies-house: 03472480
 hq: Coventry, England
 uk-region: West Midlands
+country-code: GB
 founded: 1926
 size: large
 headcount: ~350

@@ -4,6 +4,7 @@ name: Loki Dynamics Ltd
 website: https://lokidynamics.com
 hq: Blandford, United Kingdom
 uk-region: South West
+country-code: GB
 companies-house: 10270434
 size: micro
 sources-verified: 2026-07-04

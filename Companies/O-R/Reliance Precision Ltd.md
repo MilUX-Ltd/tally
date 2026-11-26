@@ -4,6 +4,7 @@ name: Reliance Precision Ltd
 website: https://www.reliance.co.uk
 hq: Huddersfield, United Kingdom
 uk-region: Yorkshire and The Humber
+country-code: GB
 founded: 1920
 size: medium
 headcount: 201-500

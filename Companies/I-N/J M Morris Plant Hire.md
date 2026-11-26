@@ -6,6 +6,7 @@ linkedin: https://www.linkedin.com/company/j-m-morris-plant-hire-ltd
 companies-house: "09203975"
 hq: Rugby, United Kingdom
 uk-region: West Midlands
+country-code: GB
 size: medium
 sources-verified: 2026-11-19
 lat: 52.37218

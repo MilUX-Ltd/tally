@@ -6,6 +6,7 @@ linkedin: https://uk.linkedin.com/company/jade-electronics-solutions-ltd
 companies-house: 14511027
 hq: Exeter, United Kingdom
 uk-region: South West
+country-code: GB
 founded: 2022
 size: micro
 sources-verified: 2026-07-04

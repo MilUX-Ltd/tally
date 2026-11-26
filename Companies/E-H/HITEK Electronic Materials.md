@@ -5,6 +5,7 @@ website: https://www.hitek-ltd.co.uk
 companies-house: "01926845"
 hq: Scunthorpe, United Kingdom
 uk-region: Yorkshire and The Humber
+country-code: GB
 founded: 1985
 size: small
 sources-verified: 2026-11-19

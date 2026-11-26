@@ -6,6 +6,7 @@ linkedin: https://www.linkedin.com/company/digital-concepts-engineering-ltd
 companies-house: 04398993
 hq: Hinckley, UK
 uk-region: East Midlands
+country-code: GB
 founded: 2002
 size: micro
 sources-verified: 2026-07-04

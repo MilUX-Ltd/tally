@@ -4,6 +4,7 @@ name: Mosaic Laboratories Ltd
 website:
 hq: Shropshire, United Kingdom
 uk-region: West Midlands
+country-code: GB
 sources-verified: 2026-07-05
 lat: 52.65234
 lon: -2.64356

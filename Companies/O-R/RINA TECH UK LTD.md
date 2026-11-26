@@ -4,6 +4,7 @@ name: RINA TECH UK LTD
 website: https://www.rina.org
 hq: Genoa, Italy
 uk-region: South East
+country-code: GB
 sources-verified: 2026-07-05
 location-source: region
 location-note: UK location not published

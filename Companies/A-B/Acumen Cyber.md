@@ -6,6 +6,7 @@ linkedin: https://uk.linkedin.com/company/acumen-cyber
 companies-house: SC786217
 hq: Glasgow, United Kingdom
 uk-region: Scotland
+country-code: GB
 founded: 2023
 size: small
 sources-verified: 2026-07-03

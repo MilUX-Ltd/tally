@@ -6,6 +6,7 @@ linkedin: https://www.linkedin.com/company/bid-masters
 companies-house: "03115226"
 hq: Chichester, United Kingdom
 uk-region: South East
+country-code: GB
 founded: 1995
 sources-verified: 2026-11-19
 postcode: PO19 8FX

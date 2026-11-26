@@ -5,6 +5,7 @@ website: https://www.masteel.co.uk
 companies-house: 04500564
 hq: Lichfield, Staffordshire
 uk-region: West Midlands
+country-code: GB
 founded: 2002
 sources-verified: 2026-11-25
 postcode: WS13 6HX

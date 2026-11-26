@@ -4,6 +4,7 @@ name: Q-Mass Ltd
 website: http://www.q-mass.co.uk
 hq: East Kilbride, UK
 uk-region: Scotland
+country-code: GB
 sources-verified: 2026-07-05
 lat: 55.75807
 lon: -4.16605

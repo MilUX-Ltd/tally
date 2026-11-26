@@ -4,6 +4,7 @@ name: Stealth Labs Ltd
 website: https://www.stealthlabs.uk
 hq: Birmingham, UK
 uk-region: West Midlands
+country-code: GB
 sources-verified: 2026-06-30
 lat: 52.47928
 lon: -1.90294

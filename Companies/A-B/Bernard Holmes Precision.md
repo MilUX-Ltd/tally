@@ -5,6 +5,7 @@ website: https://bernardholmes.co.uk
 companies-house: "00665230"
 hq: Billingborough, United Kingdom
 uk-region: East Midlands
+country-code: GB
 founded: 1960
 sources-verified: 2026-11-19
 postcode: NG34 0QN

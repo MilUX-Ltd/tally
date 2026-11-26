@@ -4,6 +4,7 @@ name: RedRock Consulting Ltd
 website: https://www.redrockconsulting.co.uk
 hq: Bristol, United Kingdom
 uk-region: South West
+country-code: GB
 founded: 2005
 sources-verified: 2026-07-05
 lat: 51.45313

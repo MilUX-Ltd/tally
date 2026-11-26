@@ -4,6 +4,7 @@ name: Tioga Ltd
 website: https://www.tioga.co.uk
 hq: Derby, United Kingdom
 uk-region: East Midlands
+country-code: GB
 sources-verified: 2026-06-30
 lat: 52.92469
 lon: -1.47805

@@ -6,6 +6,7 @@ linkedin: https://www.linkedin.com/company/blueskytec
 companies-house: 07958649
 hq: Bath, United Kingdom
 uk-region: South West
+country-code: GB
 founded: 2012
 size: micro
 sources-verified: 2026-07-04

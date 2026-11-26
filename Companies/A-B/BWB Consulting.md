@@ -6,6 +6,7 @@ linkedin: https://www.linkedin.com/company/bwb-consulting-ltd
 companies-house: "05265863"
 hq: Nottingham, United Kingdom
 uk-region: East Midlands
+country-code: GB
 sources-verified: 2026-11-19
 postcode: NG2 3DQ
 lat: 52.94821

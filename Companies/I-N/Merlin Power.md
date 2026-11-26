@@ -4,6 +4,7 @@ name: Merlin Power
 website: https://www.merlin-power.com
 hq: Exeter, United Kingdom
 uk-region: South West
+country-code: GB
 sources-verified: 2026-07-05
 lat: 50.72258
 lon: -3.5326

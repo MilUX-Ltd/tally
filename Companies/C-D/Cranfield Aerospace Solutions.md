@@ -5,6 +5,7 @@ website: https://cranfieldaerospace.com
 linkedin: https://www.linkedin.com/company/cranfieldaerospace
 hq: Cranfield, UK
 uk-region: East of England
+country-code: GB
 size: medium
 sources-verified: 2026-07-04
 lat: 52.06902

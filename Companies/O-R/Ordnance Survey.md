@@ -6,6 +6,7 @@ linkedin: https://www.linkedin.com/company/ordnance-survey
 companies-house: "09121572"
 hq: Southampton, United Kingdom
 uk-region: South East
+country-code: GB
 founded: 1791
 sources-verified: 2026-11-19
 postcode: SO16 0AS

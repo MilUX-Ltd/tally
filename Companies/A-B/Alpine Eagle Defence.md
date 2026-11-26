@@ -10,6 +10,7 @@ founded: 2023
 size: small
 sources-verified: 2026-07-03
 country: Germany
+country-code: DE
 tags:
   - defence
   - counter-uas

@@ -4,6 +4,7 @@ name: London & Brighton Plating Company Ltd
 website: http://www.lbplating.com
 hq: Portslade, United Kingdom
 uk-region: South East
+country-code: GB
 founded: 1946
 sources-verified: 2026-07-04
 lat: 50.83296

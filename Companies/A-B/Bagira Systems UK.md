@@ -6,6 +6,7 @@ linkedin: https://www.linkedin.com/company/bagira-systems
 companies-house: 15253971
 hq: Rishon LeZion, Israel
 uk-region: London
+country-code: GB
 founded: 2023
 size: small
 sources-verified: 2026-07-04

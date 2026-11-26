@@ -6,6 +6,7 @@ linkedin: https://www.linkedin.com/company/sterling-thermal-techhnology-ltd/
 companies-house: "01335179"
 hq: Aylesbury, United Kingdom
 uk-region: South East
+country-code: GB
 founded: 1904
 sources-verified: 2026-11-19
 postcode: HP19 8TD

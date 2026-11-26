@@ -6,6 +6,7 @@ linkedin: https://www.linkedin.com/company/nky/
 companies-house: 08680414
 hq: Corsham, Wiltshire, UK
 uk-region: South West
+country-code: GB
 founded: 2013
 size: small
 sources-verified: 2026-07-05

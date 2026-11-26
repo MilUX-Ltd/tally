@@ -8,6 +8,7 @@ uk-region: Overseas
 size: small
 sources-verified: 2026-07-04
 country: Ireland
+country-code: IE
 tags:
   - defence
   - hardware

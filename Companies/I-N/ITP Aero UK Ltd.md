@@ -4,6 +4,7 @@ name: ITP Aero UK Ltd
 website: https://www.itpaero.com
 hq: Bilbao, Spain
 uk-region: East Midlands
+country-code: GB
 size: large
 sources-verified: 2026-07-04
 location-source: region

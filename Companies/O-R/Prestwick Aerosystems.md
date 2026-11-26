@@ -4,6 +4,7 @@ name: Prestwick Aerosystems
 website: https://www.prestwickaerospace.com/aerospace-capability/spirit-aerosystems/
 hq: Prestwick, UK
 uk-region: Scotland
+country-code: GB
 sources-verified: 2026-07-05
 lat: 55.49889
 lon: -4.61096

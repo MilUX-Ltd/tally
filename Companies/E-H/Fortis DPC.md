@@ -6,6 +6,7 @@ linkedin: https://www.linkedin.com/company/the-gdpr-compliance-consultancy/
 companies-house: "11428232"
 hq: Cobham, United Kingdom
 uk-region: South East
+country-code: GB
 sources-verified: 2026-11-19
 postcode: KT11 3NE
 lat: 51.31159

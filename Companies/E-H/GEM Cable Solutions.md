@@ -6,6 +6,7 @@ linkedin: https://www.linkedin.com/company/gem-cable-solutions-ltd
 companies-house: "05151023"
 hq: St Albans, United Kingdom
 uk-region: East of England
+country-code: GB
 size: small
 sources-verified: 2026-07-04
 postcode: AL4 9LP

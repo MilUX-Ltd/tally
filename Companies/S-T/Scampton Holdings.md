@@ -6,6 +6,7 @@ linkedin: https://www.linkedin.com/company/scampton-holdings-ltd/
 companies-house: "12868422"
 hq: Hungerford, United Kingdom
 uk-region: South East
+country-code: GB
 sources-verified: 2026-11-19
 postcode: RG17 0EY
 lat: 51.41930

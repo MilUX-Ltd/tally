@@ -6,6 +6,7 @@ linkedin: https://www.linkedin.com/company/barnbrook-systems-ltd
 companies-house: "01362146"
 hq: Fareham, England
 uk-region: South East
+country-code: GB
 founded: 1978
 size: small
 headcount: ~50

@@ -4,6 +4,7 @@ name: Swansea University
 website: https://www.swansea.ac.uk
 hq: Swansea, United Kingdom
 uk-region: Wales
+country-code: GB
 founded: 1920
 size: large
 sources-verified: 2026-11-19

@@ -5,6 +5,7 @@ website: https://www.protect.airbus.com
 companies-house: 07541925
 hq: Paris, France
 uk-region: South West
+country-code: GB
 founded: 2011
 size: medium
 sources-verified: 2026-07-03

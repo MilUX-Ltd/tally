@@ -6,6 +6,7 @@ linkedin: https://www.linkedin.com/company/druid-software
 companies-house: NI734747
 hq: Dublin, Ireland
 uk-region: Northern Ireland
+country-code: GB
 founded: 2000
 size: small
 sources-verified: 2026-07-04

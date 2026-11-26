@@ -8,6 +8,7 @@ uk-region: Overseas
 size: large
 sources-verified: 2026-07-04
 country: Switzerland
+country-code: CH
 tags:
   - defence
   - manufacturing

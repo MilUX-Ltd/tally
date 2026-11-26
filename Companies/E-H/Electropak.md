@@ -6,6 +6,7 @@ linkedin: https://www.linkedin.com/company/electropak
 companies-house: "02016281"
 hq: Preston, United Kingdom
 uk-region: North West
+country-code: GB
 founded: 1986
 size: small
 sources-verified: 2026-07-03

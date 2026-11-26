@@ -6,6 +6,7 @@ linkedin: https://www.linkedin.com/company/inexorable-ltd/
 companies-house: "16363987"
 hq: Reigate, United Kingdom
 uk-region: South East
+country-code: GB
 founded: 2025
 sources-verified: 2026-11-19
 postcode: RH2 0LB

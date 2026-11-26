@@ -5,6 +5,7 @@ website: https://www.quanta.co.uk
 linkedin: https://www.linkedin.com/company/quanta-training-ltd/
 hq: Worcester, United Kingdom
 uk-region: West Midlands
+country-code: GB
 sources-verified: 2026-07-05
 lat: 52.19293
 lon: -2.22109

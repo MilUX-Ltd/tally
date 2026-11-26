@@ -10,6 +10,7 @@ founded: 1992
 size: medium
 sources-verified: 2026-07-04
 country: Slovakia
+country-code: SK
 tags:
   - defence
   - cyber

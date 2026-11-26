@@ -5,6 +5,7 @@ linkedin: https://www.linkedin.com/company/beechnet-systems
 companies-house: 07122667
 hq: Silsoe, United Kingdom
 uk-region: East of England
+country-code: GB
 founded: 2010
 size: micro
 sources-verified: 2026-07-03

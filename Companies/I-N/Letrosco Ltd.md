@@ -4,6 +4,7 @@ name: Letrosco Ltd
 companies-house: "15413217"
 hq: Axbridge, United Kingdom
 uk-region: South West
+country-code: GB
 size: micro
 sources-verified: 2026-07-04
 postcode: BS26 2DL

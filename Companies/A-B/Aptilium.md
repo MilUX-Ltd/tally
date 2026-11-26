@@ -6,6 +6,7 @@ linkedin: https://www.linkedin.com/company/aptilium
 companies-house: 12370032
 hq: Billingshurst, United Kingdom
 uk-region: South East
+country-code: GB
 founded: 2019
 size: micro
 sources-verified: 2026-07-03

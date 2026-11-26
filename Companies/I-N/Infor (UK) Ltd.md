@@ -4,6 +4,7 @@ name: Infor (UK) Ltd
 website: https://www.infor.com/en-gb
 hq: Atlanta, United States
 uk-region: West Midlands
+country-code: GB
 size: large
 sources-verified: 2026-07-04
 location-source: region

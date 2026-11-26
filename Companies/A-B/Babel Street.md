@@ -6,6 +6,7 @@ linkedin: https://www.linkedin.com/company/babelstreet
 companies-house: 10595943
 hq: Reston, Virginia, USA
 uk-region: London
+country-code: GB
 founded: 2009
 size: large
 sources-verified: 2026-07-04

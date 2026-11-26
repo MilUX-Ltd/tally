@@ -4,6 +4,7 @@ name: QRT Power Ltd
 website: https://www.qrtpower.com
 hq: Crowborough, United Kingdom
 uk-region: South East
+country-code: GB
 sources-verified: 2026-07-05
 lat: 51.06059
 lon: 0.16168

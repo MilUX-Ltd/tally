@@ -5,6 +5,7 @@ website: https://www.apkindustries.com
 companies-house: "07071667"
 hq: Lincoln, United Kingdom
 uk-region: East Midlands
+country-code: GB
 founded: 2009
 sources-verified: 2026-11-19
 postcode: LN6 7DQ

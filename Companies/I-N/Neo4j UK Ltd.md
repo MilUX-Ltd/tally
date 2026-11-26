@@ -4,6 +4,7 @@ name: Neo4j UK Ltd
 website: https://www.neo4j.com
 hq: San Francisco, United States
 uk-region: London
+country-code: GB
 sources-verified: 2026-07-05
 location-source: region
 location-note: UK location not published

@@ -6,6 +6,7 @@ linkedin: https://uk.linkedin.com/company/arktis-endurance-textiles-ltd
 companies-house: NI649310
 hq: Exeter, United Kingdom
 uk-region: South West
+country-code: GB
 founded: 1985
 size: medium
 headcount: 11-50

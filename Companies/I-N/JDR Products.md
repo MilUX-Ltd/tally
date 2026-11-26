@@ -6,6 +6,7 @@ linkedin: https://www.linkedin.com/company/jdr-products-limited/
 companies-house: "01481617"
 hq: Nuneaton, United Kingdom
 uk-region: West Midlands
+country-code: GB
 founded: 1980
 sources-verified: 2026-11-19
 postcode: CV11 6BW

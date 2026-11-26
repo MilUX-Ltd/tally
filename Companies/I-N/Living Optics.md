@@ -6,6 +6,7 @@ linkedin: https://www.linkedin.com/company/livingoptics/
 companies-house: 12361188
 hq: Milton Park, Abingdon, Oxfordshire, United Kingdom
 uk-region: South East
+country-code: GB
 founded: 2019
 size: small
 sources-verified: 2026-07-04

@@ -6,6 +6,7 @@ linkedin: https://www.linkedin.com/company/securecloud-limited
 companies-house: 07976189
 hq: Stoke-on-Trent, England
 uk-region: West Midlands
+country-code: GB
 founded: 2012
 size: medium
 sources-verified: 2026-07-16

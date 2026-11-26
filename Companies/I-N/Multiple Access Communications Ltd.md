@@ -4,6 +4,7 @@ name: Multiple Access Communications Ltd
 website: http://www.macltd.com
 hq: Southampton, United Kingdom
 uk-region: South East
+country-code: GB
 sources-verified: 2026-07-05
 lat: 50.90489
 lon: -1.40431

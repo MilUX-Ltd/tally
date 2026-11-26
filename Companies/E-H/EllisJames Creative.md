@@ -6,6 +6,7 @@ linkedin: https://www.linkedin.com/company/ellisjamescreative
 companies-house: 09106596
 hq: Bristol, UK
 uk-region: South West
+country-code: GB
 founded: 2014
 size: micro
 sources-verified: 2026-07-04

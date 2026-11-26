@@ -5,6 +5,7 @@ website: https://carbonthreesixty.com/
 linkedin: https://uk.linkedin.com/company/carbonthreesixty
 hq: Chippenham, United Kingdom
 uk-region: South West
+country-code: GB
 founded: 2017
 size: small
 headcount: 38

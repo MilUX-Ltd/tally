@@ -6,6 +6,7 @@ linkedin: https://www.linkedin.com/company/forceeffect
 companies-house: "14900002"
 hq: Sherfield English, United Kingdom
 uk-region: South East
+country-code: GB
 founded: 2023
 sources-verified: 2026-11-19
 lat: 51.00688

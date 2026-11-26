@@ -4,6 +4,7 @@ name: Laser Optical Engineering Ltd
 website: https://www.laseroptical.co.uk
 hq: East Midlands Airport, United Kingdom
 uk-region: East Midlands
+country-code: GB
 size: micro
 sources-verified: 2026-07-04
 lat: 52.82809

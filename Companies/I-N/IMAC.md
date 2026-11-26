@@ -6,6 +6,7 @@ linkedin: https://www.linkedin.com/company/imac-ltd
 companies-house: "09172480"
 hq: Coventry, United Kingdom
 uk-region: West Midlands
+country-code: GB
 sources-verified: 2026-11-19
 postcode: CV3 2TQ
 lat: 52.40076

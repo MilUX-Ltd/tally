@@ -6,6 +6,7 @@ linkedin: https://www.linkedin.com/company/babcock-international-group
 companies-house: 02342138
 hq: London, United Kingdom
 uk-region: London
+country-code: GB
 founded: 1989
 size: large
 headcount: 10,000+

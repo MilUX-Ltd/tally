@@ -4,6 +4,7 @@ name: Joby Aviation
 website: https://www.jobyaviation.com
 hq: Santa Cruz, USA
 uk-region: North West
+country-code: GB
 sources-verified: 2026-07-04
 location-source: region
 location-note: UK location not published

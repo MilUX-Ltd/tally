@@ -6,6 +6,7 @@ linkedin: https://www.linkedin.com/company/diemanalytics
 companies-house: "07795869"
 hq: Fareham, United Kingdom
 uk-region: South East
+country-code: GB
 founded: 2011
 size: small
 sources-verified: 2026-07-04

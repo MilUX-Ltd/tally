@@ -3,6 +3,7 @@ type: organisation
 name: Delatr Technologies
 website: https://delatr.com
 uk-region: North West
+country-code: GB
 size: micro
 sources-verified: 2026-07-16
 location-source: region

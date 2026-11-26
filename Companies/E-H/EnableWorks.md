@@ -5,6 +5,7 @@ website: https://www.enableworks.uk
 companies-house: "17199672"
 hq: Petersfield, United Kingdom
 uk-region: South East
+country-code: GB
 founded: 2026
 sources-verified: 2026-11-19
 lat: 51.00395

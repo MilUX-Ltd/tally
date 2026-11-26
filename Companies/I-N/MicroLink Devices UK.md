@@ -6,6 +6,7 @@ linkedin: https://www.linkedin.com/company/microlink-devices-uk-ltd
 companies-house: "12003235"
 hq: Cardiff, United Kingdom
 uk-region: Wales
+country-code: GB
 founded: 2019
 size: small
 headcount: 11

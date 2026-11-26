@@ -4,6 +4,7 @@ name: TEK Military Seating Limited
 website: https://www.tekmilitaryseating.com
 hq: Tunbridge Wells, United Kingdom
 uk-region: South East
+country-code: GB
 sources-verified: 2026-06-30
 lat: 51.13715
 lon: 0.26734

@@ -4,6 +4,7 @@ name: Oldham Engineering Ltd
 website: https://www.oldham-eng.com
 hq: Oldham, United Kingdom
 uk-region: North West
+country-code: GB
 founded: 1861
 sources-verified: 2026-07-05
 lat: 53.54216

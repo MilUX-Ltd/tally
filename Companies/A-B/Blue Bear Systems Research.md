@@ -6,6 +6,7 @@ linkedin: https://www.linkedin.com/company/bbsr-ltd
 companies-house: 03866330
 hq: Oakley, United Kingdom
 uk-region: East of England
+country-code: GB
 founded: 2000
 size: medium
 headcount: 51-100

@@ -4,6 +4,7 @@ name: Tonnik Consulting Ltd
 website: https://www.tonnik-consulting.com
 hq: Stoke-on-Trent, United Kingdom
 uk-region: West Midlands
+country-code: GB
 sources-verified: 2026-06-30
 lat: 53.02218
 lon: -2.17337

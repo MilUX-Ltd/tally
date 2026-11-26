@@ -4,6 +4,7 @@ name: Markwell Trading Services Ltd
 website: https://www.mtsgb.com
 hq: Penkridge, United Kingdom
 uk-region: West Midlands
+country-code: GB
 sources-verified: 2026-07-05
 lat: 52.7247
 lon: -2.113

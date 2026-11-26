@@ -4,6 +4,7 @@ name: Trimetis Ltd
 website: https://www.trimetis.co.uk
 hq: Bristol, United Kingdom
 uk-region: South West
+country-code: GB
 size: micro
 sources-verified: 2026-06-30
 lat: 51.45313

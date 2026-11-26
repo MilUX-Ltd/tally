@@ -6,6 +6,7 @@ linkedin: https://www.linkedin.com/company/bakerhicks
 companies-house: 06256571
 hq: Warwick, United Kingdom
 uk-region: West Midlands
+country-code: GB
 founded: 1957
 size: large
 headcount: ~1300

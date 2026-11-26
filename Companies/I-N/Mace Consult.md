@@ -5,6 +5,7 @@ website: https://www.macegroup.com/
 companies-house: "07094851"
 hq: London, United Kingdom
 uk-region: London
+country-code: GB
 size: large
 sources-verified: 2026-11-19
 postcode: EC2M 6XB

@@ -5,6 +5,7 @@ website: https://www.recruitmeuk.com
 companies-house: "10284152"
 hq: Grantham, United Kingdom
 uk-region: East Midlands
+country-code: GB
 founded: 2015
 size: micro
 sources-verified: 2026-11-19

@@ -4,6 +4,7 @@ name: Tanglewood Group Ltd
 website: https://www.tanglewoodgroup.co.uk
 hq: Malvern, United Kingdom
 uk-region: West Midlands
+country-code: GB
 size: micro
 sources-verified: 2026-06-30
 lat: 52.11596

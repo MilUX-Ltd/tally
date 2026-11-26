@@ -6,6 +6,7 @@ linkedin: https://www.linkedin.com/company/landau-uk
 companies-house: "03662455"
 hq: Southampton, United Kingdom
 uk-region: South East
+country-code: GB
 sources-verified: 2026-11-19
 postcode: SO19 7GA
 lat: 50.90064

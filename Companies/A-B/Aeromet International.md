@@ -6,6 +6,7 @@ linkedin: https://uk.linkedin.com/company/aeromet-international-plc
 companies-house: 01626585
 hq: Worcester, England
 uk-region: West Midlands
+country-code: GB
 founded: 1982
 size: medium
 sources-verified: 2026-07-03

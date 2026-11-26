@@ -4,6 +4,7 @@ name: OcuSight Ltd
 website: https://www.ocusight.co.uk
 hq: St Asaph, United Kingdom
 uk-region: Wales
+country-code: GB
 sources-verified: 2026-07-05
 founded: 2023
 size: micro

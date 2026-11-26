@@ -6,6 +6,7 @@ linkedin: https://www.linkedin.com/company/dynatrace
 companies-house: 01522537
 hq: Waltham, United States
 uk-region: South East
+country-code: GB
 founded: 2005
 size: large
 headcount: 4200

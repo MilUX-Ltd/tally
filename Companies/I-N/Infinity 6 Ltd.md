@@ -4,6 +4,7 @@ name: Infinity 6 Ltd
 website: https://www.infinity6.co.uk
 hq: Hereford, United Kingdom
 uk-region: West Midlands
+country-code: GB
 size: small
 sources-verified: 2026-07-04
 lat: 52.05598

@@ -4,6 +4,7 @@ name: United Performance Metals
 website: https://www.upmet.com
 hq: Hamilton, United States
 uk-region: Northern Ireland
+country-code: GB
 sources-verified: 2026-06-30
 location-source: region
 location-note: UK location not published

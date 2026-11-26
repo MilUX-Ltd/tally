@@ -6,6 +6,7 @@ linkedin: https://uk.linkedin.com/company/ccpgransden
 companies-house: NI010592
 hq: Newtownards, United Kingdom
 uk-region: Northern Ireland
+country-code: GB
 founded: 1975
 size: medium
 sources-verified: 2026-07-04

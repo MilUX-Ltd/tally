@@ -4,6 +4,7 @@ name: JD2E Ltd
 website: https://jd2e-isr.com
 hq: Lincoln, United Kingdom
 uk-region: East Midlands
+country-code: GB
 sources-verified: 2026-07-04
 lat: 53.23484
 lon: -0.53844

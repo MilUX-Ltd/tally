@@ -6,6 +6,7 @@ linkedin: https://www.linkedin.com/company/asl-aerospace-logistics-limited
 companies-house: 01435045
 hq: Horsham, United Kingdom
 uk-region: South East
+country-code: GB
 founded: 1979
 size: medium
 sources-verified: 2026-07-03

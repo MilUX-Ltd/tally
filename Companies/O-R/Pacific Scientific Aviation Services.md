@@ -4,6 +4,7 @@ name: Pacific Scientific Aviation Services
 website: https://www.pacscieurope.com
 hq: Maidenhead, United Kingdom
 uk-region: South East
+country-code: GB
 sources-verified: 2026-07-03
 lat: 51.52275
 lon: -0.72021

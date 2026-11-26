@@ -5,6 +5,7 @@ website: https://www.rocelec.com
 companies-house: FC018523
 hq: St Neots, United Kingdom
 uk-region: East of England
+country-code: GB
 founded: 1981
 size: medium
 headcount: 51-200

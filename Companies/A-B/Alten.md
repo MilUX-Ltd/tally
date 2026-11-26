@@ -6,6 +6,7 @@ linkedin: https://www.linkedin.com/company/alten-uk
 companies-house: 08452862
 hq: Boulogne-Billancourt, France
 uk-region: London
+country-code: GB
 founded: 2013
 size: large
 sources-verified: 2026-07-03

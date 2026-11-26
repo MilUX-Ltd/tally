@@ -4,6 +4,7 @@ name: Delta Tango
 website: https://deltatango.io
 hq: Weymouth, United Kingdom
 uk-region: South West
+country-code: GB
 size: micro
 sources-verified: 2026-07-04
 lat: 50.60699

@@ -6,6 +6,7 @@ linkedin: https://www.linkedin.com/company/explosive-learning-solutions-ltd
 companies-house: 05576577
 hq: Didcot, UK
 uk-region: South East
+country-code: GB
 founded: 2005
 size: small
 sources-verified: 2026-07-04

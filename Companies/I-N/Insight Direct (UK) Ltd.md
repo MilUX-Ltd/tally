@@ -4,6 +4,7 @@ name: Insight Direct (UK) Ltd
 website: https://uk.insight.com
 hq: Tempe, United States
 uk-region: Yorkshire and The Humber
+country-code: GB
 size: large
 sources-verified: 2026-07-04
 location-source: region

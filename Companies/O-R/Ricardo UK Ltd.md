@@ -4,6 +4,7 @@ name: Ricardo UK Ltd
 website: https://www.ricardo.com
 hq: Shoreham-by-Sea, West Sussex, United Kingdom
 uk-region: South East
+country-code: GB
 sources-verified: 2026-07-05
 lat: 50.83313
 lon: -0.27312

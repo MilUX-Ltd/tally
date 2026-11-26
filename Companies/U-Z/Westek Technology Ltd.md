@@ -4,6 +4,7 @@ name: Westek Technology Ltd
 website: https://www.westek.co.uk
 hq: Melksham, United Kingdom
 uk-region: South West
+country-code: GB
 sources-verified: 2026-07-01
 lat: 51.37285
 lon: -2.1382

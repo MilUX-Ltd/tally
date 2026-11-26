@@ -4,6 +4,7 @@ name: System Design Evaluation Ltd
 website: http://www.SDE-UK.com
 hq: Ware, United Kingdom
 uk-region: East of England
+country-code: GB
 sources-verified: 2026-06-30
 lat: 51.81091
 lon: -0.03117

@@ -5,6 +5,7 @@ website: https://chronos.uk
 linkedin: https://uk.linkedin.com/company/chronos-technology-ltd
 hq: Lydbrook, United Kingdom
 uk-region: South West
+country-code: GB
 founded: 1986
 size: small
 headcount: 33

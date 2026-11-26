@@ -4,6 +4,7 @@ name: NSYM Ltd
 website: https://www.nsym.co.uk
 hq: Stoke-on-Trent, United Kingdom
 uk-region: West Midlands
+country-code: GB
 founded: 2025
 size: micro
 sources-verified: 2026-07-05

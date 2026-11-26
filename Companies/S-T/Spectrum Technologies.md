@@ -6,6 +6,7 @@ linkedin: https://www.linkedin.com/company/spectrum-technologies-plc
 companies-house: "02385991"
 hq: Bridgend, United Kingdom
 uk-region: Wales
+country-code: GB
 founded: 1989
 size: medium
 sources-verified: 2026-11-19

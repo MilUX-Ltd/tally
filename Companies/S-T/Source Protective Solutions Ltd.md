@@ -4,6 +4,7 @@ name: Source Protective Solutions Ltd
 website: https://sourceprotective.com
 hq: London, UK
 uk-region: London
+country-code: GB
 founded: 2024
 size: micro
 sources-verified: 2026-07-03

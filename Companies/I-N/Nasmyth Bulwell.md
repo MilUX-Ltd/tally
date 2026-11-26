@@ -5,6 +5,7 @@ website: http://www.bulwell.com
 linkedin: https://uk.linkedin.com/company/nasmyth-bulwell
 hq: Nottingham, United Kingdom
 uk-region: East Midlands
+country-code: GB
 founded: 1956
 sources-verified: 2026-07-05
 lat: 52.9562

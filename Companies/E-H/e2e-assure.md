@@ -6,6 +6,7 @@ linkedin: https://www.linkedin.com/company/e2e-assure-ltd
 companies-house: 08732893
 hq: Witney, United Kingdom
 uk-region: South East
+country-code: GB
 founded: 2013
 size: small
 headcount: 72

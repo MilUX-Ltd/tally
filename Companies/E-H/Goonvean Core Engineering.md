@@ -4,6 +4,7 @@ name: Goonvean Core Engineering
 website: https://www.goonveancore.com
 hq: Cullompton, UK
 uk-region: South West
+country-code: GB
 size: small
 sources-verified: 2026-07-04
 lat: 50.8552

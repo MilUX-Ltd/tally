@@ -6,6 +6,7 @@ linkedin: https://www.linkedin.com/company/nagra-media-uk-limited
 companies-house: 05591026
 hq: Cheseaux-sur-Lausanne, Switzerland
 uk-region: Wales
+country-code: GB
 founded: 2005
 sources-verified: 2026-07-05
 postcode: NP44 3UW

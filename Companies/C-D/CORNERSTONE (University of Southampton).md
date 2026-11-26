@@ -5,6 +5,7 @@ website: https://cornerstone.sotonfab.co.uk
 linkedin: https://www.linkedin.com/company/cornerstonesp/
 hq: Southampton, United Kingdom
 uk-region: South East
+country-code: GB
 sources-verified: 2026-11-19
 postcode: SO17 1BJ
 lat: 50.93409

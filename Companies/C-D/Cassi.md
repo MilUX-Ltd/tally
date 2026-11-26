@@ -11,6 +11,7 @@ postcode: WC2B 6AH
 lat: 51.51704
 lon: -0.11945
 location-source: companies-house
+country-code: GB
 tags:
   - defence
   - ai

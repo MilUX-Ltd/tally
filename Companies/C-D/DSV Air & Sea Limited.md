@@ -5,6 +5,7 @@ website: https://www.dsv.com/en-gb
 companies-house: "03114077"
 hq: Harwich, United Kingdom
 uk-region: East of England
+country-code: GB
 founded: 1995
 size: large
 sources-verified: 2026-11-19

@@ -6,6 +6,7 @@ linkedin: https://uk.linkedin.com/company/concurrent-technologies-plc
 companies-house: 01919979
 hq: Colchester, United Kingdom
 uk-region: East of England
+country-code: GB
 founded: 1985
 size: medium
 sources-verified: 2026-07-04

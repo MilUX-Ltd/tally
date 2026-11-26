@@ -5,6 +5,7 @@ website: https://www.akp.ltd
 linkedin: https://www.linkedin.com/company/akp-ltd
 hq: Great Yarmouth, United Kingdom
 uk-region: East of England
+country-code: GB
 size: small
 sources-verified: 2026-07-03
 lat: 52.60717

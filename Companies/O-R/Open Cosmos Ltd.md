@@ -4,6 +4,7 @@ name: Open Cosmos Ltd
 website: https://open-cosmos.com
 hq: Didcot, United Kingdom
 uk-region: South East
+country-code: GB
 sources-verified: 2026-07-05
 lat: 51.60638
 lon: -1.24264

@@ -4,6 +4,7 @@ name: High Temperature Material Systems Ltd HTMS
 website: https://www.htms.tech
 hq: Bristol, United Kingdom
 uk-region: South West
+country-code: GB
 founded: 2021
 size: micro
 sources-verified: 2026-07-04

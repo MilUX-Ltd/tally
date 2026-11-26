@@ -5,6 +5,7 @@ website: https://i2group.com
 linkedin: https://www.linkedin.com/company/harris-i2
 hq: Cambridge, United Kingdom
 uk-region: East of England
+country-code: GB
 sources-verified: 2026-11-19
 postcode: CB4 0AE
 lat: 52.22486

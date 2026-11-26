@@ -6,6 +6,7 @@ linkedin: https://uk.linkedin.com/company/camcode-global-ltd
 companies-house: 07947287
 hq: London, United Kingdom
 uk-region: London
+country-code: GB
 founded: 2012
 size: small
 sources-verified: 2026-07-04

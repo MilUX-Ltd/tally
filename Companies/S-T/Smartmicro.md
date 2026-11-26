@@ -9,6 +9,7 @@ founded: 1997
 size: medium
 sources-verified: 2026-06-29
 country: Germany
+country-code: DE
 tags:
   - defence
   - sensors

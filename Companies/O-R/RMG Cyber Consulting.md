@@ -5,6 +5,7 @@ website: https://rmgcyber.com
 companies-house: "13761787"
 hq: Langworth, United Kingdom
 uk-region: East Midlands
+country-code: GB
 founded: 2021
 sources-verified: 2026-11-19
 postcode: LN3 5BH

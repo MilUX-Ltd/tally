@@ -6,6 +6,7 @@ linkedin: https://www.linkedin.com/company/dzp-technologies-ltd
 companies-house: "06764280"
 hq: Cambridge, UK
 uk-region: East of England
+country-code: GB
 founded: 2008
 size: micro
 headcount: 4

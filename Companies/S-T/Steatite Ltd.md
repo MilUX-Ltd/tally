@@ -4,6 +4,7 @@ name: Steatite Ltd
 website: https://www.steatite.co.uk
 hq: Redditch, UK
 uk-region: West Midlands
+country-code: GB
 sources-verified: 2026-06-30
 lat: 52.30693
 lon: -1.94152

@@ -6,6 +6,7 @@ linkedin: https://www.linkedin.com/company/makmarine-limited
 companies-house: "04176614"
 hq: Cressage, United Kingdom
 uk-region: West Midlands
+country-code: GB
 founded: 2001
 size: micro
 sources-verified: 2026-07-04

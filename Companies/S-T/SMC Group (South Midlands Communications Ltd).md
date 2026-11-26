@@ -4,6 +4,7 @@ name: SMC Group (South Midlands Communications Ltd)
 website: https://www.smc-comms.com
 hq: Eastleigh, United Kingdom
 uk-region: South East
+country-code: GB
 sources-verified: 2026-06-30
 lat: 50.96938
 lon: -1.35333

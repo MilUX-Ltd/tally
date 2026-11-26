@@ -5,6 +5,7 @@ website: https://www.bardenbearings.co.uk
 companies-house: "00450577"
 hq: Plymouth, United Kingdom
 uk-region: South West
+country-code: GB
 size: medium
 sources-verified: 2026-07-04
 postcode: PL6 7LH

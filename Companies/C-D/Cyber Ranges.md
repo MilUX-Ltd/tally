@@ -5,6 +5,7 @@ website: https://cyberranges.com
 companies-house: "05831135"
 hq: Limassol, Cyprus
 uk-region: Yorkshire and The Humber
+country-code: GB
 size: small
 sources-verified: 2026-07-04
 postcode: S1 2NS

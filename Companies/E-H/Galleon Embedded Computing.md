@@ -5,6 +5,7 @@ website: https://spectradefense.tech
 companies-house: "09962683"
 hq: Oslo, Norway
 uk-region: London
+country-code: GB
 founded: 2009
 size: small
 headcount: 40-50

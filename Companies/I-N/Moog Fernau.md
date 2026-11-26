@@ -6,6 +6,7 @@ linkedin: https://www.linkedin.com/company/moog-fernau
 companies-house: 00989895
 hq: Luton, United Kingdom
 uk-region: East of England
+country-code: GB
 founded: 1970
 size: medium
 sources-verified: 2026-07-05

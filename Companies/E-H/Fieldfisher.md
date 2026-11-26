@@ -6,6 +6,7 @@ linkedin: https://www.linkedin.com/company/fieldfisher
 companies-house: OC318472
 hq: London, UK
 uk-region: London
+country-code: GB
 founded: 1835
 size: large
 headcount: 2200

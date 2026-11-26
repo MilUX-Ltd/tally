@@ -6,6 +6,7 @@ linkedin: https://www.linkedin.com/company/cambridge-intelligence/
 companies-house: 07625370
 hq: Cambridge, United Kingdom
 uk-region: East of England
+country-code: GB
 founded: 2011
 size: medium
 sources-verified: 2026-07-04

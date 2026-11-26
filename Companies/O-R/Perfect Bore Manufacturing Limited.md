@@ -4,6 +4,7 @@ name: Perfect Bore Manufacturing Limited
 website: https://www.pbm-ltd.com
 hq: Andover, United Kingdom
 uk-region: South East
+country-code: GB
 sources-verified: 2026-07-05
 lat: 51.2075
 lon: -1.47919

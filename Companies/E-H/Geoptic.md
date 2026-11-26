@@ -6,6 +6,7 @@ linkedin: https://www.linkedin.com/company/geoptic-infrastructure-imaging
 companies-house: "12498517"
 hq: South Warnborough, United Kingdom
 uk-region: South East
+country-code: GB
 founded: 2020
 size: micro
 sources-verified: 2026-11-19

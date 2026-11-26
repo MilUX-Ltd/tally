@@ -6,6 +6,7 @@ linkedin: https://www.linkedin.com/company/gkn-aerospace/
 companies-house: 00355922
 hq: Birmingham, United Kingdom
 uk-region: West Midlands
+country-code: GB
 size: large
 sources-verified: 2026-07-04
 postcode: B4 6AT

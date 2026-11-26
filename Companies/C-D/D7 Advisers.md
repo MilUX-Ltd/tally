@@ -6,6 +6,7 @@ linkedin: https://www.linkedin.com/company/d7advisers/
 companies-house: "13591014"
 hq: Farnborough, United Kingdom
 uk-region: South East
+country-code: GB
 founded: 2021
 sources-verified: 2026-11-19
 postcode: GU14 7BA

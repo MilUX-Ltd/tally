@@ -6,6 +6,7 @@ linkedin: https://www.linkedin.com/company/innovation-s3
 companies-house: "10262769"
 hq: Lincoln, United Kingdom
 uk-region: East Midlands
+country-code: GB
 size: micro
 sources-verified: 2026-11-19
 lat: 53.23484

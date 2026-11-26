@@ -4,6 +4,7 @@ name: Guartel Technologies Ltd
 website: https://www.guartel.com
 hq: Welshpool, United Kingdom
 uk-region: Wales
+country-code: GB
 size: small
 sources-verified: 2026-07-04
 lat: 52.66007

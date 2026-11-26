@@ -6,6 +6,7 @@ linkedin: https://www.linkedin.com/company/evocatus
 companies-house: 09650528
 hq: Dorset Innovation Park, Dorset
 uk-region: South West
+country-code: GB
 founded: 2015
 sources-verified: 2026-11-23
 postcode: DT2 8GB

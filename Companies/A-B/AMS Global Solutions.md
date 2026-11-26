@@ -5,6 +5,7 @@ website: https://www.ams.global/
 linkedin: https://www.linkedin.com/company/ams-integrated-solutions
 hq: Exeter, United Kingdom
 uk-region: South West
+country-code: GB
 founded: 2001
 size: medium
 sources-verified: 2026-07-03

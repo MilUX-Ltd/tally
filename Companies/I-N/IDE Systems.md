@@ -4,6 +4,7 @@ name: IDE Systems
 website: https://www.ide-systems.com
 hq: Coalville, United Kingdom
 uk-region: East Midlands
+country-code: GB
 sources-verified: 2026-07-04
 lat: 52.7208
 lon: -1.36021

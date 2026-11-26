@@ -4,6 +4,7 @@ name: University of Chichester
 website: https://www.chi.ac.uk
 hq: Chichester, United Kingdom
 uk-region: South East
+country-code: GB
 sources-verified: 2026-11-19
 postcode: PO19 6PE
 lat: 50.84430

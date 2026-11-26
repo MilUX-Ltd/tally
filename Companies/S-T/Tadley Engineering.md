@@ -4,6 +4,7 @@ name: Tadley Engineering
 website: http://www.tadleyengineering.co.uk
 hq: Tadley, United Kingdom
 uk-region: South East
+country-code: GB
 sources-verified: 2026-06-30
 lat: 51.35658
 lon: -1.14842

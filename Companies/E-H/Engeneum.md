@@ -6,6 +6,7 @@ linkedin: https://www.linkedin.com/company/engeneum/
 companies-house: "10301281"
 hq: Reading, United Kingdom
 uk-region: South East
+country-code: GB
 founded: 2016
 sources-verified: 2026-11-19
 postcode: RG1 1LX

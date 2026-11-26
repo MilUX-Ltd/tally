@@ -4,6 +4,7 @@ name: Peli Products (UK) Ltd
 website: https://www.peliproducts.co.uk
 hq: Glossop, United Kingdom
 uk-region: East Midlands
+country-code: GB
 sources-verified: 2026-07-05
 lat: 53.44329
 lon: -1.94888

@@ -11,6 +11,7 @@ postcode: TW17 8EB
 lat: 51.39859
 lon: -0.44259
 location-source: website
+country-code: GB
 tags:
   - defence
   - logistics

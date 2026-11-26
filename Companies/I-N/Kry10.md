@@ -6,6 +6,7 @@ linkedin: https://www.linkedin.com/company/kry10
 companies-house: 16630009
 hq: Gloucester
 uk-region: South West
+country-code: GB
 founded: 2020
 sources-verified: 2026-11-25
 lat: 51.86455

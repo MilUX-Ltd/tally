@@ -4,6 +4,7 @@ name: Kirintec
 website: https://www.kirintec.com
 hq: Ross-on-Wye, United Kingdom
 uk-region: West Midlands
+country-code: GB
 sources-verified: 2026-07-04
 lat: 51.91394
 lon: -2.58369

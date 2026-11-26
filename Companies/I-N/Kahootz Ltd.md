@@ -5,6 +5,7 @@ website: https://www.kahootz.com
 linkedin: https://uk.linkedin.com/company/kahootz
 hq: Wallingford, United Kingdom
 uk-region: South East
+country-code: GB
 size: small
 sources-verified: 2026-07-04
 lat: 51.60098

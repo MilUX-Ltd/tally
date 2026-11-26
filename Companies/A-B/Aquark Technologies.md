@@ -6,6 +6,7 @@ linkedin: https://www.linkedin.com/company/aquark-technologies
 companies-house: 12384496
 hq: Southampton, United Kingdom
 uk-region: South East
+country-code: GB
 founded: 2021
 size: small
 sources-verified: 2026-07-03

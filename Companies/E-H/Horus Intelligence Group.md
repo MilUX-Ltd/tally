@@ -4,6 +4,7 @@ name: Horus Intelligence Group
 website: https://horusintelligencegroup.com
 hq: Oxford, United Kingdom
 uk-region: South East
+country-code: GB
 founded: 2006
 size: small
 sources-verified: 2026-07-16

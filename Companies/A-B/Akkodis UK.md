@@ -6,6 +6,7 @@ linkedin: https://www.linkedin.com/company/akkodis
 companies-house: "07123530"
 hq: London
 uk-region: London
+country-code: GB
 founded: 2010
 size: small
 headcount: ~116

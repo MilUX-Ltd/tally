@@ -6,6 +6,7 @@ linkedin: https://www.linkedin.com/company/denodo-technologies
 companies-house: 06938324
 hq: Palo Alto, United States
 uk-region: London
+country-code: GB
 founded: 1999
 size: large
 headcount: 764

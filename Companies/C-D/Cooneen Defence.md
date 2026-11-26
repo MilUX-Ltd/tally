@@ -5,6 +5,7 @@ website: https://www.cooneengroup.com/cooneen-defence/
 companies-house: NI049695
 hq: Fivemiletown, United Kingdom
 uk-region: Northern Ireland
+country-code: GB
 founded: 2003
 size: medium
 sources-verified: 2026-07-04

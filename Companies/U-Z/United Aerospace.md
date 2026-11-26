@@ -6,6 +6,7 @@ linkedin: https://www.linkedin.com/company/united-aerospace-ltd
 companies-house: "05017166"
 hq: Pembroke Dock, United Kingdom
 uk-region: Wales
+country-code: GB
 founded: 2004
 size: medium
 sources-verified: 2026-11-19

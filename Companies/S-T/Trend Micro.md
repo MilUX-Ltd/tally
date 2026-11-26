@@ -4,6 +4,7 @@ name: Trend Micro (UK) Ltd
 website: https://www.trendmicro.com/en_gb/business.html
 hq: Tokyo, Japan
 uk-region: London
+country-code: GB
 size: large
 sources-verified: 2026-06-30
 location-source: region

@@ -4,6 +4,7 @@ name: Greycoat Global Ltd
 website: https://www.greycoat.global
 hq: London, UK
 uk-region: London
+country-code: GB
 founded: 2017
 size: micro
 sources-verified: 2026-07-04

@@ -4,6 +4,7 @@ name: SEPAR International Ltd
 website: https://www.separinternational.com/
 hq: Hereford, United Kingdom
 uk-region: West Midlands
+country-code: GB
 sources-verified: 2026-06-30
 lat: 52.05598
 lon: -2.71755

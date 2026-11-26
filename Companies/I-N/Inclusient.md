@@ -6,6 +6,7 @@ linkedin: https://www.linkedin.com/company/inclusient
 companies-house: "16605245"
 hq: Polegate, United Kingdom
 uk-region: South East
+country-code: GB
 founded: 2025
 sources-verified: 2026-11-19
 postcode: BN26 6EA

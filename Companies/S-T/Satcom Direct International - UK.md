@@ -4,6 +4,7 @@ name: Satcom Direct International - UK
 website: https://www.satcomdirect.com
 hq: Farnborough, Hampshire
 uk-region: South East
+country-code: GB
 sources-verified: 2026-06-29
 location-source: region
 location-note: UK location not published

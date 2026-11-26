@@ -4,6 +4,7 @@ name: Origami Labs UK Ltd
 website: https://www.origamilabs.co.uk
 hq: Aberdeen, UK
 uk-region: Scotland
+country-code: GB
 sources-verified: 2026-07-05
 lat: 57.14985
 lon: -2.09376

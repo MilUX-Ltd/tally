@@ -6,6 +6,7 @@ linkedin: https://www.linkedin.com/company/ambrey-baker-construction
 companies-house: 05993779
 hq: Sleaford, United Kingdom
 uk-region: East Midlands
+country-code: GB
 founded: 2006
 size: medium
 sources-verified: 2026-07-03

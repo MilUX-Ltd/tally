@@ -4,6 +4,7 @@ name: Thistle Design (MMC) Ltd
 website: https://www.thistleprecision.com
 hq: Loanhead, United Kingdom
 uk-region: Scotland
+country-code: GB
 size: small
 sources-verified: 2026-06-30
 lat: 55.87776

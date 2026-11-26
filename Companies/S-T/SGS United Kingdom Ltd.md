@@ -4,6 +4,7 @@ name: SGS United Kingdom Ltd
 website: http://www.sgs.com
 hq: Geneva, Switzerland
 uk-region: North West
+country-code: GB
 size: large
 sources-verified: 2026-06-30
 location-source: region

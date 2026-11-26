@@ -4,6 +4,7 @@ name: Premier Security & Fire Consultants Ltd
 website: http://premier-ssl.com
 hq: Ilford, United Kingdom
 uk-region: East of England
+country-code: GB
 sources-verified: 2026-07-05
 location-source: region
 location-note: UK location not published

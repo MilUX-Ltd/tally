@@ -4,6 +4,7 @@ name: Landguard Systems Limited
 website: http://www.landguardsystems.com
 hq: Fareham, UK
 uk-region: South East
+country-code: GB
 companies-house: "05672024"
 sources-verified: 2026-07-04
 postcode: SO51 0ZN

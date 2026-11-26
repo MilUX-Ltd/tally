@@ -4,6 +4,7 @@ name: Roxel Ltd
 website: https://www.roxelgroup.com
 hq: Kidderminster, United Kingdom
 uk-region: West Midlands
+country-code: GB
 sources-verified: 2026-07-05
 lat: 52.3882
 lon: -2.24923

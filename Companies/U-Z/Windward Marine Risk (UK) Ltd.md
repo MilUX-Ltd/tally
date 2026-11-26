@@ -4,6 +4,7 @@ name: Windward Marine Risk (UK) Ltd
 website: https://www.windward.ai
 hq: Tel Aviv, Israel
 uk-region: London
+country-code: GB
 sources-verified: 2026-07-01
 location-source: region
 location-note: UK location not published

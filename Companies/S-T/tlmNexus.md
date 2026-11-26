@@ -6,6 +6,7 @@ linkedin: https://www.linkedin.com/company/tlmnexus
 companies-house: 04058701
 hq: Brighton, UK
 uk-region: South East
+country-code: GB
 founded: 2000
 size: medium
 headcount: 51-200

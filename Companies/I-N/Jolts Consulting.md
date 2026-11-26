@@ -10,6 +10,7 @@ postcode: SW19 2RR
 lat: 51.4109
 lon: -0.18505
 location-source: companies-house
+country-code: GB
 tags:
   - defence
   - training

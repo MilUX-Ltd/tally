@@ -6,6 +6,7 @@ linkedin: https://www.linkedin.com/company/craxel-inc.
 companies-house: NI736501
 hq: Fairfax, United States
 uk-region: Northern Ireland
+country-code: GB
 founded: 2007
 size: small
 headcount: 27

@@ -5,6 +5,7 @@ website: https://www.bmt.org
 linkedin: https://www.linkedin.com/company/bmt
 hq: London, United Kingdom
 uk-region: London
+country-code: GB
 founded: 1985
 size: large
 headcount: 1,350+

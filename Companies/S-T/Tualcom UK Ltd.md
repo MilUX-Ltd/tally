@@ -4,6 +4,7 @@ name: Tualcom UK Ltd
 website: https://www.tualcom.com
 hq: Ankara, Türkiye
 uk-region: London
+country-code: GB
 size: medium
 sources-verified: 2026-06-30
 location-source: region

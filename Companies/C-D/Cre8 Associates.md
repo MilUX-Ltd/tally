@@ -6,6 +6,7 @@ linkedin: https://www.linkedin.com/company/cre8-associates-limited
 companies-house: "05006424"
 hq: Lutterworth, United Kingdom
 uk-region: East Midlands
+country-code: GB
 founded: 2004
 size: micro
 headcount: 1-10

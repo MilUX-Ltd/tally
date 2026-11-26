@@ -6,6 +6,7 @@ linkedin: https://www.linkedin.com/company/novatech
 companies-house: 02605046
 hq: Portsmouth, United Kingdom
 uk-region: South East
+country-code: GB
 founded: 1991
 size: medium
 headcount: ~100

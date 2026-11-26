@@ -6,6 +6,7 @@ linkedin: https://www.linkedin.com/company/prisma-worldwide-limited
 companies-house: 10299211
 hq: Cobham, UK
 uk-region: South East
+country-code: GB
 founded: 2016
 sources-verified: 2026-07-05
 postcode: RH5 5NB

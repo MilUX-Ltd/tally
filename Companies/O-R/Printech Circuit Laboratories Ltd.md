@@ -4,6 +4,7 @@ name: Printech Circuit Laboratories Ltd
 website: https://www.pcll.co.uk
 hq: Chelmsford, United Kingdom
 uk-region: East of England
+country-code: GB
 size: small
 sources-verified: 2026-07-16
 lat: 51.73453

@@ -6,6 +6,7 @@ linkedin: https://www.linkedin.com/company/flyby-technology
 companies-house: "12797144"
 hq: York, UK
 uk-region: Yorkshire and The Humber
+country-code: GB
 founded: 2020
 size: small
 headcount: 15

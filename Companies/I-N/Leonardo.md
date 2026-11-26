@@ -11,6 +11,7 @@ size: large
 headcount: ~60000
 sources-verified: 2026-07-04
 country: Italy
+country-code: IT
 tags:
   - defence
   - air

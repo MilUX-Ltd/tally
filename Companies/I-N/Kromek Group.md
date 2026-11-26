@@ -5,6 +5,7 @@ website: https://www.kromek.com
 linkedin: https://www.linkedin.com/company/kromek
 hq: Sedgefield, United Kingdom
 uk-region: North East
+country-code: GB
 size: medium
 headcount: 150+
 sources-verified: 2026-07-04

@@ -5,6 +5,7 @@ website: https://www.oshkoshcorporation.com
 linkedin: https://www.linkedin.com/company/oshkosh-corporation
 hq: Oshkosh, USA
 uk-region: South West
+country-code: GB
 size: large
 sources-verified: 2026-07-05
 location-source: region

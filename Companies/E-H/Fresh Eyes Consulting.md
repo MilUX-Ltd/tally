@@ -6,6 +6,7 @@ linkedin: https://www.linkedin.com/company/fresh-eyes-consulting-uk
 companies-house: "16545529"
 hq: Silsoe, United Kingdom
 uk-region: East of England
+country-code: GB
 sources-verified: 2026-11-19
 postcode: MK45 4HR
 lat: 52.00826

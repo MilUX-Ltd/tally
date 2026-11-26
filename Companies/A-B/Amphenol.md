@@ -5,6 +5,7 @@ website: https://www.amphenol.co.uk/
 linkedin: https://www.linkedin.com/company/amphenol-ltd
 hq: Whitstable, United Kingdom
 uk-region: South East
+country-code: GB
 founded: 1963
 size: large
 sources-verified: 2026-07-03

@@ -4,6 +4,7 @@ name: Senior Plc
 website: https://www.seniorplc.com
 hq: Rickmansworth, United Kingdom
 uk-region: East of England
+country-code: GB
 size: large
 sources-verified: 2026-06-30
 lat: 51.64023

@@ -5,6 +5,7 @@ website: https://www.totalia.co.uk
 companies-house: "09810544"
 hq: Cheltenham, Gloucestershire
 uk-region: South West
+country-code: GB
 sources-verified: 2026-06-30
 postcode: GL51 6TU
 lat: 51.898

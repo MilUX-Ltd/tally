@@ -4,6 +4,7 @@ name: Zuhlke Engineering Ltd
 website: https://www.zuehlke.com/en
 hq: Zurich, Switzerland
 uk-region: London
+country-code: GB
 size: large
 sources-verified: 2026-07-01
 location-source: region

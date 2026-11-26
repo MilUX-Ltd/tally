@@ -5,6 +5,7 @@ website: https://aardvark.group/
 linkedin: https://uk.linkedin.com/company/aardvark-clearmine-ltd
 hq: Dumfries, Scotland
 uk-region: Scotland
+country-code: GB
 founded: 1982
 size: small
 sources-verified: 2026-07-03

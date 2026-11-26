@@ -10,6 +10,7 @@ size: large
 headcount: ~9500
 sources-verified: 2026-07-04
 country: Germany
+country-code: DE
 tags:
   - defence
   - sensors

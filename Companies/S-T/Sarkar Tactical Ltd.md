@@ -4,6 +4,7 @@ name: Sarkar Tactical Ltd
 website: https://sarkartactical.com/
 hq: Glasgow, United Kingdom
 uk-region: Scotland
+country-code: GB
 sources-verified: 2026-06-30
 lat: 55.86363
 lon: -4.23688

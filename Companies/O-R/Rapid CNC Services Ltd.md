@@ -4,6 +4,7 @@ name: Rapid CNC Services Ltd
 website: https://www.rapidcncservices.co.uk
 hq: Stockton-on-Tees, United Kingdom
 uk-region: North East
+country-code: GB
 size: micro
 sources-verified: 2026-07-05
 lat: 54.56397

@@ -6,6 +6,7 @@ linkedin: https://www.linkedin.com/company/frequentis
 companies-house: "02704890"
 hq: Vienna, Austria
 uk-region: South East
+country-code: GB
 size: large
 headcount: 2600
 sources-verified: 2026-07-04

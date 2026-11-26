@@ -10,6 +10,7 @@ size: large
 headcount: ~300
 sources-verified: 2026-06-29
 country: Finland
+country-code: FI
 tags:
   - defence
   - comms

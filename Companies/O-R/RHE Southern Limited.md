@@ -4,6 +4,7 @@ name: RHE Southern Limited
 website: http://www.rhe.co.uk
 hq: St Neots, United Kingdom
 uk-region: East of England
+country-code: GB
 sources-verified: 2026-07-05
 lat: 52.22758
 lon: -0.27038

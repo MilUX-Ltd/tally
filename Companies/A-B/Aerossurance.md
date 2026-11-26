@@ -6,6 +6,7 @@ linkedin: https://www.linkedin.com/company/aerossurance
 companies-house: SC468226
 hq: Aberdeen, United Kingdom
 uk-region: Scotland
+country-code: GB
 founded: 2014
 size: micro
 sources-verified: 2026-07-03

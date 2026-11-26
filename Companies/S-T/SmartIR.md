@@ -4,6 +4,7 @@ name: SmartIR
 website: https://smartir.co.uk
 hq: Sale
 uk-region: North West
+country-code: GB
 sources-verified: 2026-06-29
 lat: 53.42522
 lon: -2.32282

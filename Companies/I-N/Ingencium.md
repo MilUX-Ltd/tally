@@ -4,6 +4,7 @@ name: Ingencium Ltd
 website: https://www.ingencium.com
 companies-house: "17192508"
 uk-region: London
+country-code: GB
 founded: 2026
 sources-verified: 2026-11-19
 postcode: EC2A 4NA

@@ -5,6 +5,7 @@ website: https://www.analog.com
 companies-house: "00895439"
 hq: Hayes, United Kingdom
 uk-region: London
+country-code: GB
 size: large
 sources-verified: 2026-11-19
 postcode: UB3 1EP

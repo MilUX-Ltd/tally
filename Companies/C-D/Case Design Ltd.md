@@ -5,6 +5,7 @@ website: https://www.case-design.co.uk
 companies-house: 02248904
 hq: High Wycombe, England
 uk-region: South East
+country-code: GB
 founded: 1988
 size: small
 sources-verified: 2026-07-16

@@ -6,6 +6,7 @@ linkedin: https://www.linkedin.com/company/experis-uk
 companies-house: "02114287"
 hq: Uxbridge, United Kingdom
 uk-region: London
+country-code: GB
 sources-verified: 2026-11-19
 postcode: UB8 1AB
 lat: 51.54540

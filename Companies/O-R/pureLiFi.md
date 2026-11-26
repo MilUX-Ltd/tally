@@ -6,6 +6,7 @@ linkedin: https://www.linkedin.com/company/purelifi
 companies-house: SC394047
 hq: Edinburgh, United Kingdom
 uk-region: Scotland
+country-code: GB
 founded: 2012
 size: medium
 headcount: ~51

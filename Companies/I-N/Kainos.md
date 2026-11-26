@@ -6,6 +6,7 @@ linkedin: https://www.linkedin.com/company/kainos
 companies-house: NI019370
 hq: Belfast, United Kingdom
 uk-region: Northern Ireland
+country-code: GB
 founded: 1986
 size: large
 headcount: ~2900

@@ -4,6 +4,7 @@ name: RC Fornax PLC
 website: https://www.rcfornax.co.uk
 hq: Bristol, United Kingdom
 uk-region: South West
+country-code: GB
 size: small
 sources-verified: 2026-07-05
 lat: 51.45313

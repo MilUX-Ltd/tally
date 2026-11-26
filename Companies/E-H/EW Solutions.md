@@ -6,6 +6,7 @@ linkedin: https://www.linkedin.com/company/electronic-warfare-solutions-ltd
 companies-house: 06809762
 hq: Newark, UK
 uk-region: East Midlands
+country-code: GB
 founded: 2009
 size: small
 sources-verified: 2026-07-04

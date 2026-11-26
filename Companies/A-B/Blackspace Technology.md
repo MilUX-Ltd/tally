@@ -12,6 +12,7 @@ postcode: B1 2JB
 lat: 52.47771
 lon: -1.91333
 location-source: companies-house
+country-code: GB
 tags:
   - defence
   - software

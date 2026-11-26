@@ -4,6 +4,7 @@ name: STG Aerospace Ltd
 website: http://www.stgaerospace.com
 hq: Cwmbran, United Kingdom
 uk-region: Wales
+country-code: GB
 sources-verified: 2026-06-30
 lat: 51.65364
 lon: -3.02082

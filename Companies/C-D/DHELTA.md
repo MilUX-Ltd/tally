@@ -5,6 +5,7 @@ website: https://dhelta.net
 companies-house: "16557377"
 hq: Cheltenham, United Kingdom
 uk-region: South West
+country-code: GB
 founded: 2025
 size: micro
 sources-verified: 2026-07-04

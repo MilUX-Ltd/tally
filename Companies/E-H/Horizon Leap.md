@@ -6,6 +6,7 @@ linkedin: https://www.linkedin.com/company/horizonleap
 companies-house: 14842332
 hq: Witney, United Kingdom
 uk-region: South East
+country-code: GB
 founded: 2023
 size: micro
 sources-verified: 2026-07-16

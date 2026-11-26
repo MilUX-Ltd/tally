@@ -5,6 +5,7 @@ website: https://www.innovationdb.com
 linkedin: https://www.linkedin.com/groups/3958372/
 hq: Epsom, United Kingdom
 uk-region: South East
+country-code: GB
 founded: 2009
 size: small
 headcount: 11-50

@@ -4,6 +4,7 @@ name: Merlin Circuit Technology Ltd
 website: https://www.merlinpcbgroup.com
 hq: Deeside, United Kingdom
 uk-region: North West
+country-code: GB
 sources-verified: 2026-07-05
 lat: 53.78177
 lon: -3.03383

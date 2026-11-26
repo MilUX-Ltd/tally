@@ -4,6 +4,7 @@ name: Sure Antennas Ltd
 website: https://www.sure-antennas.com
 hq: Wirral, United Kingdom
 uk-region: North West
+country-code: GB
 sources-verified: 2026-06-30
 lat: 53.34097
 lon: -3.05009

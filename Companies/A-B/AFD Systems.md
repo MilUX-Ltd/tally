@@ -6,6 +6,7 @@ linkedin: https://www.linkedin.com/company/afd-systems
 companies-house: 07081294
 hq: Blackpool, United Kingdom
 uk-region: North West
+country-code: GB
 founded: 2009
 size: small
 headcount: 30+

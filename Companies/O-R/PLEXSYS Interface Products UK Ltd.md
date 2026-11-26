@@ -4,6 +4,7 @@ name: PLEXSYS Interface Products UK Ltd
 website: https://www.plexsys.com
 hq: Covington, United States
 uk-region: East Midlands
+country-code: GB
 sources-verified: 2026-07-05
 location-source: region
 location-note: UK location not published

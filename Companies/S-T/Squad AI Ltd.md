@@ -4,6 +4,7 @@ name: Squad AI Ltd
 website: https://www.squadai.uk
 hq: Bristol, United Kingdom
 uk-region: South West
+country-code: GB
 sources-verified: 2026-06-30
 lat: 51.45313
 lon: -2.60098

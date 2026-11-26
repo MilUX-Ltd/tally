@@ -5,6 +5,7 @@ website: https://bowmanbeltd.com/
 linkedin: https://www.linkedin.com/company/107239999/
 hq: Wareham, Dorset
 uk-region: South West
+country-code: GB
 founded: 2024
 size: micro
 sources-verified: 2026-07-04

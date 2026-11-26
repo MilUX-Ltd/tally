@@ -4,6 +4,7 @@ name: UAV Tactical Systems Ltd (U-TacS)
 website: https://www.u-tacs.co.uk
 hq: Leicester, UK
 uk-region: East Midlands
+country-code: GB
 sources-verified: 2026-06-30
 lat: 52.63361
 lon: -1.13346

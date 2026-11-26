@@ -4,6 +4,7 @@ name: UTC Aerospace Systems - Marston
 website: https://www.hsmarston.co.uk
 hq: Wolverhampton, United Kingdom
 uk-region: West Midlands
+country-code: GB
 sources-verified: 2026-06-30
 lat: 52.5862
 lon: -2.12992

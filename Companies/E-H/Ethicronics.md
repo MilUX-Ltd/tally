@@ -6,6 +6,7 @@ linkedin: https://uk.linkedin.com/company/ethicronics
 companies-house: 14149322
 hq: Cambridge, United Kingdom
 uk-region: East of England
+country-code: GB
 founded: 2022
 size: micro
 headcount: 4

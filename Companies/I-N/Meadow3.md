@@ -4,6 +4,7 @@ name: Meadow3 Limited
 website: https://www.meadow3.co.uk
 hq: Llandysul, United Kingdom
 uk-region: Wales
+country-code: GB
 sources-verified: 2026-07-05
 lat: 52.04166
 lon: -4.30913

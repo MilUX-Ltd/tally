@@ -5,6 +5,7 @@ website: https://nortrak.co.uk
 companies-house: "11746632"
 hq: Lincoln, United Kingdom
 uk-region: East Midlands
+country-code: GB
 size: micro
 sources-verified: 2026-11-19
 postcode: LN6 7DQ

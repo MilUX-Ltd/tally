@@ -6,6 +6,7 @@ linkedin: https://www.linkedin.com/company/raplas3d
 companies-house: "11494513"
 hq: Barry, United Kingdom
 uk-region: Wales
+country-code: GB
 founded: 2018
 size: micro
 headcount: 4

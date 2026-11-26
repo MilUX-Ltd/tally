@@ -6,6 +6,7 @@ linkedin: https://uk.linkedin.com/company/callen-lenz
 companies-house: 06361441
 hq: Salisbury, United Kingdom
 uk-region: South West
+country-code: GB
 founded: 2007
 size: medium
 headcount: 51-200

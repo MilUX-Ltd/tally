@@ -9,6 +9,7 @@ founded: 2014
 size: medium
 sources-verified: 2026-06-29
 country: Belgium
+country-code: BE
 tags:
   - defence
   - air

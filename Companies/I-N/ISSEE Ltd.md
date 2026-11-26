@@ -4,6 +4,7 @@ name: ISSEE Ltd
 website: https://www.issee.co.uk
 hq: Woking, United Kingdom
 uk-region: South East
+country-code: GB
 sources-verified: 2026-07-04
 lat: 51.31835
 lon: -0.55813

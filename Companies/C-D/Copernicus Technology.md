@@ -5,6 +5,7 @@ website: https://www.copernicustechnology.com/
 companies-house: SC350102
 hq: Elgin, United Kingdom
 uk-region: Scotland
+country-code: GB
 founded: 2008
 size: small
 sources-verified: 2026-07-04

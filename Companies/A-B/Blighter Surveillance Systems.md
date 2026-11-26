@@ -6,6 +6,7 @@ linkedin: https://www.linkedin.com/company/blighter-surveillance-systems
 companies-house: 09826773
 hq: Great Chesterford, United Kingdom
 uk-region: East of England
+country-code: GB
 size: small
 headcount: 30-40
 sources-verified: 2026-07-04

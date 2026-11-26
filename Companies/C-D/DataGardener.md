@@ -6,6 +6,7 @@ linkedin: https://www.linkedin.com/company/datagardeneruk
 companies-house: "12559329"
 hq: Eastleigh, United Kingdom
 uk-region: South East
+country-code: GB
 founded: 2020
 sources-verified: 2026-11-19
 postcode: SO50 9YN

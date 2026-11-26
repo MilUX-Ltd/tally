@@ -6,6 +6,7 @@ linkedin: https://uk.linkedin.com/company/prevail-partners-ltd
 companies-house: 11163625
 hq: Poole, United Kingdom
 uk-region: South West
+country-code: GB
 founded: 2018
 size: small
 sources-verified: 2026-07-05

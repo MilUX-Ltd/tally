@@ -7,6 +7,7 @@ uk-region: Overseas
 founded: 2019
 sources-verified: 2026-07-05
 country: United States
+country-code: US
 tags:
   - defence
   - mbr-ads

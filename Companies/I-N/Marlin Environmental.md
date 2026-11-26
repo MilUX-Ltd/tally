@@ -6,6 +6,7 @@ linkedin: https://www.linkedin.com/company/marlin-environmental-services-limited
 companies-house: "04846286"
 hq: Portsmouth, United Kingdom
 uk-region: South East
+country-code: GB
 founded: 2003
 sources-verified: 2026-11-19
 postcode: PO6 1TT

@@ -6,6 +6,7 @@ linkedin: https://www.linkedin.com/company/iken-associates/
 companies-house: "04263154"
 hq: Leeds, United Kingdom
 uk-region: Yorkshire and The Humber
+country-code: GB
 founded: 2001
 sources-verified: 2026-11-19
 postcode: LS15 8GB

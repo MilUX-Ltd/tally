@@ -5,6 +5,7 @@ website: https://maiar.co.uk
 linkedin: https://uk.linkedin.com/company/maiar-ltd
 hq: Letchworth Garden City, United Kingdom
 uk-region: East of England
+country-code: GB
 sources-verified: 2026-07-05
 lat: 51.9795
 lon: -0.22946

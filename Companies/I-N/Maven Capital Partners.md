@@ -5,6 +5,7 @@ website: https://www.mavencp.com
 linkedin: https://www.linkedin.com/company/maven-cp
 companies-house: "OC339387"
 uk-region: South East
+country-code: GB
 founded: 2009
 sources-verified: 2026-11-19
 postcode: RG1 1LX

@@ -4,6 +4,7 @@ name: Data Luminescence Ltd
 website: https://dataluminescence.com
 hq: Didcot, England
 uk-region: South East
+country-code: GB
 size: micro
 sources-verified: 2026-07-16
 lat: 51.60638

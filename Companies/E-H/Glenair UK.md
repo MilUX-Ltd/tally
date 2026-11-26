@@ -5,6 +5,7 @@ website: https://www.glenair.co.uk
 companies-house: 01198102
 hq: Glendale, United States
 uk-region: East Midlands
+country-code: GB
 founded: 1975
 size: medium
 sources-verified: 2026-07-04

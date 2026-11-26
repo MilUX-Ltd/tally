@@ -4,6 +4,7 @@ name: Viavi Solutions UK Ltd
 website: https://www.viavisolutions.com
 hq: San Jose, United States
 uk-region: East of England
+country-code: GB
 sources-verified: 2026-07-01
 location-source: region
 location-note: UK location not published

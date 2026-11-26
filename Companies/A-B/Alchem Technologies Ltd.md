@@ -6,6 +6,7 @@ linkedin: https://www.linkedin.com/company/alchem-technologies-ltd
 companies-house: "14798294"
 hq: London, United Kingdom
 uk-region: London
+country-code: GB
 founded: 2023
 size: micro
 headcount: 5

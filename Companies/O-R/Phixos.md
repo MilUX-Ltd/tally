@@ -5,6 +5,7 @@ website: https://phixos.co.uk
 companies-house: "12335219"
 hq: Worcester, United Kingdom
 uk-region: West Midlands
+country-code: GB
 founded: 2019
 sources-verified: 2026-11-19
 postcode: WR5 2RY

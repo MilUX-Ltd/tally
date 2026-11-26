@@ -6,6 +6,7 @@ linkedin: https://uk.linkedin.com/company/resonatetesting
 companies-house: "NI634844"
 hq: Newry, United Kingdom
 uk-region: Northern Ireland
+country-code: GB
 founded: 2015
 sources-verified: 2026-07-05
 postcode: BT35 8XF

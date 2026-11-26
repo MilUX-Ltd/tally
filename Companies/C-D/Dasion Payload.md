@@ -6,6 +6,7 @@ hq: Shenzhen, China
 uk-region: Overseas
 sources-verified: 2026-08-27
 country: China
+country-code: CN
 tags:
   - defence
   - uas

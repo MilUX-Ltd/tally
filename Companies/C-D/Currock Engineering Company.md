@@ -6,6 +6,7 @@ linkedin: https://www.linkedin.com/company/currock-engineering-company-limited
 companies-house: "00828340"
 hq: Chelmsford, UK
 uk-region: East of England
+country-code: GB
 founded: 1964
 size: small
 headcount: ~33

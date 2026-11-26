@@ -6,6 +6,7 @@ linkedin: https://www.linkedin.com/company/cellmetric
 companies-house: 05456926
 hq: Cambridge, United Kingdom
 uk-region: East of England
+country-code: GB
 founded: 2005
 size: micro
 sources-verified: 2026-07-04

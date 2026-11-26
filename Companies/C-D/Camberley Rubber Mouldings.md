@@ -6,6 +6,7 @@ linkedin: https://uk.linkedin.com/company/camberley-rubber
 companies-house: 01043362
 hq: Aldershot, United Kingdom
 uk-region: South East
+country-code: GB
 founded: 1969
 size: small
 sources-verified: 2026-07-04

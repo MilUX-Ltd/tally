@@ -4,6 +4,7 @@ name: Walker Precision Engineering
 website: https://www.walkerprecision.com
 hq: Glasgow, UK
 uk-region: Scotland
+country-code: GB
 sources-verified: 2026-07-01
 lat: 55.86363
 lon: -4.23688

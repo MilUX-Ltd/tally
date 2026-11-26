@@ -5,6 +5,7 @@ website: https://www.ihf.co.uk
 companies-house: "SC422632"
 hq: Edinburgh, United Kingdom
 uk-region: Scotland
+country-code: GB
 founded: 2012
 sources-verified: 2026-11-19
 postcode: EH13 0LF

@@ -6,6 +6,7 @@ linkedin: https://www.linkedin.com/company/ultima-forma-ltd
 companies-house: 10691747
 hq: Tadley, United Kingdom
 uk-region: South East
+country-code: GB
 size: small
 sources-verified: 2026-07-16
 postcode: RG26 5DL

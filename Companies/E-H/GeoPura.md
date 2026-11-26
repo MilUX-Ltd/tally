@@ -5,6 +5,7 @@ website: https://www.geopura.com
 linkedin: https://www.linkedin.com/company/geopura
 companies-house: "11855286"
 uk-region: East Midlands
+country-code: GB
 sources-verified: 2026-11-19
 postcode: NG5 1AY
 lat: 52.9722

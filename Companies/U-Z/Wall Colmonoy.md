@@ -6,6 +6,7 @@ linkedin: https://www.linkedin.com/company/wall-colmonoy
 companies-house: "00788765"
 hq: Pontardawe, United Kingdom
 uk-region: Wales
+country-code: GB
 founded: 1964
 size: medium
 headcount: ~200

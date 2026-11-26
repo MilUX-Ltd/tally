@@ -5,6 +5,7 @@ website: https://www.marineguard.com
 companies-house: "03546539"
 hq: Southampton, United Kingdom
 uk-region: South East
+country-code: GB
 founded: 1998
 sources-verified: 2026-11-19
 postcode: SO16 0AS

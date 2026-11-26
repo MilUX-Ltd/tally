@@ -4,6 +4,7 @@ name: Sigma Precision Components Limited
 website: https://www.sigmacomponents.com
 hq: Sandiacre, United Kingdom
 uk-region: East Midlands
+country-code: GB
 sources-verified: 2026-06-30
 lat: 52.92323
 lon: -1.28924

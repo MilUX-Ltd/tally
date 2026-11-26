@@ -5,6 +5,7 @@ website: https://www.cbrnergeticsltd.com
 companies-house: 09767640
 hq: Dorset, United Kingdom
 uk-region: South West
+country-code: GB
 size: small
 sources-verified: 2026-07-04
 postcode: BH2 6LA

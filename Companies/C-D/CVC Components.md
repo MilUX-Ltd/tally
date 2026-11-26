@@ -6,6 +6,7 @@ linkedin: https://www.linkedin.com/company/cvc-components-ltd-uk
 companies-house: "04600230"
 hq: Latchingdon, UK
 uk-region: East of England
+country-code: GB
 founded: 1961
 size: small
 sources-verified: 2026-07-04

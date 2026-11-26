@@ -6,6 +6,7 @@ linkedin: https://www.linkedin.com/company/expromet-technologies-group-limited
 companies-house: "10500031"
 hq: Ilfracombe, United Kingdom
 uk-region: South West
+country-code: GB
 founded: 2016
 size: medium
 sources-verified: 2026-11-19

@@ -4,6 +4,7 @@ name: MH International
 website: https://mh.international/sectors/defence/
 hq: Dewsbury, United Kingdom
 uk-region: Yorkshire and The Humber
+country-code: GB
 sources-verified: 2026-07-05
 lat: 53.69172
 lon: -1.62769

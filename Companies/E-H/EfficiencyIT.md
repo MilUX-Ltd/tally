@@ -6,6 +6,7 @@ linkedin: https://www.linkedin.com/company/efficiencyit/
 companies-house: "10533157"
 hq: Dorking, United Kingdom
 uk-region: South East
+country-code: GB
 founded: 2016
 sources-verified: 2026-11-19
 postcode: RH4 1BS

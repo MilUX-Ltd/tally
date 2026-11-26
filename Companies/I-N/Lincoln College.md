@@ -4,6 +4,7 @@ name: Lincoln College
 website: https://www.lincolncollege.ac.uk
 hq: Lincoln, United Kingdom
 uk-region: East Midlands
+country-code: GB
 sources-verified: 2026-11-19
 postcode: LN2 5HQ
 lat: 53.23136

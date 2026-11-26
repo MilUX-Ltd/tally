@@ -6,6 +6,7 @@ linkedin: https://uk.linkedin.com/company/dash-cae
 companies-house: 05979747
 hq: Abingdon, United Kingdom
 uk-region: South East
+country-code: GB
 founded: 2006
 size: small
 sources-verified: 2026-07-04

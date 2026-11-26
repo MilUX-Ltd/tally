@@ -5,6 +5,7 @@ website: https://atlturbineservices.co.uk/
 linkedin: https://www.linkedin.com/company/atl-turbine-services
 hq: Dundee, Scotland
 uk-region: Scotland
+country-code: GB
 founded: 2008
 size: medium
 headcount: ~78

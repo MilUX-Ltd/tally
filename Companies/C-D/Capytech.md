@@ -6,6 +6,7 @@ linkedin: https://www.linkedin.com/company/capytech/
 companies-house: "17157950"
 hq: Cambridge, United Kingdom
 uk-region: East of England
+country-code: GB
 sources-verified: 2026-11-19
 lat: 52.20486
 lon: 0.11968
