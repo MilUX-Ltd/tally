@@ -30,7 +30,7 @@ tags:
 
 ## What they do
 
-Resilient Leaders Elements works to equip leaders, teams and organisations with clarity, confidence and resilience, and runs leadership development programmes for individuals, teams and whole organisations. Its RLE Framework has four elements: clarity of direction, resilient decision making, awareness and leadership presence. The company lists defence among its sectors, alongside education, healthcare and corporate organisations.
+Resilient Leaders Elements describes its aim as helping leaders, teams and organisations build clarity, confidence and resilience, and runs leadership development programmes for individuals, teams and whole organisations. Its RLE Framework has four elements: clarity of direction, resilient decision making, awareness and leadership presence. The company lists defence among its sectors, alongside education, healthcare and corporate organisations.
 
 ## Products and solutions
 

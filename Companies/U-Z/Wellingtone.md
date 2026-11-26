@@ -30,7 +30,7 @@ tags:
 
 ## What they do
 
-Wellingtone has worked since 2001 to transform its clients' project, PMO and portfolio management capability through consulting, training and Microsoft-based technology. Its consultancy covers PPM and PMO maturity assessments, project and programme assurance, PMO transformation and benefits management, and its training includes APM-endorsed qualifications and Microsoft Planner and Project courses. It offers project management training for service leavers and has offices in Windsor, Ahmedabad, Dublin, Madrid and Atlanta.
+Wellingtone says it has worked since 2001 on clients' project, PMO and portfolio management capability through consulting, training and Microsoft-based technology. Its consultancy covers PPM and PMO maturity assessments, project and programme assurance, PMO transformation and benefits management, and its training includes APM-endorsed qualifications and Microsoft Planner and Project courses. It offers project management training for service leavers and has offices in Windsor, Ahmedabad, Dublin, Madrid and Atlanta.
 
 ## Products and solutions
 

@@ -17,6 +17,7 @@ tags:
   - consultancy
   - training
   - type-consultancy
+  - mbr-makeuk-defence
   - mbr-spearhead
 ---
 

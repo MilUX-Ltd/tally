@@ -27,7 +27,7 @@ tags:
 
 ## What they do
 
-Zaris Strategic provides strategic talent and advisory support to organisations in complex, mission-critical and high-consequence environments, working at the intersection of strategy, talent and execution. Its services are executive search, strategic resourcing and workforce planning, supply chain advisory on critical suppliers, and management consulting on leadership, operating model and governance. It names defence, aerospace, marine and motorsport as its sectors, and describes defence appointments across maritime, submarine, air, land, cyber, UAS and joint-enabler domains.
+Zaris Strategic provides strategic talent and advisory support to organisations in complex, mission-critical and high-consequence environments. Its services are executive search, strategic resourcing and workforce planning, supply chain advisory on critical suppliers, and management consulting on leadership, operating model and governance. It names defence, aerospace, marine and motorsport as its sectors, and describes defence appointments across maritime, submarine, air, land, cyber, UAS and joint-enabler domains.
 
 ## Links
 

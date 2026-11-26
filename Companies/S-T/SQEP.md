@@ -31,7 +31,7 @@ tags:
 
 ## What they do
 
-SQEP provides security-cleared experts across defence, aerospace and critical infrastructure, working embedded in client teams on complex programmes. Its capabilities cover airworthiness and certification, cyber and information assurance, engineering support solutions, P3M, training, safety, and environment and sustainability, across rotary and fixed wing, autonomous, land vehicle and maritime platforms. The company was founded in 2014 to deliver engineering and safety support to defence programmes and says it now works across air, land, sea, space, nuclear and cyber domains.
+SQEP says it provides security-cleared experts across defence, aerospace and critical infrastructure, working embedded in client teams on complex programmes. Its capabilities cover airworthiness and certification, cyber and information assurance, engineering support solutions, P3M, training, safety, and environment and sustainability, across rotary and fixed wing, autonomous, land vehicle and maritime platforms. The company was founded in 2014 to deliver engineering and safety support to defence programmes and says it now works across air, land, sea, space, nuclear and cyber domains.
 
 ## Links
 

@@ -44,4 +44,4 @@ Strategic Edge Consulting provides strategic advisory, technology leadership and
 
 ## Sources
 
-Public information verified 2026-11-26. Company website (home, about, services and contact pages), Companies House (15481668, incorporated 11 February 2024, formerly Shadow Technology Solutions Limited until May 2025; micro company accounts). The website does not publish a company number or address; the Companies House entity is matched on its exact name and its management consultancy activity. Location is the registered office.
+Public information verified 2026-11-26. Company website (home, about, services and contact pages), Companies House (15481668, incorporated 11 February 2024, formerly Shadow Technology Solutions Limited until May 2025; micro company accounts). The website does not publish a company number or address; the Companies House entity is matched on its exact name and its management consultancy activity; the company's published town, Leamington Spa, matches the registered office. Location is the registered office.

@@ -19,6 +19,7 @@ tags:
   - data/analytics
   - consultancy
   - type-consultancy
+  - fw-gcloud
   - mbr-spearhead
 ---
 

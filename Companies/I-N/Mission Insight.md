@@ -38,4 +38,4 @@ Mission Insight describes itself as experts in building enterprise-level data ar
 
 ## Sources
 
-Public information verified 2026-11-26. Company website (mission-insight.co.uk home and services pages). Companies House (14925511, incorporated 9 June 2023; SIC 62020 information technology consultancy), matched on name as the only active company of that name; the website does not publish a company number or address. Location is the registered office.
+Public information verified 2026-11-26. Company website (mission-insight.co.uk home and services pages). Companies House (14925511, incorporated 9 June 2023; SIC 62020 information technology consultancy), matched on name as the only active company of that name; the website does not publish a company number or address. The company's published town, Gloucester, matches the registered office. Location is the registered office.

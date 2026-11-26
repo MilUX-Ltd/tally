@@ -33,7 +33,7 @@ tags:
 
 ## What they do
 
-Dot Collective designs, builds and runs AI-enabling, mission-critical data infrastructure, covering data strategy and architecture, production data and AI platforms, and a managed service for live data platforms. For defence and national security, the company says it implements data, AI and ML solutions on secure, sovereign, cloud-native or hybrid infrastructure, including integrating information from multiple sources into a single operational picture, digital twins for predictive maintenance and AI decision support that keeps human command authority. It describes itself as a consultancy of more than 160 people.
+Dot Collective says it designs, builds and runs data infrastructure for AI and mission-critical use, covering data strategy and architecture, production data and AI platforms, and a managed service for live data platforms. For defence and national security, the company says it implements data, AI and ML solutions on secure, sovereign, cloud-native or hybrid infrastructure, including integrating information from multiple sources into a single operational picture, digital twins for predictive maintenance and AI decision support that keeps human command authority. It describes itself as a consultancy of more than 160 people.
 
 ## Products and solutions
 
