@@ -5,7 +5,9 @@ website: <https://example.com>
 linkedin: <https://www.linkedin.com/company/example>
 companies-house: <company number, optional>
 hq: <City, Country>
-uk-region: <region, optional>
+uk-region: <region, optional; Overseas for a company outside the UK>
+country: <country's English name, only for a company outside the UK>
+country-code: <ISO code from countries.json: GB for the UK>
 founded: <year, optional>
 size: <micro | small | medium | large>
 headcount: <number or range, optional>

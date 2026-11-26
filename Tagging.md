@@ -91,4 +91,4 @@ An `accr-` tag records what the company states about itself, and Tally shows it 
 
 ## Location for filtering
 
-Location is held in frontmatter (`hq`, `uk-region`), not as a tag, so the viewer can filter by region (for example, an additive-manufacturing SME in Hampshire). Keep `uk-region` values consistent.
+Location is held in frontmatter (`hq`, `uk-region`, and `country-code`, the ISO country code from `countries.json`, `GB` for the UK), not as a tag, so the viewer can filter by region (for example, an additive-manufacturing SME in Hampshire). Keep `uk-region` values consistent.
