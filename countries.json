@@ -146,7 +146,30 @@
       "code": "NO",
       "name": "Norway",
       "bloc": "europe",
-      "live": false
+      "live": false,
+      "bounds": [
+        4.5,
+        57.9,
+        31.2,
+        71.2
+      ],
+      "regions": [
+        "Agder",
+        "Akershus",
+        "Buskerud",
+        "Finnmark",
+        "Innlandet",
+        "Møre og Romsdal",
+        "Nordland",
+        "Oslo",
+        "Rogaland",
+        "Telemark",
+        "Troms",
+        "Trøndelag",
+        "Vestfold",
+        "Vestland",
+        "Østfold"
+      ]
     },
     {
       "code": "SE",

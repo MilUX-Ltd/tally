@@ -37,6 +37,8 @@ Standard library only, Python 3.9 or later. Exit 0 when every check passes, 1 ot
    carries a country-code it knows: GB for a UK page, whose region is one of the UK's regions;
    a country that is not live has region Overseas. Russia is never live and no page is in
    Russia; Belarus and Russia are never in the Europe bloc.
+8. A Norwegian company page that carries `brreg` carries a valid Norwegian organisation number
+   (nine digits, modulus 11 check digit). See docs/norway-data.md.
 """
 
 import datetime
@@ -352,6 +354,32 @@ def country_problems(text, countries):
     return []
 
 
+ORG_WEIGHTS = (3, 2, 7, 6, 5, 4, 3, 2)
+
+
+def org_number_valid(value):
+    """A Norwegian organisation number: nine digits, the last a modulus 11 check digit."""
+    if not re.fullmatch(r"\d{9}", value or ""):
+        return False
+    remainder = sum(int(d) * w for d, w in zip(value[:8], ORG_WEIGHTS)) % 11
+    check = 0 if remainder == 0 else 11 - remainder
+    return check != 10 and check == int(value[8])
+
+
+def register_problems(text):
+    """A Norwegian company page names its entry in the Norwegian register with a valid number."""
+    head = _frontmatter(text)
+    code = re.search(r"^country-code:[ \t]*(.*)$", head, re.M)
+    if not code or _unquote(code.group(1)) != "NO":
+        return []
+    number = re.search(r"^brreg:[ \t]*(.*)$", head, re.M)
+    if not number:
+        return ["a Norwegian company needs its organisation number as brreg"]
+    if not org_number_valid(_unquote(number.group(1))):
+        return [f"brreg {_unquote(number.group(1))!r} is not a valid Norwegian organisation number"]
+    return []
+
+
 def sha256(text):
     return hashlib.sha256(text.encode("utf-8")).hexdigest()
 
@@ -427,6 +455,11 @@ def main():
                 failures.append(f"{path}: {problem}")
             for problem in country_problems(text, countries):
                 failures.append(f"{path}: {problem}")
+            # Every Norwegian page that names a register entry must name it correctly. That every
+            # Norwegian page names one is held by tests/acceptance/test_norway.py from the first load.
+            if re.search(r"^brreg:", _frontmatter(text), re.M):
+                for problem in register_problems(text):
+                    failures.append(f"{path}: {problem}")
     failures.extend(blocked_problems(files))
     if failures:
         print(f"check.py: {len(failures)} problem(s)")
