@@ -27,6 +27,7 @@ tags:
   - type-consultancy
   - owned-uk
   - project-management
+  - mbr-spearhead
 ---
 # Real-Time Consultants
 > UK SME delivering change management, procurement, cost assurance, cyber security, data science and programme delivery services to the MOD and wider public sector, trading as RT Consulting.

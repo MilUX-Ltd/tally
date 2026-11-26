@@ -20,6 +20,7 @@ tags:
   - software
   - type-consultancy
   - type-sme
+  - mbr-spearhead
 ---
 # Tenacium DC
 > UK defence and government data company providing secure AI consulting, a proprietary situational awareness platform and applied data engineering.

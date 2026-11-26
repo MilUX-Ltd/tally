@@ -87,7 +87,7 @@ An `accr-` tag records what the company states about itself, and Tally shows it 
 
 ## Memberships and clusters (`mbr-`)
 
-`mbr-ads` (ADS Group), `mbr-techuk`, `mbr-makeuk-defence`, `mbr-ndi`, `mbr-scrdsc` (South Central RDSC), `mbr-glrdsc` (Greater Lincolnshire RDSC), `mbr-swrdsc`, `mbr-walesdsc` (Defence Wales), and other regional clusters as encountered.
+`mbr-ads` (ADS Group), `mbr-techuk`, `mbr-makeuk-defence`, `mbr-ndi`, `mbr-scrdsc` (South Central RDSC), `mbr-glrdsc` (Greater Lincolnshire RDSC), `mbr-swrdsc`, `mbr-walesdsc` (Defence Wales), `mbr-spearhead` (Spearhead, a UK SME defence collective), and other regional clusters as encountered.
 
 ## Location for filtering
 

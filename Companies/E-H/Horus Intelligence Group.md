@@ -20,6 +20,7 @@ tags:
   - size-small
   - type-consultancy
   - accr-iso27001
+  - mbr-spearhead
 ---
 
 # Horus Intelligence Group

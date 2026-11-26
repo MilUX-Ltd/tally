@@ -28,6 +28,7 @@ tags:
   - accr-ce-plus
   - project-management
   - mbr-walesdsc
+  - mbr-spearhead
 ---
 
 # K Sharp

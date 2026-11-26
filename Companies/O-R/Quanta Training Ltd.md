@@ -20,6 +20,7 @@ tags:
   - type-consultancy
   - owned-uk
   - project-management
+  - mbr-spearhead
 ---
 
 # Quanta Training Ltd

@@ -28,6 +28,7 @@ tags:
   - size-small
   - type-consultancy
   - mbr-ads
+  - mbr-spearhead
 ---
 
 # Daintta
