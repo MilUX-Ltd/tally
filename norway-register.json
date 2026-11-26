@@ -3,8 +3,8 @@
  "attribution": "Contains data under the Norwegian licence for Open Government data (NLOD) distributed by the Brønnøysund Register Centre.",
  "source": "Brønnøysund Register Centre, Central Coordinating Register for Legal Entities",
  "checked": {
-  "companies": 0,
-  "found": 0,
+  "companies": 141,
+  "found": 141,
   "not_found": 0,
   "failed": 0
  },

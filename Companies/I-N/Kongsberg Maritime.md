@@ -8,6 +8,12 @@ uk-region: Overseas
 sources-verified: 2026-07-04
 country: Norway
 country-code: NO
+brreg: "979750730"
+county: Buskerud
+lat: 59.6598
+lon: 9.642
+location-source: register
+location-note: registered business address in the Norwegian register
 tags:
   - defence
   - mbr-ads
