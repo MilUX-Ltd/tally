@@ -19,11 +19,15 @@ location-note: registered business address in the Norwegian register
 sources-verified: 2026-11-26
 tags:
   - defence
+  - maritime
   - autonomy
   - robotics
-  - maritime
   - acoustic
   - sensors
+  - sensors/acoustic-sonar
+  - isr
+  - detection
+  - software
   - size-small
   - type-sme
 ---

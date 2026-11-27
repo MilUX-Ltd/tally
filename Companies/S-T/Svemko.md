@@ -20,10 +20,8 @@ sources-verified: 2026-11-26
 tags:
   - defence
   - land
-  - munitions
-  - precision-engineering
   - manufacturing
-  - metal-fabrication
+  - precision-engineering
   - size-small
   - type-sme
 ---

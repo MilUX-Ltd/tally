@@ -1,7 +1,7 @@
 ---
 type: organisation
 name: Westcon Yards
-website: https://www.westcon.no
+website: https://www.westconyards.no
 linkedin: https://www.linkedin.com/company/westconyards/
 hq: Ølensvåg, Norway
 uk-region: Overseas
@@ -40,7 +40,7 @@ Westcon Yards is a full-service yard for repair, maintenance, conversion and new
 
 ## Links
 
-- Website: https://www.westcon.no
+- Website: https://www.westconyards.no
 - LinkedIn: https://www.linkedin.com/company/westconyards/
 
 ## Sources

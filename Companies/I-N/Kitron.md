@@ -33,7 +33,7 @@ tags:
 
 ## What they do
 
-Kitron provides electronics manufacturing services, including development, industrialisation, sourcing, logistics, and repair and maintenance. Defence and aerospace is one of its five market sectors.
+Kitron provides electronics manufacturing services, including development, industrialisation, sourcing, logistics, and repair and maintenance. For defence it builds electronics from circuit boards to integrated systems for OEMs in Europe and the US, covering communication, avionics, UAV and counter-UAS, surveillance, control and vehicle systems. Its defence production sits in EU and NATO countries.
 
 ## Links
 

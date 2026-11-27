@@ -23,6 +23,8 @@ tags:
   - metal-fabrication
   - manufacturing
   - autonomy
+  - electronics
+  - software
   - size-medium
   - type-sme
 ---

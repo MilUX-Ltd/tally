@@ -23,8 +23,9 @@ tags:
   - autonomy
   - autonomy/navigation
   - autonomy/uxv-control
-  - surveillance
   - robotics
+  - surveillance
+  - detection
   - size-medium
   - type-sme
 ---
@@ -34,7 +35,7 @@ tags:
 
 ## What they do
 
-Maritime Robotics makes uncrewed surface vessels and an autonomous navigation system for remote operations at sea. Uses include surveillance, inspection, mapping and surveying. The site describes a mine countermeasures demonstration and attendance at naval events.
+Maritime Robotics makes uncrewed surface vessels, including the Otter and Mariner families, and an autonomous navigation system for crewed and uncrewed vessels. Uses include mapping and surveying, oceanographic data collection, surveillance and inspection. Its site describes USVs fitted with sonar for detecting sea mines, harbour security patrols and support to mine countermeasures.
 
 ## Products and solutions
 

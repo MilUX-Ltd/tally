@@ -16,14 +16,12 @@ location-source: register
 location-note: registered business address in the Norwegian register
 tags:
   - defence
-  - mbr-ads
   - maritime
-  - sensors
-  - sensors/pnt
-  - simulation
-  - simulation/synthetic-environment
   - autonomy
-  - autonomy/navigation
+  - simulation
+  - integration
+  - design
+  - mbr-ads
   - type-prime
   - owned-foreign
   - listed
@@ -35,7 +33,7 @@ tags:
 
 ## What they do
 
-Kongsberg Maritime supplies navigation, positioning, automation, propulsion and integrated bridge systems for vessels across naval, merchant marine, offshore and coastal marine markets, alongside K-Sim maritime simulation solutions for crew and dynamic-positioning training. Until 2026 it operated as the Maritime business area of Kongsberg Gruppen; it completed a demerger and began independent trading on Euronext Oslo (ticker KMAR) on 23 April 2026, majority-owned by the Norwegian state. The company's Naval Systems line covers deck machinery, propulsion and manoeuvring equipment, and integration and handling systems for uncrewed underwater and surface vehicles used by more than 70 navies worldwide. Note: Kongsberg's sonar and autonomous underwater vehicle product lines (HUGIN, HISAS, EM-series echosounders) sit under the separate Kongsberg Discovery business following the 2026 group restructuring, and are not part of Kongsberg Maritime.
+Kongsberg Maritime supplies bridge and control systems, deck machinery, electrical power, automation, propulsion, positioning, stabilisation and manoeuvring systems, ship design and simulation for vessels. Its Naval & Coast Guard segment covers propulsion systems and deck machinery for coast guard, naval auxiliary and surface combatant vessels. It has also launched the Arctic Hunter uncrewed surface vessel for the hybrid navy.
 
 ## Products and solutions
 

@@ -1,6 +1,6 @@
 ---
 type: organisation
-name: VIKING Life-Saving Equipment
+name: VIKING Life-Saving Equipment Norway
 website: https://www.viking-life.com
 linkedin: https://www.linkedin.com/company/viking-life-saving-equipment-a-s
 hq: Færvik, Norway
@@ -20,19 +20,20 @@ sources-verified: 2026-11-26
 tags:
   - defence
   - maritime
+  - shipbuilding
   - manufacturing
   - through-life-support
   - training
   - size-large
   - type-sme
 ---
-# VIKING Life-Saving Equipment
+# VIKING Life-Saving Equipment Norway
 
-> Maritime safety equipment maker supplying lifeboats, davits and protective equipment to navies, coast guards and law enforcement units.
+> Norwegian company of the VIKING group behind VIKING Norsafe boats, including patrol, interceptor and rescue craft for navies, coast guards and special forces.
 
 ## What they do
 
-VIKING supplies maritime safety and survival equipment. Its defence and professional offer covers VIKING Norsafe boats for patrol, response, interception and rescue, plus lifesaving and protective equipment for navies, coast guards, search and rescue and law enforcement. It also provides service, training and technical support.
+VIKING Life-Saving Equipment Norway is the Norwegian company of the VIKING maritime safety group, linked to the VIKING Norsafe boat range with a heritage dating to 1903. The group site presents VIKING Norsafe patrol and pilot craft, interceptor craft and rescue and support craft for military, coast guard, search and rescue and special forces users. The group also supplies lifeboats, davits, liferafts and protective equipment, with service and training.
 
 ## Products and solutions
 

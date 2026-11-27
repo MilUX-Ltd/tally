@@ -20,13 +20,14 @@ sources-verified: 2026-11-26
 tags:
   - defence
   - uas
-  - uas/ground-control
   - uas/platform
+  - uas/ground-control
   - isr
   - surveillance
   - training
   - through-life-support
   - manufacturing
+  - research-development
   - size-medium
   - type-sme
 ---

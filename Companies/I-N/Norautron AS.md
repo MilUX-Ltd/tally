@@ -33,7 +33,7 @@ tags:
 
 ## What they do
 
-Norautron provides electronics manufacturing services including PCBA, box build, electromechanical assembly, industrialisation, prototype development and lifecycle management. It states a long history in defence programmes and delivers surveillance and command and control systems. Defence and aerospace is one of its listed market segments.
+Norautron is an electronics manufacturing services provider offering PCB assembly, cable harnesses, electromechanical assembly, box build, industrialisation, prototyping and lifecycle management. It states a long history of work on defence programmes, producing equipment for surveillance and command and control systems. It manufactures in Norway, Sweden and Poland.
 
 ## Products and solutions
 

@@ -19,6 +19,7 @@ tags:
   - uas
   - uas/platform
   - uas/airframe
+  - uas/payload
   - autonomy
   - aerospace
   - surveillance

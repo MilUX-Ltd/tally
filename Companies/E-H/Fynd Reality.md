@@ -21,6 +21,7 @@ tags:
   - defence
   - training
   - simulation
+  - simulation/synthetic-environment
   - software
   - size-small
   - type-sme

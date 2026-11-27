@@ -20,8 +20,10 @@ tags:
   - defence
   - space
   - isr
+  - isr/geoint
   - sensors
   - sensors/pnt
+  - software
   - consultancy
   - research-development
   - size-small

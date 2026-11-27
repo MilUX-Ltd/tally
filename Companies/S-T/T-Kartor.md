@@ -18,6 +18,8 @@ sources-verified: 2026-11-26
 tags:
   - defence
   - gis
+  - isr
+  - isr/geoint
   - data
   - data/visualisation
   - software
@@ -25,11 +27,11 @@ tags:
 ---
 # T-Kartor
 
-> Geospatial company offering a location data platform, map production and custom geospatial applications, with defence among its sectors.
+> Geospatial company producing maps, geospatial data and software, with defence geospatial work dating to a first Norwegian Defence contract in 1989.
 
 ## What they do
 
-T-Kartor is a geospatial company. It offers a platform for managing, analysing and sharing location data, along with cartographic map production, geospatial data production and custom application development. Its site lists defence among the industries it serves.
+T-Kartor is a geospatial company offering a platform for managing and sharing location data, cartographic and geospatial data production, and custom applications. Its site describes defence geospatial work as a core area, starting with a Norwegian Defence contract in 1989 and including work for the US National Geospatial-Intelligence Agency. It operates in Sweden, Norway, Finland, the UK and the US.
 
 ## Products and solutions
 

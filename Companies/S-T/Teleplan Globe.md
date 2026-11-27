@@ -23,8 +23,6 @@ tags:
   - c2/battle-management
   - c2/situational-awareness
   - isr
-  - ai
-  - ai/decision-support
   - software
   - size-medium
   - type-sme

@@ -19,14 +19,16 @@ location-note: registered business address in the Norwegian register
 sources-verified: 2026-11-26
 tags:
   - defence
-  - electronics
-  - integration
   - land
-  - manufacturing
+  - vehicles
+  - integration
   - systems-engineering
+  - electronics
+  - manufacturing
   - test-evaluation
   - through-life-support
-  - vehicles
+  - project-management
+  - autonomy
   - size-small
   - type-sme
 ---
@@ -36,7 +38,7 @@ tags:
 
 ## What they do
 
-CHSnor has a defence business area providing system integration and design in electronics, hydraulics, electric drives, autonomy and remote control, advanced assembly, and test and verification. It also offers surface treatment, project management and life-cycle support and MRO.
+CHSnor provides system integration and design in electronics, hydraulics, electric drives, autonomy and remote control, with assembly, test and verification for the defence sector. It assembled, upgraded and tested more than 100 CV9030N vehicles with BAE Systems Hägglunds and has contracts to upgrade BV206 tracked vehicles. It also offers surface treatment, project management and life-cycle support and MRO.
 
 ## Links
 

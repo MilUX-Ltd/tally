@@ -22,6 +22,7 @@ tags:
   - maritime
   - autonomy
   - autonomy/navigation
+  - autonomy/uxv-control
   - software
   - size-small
   - type-sme

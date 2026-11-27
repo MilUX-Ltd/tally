@@ -18,11 +18,11 @@ location-note: registered business address in the Norwegian register
 sources-verified: 2026-11-26
 tags:
   - defence
+  - comms
+  - comms/networking
   - electronics
   - hardware
   - manufacturing
-  - comms
-  - comms/networking
   - size-medium
   - type-sme
 ---

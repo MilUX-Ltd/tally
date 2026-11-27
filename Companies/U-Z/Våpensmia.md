@@ -1,6 +1,6 @@
 ---
 type: organisation
-name: Våpensmia AS
+name: Våpensmia
 website: https://www.vapensmia.no
 hq: Dokka, Norway
 uk-region: Overseas
@@ -25,7 +25,7 @@ tags:
   - size-small
   - type-sme
 ---
-# Våpensmia AS
+# Våpensmia
 
 > Fine mechanical manufacturer producing reflex sights for defence weapons alongside firearms service and hunting and shooting equipment.
 

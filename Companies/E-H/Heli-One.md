@@ -30,7 +30,7 @@ tags:
 
 ## What they do
 
-Heli-One provides helicopter maintenance, repair and overhaul. Its site covers support for military and government aircraft. The Norwegian company holds a Norwegian military maintenance approval.
+Heli-One provides helicopter maintenance, repair, overhaul and upgrades. Its site describes work for military and government operators, including the Royal Norwegian Air Force Bell 412 fleet, Norwegian Sea King and Lynx helicopters and the Swedish Armed Forces HKP10 fleet. Its quality system includes the AQAP 2110 defence standard.
 
 ## Links
 

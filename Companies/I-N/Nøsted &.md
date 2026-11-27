@@ -31,7 +31,7 @@ tags:
 
 ## What they do
 
-Nøsted & supplies chains and chain-based products including wheel chains for transport, tractors, buses, forestry and construction, as well as lifting and securing equipment. Its product range includes a dedicated Defence category within wheel chains. It also covers products for forestry, aquaculture and subsea use.
+Nøsted & makes chains and chain-based products, including wheel chains under the TRYGG brand, forestry equipment under IGLAND and FRAM, and lifting and securing equipment. Its Defence range of NATO-approved wheel chains was developed and tested with the Norwegian Armed Forces. Its Industrial Solutions unit offers lifting technology and contract manufacturing for offshore, maritime and defence customers.
 
 ## Products and solutions
 

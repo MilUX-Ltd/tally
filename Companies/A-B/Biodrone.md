@@ -18,19 +18,26 @@ location-note: registered business address in the Norwegian register
 sources-verified: 2026-11-26
 tags:
   - defence
+  - ai
+  - ai/computer-vision
   - isr
   - isr/geoint
+  - isr/imint
+  - detection
+  - counter-uas
+  - counter-uas/detection
+  - autonomy
   - uas
   - size-micro
   - type-sme
 ---
 # Biodrone
 
-> Provider of aerial and satellite intelligence for forestry, defence and security.
+> Steinkjer company turning drone, aircraft and satellite imagery into detections for forestry, demining and defence, with Norwegian MoD funding.
 
 ## What they do
 
-Biodrone offers aerial and satellite intelligence for forestry, defence and security customers. The site gives little further detail.
+Biodrone's platform turns drone, aircraft and satellite imagery into verified detections, used in forestry and for finding surface ordnance and landmines. The Norwegian Ministry of Defence has funded development of its AI for detecting and identifying targets in the field, with FFI, and it is a partner in the EDF SALUBRIS project. It also offers maritime and counter-UAS video analytics, with outputs that can feed NATO C2 systems.
 
 ## Links
 

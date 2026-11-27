@@ -1,7 +1,7 @@
 ---
 type: organisation
-name: Warmflake AS
-website: https://warmflake.imaker.no/uk/
+name: Warmflake
+website: https://www.warmflake.com
 linkedin: https://www.linkedin.com/company/warmflake/
 hq: Hamar, Norway
 uk-region: Overseas
@@ -20,7 +20,7 @@ tags:
   - research-development
   - type-sme
 ---
-# Warmflake AS
+# Warmflake
 
 > Develops medical technology to prevent pre-hospital hypothermia in demanding conditions, aimed at military casualty care.
 
@@ -34,7 +34,7 @@ Warmflake develops active warming solutions that keep patients warm from the poi
 
 ## Links
 
-- Website: https://warmflake.imaker.no/uk/
+- Website: https://www.warmflake.com
 - LinkedIn: https://www.linkedin.com/company/warmflake/
 
 ## Sources

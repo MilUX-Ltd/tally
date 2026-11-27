@@ -18,14 +18,17 @@ location-note: registered business address in the Norwegian register
 sources-verified: 2026-11-26
 tags:
   - defence
-  - counter-uas
-  - counter-uas/detection
-  - electronics
   - radar
   - sensors
   - sensors/radar
-  - simulation
+  - counter-uas
+  - counter-uas/detection
+  - detection
   - surveillance
+  - simulation
+  - electronics
+  - hardware
+  - software
   - size-small
   - type-sme
 ---

@@ -24,7 +24,7 @@ tags:
   - sensors/acoustic-sonar
   - acoustic
   - comms
-  - ai
+  - comms/networking
   - size-micro
   - type-sme
 ---

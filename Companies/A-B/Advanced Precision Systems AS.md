@@ -16,19 +16,20 @@ location-note: registered business address in the Norwegian register
 sources-verified: 2026-11-26
 tags:
   - defence
-  - integration
   - uas
   - uas/payload
-  - uas/platform
+  - munitions
+  - autonomy
+  - integration
   - type-sme
 ---
 # Advanced Precision Systems AS
 
-> Oslo company developing mission modules for drone manufacturers and system integrators.
+> Oslo defence technology company developing mission modules for drones, starting with FENIX for precision delivery of unguided munitions.
 
 ## What they do
 
-The company describes itself as a defence technology company. It develops advanced mission modules for drone platforms and supports their integration by drone manufacturers and system integrators.
+Advanced Precision Systems develops mission modules for drone manufacturers and system integrators, combining hardware and software. Its first product, FENIX, provides automatic precision delivery of unguided munitions from reusable drones under operator supervision. Modules connect to the host aircraft through its own M2 architecture, and the company supports integration.
 
 ## Links
 

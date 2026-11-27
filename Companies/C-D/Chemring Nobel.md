@@ -29,7 +29,7 @@ tags:
 
 ## What they do
 
-Chemring Nobel develops and produces advanced explosives, with a focus on safety, precision and quality. It is part of the Chemring Group and states that its work contributes to national preparedness and defence capability for Norway, Europe and NATO.
+Chemring Nobel develops and produces advanced explosives at Sætre in Asker and describes itself as Europe's leading producer of advanced explosives. It is part of Chemring Group and states that its work supports international security and national preparedness. The Norwegian government has asked it to study a new production plant, and Forsvarsbygg has started planning work for a possible plant at Hurum.
 
 ## Links
 

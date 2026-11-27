@@ -20,13 +20,16 @@ sources-verified: 2026-11-26
 tags:
   - defence
   - comms
+  - comms/satcom
   - cyber
   - cyber/encryption
   - space
+  - space/design-test
   - missiles
   - electronics
-  - systems-engineering
-  - data
+  - integration
+  - test-evaluation
+  - research-development
   - size-medium
   - type-sme
 ---

@@ -1,7 +1,7 @@
 ---
 type: organisation
 name: Lone Star Analysis AS
-website: https://www.lone-star.com
+website: https://www.lone-star.no
 hq: Lillestrøm, Norway
 uk-region: Overseas
 country: Norway
@@ -18,8 +18,13 @@ tags:
   - defence
   - systems-engineering
   - integration
+  - test-evaluation
+  - project-management
   - data
   - data/analytics
+  - ai
+  - ai/decision-support
+  - software
   - type-sme
 ---
 # Lone Star Analysis AS
@@ -28,11 +33,11 @@ tags:
 
 ## What they do
 
-The Norwegian subsidiary of Lone Star Analysis focuses on systems engineering and integration and on operational optimisation. Its stated priorities include serving the Norwegian Ministry of Defence, with carriage integration, fleet management and maintenance management.
+Lone Star Analysis AS is the Lillestrøm-based Norwegian subsidiary of US firm Lone Star Analysis. It offers systems engineering and integration, operational optimisation of maintenance and training, and competitive analytics, built on predictive and prescriptive analytics software. Its site states work for government agencies, armed forces and foreign ministries of defence on aerospace projects, including programme management, analysis of alternatives and test and evaluation.
 
 ## Links
 
-- Website: https://www.lone-star.com
+- Website: https://www.lone-star.no
 
 ## Sources
 

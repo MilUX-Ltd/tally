@@ -1,7 +1,7 @@
 ---
 type: organisation
 name: Datek Next
-website: https://www.datek.no/en/next
+website: https://www.dateknext.com
 hq: Lillestrøm, Norway
 uk-region: Overseas
 country: Norway
@@ -18,24 +18,26 @@ location-note: registered business address in the Norwegian register
 sources-verified: 2026-11-26
 tags:
   - defence
-  - software
-  - electrical-engineering
-  - cyber
   - consultancy
+  - software
+  - hardware
+  - electronics
+  - test-evaluation
+  - space
   - size-small
   - type-sme
 ---
 # Datek Next
 
-> Consultancy in IoT, software and electronics development, with clients in defence and space.
+> Lillestrøm consultancy supplying hardware, software, embedded and test engineers to the defence, space and energy sectors.
 
 ## What they do
 
-Datek Next is the consulting business of the Datek group, based in Lillestrøm. It works in software development, electronics development, data security and information security, with clients including the defence and space industries.
+Datek Next supplies certified consultants in hardware, software, embedded systems and testing, as single consultants or whole teams. It states over 50 years of experience in the defence, space and energy sectors and offers security-cleared premises in Lillestrøm. It is a member of FSi, the Norwegian defence and security industry association, and of the Norwegian Space Cluster.
 
 ## Links
 
-- Website: https://www.datek.no/en/next
+- Website: https://www.dateknext.com
 
 ## Sources
 

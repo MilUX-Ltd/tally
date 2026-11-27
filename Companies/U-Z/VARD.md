@@ -1,6 +1,6 @@
 ---
 type: organisation
-name: Vard Group AS
+name: VARD
 website: https://www.vard.com
 linkedin: https://www.linkedin.com/company/vard
 hq: Ålesund, Norway
@@ -27,7 +27,7 @@ tags:
   - size-large
   - type-sme
 ---
-# Vard Group AS
+# VARD
 
 > Shipbuilder designing and building specialised vessels, including naval and coast guard vessels, with repair and conversion services.
 

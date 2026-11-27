@@ -1,6 +1,6 @@
 ---
 type: organisation
-name: Umoe Mandal AS
+name: Umoe Mandal
 website: https://www.um.no
 linkedin: https://www.linkedin.com/company/umoe-mandal-as
 hq: Mandal, Norway
@@ -24,10 +24,11 @@ tags:
   - composites
   - advanced-manufacturing
   - manufacturing
+  - through-life-support
   - size-medium
   - type-sme
 ---
-# Umoe Mandal AS
+# Umoe Mandal
 
 > Norwegian builder of composite naval vessels and defence composite structures, including Skjold class hulls and mine countermeasure vessels.
 

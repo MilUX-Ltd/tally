@@ -22,6 +22,7 @@ tags:
   - consultancy
   - software
   - services
+  - cyber
   - size-large
 ---
 # CGI Norge
@@ -30,7 +31,7 @@ tags:
 
 ## What they do
 
-CGI Norge provides IT and business consulting and systems services. Its Norwegian site lists defence and preparedness as one of six industry sectors, with a dedicated page and related news on a sovereign preparedness platform.
+CGI Norge provides IT and business consulting, systems development and managed IT services. Its defence and preparedness area develops and manages information systems for armed forces and defence authorities, with experience in security-classified systems development and protective security. Its Norwegian site has a lead for defence and the defence industry in Norway.
 
 ## Links
 

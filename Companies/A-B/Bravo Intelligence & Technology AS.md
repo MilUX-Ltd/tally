@@ -18,12 +18,13 @@ tags:
   - defence
   - ai
   - ai/decision-support
+  - autonomy
   - counter-uas
   - isr
   - isr/fusion
   - c2
   - c2/mission-planning
-  - autonomy
+  - test-evaluation
   - type-sme
 ---
 # Bravo Intelligence & Technology AS

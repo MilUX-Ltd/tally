@@ -19,8 +19,7 @@ tags:
   - counter-uas
   - counter-uas/detection
   - counter-uas/effector
-  - ai
-  - ai/computer-vision
+  - detection
   - autonomy
   - optronics
   - sensors

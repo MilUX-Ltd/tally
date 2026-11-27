@@ -26,8 +26,10 @@ tags:
   - c2
   - space
   - sensors
+  - sensors/acoustic-sonar
   - comms
   - autonomy
+  - through-life-support
   - size-large
   - type-prime
 ---

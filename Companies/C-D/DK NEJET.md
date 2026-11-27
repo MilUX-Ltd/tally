@@ -17,18 +17,19 @@ location-note: registered business address in the Norwegian register
 sources-verified: 2026-11-26
 tags:
   - defence
-  - ai
-  - ai/computer-vision
+  - uas
+  - uas/ground-control
+  - uas/guidance
   - autonomy
   - autonomy/swarming
+  - autonomy/uxv-control
+  - ai
+  - ai/computer-vision
   - comms
   - comms/networking
   - ew
   - ew/eccm
   - software
-  - uas
-  - uas/ground-control
-  - uas/guidance
   - type-sme
 ---
 # DK NEJET

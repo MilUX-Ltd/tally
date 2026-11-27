@@ -19,8 +19,8 @@ location-note: registered business address in the Norwegian register
 sources-verified: 2026-11-26
 tags:
   - defence
-  - vehicles
   - land
+  - vehicles
   - mechanical-engineering
   - through-life-support
   - size-medium

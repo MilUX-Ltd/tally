@@ -21,10 +21,10 @@ tags:
   - defence
   - consultancy
   - civil-engineering
-  - c2
+  - construction-infrastructure
+  - project-management
+  - systems-engineering
   - cyber
-  - land
-  - maritime
   - size-large
   - type-sme
 ---
@@ -34,7 +34,7 @@ tags:
 
 ## What they do
 
-AFRY offers consultancy and engineering to defence customers, covering command and control, land and naval systems, and IT and cyber security. In Norway it works on defence infrastructure for the Norwegian Defence Estates Agency.
+AFRY Norway provides independent advisory and engineering to the defence sector, including support to acquisition and development of technical systems, military logistics, base structures and secured facilities, and cyber and information security. Its Norwegian defence projects include project and construction management for the Ørland combat air base and strategic estate advisory for the Norwegian Defence Estates Agency.
 
 ## Links
 

@@ -19,6 +19,7 @@ tags:
   - land
   - vehicles
   - autonomy
+  - autonomy/uxv-control
   - robotics
   - type-sme
 ---

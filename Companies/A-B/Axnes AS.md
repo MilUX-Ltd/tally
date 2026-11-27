@@ -19,7 +19,9 @@ sources-verified: 2026-11-26
 tags:
   - defence
   - comms
+  - comms/secure-voice
   - avionics
+  - air
   - hardware
   - size-small
   - type-sme

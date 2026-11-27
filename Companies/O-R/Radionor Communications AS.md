@@ -21,6 +21,8 @@ tags:
   - ew
   - ew/eccm
   - rf
+  - sensors
+  - sensors/pnt
   - size-medium
   - type-sme
 ---

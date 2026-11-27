@@ -21,7 +21,9 @@ tags:
   - defence
   - autonomy
   - autonomy/swarming
+  - autonomy/uxv-control
   - robotics
+  - uas
   - software
   - size-medium
   - type-sme

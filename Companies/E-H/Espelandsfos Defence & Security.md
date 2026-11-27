@@ -27,7 +27,7 @@ tags:
 
 ## What they do
 
-Espelandsfos Defence & Security (EDS) is the defence and industry business area of the Espelandsfos family company, which also works in property and investment. Its site describes field testing of covers that reduce the thermal signature of vehicles and equipment in Norwegian mountain terrain. It has shown the covers at a Norwegian industry trade fair.
+Espelandsfos Defence & Security (EDS) is the defence and industry business area of the Espelandsfos family company in Bergen, which also works in property and investment. It develops covers that reduce the thermal signature of vehicles and equipment, and its site describes field tests of the covers in Norwegian mountain terrain. It showed the covers on the Norwegian pavilion at the DALO defence industry fair in Denmark.
 
 ## Products and solutions
 

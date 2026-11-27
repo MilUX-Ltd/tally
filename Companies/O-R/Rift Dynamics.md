@@ -20,7 +20,6 @@ tags:
   - defence
   - uas
   - uas/platform
-  - uas/fixed-wing
   - autonomy
   - autonomy/navigation
   - sensors

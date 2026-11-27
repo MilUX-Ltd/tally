@@ -19,13 +19,13 @@ location-note: registered business address in the Norwegian register
 sources-verified: 2026-11-26
 tags:
   - defence
-  - inspection-certification
   - test-equipment
-  - composites
+  - inspection-certification
+  - hardware
+  - software
   - aerospace
   - maritime
   - land
-  - sensors
   - size-micro
   - type-sme
 ---

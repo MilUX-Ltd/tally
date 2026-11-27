@@ -20,7 +20,7 @@ tags:
   - defence
   - training
   - electronics
-  - munitions
+  - hardware
   - size-micro
   - type-sme
 ---

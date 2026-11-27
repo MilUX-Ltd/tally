@@ -1,7 +1,7 @@
 ---
 type: organisation
 name: CCB Naval Services
-website: https://ccb.no/eng/
+website: https://ccb.no/eng/vare-selskaper/ccb-naval-services/
 hq: Ågotnes, Norway
 uk-region: Overseas
 country: Norway
@@ -21,6 +21,7 @@ tags:
   - maritime
   - through-life-support
   - services
+  - logistics
   - size-small
   - type-sme
 ---
@@ -30,7 +31,7 @@ tags:
 
 ## What they do
 
-CCB Naval Services is part of the CCB group at Ågotnes, close to the Haakonsvern naval base. It provides maintenance, operational support and life extension for naval vessels, under a long-term framework agreement with the Norwegian Defence Materiel Agency. It works alongside other maritime yards.
+CCB Naval Services is part of the CCB group at Ågotnes, close to Haakonsvern naval base. It provides maintenance, ship repair, modifications, operational combat service support and service life extension for Norwegian Navy vessels as through-life services. It also offers port services, logistics and supply from the Ågotnes base.
 
 ## Products and solutions
 
@@ -38,7 +39,7 @@ CCB Naval Services is part of the CCB group at Ågotnes, close to the Haakonsver
 
 ## Links
 
-- Website: https://ccb.no/eng/
+- Website: https://ccb.no/eng/vare-selskaper/ccb-naval-services/
 
 ## Sources
 

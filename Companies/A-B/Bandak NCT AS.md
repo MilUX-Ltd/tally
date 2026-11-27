@@ -30,7 +30,7 @@ tags:
 
 ## What they do
 
-Bandak NCT provides surface treatment of high-tech products, including degreasing, chemical and electrolytic processes, painting and masking, with laboratory testing. Its customers are in oil and gas, defence, aerospace and general industry.
+Bandak NCT provides surface treatment of high-tech products at Notodden, including degreasing, chemical and electrolytic processes, painting and masking, with laboratory testing. It applies military paint systems, and its processes are qualified to military specifications. Customers are in defence and aerospace, oil and gas and other industry.
 
 ## Links
 

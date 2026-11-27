@@ -22,10 +22,10 @@ tags:
   - ew/eccm
   - sensors
   - sensors/pnt
+  - rf
   - test-evaluation
   - test-equipment
   - research-development
-  - rf
   - size-micro
   - type-sme
 ---

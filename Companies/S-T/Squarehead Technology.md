@@ -26,8 +26,6 @@ tags:
   - counter-uas
   - counter-uas/detection
   - surveillance
-  - c2
-  - c2/situational-awareness
   - size-medium
   - type-sme
 ---

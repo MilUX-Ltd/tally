@@ -23,7 +23,6 @@ tags:
   - vehicles
   - plastics
   - manufacturing
-  - advanced-manufacturing
   - size-medium
   - type-sme
 ---

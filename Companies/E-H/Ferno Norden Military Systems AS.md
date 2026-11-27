@@ -17,9 +17,9 @@ location-note: registered business address in the Norwegian register
 sources-verified: 2026-11-26
 tags:
   - defence
-  - logistics
   - land
-  - distribution
+  - vehicles
+  - manufacturing
   - type-sme
 ---
 # Ferno Norden Military Systems AS

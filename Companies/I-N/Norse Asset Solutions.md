@@ -18,10 +18,12 @@ location-note: registered business address in the Norwegian register
 sources-verified: 2026-11-26
 tags:
   - defence
+  - inspection-certification
   - uas
   - autonomy
   - sensors
-  - inspection-certification
+  - detection
+  - integration
   - systems-engineering
   - size-micro
   - type-sme

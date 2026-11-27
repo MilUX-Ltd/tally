@@ -21,10 +21,11 @@ tags:
   - defence
   - c2
   - c2/situational-awareness
-  - cyber
   - data
   - data/visualisation
   - integration
+  - hardware
+  - software
   - size-medium
   - type-sme
 ---

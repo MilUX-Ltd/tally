@@ -20,14 +20,14 @@ sources-verified: 2026-11-26
 tags:
   - defence
   - maritime
+  - acoustic
   - sensors
   - sensors/acoustic-sonar
-  - acoustic
-  - radar
   - sensors/radar
+  - radar
+  - surveillance
   - test-equipment
   - training
-  - surveillance
   - size-medium
   - type-sme
 ---

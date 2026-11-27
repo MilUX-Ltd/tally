@@ -1,6 +1,6 @@
 ---
 type: organisation
-name: Comrod Communication AS
+name: Comrod
 website: https://www.comrod.com
 linkedin: https://www.linkedin.com/company/comrod-communication-asa
 hq: Tau, Norway
@@ -22,12 +22,13 @@ tags:
   - comms
   - rf
   - hardware
+  - electronics
   - maritime
   - land
   - size-medium
   - type-sme
 ---
-# Comrod Communication AS
+# Comrod
 
 > Designs and supplies antenna systems, masts and power equipment for tactical, naval and submarine use.
 
